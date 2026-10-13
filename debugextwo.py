@@ -45,3 +45,6 @@ print(f"Estimated water loss: {water_loss:.2f} liters")
 water_lose_calculation(user_input_weight, user_input_activity_level, user_input_temperature)  # Example usage
 
 
+
+
+
