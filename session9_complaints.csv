@@ -1,0 +1,37 @@
+request_id,category,branch,status,priority
+SR-9001,Leak,North,Open,2
+SR-9002,Billing,Central,Closed,3
+SR-9003,Meter,West,Assigned,4
+SR-9004,Connection,East, open ,5
+SR-9005,Leak,North,OPEN,1
+SR-9006,Billing,Central,Closed,2
+SR-9007,Meter,West,Open,3
+SR-9008,Connection,East,Closed,4
+SR-9009,Leak,North,Assigned,missing
+SR-9010,Billing,Central, open ,1
+SR-9011,Meter,West,OPEN,2
+SR-9012,Connection,East,Closed,3
+SR-9013,Leak,North,Open,4
+SR-9014,Billing,Central,Closed,5
+SR-9015,Meter,West,Assigned,1
+SR-9016,Connection,East, open ,2
+SR-9017,Leak,North,OPEN,3
+SR-9018,Billing,Central,Closed,missing
+SR-9019,Meter,West,Open,5
+SR-9020,Connection,East,Closed,1
+SR-9021,Leak,North,Assigned,2
+SR-9022,Billing,Central, open ,3
+SR-9023,Meter,West,OPEN,4
+SR-9024,Connection,East,Closed,5
+SR-9025,Leak,North,Open,1
+SR-9026,Billing,Central,Closed,2
+SR-9027,Meter,West,Assigned,missing
+SR-9028,Connection,East, open ,4
+SR-9029,Leak,North,OPEN,5
+SR-9030,Billing,Central,Closed,1
+SR-9031,Meter,West,Open,2
+SR-9032,Connection,East,Closed,3
+SR-9033,Leak,North,Assigned,4
+SR-9034,Billing,Central, open ,5
+SR-9035,Meter,West,OPEN,1
+SR-9036,Connection,East,Closed,missing
