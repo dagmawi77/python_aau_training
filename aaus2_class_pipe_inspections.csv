@@ -1,0 +1,181 @@
+segment_id,inspection_date,district,material,diameter_mm,condition,leak_detected,repair_priority,length_km,pressure_bar
+PS-6001,2026-02-02,Kirkos,PVC,100,Good,Yes,1,0.4,1.6
+PS-6002,2026-02-05,Lideta,Ductile Iron,150,Fair,Yes,2,0.57,1.77
+PS-6003,2026-02-08,Merkato,HDPE,200,Poor,No,3,0.74,1.94
+PS-6004,2026-02-11,Gullele,Steel,300,Critical,No,4,0.91,2.11
+PS-6005,2026-02-14,Bole,PVC,400,Good,No,5,1.08,2.28
+PS-6006,2026-02-17,Akaki,Ductile Iron,100,Fair,No,1,1.25,2.45
+PS-6007,2026-02-20,Kirkos,HDPE,150,Poor,No,2,1.42,2.62
+PS-6008,2026-02-23,Lideta,Steel,200,Critical,Yes,3,1.59,2.79
+PS-6009,2026-02-26,Merkato,PVC,300,Good,Yes,4,1.76,2.96
+PS-6010,2026-03-01,Gullele,Ductile Iron,400,Fair,No,5,1.93,3.13
+PS-6011,2026-03-04,Bole,HDPE,100,Poor,No,1,2.1,3.3
+PS-6012,2026-03-07,Akaki,Steel,150,Critical,No,2,2.27,3.47
+PS-6013,2026-03-10,Kirkos,PVC,200,Good,No,3,0.4,3.64
+PS-6014,2026-03-13,Lideta,Ductile Iron,300,Fair,No,4,0.57,3.81
+PS-6015,2026-03-16,Merkato,HDPE,400,Poor,Yes,5,0.74,3.98
+PS-6016,2026-03-19,Gullele,Steel,100,Critical,Yes,1,0.91,4.15
+PS-6017,2026-03-22,Bole,PVC,150,Good,No,2,1.08,4.32
+PS-6018,2026-03-25,Akaki,Ductile Iron,200,Fair,No,3,1.25,4.49
+PS-6019,2026-03-28,Kirkos,HDPE,300,Poor,No,4,1.42,1.6
+PS-6020,2026-03-31,Lideta,Steel,400,Critical,No,5,1.59,1.77
+PS-6021,2026-04-03,Merkato,PVC,100,Good,No,1,1.76,1.94
+PS-6022,2026-04-06,Gullele,Ductile Iron,150,Fair,Yes,2,1.93,2.11
+PS-6023,2026-04-09,Bole,HDPE,200,Poor,Yes,3,2.1,2.28
+PS-6024,2026-04-12,Akaki,Steel,300,Critical,No,4,2.27,2.45
+PS-6025,2026-04-15,Kirkos,PVC,400,Good,No,5,0.4,2.62
+PS-6026,2026-04-18,Lideta,Ductile Iron,100,Fair,No,1,0.57,2.79
+PS-6027,2026-04-21,Merkato,HDPE,150,Poor,No,2,0.74,2.96
+PS-6028,2026-04-24,Gullele,Steel,200,Critical,No,3,0.91,3.13
+PS-6029,2026-04-27,Bole,PVC,300,Good,Yes,4,1.08,3.3
+PS-6030,2026-04-30,Akaki,Ductile Iron,400,Fair,Yes,5,1.25,3.47
+PS-6031,2026-05-03,Kirkos,HDPE,100,Poor,No,1,1.42,3.64
+PS-6032,2026-05-06,Lideta,Steel,150,Critical,No,2,1.59,3.81
+PS-6033,2026-05-09,Merkato,PVC,200,Good,No,3,1.76,3.98
+PS-6034,2026-05-12,Gullele,Ductile Iron,300,Fair,No,4,1.93,4.15
+PS-6035,2026-05-15,Bole,HDPE,400,Poor,No,5,2.1,4.32
+PS-6036,2026-05-18,Akaki,Steel,100,Critical,Yes,1,2.27,4.49
+PS-6037,2026-05-21,Kirkos,PVC,150,Good,Yes,2,0.4,1.6
+PS-6038,2026-05-24,Lideta,Ductile Iron,200,Fair,No,3,0.57,1.77
+PS-6039,2026-05-27,Merkato,HDPE,300,Poor,No,4,0.74,1.94
+PS-6040,2026-05-30,Gullele,Steel,400,Critical,No,5,0.91,2.11
+PS-6041,2026-06-02,Bole,PVC,100,Good,No,1,1.08,2.28
+PS-6042,2026-06-05,Akaki,Ductile Iron,150,Fair,No,2,1.25,2.45
+PS-6043,2026-06-08,Kirkos,HDPE,200,Poor,Yes,3,1.42,2.62
+PS-6044,2026-06-11,Lideta,Steel,300,Critical,Yes,4,1.59,2.79
+PS-6045,2026-06-14,Merkato,PVC,400,Good,No,5,1.76,2.96
+PS-6046,2026-06-17,Gullele,Ductile Iron,100,Fair,No,1,1.93,3.13
+PS-6047,2026-06-20,Bole,HDPE,150,Poor,No,2,2.1,3.3
+PS-6048,2026-06-23,Akaki,Steel,200,Critical,No,3,2.27,3.47
+PS-6049,2026-06-26,Kirkos,PVC,300,Good,No,4,0.4,3.64
+PS-6050,2026-06-29,Lideta,Ductile Iron,400,Fair,Yes,5,0.57,3.81
+PS-6051,2026-07-02,Merkato,HDPE,100,Poor,Yes,1,0.74,3.98
+PS-6052,2026-07-05,Gullele,Steel,150,Critical,No,2,0.91,4.15
+PS-6053,2026-07-08,Bole,PVC,200,Good,No,3,1.08,4.32
+PS-6054,2026-07-11,Akaki,Ductile Iron,300,Fair,No,4,1.25,4.49
+PS-6055,2026-07-14,Kirkos,HDPE,400,Poor,No,5,1.42,1.6
+PS-6056,2026-07-17,Lideta,Steel,100,Critical,No,1,1.59,1.77
+PS-6057,2026-07-20,Merkato,PVC,150,Good,Yes,2,1.76,1.94
+PS-6058,2026-07-23,Gullele,Ductile Iron,200,Fair,Yes,3,1.93,2.11
+PS-6059,2026-07-26,Bole,HDPE,300,Poor,No,4,2.1,2.28
+PS-6060,2026-07-29,Akaki,Steel,400,Critical,No,5,2.27,2.45
+PS-6061,2026-08-01,Kirkos,PVC,100,Good,No,1,0.4,2.62
+PS-6062,2026-08-04,Lideta,Ductile Iron,150,Fair,No,2,0.57,2.79
+PS-6063,2026-08-07,Merkato,HDPE,200,Poor,No,3,0.74,2.96
+PS-6064,2026-08-10,Gullele,Steel,300,Critical,Yes,4,0.91,3.13
+PS-6065,2026-08-13,Bole,PVC,400,Good,Yes,5,1.08,3.3
+PS-6066,2026-08-16,Akaki,Ductile Iron,100,Fair,No,1,1.25,3.47
+PS-6067,2026-08-19,Kirkos,HDPE,150,Poor,No,2,1.42,3.64
+PS-6068,2026-08-22,Lideta,Steel,200,Critical,No,3,1.59,3.81
+PS-6069,2026-08-25,Merkato,PVC,300,Good,No,4,1.76,3.98
+PS-6070,2026-08-28,Gullele,Ductile Iron,400,Fair,No,5,1.93,4.15
+PS-6071,2026-08-31,Bole,HDPE,100,Poor,Yes,1,2.1,4.32
+PS-6072,2026-09-03,Akaki,Steel,150,Critical,Yes,2,2.27,4.49
+PS-6073,2026-09-06,Kirkos,PVC,200,Good,No,3,0.4,1.6
+PS-6074,2026-09-09,Lideta,Ductile Iron,300,Fair,No,4,0.57,1.77
+PS-6075,2026-09-12,Merkato,HDPE,400,Poor,No,5,0.74,1.94
+PS-6076,2026-09-15,Gullele,Steel,100,Critical,No,1,0.91,2.11
+PS-6077,2026-09-18,Bole,PVC,150,Good,No,2,1.08,2.28
+PS-6078,2026-09-21,Akaki,Ductile Iron,200,Fair,Yes,3,1.25,2.45
+PS-6079,2026-09-24,Kirkos,HDPE,300,Poor,Yes,4,1.42,2.62
+PS-6080,2026-09-27,Lideta,Steel,400,Critical,No,5,1.59,2.79
+PS-6081,2026-09-30,Merkato,PVC,100,Good,No,1,1.76,2.96
+PS-6082,2026-10-03,Gullele,Ductile Iron,150,Fair,No,2,1.93,3.13
+PS-6083,2026-10-06,Bole,HDPE,200,Poor,No,3,2.1,3.3
+PS-6084,2026-10-09,Akaki,Steel,300,Critical,No,4,2.27,3.47
+PS-6085,2026-02-04,Kirkos,PVC,400,Good,Yes,5,0.4,3.64
+PS-6086,2026-02-07,Lideta,Ductile Iron,100,Fair,Yes,1,0.57,3.81
+PS-6087,2026-02-10,Merkato,HDPE,150,Poor,No,2,0.74,3.98
+PS-6088,2026-02-13,Gullele,Steel,200,Critical,No,3,0.91,4.15
+PS-6089,2026-02-16,Bole,PVC,300,Good,No,4,1.08,4.32
+PS-6090,2026-02-19,Akaki,Ductile Iron,400,Fair,No,5,1.25,4.49
+PS-6091,2026-02-22,Kirkos,HDPE,100,Poor,No,1,1.42,1.6
+PS-6092,2026-02-25,Lideta,Steel,150,Critical,Yes,2,1.59,1.77
+PS-6093,2026-02-28,Merkato,PVC,200,Good,Yes,3,1.76,1.94
+PS-6094,2026-03-03,Gullele,Ductile Iron,300,Fair,No,4,1.93,2.11
+PS-6095,2026-03-06,Bole,HDPE,400,Poor,No,5,2.1,2.28
+PS-6096,2026-03-09,Akaki,Steel,100,Critical,No,1,2.27,2.45
+PS-6097,2026-03-12,Kirkos,PVC,150,Good,No,2,0.4,2.62
+PS-6098,2026-03-15,Lideta,Ductile Iron,200,Fair,No,3,0.57,2.79
+PS-6099,2026-03-18,Merkato,HDPE,300,Poor,Yes,4,0.74,2.96
+PS-6100,2026-03-21,Gullele,Steel,400,Critical,Yes,5,0.91,3.13
+PS-6101,2026-03-24,Bole,PVC,100,Good,No,1,1.08,3.3
+PS-6102,2026-03-27,Akaki,Ductile Iron,150,Fair,No,2,1.25,3.47
+PS-6103,2026-03-30,Kirkos,HDPE,200,Poor,No,3,1.42,3.64
+PS-6104,2026-04-02,Lideta,Steel,300,Critical,No,4,1.59,3.81
+PS-6105,2026-04-05,Merkato,PVC,400,Good,No,5,1.76,3.98
+PS-6106,2026-04-08,Gullele,Ductile Iron,100,Fair,Yes,1,1.93,4.15
+PS-6107,2026-04-11,Bole,HDPE,150,Poor,Yes,2,2.1,4.32
+PS-6108,2026-04-14,Akaki,Steel,200,Critical,No,3,2.27,4.49
+PS-6109,2026-04-17,Kirkos,PVC,300,Good,No,4,0.4,1.6
+PS-6110,2026-04-20,Lideta,Ductile Iron,400,Fair,No,5,0.57,1.77
+PS-6111,2026-04-23,Merkato,HDPE,100,Poor,No,1,0.74,1.94
+PS-6112,2026-04-26,Gullele,Steel,150,Critical,No,2,0.91,2.11
+PS-6113,2026-04-29,Bole,PVC,200,Good,Yes,3,1.08,2.28
+PS-6114,2026-05-02,Akaki,Ductile Iron,300,Fair,Yes,4,1.25,2.45
+PS-6115,2026-05-05,Kirkos,HDPE,400,Poor,No,5,1.42,2.62
+PS-6116,2026-05-08,Lideta,Steel,100,Critical,No,1,1.59,2.79
+PS-6117,2026-05-11,Merkato,PVC,150,Good,No,2,1.76,2.96
+PS-6118,2026-05-14,Gullele,Ductile Iron,200,Fair,No,3,1.93,3.13
+PS-6119,2026-05-17,Bole,HDPE,300,Poor,No,4,2.1,3.3
+PS-6120,2026-05-20,Akaki,Steel,400,Critical,Yes,5,2.27,3.47
+PS-6121,2026-05-23,Kirkos,PVC,100,Good,Yes,1,0.4,3.64
+PS-6122,2026-05-26,Lideta,Ductile Iron,150,Fair,No,2,0.57,3.81
+PS-6123,2026-05-29,Merkato,HDPE,200,Poor,No,3,0.74,3.98
+PS-6124,2026-06-01,Gullele,Steel,300,Critical,No,4,0.91,4.15
+PS-6125,2026-06-04,Bole,PVC,400,Good,No,5,1.08,4.32
+PS-6126,2026-06-07,Akaki,Ductile Iron,100,Fair,No,1,1.25,4.49
+PS-6127,2026-06-10,Kirkos,HDPE,150,Poor,Yes,2,1.42,1.6
+PS-6128,2026-06-13,Lideta,Steel,200,Critical,Yes,3,1.59,1.77
+PS-6129,2026-06-16,Merkato,PVC,300,Good,No,4,1.76,1.94
+PS-6130,2026-06-19,Gullele,Ductile Iron,400,Fair,No,5,1.93,2.11
+PS-6131,2026-06-22,Bole,HDPE,100,Poor,No,1,2.1,2.28
+PS-6132,2026-06-25,Akaki,Steel,150,Critical,No,2,2.27,2.45
+PS-6133,2026-06-28,Kirkos,PVC,200,Good,No,3,0.4,2.62
+PS-6134,2026-07-01,Lideta,Ductile Iron,300,Fair,Yes,4,0.57,2.79
+PS-6135,2026-07-04,Merkato,HDPE,400,Poor,Yes,5,0.74,2.96
+PS-6136,2026-07-07,Gullele,Steel,100,Critical,No,1,0.91,3.13
+PS-6137,2026-07-10,Bole,PVC,150,Good,No,2,1.08,3.3
+PS-6138,2026-07-13,Akaki,Ductile Iron,200,Fair,No,3,1.25,3.47
+PS-6139,2026-07-16,Kirkos,HDPE,300,Poor,No,4,1.42,3.64
+PS-6140,2026-07-19,Lideta,Steel,400,Critical,No,5,1.59,3.81
+PS-6141,2026-07-22,Merkato,PVC,100,Good,Yes,1,1.76,3.98
+PS-6142,2026-07-25,Gullele,Ductile Iron,150,Fair,Yes,2,1.93,4.15
+PS-6143,2026-07-28,Bole,HDPE,200,Poor,No,3,2.1,4.32
+PS-6144,2026-07-31,Akaki,Steel,300,Critical,No,4,2.27,4.49
+PS-6145,2026-08-03,Kirkos,PVC,400,Good,No,5,0.4,1.6
+PS-6146,2026-08-06,Lideta,Ductile Iron,100,Fair,No,1,0.57,1.77
+PS-6147,2026-08-09,Merkato,HDPE,150,Poor,No,2,0.74,1.94
+PS-6148,2026-08-12,Gullele,Steel,200,Critical,Yes,3,0.91,2.11
+PS-6149,2026-08-15,Bole,PVC,300,Good,Yes,4,1.08,2.28
+PS-6150,2026-08-18,Akaki,Ductile Iron,400,Fair,No,5,1.25,2.45
+PS-6151,2026-08-21,Kirkos,HDPE,100,Poor,No,1,1.42,2.62
+PS-6152,2026-08-24,Lideta,Steel,150,Critical,No,2,1.59,2.79
+PS-6153,2026-08-27,Merkato,PVC,200,Good,No,3,1.76,2.96
+PS-6154,2026-08-30,Gullele,Ductile Iron,300,Fair,No,4,1.93,3.13
+PS-6155,2026-09-02,Bole,HDPE,400,Poor,Yes,5,2.1,3.3
+PS-6156,2026-09-05,Akaki,Steel,100,Critical,Yes,1,2.27,3.47
+PS-6157,2026-09-08,Kirkos,PVC,150,Good,No,2,0.4,3.64
+PS-6158,2026-09-11,Lideta,Ductile Iron,200,Fair,No,3,0.57,3.81
+PS-6159,2026-09-14,Merkato,HDPE,300,Poor,No,4,0.74,3.98
+PS-6160,2026-09-17,Gullele,Steel,400,Critical,No,5,0.91,4.15
+PS-6161,2026-09-20,Bole,PVC,100,Good,No,1,1.08,4.32
+PS-6162,2026-09-23,Akaki,Ductile Iron,150,Fair,Yes,2,1.25,4.49
+PS-6163,2026-09-26,Kirkos,HDPE,200,Poor,Yes,3,1.42,1.6
+PS-6164,2026-09-29,Lideta,Steel,300,Critical,No,4,1.59,1.77
+PS-6165,2026-10-02,Merkato,PVC,400,Good,No,5,1.76,1.94
+PS-6166,2026-10-05,Gullele,Ductile Iron,100,Fair,No,1,1.93,2.11
+PS-6167,2026-10-08,Bole,HDPE,150,Poor,No,2,2.1,2.28
+PS-6168,2026-02-03,Akaki,Steel,200,Critical,No,3,2.27,2.45
+PS-6169,2026-02-06,Kirkos,PVC,300,Good,Yes,4,0.4,2.62
+PS-6170,2026-02-09,Lideta,Ductile Iron,400,Fair,Yes,5,0.57,2.79
+PS-6171,2026-02-12,Merkato,HDPE,100,Poor,No,1,0.74,2.96
+PS-6172,2026-02-15,Gullele,Steel,150,Critical,No,2,0.91,3.13
+PS-6173,2026-02-18,Bole,PVC,200,Good,No,3,1.08,3.3
+PS-6174,2026-02-21,Akaki,Ductile Iron,300,Fair,No,4,1.25,3.47
+PS-6175,2026-02-24,Kirkos,HDPE,400,Poor,No,5,1.42,3.64
+PS-6176,2026-02-27,Lideta,Steel,100,Critical,Yes,1,1.59,3.81
+PS-6177,2026-03-02,Merkato,PVC,150,Good,Yes,2,1.76,3.98
+PS-6178,2026-03-05,Gullele,Ductile Iron,200,Fair,No,3,1.93,4.15
+PS-6179,2026-03-08,Bole,HDPE,300,Poor,No,4,2.1,4.32
+PS-6180,2026-03-11,Akaki,Steel,400,Critical,No,5,2.27,4.49

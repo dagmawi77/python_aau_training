@@ -1,0 +1,241 @@
+work_order_id,branch,asset_type,work_type,risk_grade,status,opened_date,due_date,days_open,estimated_cost_etb,crew
+WO-23001,Bole,Pipe,Leak Repair,Low,Open,2026-01-06,2026-01-16,1,3200,Civil-A
+WO-23002,Akaki,Pipe,Leak Repair,Medium,Closed,2026-01-09,2026-01-20,8,5211,Civil-B
+WO-23003,Kirkos,Pipe,Leak Repair,High,Assigned,2026-01-12,2026-01-24,15,7222,Mechanical
+WO-23004,Lideta,Pump,Leak Repair,Critical,Open,2026-01-15,2026-01-28,22,9233,Rapid
+WO-23005,Merkato,Pump,Preventive,Low,In Progress,2026-01-18,2026-02-01,29,4044,Civil-A
+WO-23006,Gullele,Pump,Preventive,Medium,Closed,2026-01-21,2026-02-05,36,6055,Civil-B
+WO-23007,Bole,Valve,Preventive,Critical,Open,2026-01-24,2026-02-09,7,9866,Mechanical
+WO-23008,Akaki,Valve,Preventive,Low,Closed,2026-01-27,2026-02-13,14,4677,Rapid
+WO-23009,Kirkos,Valve,Inspection,Medium,Assigned,2026-01-30,2026-02-17,21,6688,Civil-A
+WO-23010,Lideta,Reservoir,Inspection,High,Open,2026-02-02,2026-02-12,28,8699,Civil-B
+WO-23011,Merkato,Reservoir,Inspection,Critical,Closed,2026-02-05,2026-02-16,35,10710,Mechanical
+WO-23012,Gullele,Reservoir,Inspection,Low,Open,2026-02-08,2026-02-20,6,5521,Rapid
+WO-23013,Bole,Pipe,Replacement,High,Closed,2026-02-11,2026-02-24,13,9332,Civil-A
+WO-23014,Akaki,Pipe,Replacement,Critical,Assigned,2026-02-14,2026-02-28,20,11343,Civil-B
+WO-23015,Kirkos,Pipe,Replacement,Low,Open,2026-02-17,2026-03-04,27,6154,Mechanical
+WO-23016,Lideta,Pump,Replacement,Medium,In Progress,2026-02-20,2026-03-08,34,8165,Rapid
+WO-23017,Merkato,Pump,Leak Repair,High,Closed,2026-02-23,2026-03-12,5,10176,Civil-A
+WO-23018,Gullele,Pump,Leak Repair,Critical,Open,2026-02-26,2026-03-16,12,12187,Civil-B
+WO-23019,Bole,Valve,Leak Repair,Medium,Closed,2026-03-01,2026-03-11,19,8798,Mechanical
+WO-23020,Akaki,Valve,Leak Repair,High,Assigned,2026-03-04,2026-03-15,26,10809,Rapid
+WO-23021,Kirkos,Valve,Preventive,Critical,In Progress,2026-03-07,2026-03-19,33,12820,Civil-A
+WO-23022,Lideta,Reservoir,Preventive,Low,Closed,2026-03-10,2026-03-23,4,7631,Civil-B
+WO-23023,Merkato,Reservoir,Preventive,Medium,Open,2026-03-13,2026-03-27,11,9642,Mechanical
+WO-23024,Gullele,Reservoir,Preventive,High,Closed,2026-03-16,2026-03-31,18,11653,Rapid
+WO-23025,Bole,Pipe,Inspection,Low,Assigned,2026-03-19,2026-04-04,25,8264,Civil-A
+WO-23026,Akaki,Pipe,Inspection,Medium,Open,2026-03-22,2026-04-08,32,10275,Civil-B
+WO-23027,Kirkos,Pipe,Inspection,High,In Progress,2026-03-25,2026-04-12,3,12286,Mechanical
+WO-23028,Lideta,Pump,Inspection,Critical,Closed,2026-03-28,2026-04-07,10,14297,Rapid
+WO-23029,Merkato,Pump,Replacement,Low,Open,2026-03-31,2026-04-11,17,9108,Civil-A
+WO-23030,Gullele,Pump,Replacement,Medium,Closed,2026-04-03,2026-04-15,24,11119,Civil-B
+WO-23031,Bole,Valve,Replacement,Critical,Open,2026-04-06,2026-04-19,31,14930,Mechanical
+WO-23032,Akaki,Valve,Replacement,Low,In Progress,2026-04-09,2026-04-23,2,9741,Rapid
+WO-23033,Kirkos,Valve,Leak Repair,Medium,Closed,2026-04-12,2026-04-27,9,11752,Civil-A
+WO-23034,Lideta,Reservoir,Leak Repair,High,Open,2026-04-15,2026-05-01,16,13763,Civil-B
+WO-23035,Merkato,Reservoir,Leak Repair,Critical,Closed,2026-04-18,2026-05-05,23,15774,Mechanical
+WO-23036,Gullele,Reservoir,Leak Repair,Low,Assigned,2026-04-21,2026-05-09,30,10585,Rapid
+WO-23037,Bole,Pipe,Preventive,High,Open,2026-04-24,2026-05-04,1,14396,Civil-A
+WO-23038,Akaki,Pipe,Preventive,Critical,In Progress,2026-04-27,2026-05-08,8,16407,Civil-B
+WO-23039,Kirkos,Pipe,Preventive,Low,Closed,2026-04-30,2026-05-12,15,11218,Mechanical
+WO-23040,Lideta,Pump,Preventive,Medium,Open,2026-05-03,2026-05-16,22,13229,Rapid
+WO-23041,Merkato,Pump,Inspection,High,Assigned,2026-05-06,2026-05-20,29,15240,Civil-A
+WO-23042,Gullele,Pump,Inspection,Critical,Open,2026-05-09,2026-05-24,36,17251,Civil-B
+WO-23043,Bole,Valve,Inspection,Medium,In Progress,2026-05-12,2026-05-28,7,13862,Mechanical
+WO-23044,Akaki,Valve,Inspection,High,Closed,2026-05-15,2026-06-01,14,15873,Rapid
+WO-23045,Kirkos,Valve,Replacement,Critical,Open,2026-05-18,2026-06-05,21,17884,Civil-A
+WO-23046,Lideta,Reservoir,Replacement,Low,Closed,2026-05-21,2026-05-31,28,12695,Civil-B
+WO-23047,Merkato,Reservoir,Replacement,Medium,Assigned,2026-05-24,2026-06-04,35,14706,Mechanical
+WO-23048,Gullele,Reservoir,Replacement,High,Open,2026-05-27,2026-06-08,6,16717,Rapid
+WO-23049,Bole,Pipe,Leak Repair,Low,In Progress,2026-05-30,2026-06-12,13,13328,Civil-A
+WO-23050,Akaki,Pipe,Leak Repair,Medium,Closed,2026-06-02,2026-06-16,20,15339,Civil-B
+WO-23051,Kirkos,Pipe,Leak Repair,High,Closed,2026-06-05,2026-06-20,27,17350,Mechanical
+WO-23052,Lideta,Pump,Leak Repair,Critical,Assigned,2026-06-08,2026-06-24,34,19361,Rapid
+WO-23053,Merkato,Pump,Preventive,Low,Open,2026-06-11,2026-06-28,5,14172,Civil-A
+WO-23054,Gullele,Pump,Preventive,Medium,In Progress,2026-06-14,2026-07-02,12,16183,Civil-B
+WO-23055,Bole,Valve,Preventive,Critical,Closed,2026-06-17,2026-06-27,19,19994,Mechanical
+WO-23056,Akaki,Valve,Preventive,Low,Open,2026-06-20,2026-07-01,26,14805,Rapid
+WO-23057,Kirkos,Valve,Inspection,Medium,Closed,2026-06-23,2026-07-05,33,16816,Civil-A
+WO-23058,Lideta,Reservoir,Inspection,High,Assigned,2026-06-26,2026-07-09,4,18827,Civil-B
+WO-23059,Merkato,Reservoir,Inspection,Critical,Open,2026-06-29,2026-07-13,11,20838,Mechanical
+WO-23060,Gullele,Reservoir,Inspection,Low,In Progress,2026-07-02,2026-07-17,18,15649,Rapid
+WO-23061,Bole,Pipe,Replacement,High,Open,2026-07-05,2026-07-21,25,19460,Civil-A
+WO-23062,Akaki,Pipe,Replacement,Critical,Closed,2026-07-08,2026-07-25,32,21471,Civil-B
+WO-23063,Kirkos,Pipe,Replacement,Low,Assigned,2026-07-11,2026-07-29,3,16282,Mechanical
+WO-23064,Lideta,Pump,Replacement,Medium,Open,2026-07-14,2026-07-24,10,18293,Rapid
+WO-23065,Merkato,Pump,Leak Repair,High,In Progress,2026-07-17,2026-07-28,17,20304,Civil-A
+WO-23066,Gullele,Pump,Leak Repair,Critical,Closed,2026-07-20,2026-08-01,24,22315,Civil-B
+WO-23067,Bole,Valve,Leak Repair,Medium,Open,2026-07-23,2026-08-05,31,18926,Mechanical
+WO-23068,Akaki,Valve,Leak Repair,High,Closed,2026-07-26,2026-08-09,2,20937,Rapid
+WO-23069,Kirkos,Valve,Preventive,Critical,Assigned,2026-07-29,2026-08-13,9,22948,Civil-A
+WO-23070,Lideta,Reservoir,Preventive,Low,Open,2026-08-01,2026-08-17,16,17759,Civil-B
+WO-23071,Merkato,Reservoir,Preventive,Medium,Closed,2026-08-04,2026-08-21,23,19770,Mechanical
+WO-23072,Gullele,Reservoir,Preventive,High,Open,2026-08-07,2026-08-25,30,21781,Rapid
+WO-23073,Bole,Pipe,Inspection,Low,Closed,2026-08-10,2026-08-20,1,18392,Civil-A
+WO-23074,Akaki,Pipe,Inspection,Medium,Assigned,2026-08-13,2026-08-24,8,20403,Civil-B
+WO-23075,Kirkos,Pipe,Inspection,High,Open,2026-08-16,2026-08-28,15,22414,Mechanical
+WO-23076,Lideta,Pump,Inspection,Critical,In Progress,2026-08-19,2026-09-01,22,24425,Rapid
+WO-23077,Merkato,Pump,Replacement,Low,Closed,2026-08-22,2026-09-05,29,3236,Civil-A
+WO-23078,Gullele,Pump,Replacement,Medium,Open,2026-08-25,2026-09-09,36,5247,Civil-B
+WO-23079,Bole,Valve,Replacement,Critical,Closed,2026-08-28,2026-09-13,7,9058,Mechanical
+WO-23080,Akaki,Valve,Replacement,Low,Assigned,2026-08-31,2026-09-17,14,3869,Rapid
+WO-23081,Kirkos,Valve,Leak Repair,Medium,In Progress,2026-09-03,2026-09-21,21,5880,Civil-A
+WO-23082,Lideta,Reservoir,Leak Repair,High,Closed,2026-09-06,2026-09-16,28,7891,Civil-B
+WO-23083,Merkato,Reservoir,Leak Repair,Critical,Open,2026-09-09,2026-09-20,35,9902,Mechanical
+WO-23084,Gullele,Reservoir,Leak Repair,Low,Closed,2026-09-12,2026-09-24,6,4713,Rapid
+WO-23085,Bole,Pipe,Preventive,High,Assigned,2026-09-15,2026-09-28,13,8524,Civil-A
+WO-23086,Akaki,Pipe,Preventive,Critical,Open,2026-09-18,2026-10-02,20,10535,Civil-B
+WO-23087,Kirkos,Pipe,Preventive,Low,In Progress,2026-09-21,2026-10-06,27,5346,Mechanical
+WO-23088,Lideta,Pump,Preventive,Medium,Closed,2026-09-24,2026-10-10,34,7357,Rapid
+WO-23089,Merkato,Pump,Inspection,High,Open,2026-09-27,2026-10-14,5,9368,Civil-A
+WO-23090,Gullele,Pump,Inspection,Critical,Closed,2026-09-30,2026-10-18,12,11379,Civil-B
+WO-23091,Bole,Valve,Inspection,Medium,Open,2026-10-03,2026-10-13,19,7990,Mechanical
+WO-23092,Akaki,Valve,Inspection,High,In Progress,2026-10-06,2026-10-17,26,10001,Rapid
+WO-23093,Kirkos,Valve,Replacement,Critical,Closed,2026-01-08,2026-01-20,33,12012,Civil-A
+WO-23094,Lideta,Reservoir,Replacement,Low,Open,2026-01-11,2026-01-24,4,6823,Civil-B
+WO-23095,Merkato,Reservoir,Replacement,Medium,Closed,2026-01-14,2026-01-28,11,8834,Mechanical
+WO-23096,Gullele,Reservoir,Replacement,High,Assigned,2026-01-17,2026-02-01,18,10845,Rapid
+WO-23097,Bole,Pipe,Leak Repair,Low,Open,2026-01-20,2026-02-05,25,7456,Civil-A
+WO-23098,Akaki,Pipe,Leak Repair,Medium,In Progress,2026-01-23,2026-02-09,32,9467,Civil-B
+WO-23099,Kirkos,Pipe,Leak Repair,High,Closed,2026-01-26,2026-02-13,3,11478,Mechanical
+WO-23100,Lideta,Pump,Leak Repair,Critical,Open,2026-01-29,2026-02-08,10,13489,Rapid
+WO-23101,Merkato,Pump,Preventive,Low,Assigned,2026-02-01,2026-02-12,17,8300,Civil-A
+WO-23102,Gullele,Pump,Preventive,Medium,Open,2026-02-04,2026-02-16,24,10311,Civil-B
+WO-23103,Bole,Valve,Preventive,Critical,In Progress,2026-02-07,2026-02-20,31,14122,Mechanical
+WO-23104,Akaki,Valve,Preventive,Low,Closed,2026-02-10,2026-02-24,2,8933,Rapid
+WO-23105,Kirkos,Valve,Inspection,Medium,Open,2026-02-13,2026-02-28,9,10944,Civil-A
+WO-23106,Lideta,Reservoir,Inspection,High,Closed,2026-02-16,2026-03-04,16,12955,Civil-B
+WO-23107,Merkato,Reservoir,Inspection,Critical,Assigned,2026-02-19,2026-03-08,23,14966,Mechanical
+WO-23108,Gullele,Reservoir,Inspection,Low,Open,2026-02-22,2026-03-12,30,9777,Rapid
+WO-23109,Bole,Pipe,Replacement,High,In Progress,2026-02-25,2026-03-07,1,13588,Civil-A
+WO-23110,Akaki,Pipe,Replacement,Critical,Closed,2026-02-28,2026-03-11,8,15599,Civil-B
+WO-23111,Kirkos,Pipe,Replacement,Low,Closed,2026-03-03,2026-03-15,15,10410,Mechanical
+WO-23112,Lideta,Pump,Replacement,Medium,Assigned,2026-03-06,2026-03-19,22,12421,Rapid
+WO-23113,Merkato,Pump,Leak Repair,High,Open,2026-03-09,2026-03-23,29,14432,Civil-A
+WO-23114,Gullele,Pump,Leak Repair,Critical,In Progress,2026-03-12,2026-03-27,36,16443,Civil-B
+WO-23115,Bole,Valve,Leak Repair,Medium,Closed,2026-03-15,2026-03-31,7,13054,Mechanical
+WO-23116,Akaki,Valve,Leak Repair,High,Open,2026-03-18,2026-04-04,14,15065,Rapid
+WO-23117,Kirkos,Valve,Preventive,Critical,Closed,2026-03-21,2026-04-08,21,17076,Civil-A
+WO-23118,Lideta,Reservoir,Preventive,Low,Assigned,2026-03-24,2026-04-03,28,11887,Civil-B
+WO-23119,Merkato,Reservoir,Preventive,Medium,Open,2026-03-27,2026-04-07,35,13898,Mechanical
+WO-23120,Gullele,Reservoir,Preventive,High,In Progress,2026-03-30,2026-04-11,6,15909,Rapid
+WO-23121,Bole,Pipe,Inspection,Low,Open,2026-04-02,2026-04-15,13,12520,Civil-A
+WO-23122,Akaki,Pipe,Inspection,Medium,Closed,2026-04-05,2026-04-19,20,14531,Civil-B
+WO-23123,Kirkos,Pipe,Inspection,High,Assigned,2026-04-08,2026-04-23,27,16542,Mechanical
+WO-23124,Lideta,Pump,Inspection,Critical,Open,2026-04-11,2026-04-27,34,18553,Rapid
+WO-23125,Merkato,Pump,Replacement,Low,In Progress,2026-04-14,2026-05-01,5,13364,Civil-A
+WO-23126,Gullele,Pump,Replacement,Medium,Closed,2026-04-17,2026-05-05,12,15375,Civil-B
+WO-23127,Bole,Valve,Replacement,Critical,Open,2026-04-20,2026-04-30,19,19186,Mechanical
+WO-23128,Akaki,Valve,Replacement,Low,Closed,2026-04-23,2026-05-04,26,13997,Rapid
+WO-23129,Kirkos,Valve,Leak Repair,Medium,Assigned,2026-04-26,2026-05-08,33,16008,Civil-A
+WO-23130,Lideta,Reservoir,Leak Repair,High,Open,2026-04-29,2026-05-12,4,18019,Civil-B
+WO-23131,Merkato,Reservoir,Leak Repair,Critical,Closed,2026-05-02,2026-05-16,11,20030,Mechanical
+WO-23132,Gullele,Reservoir,Leak Repair,Low,Open,2026-05-05,2026-05-20,18,14841,Rapid
+WO-23133,Bole,Pipe,Preventive,High,Closed,2026-05-08,2026-05-24,25,18652,Civil-A
+WO-23134,Akaki,Pipe,Preventive,Critical,Assigned,2026-05-11,2026-05-28,32,20663,Civil-B
+WO-23135,Kirkos,Pipe,Preventive,Low,Open,2026-05-14,2026-06-01,3,15474,Mechanical
+WO-23136,Lideta,Pump,Preventive,Medium,In Progress,2026-05-17,2026-05-27,10,17485,Rapid
+WO-23137,Merkato,Pump,Inspection,High,Closed,2026-05-20,2026-05-31,17,19496,Civil-A
+WO-23138,Gullele,Pump,Inspection,Critical,Open,2026-05-23,2026-06-04,24,21507,Civil-B
+WO-23139,Bole,Valve,Inspection,Medium,Closed,2026-05-26,2026-06-08,31,18118,Mechanical
+WO-23140,Akaki,Valve,Inspection,High,Assigned,2026-05-29,2026-06-12,2,20129,Rapid
+WO-23141,Kirkos,Valve,Replacement,Critical,In Progress,2026-06-01,2026-06-16,9,22140,Civil-A
+WO-23142,Lideta,Reservoir,Replacement,Low,Closed,2026-06-04,2026-06-20,16,16951,Civil-B
+WO-23143,Merkato,Reservoir,Replacement,Medium,Open,2026-06-07,2026-06-24,23,18962,Mechanical
+WO-23144,Gullele,Reservoir,Replacement,High,Closed,2026-06-10,2026-06-28,30,20973,Rapid
+WO-23145,Bole,Pipe,Leak Repair,Low,Assigned,2026-06-13,2026-06-23,1,17584,Civil-A
+WO-23146,Akaki,Pipe,Leak Repair,Medium,Open,2026-06-16,2026-06-27,8,19595,Civil-B
+WO-23147,Kirkos,Pipe,Leak Repair,High,In Progress,2026-06-19,2026-07-01,15,21606,Mechanical
+WO-23148,Lideta,Pump,Leak Repair,Critical,Closed,2026-06-22,2026-07-05,22,23617,Rapid
+WO-23149,Merkato,Pump,Preventive,Low,Open,2026-06-25,2026-07-09,29,18428,Civil-A
+WO-23150,Gullele,Pump,Preventive,Medium,Closed,2026-06-28,2026-07-13,36,20439,Civil-B
+WO-23151,Bole,Valve,Preventive,Critical,Open,2026-07-01,2026-07-17,7,24250,Mechanical
+WO-23152,Akaki,Valve,Preventive,Low,In Progress,2026-07-04,2026-07-21,14,19061,Rapid
+WO-23153,Kirkos,Valve,Inspection,Medium,Closed,2026-07-07,2026-07-25,21,5072,Civil-A
+WO-23154,Lideta,Reservoir,Inspection,High,Open,2026-07-10,2026-07-20,28,7083,Civil-B
+WO-23155,Merkato,Reservoir,Inspection,Critical,Closed,2026-07-13,2026-07-24,35,9094,Mechanical
+WO-23156,Gullele,Reservoir,Inspection,Low,Assigned,2026-07-16,2026-07-28,6,3905,Rapid
+WO-23157,Bole,Pipe,Replacement,High,Open,2026-07-19,2026-08-01,13,7716,Civil-A
+WO-23158,Akaki,Pipe,Replacement,Critical,In Progress,2026-07-22,2026-08-05,20,9727,Civil-B
+WO-23159,Kirkos,Pipe,Replacement,Low,Closed,2026-07-25,2026-08-09,27,4538,Mechanical
+WO-23160,Lideta,Pump,Replacement,Medium,Open,2026-07-28,2026-08-13,34,6549,Rapid
+WO-23161,Merkato,Pump,Leak Repair,High,Assigned,2026-07-31,2026-08-17,5,8560,Civil-A
+WO-23162,Gullele,Pump,Leak Repair,Critical,Open,2026-08-03,2026-08-21,12,10571,Civil-B
+WO-23163,Bole,Valve,Leak Repair,Medium,In Progress,2026-08-06,2026-08-16,19,7182,Mechanical
+WO-23164,Akaki,Valve,Leak Repair,High,Closed,2026-08-09,2026-08-20,26,9193,Rapid
+WO-23165,Kirkos,Valve,Preventive,Critical,Open,2026-08-12,2026-08-24,33,11204,Civil-A
+WO-23166,Lideta,Reservoir,Preventive,Low,Closed,2026-08-15,2026-08-28,4,6015,Civil-B
+WO-23167,Merkato,Reservoir,Preventive,Medium,Assigned,2026-08-18,2026-09-01,11,8026,Mechanical
+WO-23168,Gullele,Reservoir,Preventive,High,Open,2026-08-21,2026-09-05,18,10037,Rapid
+WO-23169,Bole,Pipe,Inspection,Low,In Progress,2026-08-24,2026-09-09,25,6648,Civil-A
+WO-23170,Akaki,Pipe,Inspection,Medium,Closed,2026-08-27,2026-09-13,32,8659,Civil-B
+WO-23171,Kirkos,Pipe,Inspection,High,Closed,2026-08-30,2026-09-17,3,10670,Mechanical
+WO-23172,Lideta,Pump,Inspection,Critical,Assigned,2026-09-02,2026-09-12,10,12681,Rapid
+WO-23173,Merkato,Pump,Replacement,Low,Open,2026-09-05,2026-09-16,17,7492,Civil-A
+WO-23174,Gullele,Pump,Replacement,Medium,In Progress,2026-09-08,2026-09-20,24,9503,Civil-B
+WO-23175,Bole,Valve,Replacement,Critical,Closed,2026-09-11,2026-09-24,31,13314,Mechanical
+WO-23176,Akaki,Valve,Replacement,Low,Open,2026-09-14,2026-09-28,2,8125,Rapid
+WO-23177,Kirkos,Valve,Leak Repair,Medium,Closed,2026-09-17,2026-10-02,9,10136,Civil-A
+WO-23178,Lideta,Reservoir,Leak Repair,High,Assigned,2026-09-20,2026-10-06,16,12147,Civil-B
+WO-23179,Merkato,Reservoir,Leak Repair,Critical,Open,2026-09-23,2026-10-10,23,14158,Mechanical
+WO-23180,Gullele,Reservoir,Leak Repair,Low,In Progress,2026-09-26,2026-10-14,30,8969,Rapid
+WO-23181,Bole,Pipe,Preventive,High,Open,2026-09-29,2026-10-09,1,12780,Civil-A
+WO-23182,Akaki,Pipe,Preventive,Critical,Closed,2026-10-02,2026-10-13,8,14791,Civil-B
+WO-23183,Kirkos,Pipe,Preventive,Low,Assigned,2026-10-05,2026-10-17,15,9602,Mechanical
+WO-23184,Lideta,Pump,Preventive,Medium,Open,2026-01-07,2026-01-20,22,11613,Rapid
+WO-23185,Merkato,Pump,Inspection,High,In Progress,2026-01-10,2026-01-24,29,13624,Civil-A
+WO-23186,Gullele,Pump,Inspection,Critical,Closed,2026-01-13,2026-01-28,36,15635,Civil-B
+WO-23187,Bole,Valve,Inspection,Medium,Open,2026-01-16,2026-02-01,7,12246,Mechanical
+WO-23188,Akaki,Valve,Inspection,High,Closed,2026-01-19,2026-02-05,14,14257,Rapid
+WO-23189,Kirkos,Valve,Replacement,Critical,Assigned,2026-01-22,2026-02-09,21,16268,Civil-A
+WO-23190,Lideta,Reservoir,Replacement,Low,Open,2026-01-25,2026-02-04,28,11079,Civil-B
+WO-23191,Merkato,Reservoir,Replacement,Medium,Closed,2026-01-28,2026-02-08,35,13090,Mechanical
+WO-23192,Gullele,Reservoir,Replacement,High,Open,2026-01-31,2026-02-12,6,15101,Rapid
+WO-23193,Bole,Pipe,Leak Repair,Low,Closed,2026-02-03,2026-02-16,13,11712,Civil-A
+WO-23194,Akaki,Pipe,Leak Repair,Medium,Assigned,2026-02-06,2026-02-20,20,13723,Civil-B
+WO-23195,Kirkos,Pipe,Leak Repair,High,Open,2026-02-09,2026-02-24,27,15734,Mechanical
+WO-23196,Lideta,Pump,Leak Repair,Critical,In Progress,2026-02-12,2026-02-28,34,17745,Rapid
+WO-23197,Merkato,Pump,Preventive,Low,Closed,2026-02-15,2026-03-04,5,12556,Civil-A
+WO-23198,Gullele,Pump,Preventive,Medium,Open,2026-02-18,2026-03-08,12,14567,Civil-B
+WO-23199,Bole,Valve,Preventive,Critical,Closed,2026-02-21,2026-03-03,19,18378,Mechanical
+WO-23200,Akaki,Valve,Preventive,Low,Assigned,2026-02-24,2026-03-07,26,13189,Rapid
+WO-23201,Kirkos,Valve,Inspection,Medium,In Progress,2026-02-27,2026-03-11,33,15200,Civil-A
+WO-23202,Lideta,Reservoir,Inspection,High,Closed,2026-03-02,2026-03-15,4,17211,Civil-B
+WO-23203,Merkato,Reservoir,Inspection,Critical,Open,2026-03-05,2026-03-19,11,19222,Mechanical
+WO-23204,Gullele,Reservoir,Inspection,Low,Closed,2026-03-08,2026-03-23,18,14033,Rapid
+WO-23205,Bole,Pipe,Replacement,High,Assigned,2026-03-11,2026-03-27,25,17844,Civil-A
+WO-23206,Akaki,Pipe,Replacement,Critical,Open,2026-03-14,2026-03-31,32,19855,Civil-B
+WO-23207,Kirkos,Pipe,Replacement,Low,In Progress,2026-03-17,2026-04-04,3,14666,Mechanical
+WO-23208,Lideta,Pump,Replacement,Medium,Closed,2026-03-20,2026-03-30,10,16677,Rapid
+WO-23209,Merkato,Pump,Leak Repair,High,Open,2026-03-23,2026-04-03,17,18688,Civil-A
+WO-23210,Gullele,Pump,Leak Repair,Critical,Closed,2026-03-26,2026-04-07,24,20699,Civil-B
+WO-23211,Bole,Valve,Leak Repair,Medium,Open,2026-03-29,2026-04-11,31,17310,Mechanical
+WO-23212,Akaki,Valve,Leak Repair,High,In Progress,2026-04-01,2026-04-15,2,19321,Rapid
+WO-23213,Kirkos,Valve,Preventive,Critical,Closed,2026-04-04,2026-04-19,9,21332,Civil-A
+WO-23214,Lideta,Reservoir,Preventive,Low,Open,2026-04-07,2026-04-23,16,16143,Civil-B
+WO-23215,Merkato,Reservoir,Preventive,Medium,Closed,2026-04-10,2026-04-27,23,18154,Mechanical
+WO-23216,Gullele,Reservoir,Preventive,High,Assigned,2026-04-13,2026-05-01,30,20165,Rapid
+WO-23217,Bole,Pipe,Inspection,Low,Open,2026-04-16,2026-04-26,1,16776,Civil-A
+WO-23218,Akaki,Pipe,Inspection,Medium,In Progress,2026-04-19,2026-04-30,8,18787,Civil-B
+WO-23219,Kirkos,Pipe,Inspection,High,Closed,2026-04-22,2026-05-04,15,20798,Mechanical
+WO-23220,Lideta,Pump,Inspection,Critical,Open,2026-04-25,2026-05-08,22,22809,Rapid
+WO-23221,Merkato,Pump,Replacement,Low,Assigned,2026-04-28,2026-05-12,29,17620,Civil-A
+WO-23222,Gullele,Pump,Replacement,Medium,Open,2026-05-01,2026-05-16,36,19631,Civil-B
+WO-23223,Bole,Valve,Replacement,Critical,In Progress,2026-05-04,2026-05-20,7,23442,Mechanical
+WO-23224,Akaki,Valve,Replacement,Low,Closed,2026-05-07,2026-05-24,14,18253,Rapid
+WO-23225,Kirkos,Valve,Leak Repair,Medium,Open,2026-05-10,2026-05-28,21,20264,Civil-A
+WO-23226,Lideta,Reservoir,Leak Repair,High,Closed,2026-05-13,2026-05-23,28,22275,Civil-B
+WO-23227,Merkato,Reservoir,Leak Repair,Critical,Assigned,2026-05-16,2026-05-27,35,24286,Mechanical
+WO-23228,Gullele,Reservoir,Leak Repair,Low,Open,2026-05-19,2026-05-31,6,19097,Rapid
+WO-23229,Bole,Pipe,Preventive,High,In Progress,2026-05-22,2026-06-04,13,6908,Civil-A
+WO-23230,Akaki,Pipe,Preventive,Critical,Closed,2026-05-25,2026-06-08,20,8919,Civil-B
+WO-23231,Kirkos,Pipe,Preventive,Low,Closed,2026-05-28,2026-06-12,27,3730,Mechanical
+WO-23232,Lideta,Pump,Preventive,Medium,Assigned,2026-05-31,2026-06-16,34,5741,Rapid
+WO-23233,Merkato,Pump,Inspection,High,Open,2026-06-03,2026-06-20,5,7752,Civil-A
+WO-23234,Gullele,Pump,Inspection,Critical,In Progress,2026-06-06,2026-06-24,12,9763,Civil-B
+WO-23235,Bole,Valve,Inspection,Medium,Closed,2026-06-09,2026-06-19,19,6374,Mechanical
+WO-23236,Akaki,Valve,Inspection,High,Open,2026-06-12,2026-06-23,26,8385,Rapid
+WO-23237,Kirkos,Valve,Replacement,Critical,Closed,2026-06-15,2026-06-27,33,10396,Civil-A
+WO-23238,Lideta,Reservoir,Replacement,Low,Assigned,2026-06-18,2026-07-01,4,5207,Civil-B
+WO-23239,Merkato,Reservoir,Replacement,Medium,Open,2026-06-21,2026-07-05,11,7218,Mechanical
+WO-23240,Gullele,Reservoir,Replacement,High,In Progress,2026-06-24,2026-07-09,18,9229,Rapid
