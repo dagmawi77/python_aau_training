@@ -1,0 +1,221 @@
+work_order_id,branch,category,priority,status,opened_date,closed_date,estimated_cost_etb,actual_cost_etb,asset_type,team
+WO-82001,Kirkos,Leakage,Low,Closed,2026-02-01,2026-02-02,2400,2040,Pipe,Civil-A
+WO-82002,Lideta,METER FAULT,Medium,Assigned,2026-02-05,2026-02-11,2537,2232.56,Pump,Civil-B
+WO-82003,Gullele,Billing  issue,High,Open,2026-02-09,2026-02-20,2674,2433.34,Valve,Mechanical
+WO-82004,Arada,Connection,Critical,Closed,2026-02-13,2026-03-01,2811,2642.34,Meter,Civil-A
+WO-82005,Bole,Leakage,Low,In Progress,2026-02-17,2026-03-10,2948,2859.56,Pipe,Civil-B
+WO-82006,Akaki,meter fault,Medium,Closed,2026-02-21,2026-02-24,3085,3085,Pump,Mechanical
+WO-82007,Kirkos,Leakage,High,Assigned,2026-02-25,2026-03-05,3222,3318.66,Valve,Civil-A
+WO-82008,Lideta,METER FAULT,Critical,Open,2026-03-01,2026-03-14,3359,3560.54,Meter,Civil-B
+WO-82009,Gullele,Billing  issue,Low,Closed,2026-03-05,2026-03-23,3496,3810.64,Pipe,Mechanical
+WO-82010,Arada,Connection,Medium,In Progress,2026-03-09,2026-04-01,3633,4068.96,Pump,Civil-A
+WO-82011,Bole,Leakage,High,Closed,2026-03-13,2026-03-18,3770,4335.5,Valve,Civil-B
+WO-82012,Akaki,meter fault,Critical,Assigned,2026-03-17,2026-03-27,3907,4610.26,Meter,Mechanical
+WO-82013,Kirkos,Leakage,Low,Open,2026-03-21,2026-04-05,4044,4893.24,Pipe,Civil-A
+WO-82014,Lideta,METER FAULT,Medium,Closed,2026-03-25,2026-04-14,4181,3553.85,Pump,Civil-B
+WO-82015,Gullele,Billing  issue,High,In Progress,2026-03-29,2026-03-31,4318,3799.84,Valve,Mechanical
+WO-82016,Arada,Connection,Critical,Closed,2026-04-02,2026-04-09,4455,4054.05,Meter,Civil-A
+WO-82017,Bole,Leakage,Low,Assigned,2026-04-06,2026-04-18,4592,4316.48,Pipe,Civil-B
+WO-82018,Akaki,meter fault,Medium,Open,2026-04-10,2026-04-27,4729,4587.13,Pump,Mechanical
+WO-82019,Kirkos,Leakage,High,Closed,2026-04-14,2026-05-06,4866,4866,Valve,Civil-A
+WO-82020,Lideta,METER FAULT,Critical,In Progress,2026-04-18,2026-04-22,5003,5153.09,Meter,Civil-B
+WO-82021,Gullele,Billing  issue,Low,Closed,2026-04-22,2026-05-01,5140,5448.4,Pipe,Mechanical
+WO-82022,Arada,Connection,Medium,Assigned,2026-04-26,2026-05-10,5277,5751.93,Pump,Civil-A
+WO-82023,Bole,Leakage,High,Open,2026-04-30,2026-05-19,5414,6063.68,Valve,Civil-B
+WO-82024,Akaki,meter fault,Critical,Closed,2026-05-04,2026-05-05,5551,6383.65,Meter,Mechanical
+WO-82025,Kirkos,Leakage,Low,In Progress,2026-05-08,2026-05-14,5688,6711.84,Pipe,Civil-A
+WO-82026,Lideta,METER FAULT,Medium,Closed,2026-05-12,2026-05-23,5825,7048.25,Pump,Civil-B
+WO-82027,Gullele,Billing  issue,High,Assigned,2026-05-16,2026-06-01,5962,5067.7,Valve,Mechanical
+WO-82028,Arada,Connection,Critical,Open,2026-05-20,2026-06-10,6099,5367.12,Meter,Civil-A
+WO-82029,Bole,Leakage,Low,Closed,2026-05-24,2026-05-27,6236,5674.76,Pipe,Civil-B
+WO-82030,Akaki,meter fault,Medium,In Progress,2026-05-28,2026-06-05,6373,5990.62,Pump,Mechanical
+WO-82031,Kirkos,Leakage,High,Closed,2026-06-01,2026-06-14,6510,6314.7,Valve,Civil-A
+WO-82032,Lideta,METER FAULT,Critical,Assigned,2026-06-05,2026-06-23,6647,6647,Meter,Civil-B
+WO-82033,Gullele,Billing  issue,Low,Open,2026-06-09,2026-07-02,6784,6987.52,Pipe,Mechanical
+WO-82034,Arada,Connection,Medium,Closed,2026-06-13,2026-06-18,6921,7336.26,Pump,Civil-A
+WO-82035,Bole,Leakage,High,In Progress,2026-06-17,2026-06-27,7058,7693.22,Valve,Civil-B
+WO-82036,Akaki,meter fault,Critical,Closed,2026-06-21,2026-07-06,7195,8058.4,Meter,Mechanical
+WO-82037,Kirkos,Leakage,Low,Assigned,2026-06-25,2026-07-15,7332,8431.8,Pipe,Civil-A
+WO-82038,Lideta,METER FAULT,Medium,Open,2026-06-29,2026-07-01,7469,8813.42,Pump,Civil-B
+WO-82039,Gullele,Billing  issue,High,Closed,2026-07-03,2026-07-10,7606,9203.26,Valve,Mechanical
+WO-82040,Arada,Connection,Critical,In Progress,2026-07-07,2026-07-19,7743,6581.55,Meter,Civil-A
+WO-82041,Bole,Leakage,Low,Closed,2026-07-11,2026-07-28,7880,6934.4,Pipe,Civil-B
+WO-82042,Akaki,meter fault,Medium,Assigned,2026-07-15,2026-08-06,8017,7295.47,Pump,Mechanical
+WO-82043,Kirkos,Leakage,High,Open,2026-07-19,2026-07-23,8154,7664.76,Valve,Civil-A
+WO-82044,Lideta,METER FAULT,Critical,Closed,2026-07-23,2026-08-01,8291,8042.27,Meter,Civil-B
+WO-82045,Gullele,Billing  issue,Low,In Progress,2026-07-27,2026-08-10,8428,8428,Pipe,Mechanical
+WO-82046,Arada,Connection,Medium,Closed,2026-07-31,2026-08-19,8565,8821.95,Pump,Civil-A
+WO-82047,Bole,Leakage,High,Assigned,2026-08-04,2026-08-05,8702,9224.12,Valve,Civil-B
+WO-82048,Akaki,meter fault,Critical,Open,2026-08-08,2026-08-14,8839,9634.51,Meter,Mechanical
+WO-82049,Kirkos,Leakage,Low,Closed,2026-08-12,2026-08-23,8976,10053.12,Pipe,Civil-A
+WO-82050,Lideta,METER FAULT,Medium,In Progress,2026-08-16,2026-09-01,9113,10479.95,Pump,Civil-B
+WO-82051,Gullele,Billing  issue,High,Closed,2026-08-20,2026-09-10,9250,10915,Valve,Mechanical
+WO-82052,Arada,Connection,Critical,Assigned,2026-08-24,2026-08-27,9387,11358.27,Meter,Civil-A
+WO-82053,Bole,Leakage,Low,Open,2026-08-28,2026-09-05,9524,8095.4,Pipe,Civil-B
+WO-82054,Akaki,meter fault,Medium,Closed,2026-09-01,2026-09-14,9661,8501.68,Pump,Mechanical
+WO-82055,Kirkos,Leakage,High,In Progress,2026-09-05,2026-09-23,9798,8916.18,Valve,Civil-A
+WO-82056,Lideta,METER FAULT,Critical,Closed,2026-09-09,2026-10-02,9935,9338.9,Meter,Civil-B
+WO-82057,Gullele,Billing  issue,Low,Assigned,2026-09-13,2026-09-18,10072,9769.84,Pipe,Mechanical
+WO-82058,Arada,Connection,Medium,Open,2026-09-17,2026-09-27,10209,10209,Pump,Civil-A
+WO-82059,Bole,Leakage,High,Closed,2026-09-21,2026-10-06,10346,10656.38,Valve,Civil-B
+WO-82060,Akaki,meter fault,Critical,In Progress,2026-09-25,2026-10-15,10483,11111.98,Meter,Mechanical
+WO-82061,Kirkos,Leakage,Low,Closed,2026-02-01,2026-02-03,10620,11575.8,Pipe,Civil-A
+WO-82062,Lideta,METER FAULT,Medium,Assigned,2026-02-05,2026-02-12,10757,12047.84,Pump,Civil-B
+WO-82063,Gullele,Billing  issue,High,Open,2026-02-09,2026-02-21,10894,12528.1,Valve,Mechanical
+WO-82064,Arada,Connection,Critical,Closed,2026-02-13,2026-03-02,11031,13016.58,Meter,Civil-A
+WO-82065,Bole,Leakage,Low,In Progress,2026-02-17,2026-03-11,11168,13513.28,Pipe,Civil-B
+WO-82066,Akaki,meter fault,Medium,Closed,2026-02-21,2026-02-25,11305,9609.25,Pump,Mechanical
+WO-82067,Kirkos,Leakage,High,Assigned,2026-02-25,2026-03-06,11442,10068.96,Valve,Civil-A
+WO-82068,Lideta,METER FAULT,Critical,Open,2026-03-01,2026-03-15,11579,10536.89,Meter,Civil-B
+WO-82069,Gullele,Billing  issue,Low,Closed,2026-03-05,2026-03-24,11716,11013.04,Pipe,Mechanical
+WO-82070,Arada,Connection,Medium,In Progress,2026-03-09,2026-03-10,11853,11497.41,Pump,Civil-A
+WO-82071,Bole,Leakage,High,Closed,2026-03-13,2026-03-19,11990,11990,Valve,Civil-B
+WO-82072,Akaki,meter fault,Critical,Assigned,2026-03-17,2026-03-28,12127,12490.81,Meter,Mechanical
+WO-82073,Kirkos,Leakage,Low,Open,2026-03-21,2026-04-06,12264,12999.84,Pipe,Civil-A
+WO-82074,Lideta,METER FAULT,Medium,Closed,2026-03-25,2026-04-15,12401,13517.09,Pump,Civil-B
+WO-82075,Gullele,Billing  issue,High,In Progress,2026-03-29,2026-04-01,12538,14042.56,Valve,Mechanical
+WO-82076,Arada,Connection,Critical,Closed,2026-04-02,2026-04-10,12675,14576.25,Meter,Civil-A
+WO-82077,Bole,Leakage,Low,Assigned,2026-04-06,2026-04-19,12812,15118.16,Pipe,Civil-B
+WO-82078,Akaki,meter fault,Medium,Open,2026-04-10,2026-04-28,12949,15668.29,Pump,Mechanical
+WO-82079,Kirkos,Leakage,High,Closed,2026-04-14,2026-05-07,13086,11123.1,Valve,Civil-A
+WO-82080,Lideta,METER FAULT,Critical,In Progress,2026-04-18,2026-04-23,13223,11636.24,Meter,Civil-B
+WO-82081,Gullele,Billing  issue,Low,Closed,2026-04-22,2026-05-02,13360,12157.6,Pipe,Mechanical
+WO-82082,Arada,Connection,Medium,Assigned,2026-04-26,2026-05-11,13497,12687.18,Pump,Civil-A
+WO-82083,Bole,Leakage,High,Open,2026-04-30,2026-05-20,13634,13224.98,Valve,Civil-B
+WO-82084,Akaki,meter fault,Critical,Closed,2026-05-04,2026-05-06,13771,13771,Meter,Mechanical
+WO-82085,Kirkos,Leakage,Low,In Progress,2026-05-08,2026-05-15,2408,2480.24,Pipe,Civil-A
+WO-82086,Lideta,METER FAULT,Medium,Closed,2026-05-12,2026-05-24,2545,2697.7,Pump,Civil-B
+WO-82087,Gullele,Billing  issue,High,Assigned,2026-05-16,2026-06-02,2682,2923.38,Valve,Mechanical
+WO-82088,Arada,Connection,Critical,Open,2026-05-20,2026-06-11,2819,3157.28,Meter,Civil-A
+WO-82089,Bole,Leakage,Low,Closed,2026-05-24,2026-05-28,2956,3399.4,Pipe,Civil-B
+WO-82090,Akaki,meter fault,Medium,In Progress,2026-05-28,2026-06-06,3093,3649.74,Pump,Mechanical
+WO-82091,Kirkos,Leakage,High,Closed,2026-06-01,2026-06-15,3230,3908.3,Valve,Civil-A
+WO-82092,Lideta,METER FAULT,Critical,Assigned,2026-06-05,2026-06-24,3367,2861.95,Meter,Civil-B
+WO-82093,Gullele,Billing  issue,Low,Open,2026-06-09,2026-06-10,3504,3083.52,Pipe,Mechanical
+WO-82094,Arada,Connection,Medium,Closed,2026-06-13,2026-06-19,3641,3313.31,Pump,Civil-A
+WO-82095,Bole,Leakage,High,In Progress,2026-06-17,2026-06-28,3778,3551.32,Valve,Civil-B
+WO-82096,Akaki,meter fault,Critical,Closed,2026-06-21,2026-07-07,3915,3797.55,Meter,Mechanical
+WO-82097,Kirkos,Leakage,Low,Assigned,2026-06-25,2026-07-16,4052,4052,Pipe,Civil-A
+WO-82098,Lideta,METER FAULT,Medium,Open,2026-06-29,2026-07-02,4189,4314.67,Pump,Civil-B
+WO-82099,Gullele,Billing  issue,High,Closed,2026-07-03,2026-07-11,4326,4585.56,Valve,Mechanical
+WO-82100,Arada,Connection,Critical,In Progress,2026-07-07,2026-07-20,4463,4864.67,Meter,Civil-A
+WO-82101,Bole,Leakage,Low,Closed,2026-07-11,2026-07-29,4600,5152,Pipe,Civil-B
+WO-82102,Akaki,meter fault,Medium,Assigned,2026-07-15,2026-08-07,4737,5447.55,Pump,Mechanical
+WO-82103,Kirkos,Leakage,High,Open,2026-07-19,2026-07-24,4874,5751.32,Valve,Civil-A
+WO-82104,Lideta,METER FAULT,Critical,Closed,2026-07-23,2026-08-02,5011,6063.31,Meter,Civil-B
+WO-82105,Gullele,Billing  issue,Low,In Progress,2026-07-27,2026-08-11,5148,4375.8,Pipe,Mechanical
+WO-82106,Arada,Connection,Medium,Closed,2026-07-31,2026-08-20,5285,4650.8,Pump,Civil-A
+WO-82107,Bole,Leakage,High,Assigned,2026-08-04,2026-08-06,5422,4934.02,Valve,Civil-B
+WO-82108,Akaki,meter fault,Critical,Open,2026-08-08,2026-08-15,5559,5225.46,Meter,Mechanical
+WO-82109,Kirkos,Leakage,Low,Closed,2026-08-12,2026-08-24,5696,5525.12,Pipe,Civil-A
+WO-82110,Lideta,METER FAULT,Medium,In Progress,2026-08-16,2026-09-02,5833,5833,Pump,Civil-B
+WO-82111,Gullele,Billing  issue,High,Closed,2026-08-20,2026-09-11,5970,6149.1,Valve,Mechanical
+WO-82112,Arada,Connection,Critical,Assigned,2026-08-24,2026-08-28,6107,6473.42,Meter,Civil-A
+WO-82113,Bole,Leakage,Low,Open,2026-08-28,2026-09-06,6244,6805.96,Pipe,Civil-B
+WO-82114,Akaki,meter fault,Medium,Closed,2026-09-01,2026-09-15,6381,7146.72,Pump,Mechanical
+WO-82115,Kirkos,Leakage,High,In Progress,2026-09-05,2026-09-24,6518,7495.7,Valve,Civil-A
+WO-82116,Lideta,METER FAULT,Critical,Closed,2026-09-09,2026-09-10,6655,7852.9,Meter,Civil-B
+WO-82117,Gullele,Billing  issue,Low,Assigned,2026-09-13,2026-09-19,6792,8218.32,Pipe,Mechanical
+WO-82118,Arada,Connection,Medium,Open,2026-09-17,2026-09-28,6929,5889.65,Pump,Civil-A
+WO-82119,Bole,Leakage,High,Closed,2026-09-21,2026-10-07,7066,6218.08,Valve,Civil-B
+WO-82120,Akaki,meter fault,Critical,In Progress,2026-09-25,2026-10-16,7203,6554.73,Meter,Mechanical
+WO-82121,Kirkos,Leakage,Low,Closed,2026-02-01,2026-02-04,7340,6899.6,Pipe,Civil-A
+WO-82122,Lideta,METER FAULT,Medium,Assigned,2026-02-05,2026-02-13,7477,7252.69,Pump,Civil-B
+WO-82123,Gullele,Billing  issue,High,Open,2026-02-09,2026-02-22,7614,7614,Valve,Mechanical
+WO-82124,Arada,Connection,Critical,Closed,2026-02-13,2026-03-03,7751,7983.53,Meter,Civil-A
+WO-82125,Bole,Leakage,Low,In Progress,2026-02-17,2026-03-12,7888,8361.28,Pipe,Civil-B
+WO-82126,Akaki,meter fault,Medium,Closed,2026-02-21,2026-02-26,8025,8747.25,Pump,Mechanical
+WO-82127,Kirkos,Leakage,High,Assigned,2026-02-25,2026-03-07,8162,9141.44,Valve,Civil-A
+WO-82128,Lideta,METER FAULT,Critical,Open,2026-03-01,2026-03-16,8299,9543.85,Meter,Civil-B
+WO-82129,Gullele,Billing  issue,Low,Closed,2026-03-05,2026-03-25,8436,9954.48,Pipe,Mechanical
+WO-82130,Arada,Connection,Medium,In Progress,2026-03-09,2026-03-11,8573,10373.33,Pump,Civil-A
+WO-82131,Bole,Leakage,High,Closed,2026-03-13,2026-03-20,8710,7403.5,Valve,Civil-B
+WO-82132,Akaki,meter fault,Critical,Assigned,2026-03-17,2026-03-29,8847,7785.36,Meter,Mechanical
+WO-82133,Kirkos,Leakage,Low,Open,2026-03-21,2026-04-07,8984,8175.44,Pipe,Civil-A
+WO-82134,Lideta,METER FAULT,Medium,Closed,2026-03-25,2026-04-16,9121,8573.74,Pump,Civil-B
+WO-82135,Gullele,Billing  issue,High,In Progress,2026-03-29,2026-04-02,9258,8980.26,Valve,Mechanical
+WO-82136,Arada,Connection,Critical,Closed,2026-04-02,2026-04-11,9395,9395,Meter,Civil-A
+WO-82137,Bole,Leakage,Low,Assigned,2026-04-06,2026-04-20,9532,9817.96,Pipe,Civil-B
+WO-82138,Akaki,meter fault,Medium,Open,2026-04-10,2026-04-29,9669,10249.14,Pump,Mechanical
+WO-82139,Kirkos,Leakage,High,Closed,2026-04-14,2026-04-15,9806,10688.54,Valve,Civil-A
+WO-82140,Lideta,METER FAULT,Critical,In Progress,2026-04-18,2026-04-24,9943,11136.16,Meter,Civil-B
+WO-82141,Gullele,Billing  issue,Low,Closed,2026-04-22,2026-05-03,10080,11592,Pipe,Mechanical
+WO-82142,Arada,Connection,Medium,Assigned,2026-04-26,2026-05-12,10217,12056.06,Pump,Civil-A
+WO-82143,Bole,Leakage,High,Open,2026-04-30,2026-05-21,10354,12528.34,Valve,Civil-B
+WO-82144,Akaki,meter fault,Critical,Closed,2026-05-04,2026-05-07,10491,8917.35,Meter,Mechanical
+WO-82145,Kirkos,Leakage,Low,In Progress,2026-05-08,2026-05-16,10628,9352.64,Pipe,Civil-A
+WO-82146,Lideta,METER FAULT,Medium,Closed,2026-05-12,2026-05-25,10765,9796.15,Pump,Civil-B
+WO-82147,Gullele,Billing  issue,High,Assigned,2026-05-16,2026-06-03,10902,10247.88,Valve,Mechanical
+WO-82148,Arada,Connection,Critical,Open,2026-05-20,2026-06-12,11039,10707.83,Meter,Civil-A
+WO-82149,Bole,Leakage,Low,Closed,2026-05-24,2026-05-29,11176,11176,Pipe,Civil-B
+WO-82150,Akaki,meter fault,Medium,In Progress,2026-05-28,2026-06-07,11313,11652.39,Pump,Mechanical
+WO-82151,Kirkos,Leakage,High,Closed,2026-06-01,2026-06-16,11450,12137,Valve,Civil-A
+WO-82152,Lideta,METER FAULT,Critical,Assigned,2026-06-05,2026-06-25,11587,12629.83,Meter,Civil-B
+WO-82153,Gullele,Billing  issue,Low,Open,2026-06-09,2026-06-11,11724,13130.88,Pipe,Mechanical
+WO-82154,Arada,Connection,Medium,Closed,2026-06-13,2026-06-20,11861,13640.15,Pump,Civil-A
+WO-82155,Bole,Leakage,High,In Progress,2026-06-17,2026-06-29,11998,14157.64,Valve,Civil-B
+WO-82156,Akaki,meter fault,Critical,Closed,2026-06-21,2026-07-08,12135,14683.35,Meter,Mechanical
+WO-82157,Kirkos,Leakage,Low,Assigned,2026-06-25,2026-07-17,12272,10431.2,Pipe,Civil-A
+WO-82158,Lideta,METER FAULT,Medium,Open,2026-06-29,2026-07-03,12409,10919.92,Pump,Civil-B
+WO-82159,Gullele,Billing  issue,High,Closed,2026-07-03,2026-07-12,12546,11416.86,Valve,Mechanical
+WO-82160,Arada,Connection,Critical,In Progress,2026-07-07,2026-07-21,12683,11922.02,Meter,Civil-A
+WO-82161,Bole,Leakage,Low,Closed,2026-07-11,2026-07-30,12820,12435.4,Pipe,Civil-B
+WO-82162,Akaki,meter fault,Medium,Assigned,2026-07-15,2026-07-16,12957,12957,Pump,Mechanical
+WO-82163,Kirkos,Leakage,High,Open,2026-07-19,2026-07-25,13094,13486.82,Valve,Civil-A
+WO-82164,Lideta,METER FAULT,Critical,Closed,2026-07-23,2026-08-03,13231,14024.86,Meter,Civil-B
+WO-82165,Gullele,Billing  issue,Low,In Progress,2026-07-27,2026-08-12,13368,14571.12,Pipe,Mechanical
+WO-82166,Arada,Connection,Medium,Closed,2026-07-31,2026-08-21,13505,15125.6,Pump,Civil-A
+WO-82167,Bole,Leakage,High,Assigned,2026-08-04,2026-08-07,13642,15688.3,Valve,Civil-B
+WO-82168,Akaki,meter fault,Critical,Open,2026-08-08,2026-08-16,13779,16259.22,Meter,Mechanical
+WO-82169,Kirkos,Leakage,Low,Closed,2026-08-12,2026-08-25,2416,2923.36,Pipe,Civil-A
+WO-82170,Lideta,METER FAULT,Medium,In Progress,2026-08-16,2026-09-03,2553,2170.05,Pump,Civil-B
+WO-82171,Gullele,Billing  issue,High,Closed,2026-08-20,2026-09-12,2690,2367.2,Valve,Mechanical
+WO-82172,Arada,Connection,Critical,Assigned,2026-08-24,2026-08-29,2827,2572.57,Meter,Civil-A
+WO-82173,Bole,Leakage,Low,Open,2026-08-28,2026-09-07,2964,2786.16,Pipe,Civil-B
+WO-82174,Akaki,meter fault,Medium,Closed,2026-09-01,2026-09-16,3101,3007.97,Pump,Mechanical
+WO-82175,Kirkos,Leakage,High,In Progress,2026-09-05,2026-09-25,3238,3238,Valve,Civil-A
+WO-82176,Lideta,METER FAULT,Critical,Closed,2026-09-09,2026-09-11,3375,3476.25,Meter,Civil-B
+WO-82177,Gullele,Billing  issue,Low,Assigned,2026-09-13,2026-09-20,3512,3722.72,Pipe,Mechanical
+WO-82178,Arada,Connection,Medium,Open,2026-09-17,2026-09-29,3649,3977.41,Pump,Civil-A
+WO-82179,Bole,Leakage,High,Closed,2026-09-21,2026-10-08,3786,4240.32,Valve,Civil-B
+WO-82180,Akaki,meter fault,Critical,In Progress,2026-09-25,2026-10-17,3923,4511.45,Meter,Mechanical
+WO-82181,Kirkos,Leakage,Low,Closed,2026-02-01,2026-02-05,4060,4790.8,Pipe,Civil-A
+WO-82182,Lideta,METER FAULT,Medium,Assigned,2026-02-05,2026-02-14,4197,5078.37,Pump,Civil-B
+WO-82183,Gullele,Billing  issue,High,Open,2026-02-09,2026-02-23,4334,3683.9,Valve,Mechanical
+WO-82184,Arada,Connection,Critical,Closed,2026-02-13,2026-03-04,4471,3934.48,Meter,Civil-A
+WO-82185,Bole,Leakage,Low,In Progress,2026-02-17,2026-02-18,4608,4193.28,Pipe,Civil-B
+WO-82186,Akaki,meter fault,Medium,Closed,2026-02-21,2026-02-27,4745,4460.3,Pump,Mechanical
+WO-82187,Kirkos,Leakage,High,Assigned,2026-02-25,2026-03-08,4882,4735.54,Valve,Civil-A
+WO-82188,Lideta,METER FAULT,Critical,Open,2026-03-01,2026-03-17,5019,5019,Meter,Civil-B
+WO-82189,Gullele,Billing  issue,Low,Closed,2026-03-05,2026-03-26,5156,5310.68,Pipe,Mechanical
+WO-82190,Arada,Connection,Medium,In Progress,2026-03-09,2026-03-12,5293,5610.58,Pump,Civil-A
+WO-82191,Bole,Leakage,High,Closed,2026-03-13,2026-03-21,5430,5918.7,Valve,Civil-B
+WO-82192,Akaki,meter fault,Critical,Assigned,2026-03-17,2026-03-30,5567,6235.04,Meter,Mechanical
+WO-82193,Kirkos,Leakage,Low,Open,2026-03-21,2026-04-08,5704,6559.6,Pipe,Civil-A
+WO-82194,Lideta,METER FAULT,Medium,Closed,2026-03-25,2026-04-17,5841,6892.38,Pump,Civil-B
+WO-82195,Gullele,Billing  issue,High,In Progress,2026-03-29,2026-04-03,5978,7233.38,Valve,Mechanical
+WO-82196,Arada,Connection,Critical,Closed,2026-04-02,2026-04-12,6115,5197.75,Meter,Civil-A
+WO-82197,Bole,Leakage,Low,Assigned,2026-04-06,2026-04-21,6252,5501.76,Pipe,Civil-B
+WO-82198,Akaki,meter fault,Medium,Open,2026-04-10,2026-04-30,6389,5813.99,Pump,Mechanical
+WO-82199,Kirkos,Leakage,High,Closed,2026-04-14,2026-04-16,6526,6134.44,Valve,Civil-A
+WO-82200,Lideta,METER FAULT,Critical,In Progress,2026-04-18,2026-04-25,6663,6463.11,Meter,Civil-B
+WO-82201,Gullele,Billing  issue,Low,Closed,2026-04-22,2026-05-04,6800,6800,Pipe,Mechanical
+WO-82202,Arada,Connection,Medium,Assigned,2026-04-26,2026-05-13,6937,7145.11,Pump,Civil-A
+WO-82203,Bole,Leakage,High,Open,2026-04-30,2026-05-22,7074,7498.44,Valve,Civil-B
+WO-82204,Akaki,meter fault,Critical,Closed,2026-05-04,2026-05-08,7211,7859.99,Meter,Mechanical
+WO-82205,Kirkos,Leakage,Low,In Progress,2026-05-08,2026-05-17,7348,8229.76,Pipe,Civil-A
+WO-82206,Lideta,METER FAULT,Medium,Closed,2026-05-12,2026-05-26,7485,8607.75,Pump,Civil-B
+WO-82207,Gullele,Billing  issue,High,Assigned,2026-05-16,2026-06-04,7622,8993.96,Valve,Mechanical
+WO-82208,Arada,Connection,Critical,Open,2026-05-20,2026-05-21,7759,9388.39,Meter,Civil-A
+WO-82209,Bole,Leakage,Low,Closed,2026-05-24,2026-05-30,7896,6711.6,Pipe,Civil-B
+WO-82210,Akaki,meter fault,Medium,In Progress,2026-05-28,2026-06-08,8033,7069.04,Pump,Mechanical
+WO-82211,Kirkos,Leakage,High,Closed,2026-06-01,2026-06-17,8170,7434.7,Valve,Civil-A
+WO-82212,Lideta,METER FAULT,Critical,Assigned,2026-06-05,2026-06-26,8307,7808.58,Meter,Civil-B
+WO-82213,Gullele,Billing  issue,Low,Open,2026-06-09,2026-06-12,8444,8190.68,Pipe,Mechanical
+WO-82214,Arada,Connection,Medium,Closed,2026-06-13,2026-06-21,8581,8581,Pump,Civil-A
+WO-82215,Bole,Leakage,High,In Progress,2026-06-17,2026-06-30,8718,8979.54,Valve,Civil-B
+WO-82216,Akaki,meter fault,Critical,Closed,2026-06-21,2026-07-09,8855,9386.3,Meter,Mechanical
+WO-82217,Kirkos,Leakage,Low,Assigned,2026-06-25,2026-07-18,8992,9801.28,Pipe,Civil-A
+WO-82218,Lideta,METER FAULT,Medium,Open,2026-06-29,2026-07-04,9129,10224.48,Pump,Civil-B
+WO-82219,Gullele,Billing  issue,High,Closed,2026-07-03,2026-07-13,9266,10655.9,Valve,Mechanical
+WO-82220,Arada,Connection,Critical,In Progress,2026-07-07,2026-07-22,9403,11095.54,Meter,Civil-A

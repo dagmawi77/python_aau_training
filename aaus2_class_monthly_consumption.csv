@@ -10,7 +10,7 @@ month_start,branch,customer_segment,consumption_m3,active_connections,meter_read
 2025-11-01,Merkato,Residential,14920,1570,Verified,Urban
 2025-11-01,Merkato,Commercial,17620,1745,Estimated,Urban
 2025-11-01,Gullele,Residential,15700,1650,Estimated,Peri-Urban
-2025-11-01,Gullele,Commercial,18400,1825,Verified,Peri-Urban
+2025-11-01,Gullele,Commercial,18400,1825,Vefied,Peri-Urban
 2025-12-01,Bole,Residential,12210,1272,Estimated,Urban
 2025-12-01,Bole,Commercial,14910,1447,Verified,Urban
 2025-12-01,Akaki,Residential,13027,1352,Verified,Peri-Urban
