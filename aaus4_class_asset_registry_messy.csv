@@ -1,0 +1,189 @@
+asset_id,asset_type,branch,material,install_year,condition,risk_grade,diameter_mm,capacity_m3,inspected_date
+A-6001,Pipline,AKAKI,HDPE,1900,critical ,Low,,500,2026-03-05
+A-6002,Pump,Merkato,Steel,1999,Fair,Medium,150,625,2026-03-06
+A-6003,Valve,Gullele,Ductile Iron,2000,Poor,High,200,750,2026-03-07
+A-6004,Reservoir,Bole,Concrete,2001,Critical,Critical,300,875,2026-03-08
+A-6005,Pipeline,Akaki,HDPE,2002,Good,Low,400,1000,2026-03-09
+A-6006,Pump,Kirkos,Steel,2003,Fair,Medium,100,1125,2026-03-10
+A-6007,Valve,Lideta,Ductile Iron,2004,Poor,High,150,1250,2026-03-11
+A-6008,Reservoir,Merkato,Concrete,2005,Critical,Critical,200,500,2026-03-12
+A-6009,Pipeline,Gullele,HDPE,2006,Good,Low,300,625,2026-03-13
+A-6010,Pump,Bole,Steel,2007,Fair,Medium,400,750,2026-03-14
+A-6011,Valve,Akaki,Ductile Iron,2008,Poor,High,100,875,2026-03-15
+A-6012,Reservoir,Kirkos,Concrete,2009,Critical,Critical,150,1000,2026-03-16
+A-6013,Pipeline,Lideta,HDPE,2010,Good,Low,200,1125,2026-03-17
+A-6014,Pump,Merkato,Steel,2011,Fair,Medium,300,1250,2026-03-18
+A-6015,Valve,Gullele,Ductile Iron,2012,Poor,High,400,500,2026-03-19
+A-6016,Reservoir,Bole,Concrete,2013,Critical,Critical,100,625,2026-03-20
+A-6017,Pipeline,Akaki,HDPE,2014,Good,Low,150,750,2026-03-21
+A-6018,Pump,Kirkos,Steel,2015,Fair,Medium,200,875,2026-03-22
+A-6019,Valve,Lideta,Ductile Iron,2016,Poor,High,300,1000,2026-03-23
+A-6020,Reservoir,Merkato,Concrete,2017,Critical,Critical,400,1125,2026-03-24
+A-6021,Pipeline,Gullele,HDPE,2018,Good,Low,100,1250,2026-03-25
+A-6022,Pump,Bole,Steel,2019,Fair,Medium,150,500,2026-03-26
+A-6023,Valve,Akaki,Ductile Iron,2020,Poor,High,200,625,2026-03-27
+A-6024,Reservoir,Kirkos,Concrete,2021,Critical,Critical,300,750,2026-03-28
+A-6025,Pipeline,Lideta,HDPE,2022,Good,Low,400,875,2026-03-29
+A-6026,Pump,Merkato,Steel,2023,Fair,Medium,100,1000,2026-03-30
+A-6027,Valve,Gullele,Ductile Iron,2024,Poor,High,150,1125,2026-03-31
+A-6028,Reservoir,Bole,Concrete,2025,Critical,Critical,200,1250,2026-04-01
+A-6029,Pipeline,Akaki,HDPE,2026,Good,Low,300,500,2026-04-02
+A-6030,Pump,Kirkos,Steel,1998,critical ,Medium,400,625,2026-04-03
+A-6031,Valve,Lideta,Ductile Iron,1999,Poor,High,100,750,2026-04-04
+A-6032,Reservoir,Merkato,Concrete,2000,Critical,Critical,150,875,2026-04-05
+A-6033,Pipeline,Gullele,HDPE,2001,Good,Low,200,1000,2026-04-06
+A-6034,Pump,AKAKI,Steel,2002,Fair,Medium,300,1125,2026-04-07
+A-6035,Valve,Akaki,Ductile Iron,2003,Poor,High,400,1250,2026-04-08
+A-6036,Reservoir,Kirkos,Concrete,2004,Critical,Critical,100,500,2026-04-09
+A-6037,Pipeline,Lideta,HDPE,2005,Good,Low,150,625,2026-04-10
+A-6038,Pump,Merkato,Steel,2006,Fair,Medium,200,750,2026-04-11
+A-6039,Valve,Gullele,Ductile Iron,2007,Poor,High,300,875,2026-04-12
+A-6040,Reservoir,Bole,Concrete,2008,Critical,Critical,400,1000,2026-04-13
+A-6041,Pipeline,Akaki,HDPE,2009,Good,Low,100,1125,2026-04-14
+A-6042,Pump,Kirkos,Steel,2010,Fair,Medium,150,1250,2026-04-15
+A-6043,Valve,Lideta,Ductile Iron,2011,Poor,High,200,500,2026-04-16
+A-6044,Reservoir,Merkato,Concrete,2012,Critical,Critical,300,625,2026-04-17
+A-6045,Pipeline,Gullele,HDPE,2013,Good,Low,400,750,2026-04-18
+A-6046,Pump,Bole,Steel,2014,Fair,Medium,100,875,2026-04-19
+A-6047,Valve,Akaki,Ductile Iron,2015,Poor,High,150,1000,2026-04-20
+A-6048,Reservoir,Kirkos,Concrete,2016,Critical,Critical,200,1125,2026-04-21
+A-6049,Pipeline,Lideta,HDPE,2017,Good,Low,300,1250,2026-04-22
+A-6050,Pump,Merkato,Steel,2018,Fair,Medium,400,500,2026-04-23
+A-6051,Valve,Gullele,Ductile Iron,2019,Poor,High,100,625,2026-04-24
+A-6052,Reservoir,Bole,Concrete,2020,Critical,Critical,150,750,2026-04-25
+A-6053,Pipeline,Akaki,HDPE,2021,Good,Low,200,875,2026-04-26
+A-6054,Pump,Kirkos,Steel,2022,Fair,Medium,300,1000,2026-04-27
+A-6055,Valve,Lideta,Ductile Iron,2023,Poor,High,400,1125,2026-04-28
+A-6056,Reservoir,Merkato,Concrete,2024,Critical,Critical,100,1250,2026-04-29
+A-6057,Pipeline,Gullele,HDPE,2025,Good,Low,150,500,2026-04-30
+A-6058,Pump,Bole,Steel,2026,Fair,Medium,200,625,2026-05-01
+A-6059,Valve,Akaki,Ductile Iron,1998,critical ,High,300,750,2026-05-02
+A-6060,Reservoir,Kirkos,Concrete,1900,Critical,Critical,400,875,2026-05-03
+A-6061,Pipeline,Lideta,HDPE,2000,Good,Low,100,1000,2026-05-04
+A-6062,Pump,Merkato,Steel,2001,Fair,Medium,150,1125,2026-05-05
+A-6063,Valve,Gullele,Ductile Iron,2002,Poor,High,200,1250,2026-05-06
+A-6064,Reservoir,Bole,Concrete,2003,Critical,Critical,300,500,2026-05-07
+A-6065,Pipeline,Akaki,HDPE,2004,Good,Low,400,625,2026-05-08
+A-6066,Pump,Kirkos,Steel,2005,Fair,Medium,100,750,2026-05-09
+A-6067,Valve,AKAKI,Ductile Iron,2006,Poor,High,150,875,2026-05-10
+A-6068,Reservoir,Merkato,Concrete,2007,Critical,Critical,200,1000,2026-05-11
+A-6069,Pipeline,Gullele,HDPE,2008,Good,Low,300,1125,2026-05-12
+A-6070,Pump,Bole,Steel,2009,Fair,Medium,400,1250,2026-05-13
+A-6071,Valve,Akaki,Ductile Iron,2010,Poor,High,100,500,2026-05-14
+A-6072,Reservoir,Kirkos,Concrete,2011,Critical,Critical,150,625,2026-05-15
+A-6073,Pipeline,Lideta,HDPE,2012,Good,Low,200,750,2026-05-16
+A-6074,Pump,Merkato,Steel,2013,Fair,Medium,300,875,2026-05-17
+A-6075,Valve,Gullele,Ductile Iron,2014,Poor,High,400,1000,2026-05-18
+A-6076,Reservoir,Bole,Concrete,2015,Critical,Critical,100,1125,2026-05-19
+A-6077,Pipeline,Akaki,HDPE,2016,Good,Low,150,1250,2026-05-20
+A-6078,Pump,Kirkos,Steel,2017,Fair,Medium,200,500,2026-05-21
+A-6079,Valve,Lideta,Ductile Iron,2018,Poor,High,300,625,2026-05-22
+A-6080,Reservoir,Merkato,Concrete,2019,Critical,Critical,400,750,2026-05-23
+A-6081,Pipeline,Gullele,HDPE,2020,Good,Low,100,875,2026-05-24
+A-6082,Pump,Bole,Steel,2021,Fair,Medium,150,1000,2026-05-25
+A-6083,Valve,Akaki,Ductile Iron,2022,Poor,High,200,1125,2026-05-26
+A-6084,Reservoir,Kirkos,Concrete,2023,Critical,Critical,,1250,2026-05-27
+A-6085,Pipeline,Lideta,HDPE,2024,Good,Low,400,500,2026-05-28
+A-6086,Pump,Merkato,Steel,2025,Fair,Medium,100,625,2026-05-29
+A-6087,Valve,Gullele,Ductile Iron,2026,Poor,High,150,750,2026-05-30
+A-6088,Reservoir,Bole,Concrete,1998,critical ,Critical,200,875,2026-05-31
+A-6089,Pipeline,Akaki,HDPE,1999,Good,Low,300,1000,2026-06-01
+A-6090,Pump,Kirkos,Steel,2000,Fair,Medium,400,1125,2026-06-02
+A-6091,Valve,Lideta,Ductile Iron,2001,Poor,High,100,1250,2026-06-03
+A-6092,Reservoir,Merkato,Concrete,2002,Critical,Critical,150,500,2026-06-04
+A-6093,Pipeline,Gullele,HDPE,2003,Good,Low,200,625,2026-06-05
+A-6094,Pump,Bole,Steel,2004,Fair,Medium,300,750,2026-06-06
+A-6095,Valve,Akaki,Ductile Iron,2005,Poor,High,400,875,2026-06-07
+A-6096,Reservoir,Kirkos,Concrete,2006,Critical,Critical,100,1000,2026-06-08
+A-6097,Pipeline,Lideta,HDPE,2007,Good,Low,150,1125,2026-06-09
+A-6098,Pipline,Merkato,Steel,2008,Fair,Medium,200,1250,2026-06-10
+A-6099,Valve,Gullele,Ductile Iron,2009,Poor,High,300,500,2026-06-11
+A-6100,Reservoir,AKAKI,Concrete,2010,Critical,Critical,400,625,2026-06-12
+A-6101,Pipeline,Akaki,HDPE,2011,Good,Low,100,750,2026-06-13
+A-6102,Pump,Kirkos,Steel,2012,Fair,Medium,150,875,2026-06-14
+A-6103,Valve,Lideta,Ductile Iron,2013,Poor,High,200,1000,2026-06-15
+A-6104,Reservoir,Merkato,Concrete,2014,Critical,Critical,300,1125,2026-06-16
+A-6105,Pipeline,Gullele,HDPE,2015,Good,Low,400,1250,2026-06-17
+A-6106,Pump,Bole,Steel,2016,Fair,Medium,100,500,2026-06-18
+A-6107,Valve,Akaki,Ductile Iron,2017,Poor,High,150,625,2026-06-19
+A-6108,Reservoir,Kirkos,Concrete,2018,Critical,Critical,200,750,2026-06-20
+A-6109,Pipeline,Lideta,HDPE,2019,Good,Low,300,875,2026-06-21
+A-6110,Pump,Merkato,Steel,2020,Fair,Medium,400,1000,2026-06-22
+A-6111,Valve,Gullele,Ductile Iron,2021,Poor,High,100,1125,2026-03-05
+A-6112,Reservoir,Bole,Concrete,2022,Critical,Critical,150,1250,2026-03-06
+A-6113,Pipeline,Akaki,HDPE,2023,Good,Low,200,500,2026-03-07
+A-6114,Pump,Kirkos,Steel,2024,Fair,Medium,300,625,2026-03-08
+A-6115,Valve,Lideta,Ductile Iron,2025,Poor,High,400,750,2026-03-09
+A-6116,Reservoir,Merkato,Concrete,2026,Critical,Critical,100,875,2026-03-10
+A-6117,Pipeline,Gullele,HDPE,1998,critical ,Low,150,1000,2026-03-11
+A-6118,Pump,Bole,Steel,1999,Fair,Medium,200,1125,2026-03-12
+A-6119,Valve,Akaki,Ductile Iron,1900,Poor,High,300,1250,2026-03-13
+A-6120,Reservoir,Kirkos,Concrete,2001,Critical,Critical,400,500,2026-03-14
+A-6121,Pipeline,Lideta,HDPE,2002,Good,Low,100,625,2026-03-15
+A-6122,Pump,Merkato,Steel,2003,Fair,Medium,150,750,2026-03-16
+A-6123,Valve,Gullele,Ductile Iron,2004,Poor,High,200,875,2026-03-17
+A-6124,Reservoir,Bole,Concrete,2005,Critical,Critical,300,1000,2026-03-18
+A-6125,Pipeline,Akaki,HDPE,2006,Good,Low,400,1125,2026-03-19
+A-6126,Pump,Kirkos,Steel,2007,Fair,Medium,100,1250,2026-03-20
+A-6127,Valve,Lideta,Ductile Iron,2008,Poor,High,150,500,2026-03-21
+A-6128,Reservoir,Merkato,Concrete,2009,Critical,Critical,200,625,2026-03-22
+A-6129,Pipeline,Gullele,HDPE,2010,Good,Low,300,750,2026-03-23
+A-6130,Pump,Bole,Steel,2011,Fair,Medium,400,875,2026-03-24
+A-6131,Valve,Akaki,Ductile Iron,2012,Poor,High,100,1000,2026-03-25
+A-6132,Reservoir,Kirkos,Concrete,2013,Critical,Critical,150,1125,2026-03-26
+A-6133,Pipeline,AKAKI,HDPE,2014,Good,Low,200,1250,2026-03-27
+A-6134,Pump,Merkato,Steel,2015,Fair,Medium,300,500,2026-03-28
+A-6135,Valve,Gullele,Ductile Iron,2016,Poor,High,400,625,2026-03-29
+A-6136,Reservoir,Bole,Concrete,2017,Critical,Critical,100,750,2026-03-30
+A-6137,Pipeline,Akaki,HDPE,2018,Good,Low,150,875,2026-03-31
+A-6138,Pump,Kirkos,Steel,2019,Fair,Medium,200,1000,2026-04-01
+A-6139,Valve,Lideta,Ductile Iron,2020,Poor,High,300,1125,2026-04-02
+A-6140,Reservoir,Merkato,Concrete,2021,Critical,Critical,400,1250,2026-04-03
+A-6141,Pipeline,Gullele,HDPE,2022,Good,Low,100,500,2026-04-04
+A-6142,Pump,Bole,Steel,2023,Fair,Medium,150,625,2026-04-05
+A-6143,Valve,Akaki,Ductile Iron,2024,Poor,High,200,750,2026-04-06
+A-6144,Reservoir,Kirkos,Concrete,2025,Critical,Critical,300,875,2026-04-07
+A-6145,Pipeline,Lideta,HDPE,2026,Good,Low,400,1000,2026-04-08
+A-6146,Pump,Merkato,Steel,1998,critical ,Medium,100,1125,2026-04-09
+A-6147,Valve,Gullele,Ductile Iron,1999,Poor,High,150,1250,2026-04-10
+A-6148,Reservoir,Bole,Concrete,2000,Critical,Critical,200,500,2026-04-11
+A-6149,Pipeline,Akaki,HDPE,2001,Good,Low,300,625,2026-04-12
+A-6150,Pump,Kirkos,Steel,2002,Fair,Medium,400,750,2026-04-13
+A-6151,Valve,Lideta,Ductile Iron,2003,Poor,High,100,875,2026-04-14
+A-6152,Reservoir,Merkato,Concrete,2004,Critical,Critical,150,1000,2026-04-15
+A-6153,Pipeline,Gullele,HDPE,2005,Good,Low,200,1125,2026-04-16
+A-6154,Pump,Bole,Steel,2006,Fair,Medium,300,1250,2026-04-17
+A-6155,Valve,Akaki,Ductile Iron,2007,Poor,High,400,500,2026-04-18
+A-6156,Reservoir,Kirkos,Concrete,2008,Critical,Critical,100,625,2026-04-19
+A-6157,Pipeline,Lideta,HDPE,2009,Good,Low,150,750,2026-04-20
+A-6158,Pump,Merkato,Steel,2010,Fair,Medium,200,875,2026-04-21
+A-6159,Valve,Gullele,Ductile Iron,2011,Poor,High,300,1000,2026-04-22
+A-6160,Reservoir,Bole,Concrete,2012,Critical,Critical,400,1125,2026-04-23
+A-6161,Pipeline,Akaki,HDPE,2013,Good,Low,100,1250,2026-04-24
+A-6162,Pump,Kirkos,Steel,2014,Fair,Medium,150,500,2026-04-25
+A-6163,Valve,Lideta,Ductile Iron,2015,Poor,High,200,625,2026-04-26
+A-6164,Reservoir,Merkato,Concrete,2016,Critical,Critical,300,750,2026-04-27
+A-6165,Pipeline,Gullele,HDPE,2017,Good,Low,400,875,2026-04-28
+A-6166,Pump,AKAKI,Steel,2018,Fair,Medium,100,1000,2026-04-29
+A-6167,Valve,Akaki,Ductile Iron,2019,Poor,High,,1125,2026-04-30
+A-6168,Reservoir,Kirkos,Concrete,2020,Critical,Critical,200,1250,2026-05-01
+A-6169,Pipeline,Lideta,HDPE,2021,Good,Low,300,500,2026-05-02
+A-6170,Pump,Merkato,Steel,2022,Fair,Medium,400,625,2026-05-03
+A-6171,Valve,Gullele,Ductile Iron,2023,Poor,High,100,750,2026-05-04
+A-6172,Reservoir,Bole,Concrete,2024,Critical,Critical,150,875,2026-05-05
+A-6173,Pipeline,Akaki,HDPE,2025,Good,Low,200,1000,2026-05-06
+A-6174,Pump,Kirkos,Steel,2026,Fair,Medium,300,1125,2026-05-07
+A-6175,Valve,Lideta,Ductile Iron,1998,critical ,High,400,1250,2026-05-08
+A-6176,Reservoir,Merkato,Concrete,1999,Critical,Critical,100,500,2026-05-09
+A-6177,Pipeline,Gullele,HDPE,2000,Good,Low,150,625,2026-05-10
+A-6178,Pump,Bole,Steel,1900,Fair,Medium,200,750,2026-05-11
+A-6179,Valve,Akaki,Ductile Iron,2002,Poor,High,300,875,2026-05-12
+A-6180,Reservoir,Kirkos,Concrete,2003,Critical,Critical,400,1000,2026-05-13
+A-6003,Valve,Gullele,Ductile Iron,2000,Poor,High,200,750,2026-03-07
+A-6023,Valve,Akaki,Ductile Iron,2020,Poor,High,200,625,2026-03-27
+A-6043,Valve,Lideta,Ductile Iron,2011,Poor,High,200,500,2026-04-16
+A-6063,Valve,Gullele,Ductile Iron,2002,Poor,High,200,1250,2026-05-06
+A-6083,Valve,Akaki,Ductile Iron,2022,Poor,High,200,1125,2026-05-26
+A-6103,Valve,Lideta,Ductile Iron,2013,Poor,High,200,1000,2026-06-15
+A-6123,Valve,Gullele,Ductile Iron,2004,Poor,High,200,875,2026-03-17
+A-6143,Valve,Akaki,Ductile Iron,2024,Poor,High,200,750,2026-04-06

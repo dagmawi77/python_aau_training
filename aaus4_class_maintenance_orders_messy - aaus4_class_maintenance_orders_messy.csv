@@ -1,0 +1,311 @@
+order_id,asset_id,branch,asset_type,opened_date,closed_date,status,work_category,estimated_cost_etb,actual_cost_etb,priority,crew
+WO-93001,A-6001,Bole,Valve,bad date,2025-12-30,closed,Repair,2500,-1500,1,Civil
+WO-93002,A-6002,Akaki,Pipeline,2026-01-03,2026-01-05,Closed,Preventive,2697,2797,2,Mechanical
+WO-93003,A-6003,Kirkos,Pump,2026-01-04,2026-01-07,In Progress,Inspection,2894,3094,3,Rapid
+WO-93004,A-6004,Lideta,Storage,2026-01-05,2026-01-09,Open,Repair,3091,3391,4,Civil
+WO-93005,A-6005,Merkato,Valve,2026-01-06,2026-01-11,Closed,Preventive,3288,3688,5,Mechanical
+WO-93006,A-6006,Gullele,Pipeline,2026-01-07,2026-01-13,Closed,Inspection,3485,3985,1,Rapid
+WO-93007,A-6007,Bole,Pump,2026-01-08,2026-01-15,In Progress,Repair,3682,4282,2,Civil
+WO-93008,A-6008,Akaki,Storage,2026-01-09,2026-01-17,Open,Preventive,3879,3879,3,Mechanical
+WO-93009,A-6009,Kirkos,Valve,2026-01-10,2026-01-19,Closed,Inspection,4076,4176,4,Rapid
+WO-93010,A-6010,Lideta,Pipeline,2026-01-11,2026-01-21,Closed,Repair,4273,4473,5,Civil
+WO-93011,A-6011,Merkato,Pump,2026-01-12,2026-01-23,In Progress,Preventive,4470,4770,1,Mechanical
+WO-93012,A-6012,Gullele,Storage,2026-01-13,2026-01-25,Open,Inspection,4667,5067,2,Rapid
+WO-93013,A-6013,Bole,Valve,2026-01-14,2026-01-27,Closed,Repair,4864,5364,3,Civil
+WO-93014,A-6014,Akaki,Pipeline,2026-01-15,2026-01-29,Closed,Preventive,5061,5661,4,Mechanical
+WO-93015,A-6015,Kirkos,Pump,2026-01-16,2026-01-17,In Progress,Inspection,5258,5258,5,Rapid
+WO-93016,A-6016,Lideta,Storage,2026-01-17,2026-01-19,Open,Repair,5455,5555,1,Civil
+WO-93017,A-6017,Merkato,Valve,2026-01-18,2026-01-21,Closed,Preventive,5652,5852,2,Mechanical
+WO-93018,A-6018,Gullele,Pipeline,2026-01-19,2026-01-23,Closed,Inspection,5849,6149,3,Rapid
+WO-93019,A-6019,Bole,Pump,2026-01-20,2026-01-25,In Progress,Repair,6046,6446,4,Civil
+WO-93020,A-6020,Akaki,Storage,2026-01-21,2026-01-27,Open,Preventive,6243,6743,5,Mechanical
+WO-93021,A-6021,Kirkos,Valve,2026-01-22,2026-01-29,Closed,Inspection,6440,7040,1,Rapid
+WO-93022,A-6022,Lideta,Pipeline,2026-01-23,2026-01-31,Closed,Repair,6637,6637,2,Civil
+WO-93023,A-6023,Merkato,Pump,2026-01-24,2026-02-02,In Progress,Preventive,6834,6934,3,Mechanical
+WO-93024,A-6024,Gullele,Storage,2026-01-25,2026-02-04,Open,Inspection,7031,7231,4,Rapid
+WO-93025,A-6025,Bole,Valve,2026-01-26,2026-02-06,Closed,Repair,7228,7528,5,Civil
+WO-93026,A-6026,Akaki,Pipeline,2026-01-27,2026-02-08,Closed,Preventive,7425,7825,1,Mechanical
+WO-93027,A-6027,Kirkos,Pump,2026-01-28,2026-02-10,In Progress,Inspection,7622,8122,2,Rapid
+WO-93028,A-6028,Lideta,Storage,2026-01-29,2026-02-12,Open,Repair,7819,8419,3,Civil
+WO-93029,A-6029,Merkato,Valve,2026-01-30,2026-01-31,Closed,Preventive,8016,8016,4,Mechanical
+WO-93030,A-6030,Gullele,Pipeline,2026-01-31,2026-02-02,Closed,Inspection,8213,8313,5,Rapid
+WO-93031,A-6031,Bole,Pump,2026-02-01,2026-02-04,In Progress,Repair,8410,8610,1,Civil
+WO-93032,A-6032,Akaki,Storage,2026-02-02,2026-02-06,Open,Preventive,8607,8907,2,Mechanical
+WO-93033,A-6033,Kirkos,Valve,2026-02-03,2026-02-08,Closed,Inspection,8804,9204,3,Rapid
+WO-93034,A-6034,Lideta,Pipeline,2026-02-04,2026-02-10,Closed,Repair,9001,9501,4,Civil
+WO-93035,A-6035,Merkato,Pump,2026-02-05,2026-02-12,In Progress,Preventive,9198,9798,5,Mechanical
+WO-93036,A-6036,Gullele,Storage,2026-02-06,2026-02-14,Open,Inspection,9395,9395,1,Rapid
+WO-93037,A-6037,Bole,Valve,2026-02-07,2026-02-16,Closed,Repair,9592,9692,2,Civil
+WO-93038,A-6038,Akaki,Pipeline,2026-02-08,2026-02-18,Closed,Preventive,9789,9989,3,Mechanical
+WO-93039,A-6039,Kirkos,Pump,2026-02-09,2026-02-20,In Progress,Inspection,9986,10286,4,Rapid
+WO-93040,A-6040,Lideta,Storage,2026-02-10,2026-02-22,Open,Repair,10183,10583,5,Civil
+WO-93041,A-6041,Merkato,Valve,2026-02-11,2026-02-24,Closed,Preventive,10380,10880,1,Mechanical
+WO-93042,A-6042,Gullele,Pipeline,2026-02-12,2026-02-26,Closed,Inspection,10577,missing,2,Rapid
+WO-93043,A-6043,Bole,Pump,2026-02-13,2026-02-14,In Progress,Repair,10774,10774,3,Civil
+WO-93044,A-6044,Akaki,Storage,2026-02-14,2026-02-16,Open,Preventive,10971,11071,4,Mechanical
+WO-93045,A-6045,Kirkos,Valve,2026-02-15,2026-02-18,Closed,Inspection,11168,11368,5,Rapid
+WO-93046,A-6046,Lideta,Pipeline,2026-02-16,2026-02-20,Closed,Repair,11365,11665,1,Civil
+WO-93047,A-6047,Merkato,Pump,2026-02-17,2026-02-22,In Progress,Preventive,11562,11962,2,Mechanical
+WO-93048,A-6048,Gullele,Storage,2026-02-18,2026-02-24,Open,Inspection,11759,12259,3,Rapid
+WO-93049,A-6049,Bole,Valve,2026-02-19,2026-02-26,Closed,Repair,11956,12556,4,Civil
+WO-93050,A-6050,Akaki,Pipeline,2026-02-20,2026-02-28,Closed,Preventive,12153,12153,5,Mechanical
+WO-93051,A-6051,Kirkos,Pump,2026-02-21,2026-03-02,In Progress,Inspection,12350,12450,1,Rapid
+WO-93052,A-6052,Lideta,Storage,2026-02-22,2026-03-04,Open,Repair,12547,12747,2,Civil
+WO-93053,A-6053,Merkato,Valve,2026-02-23,2026-03-06,Closed,Preventive,12744,13044,3,Mechanical
+WO-93054,A-6054,Gullele,Pipeline,2026-02-24,2026-03-08,Closed,Inspection,12941,-1500,4,Rapid
+WO-93055,A-6055,Bole,Pump,2026-02-25,2026-03-10,In Progress,Repair,13138,13638,5,Civil
+WO-93056,A-6056,Akaki,Storage,2026-02-26,2026-03-12,Open,Preventive,13335,13935,1,Mechanical
+WO-93057,A-6057,Kirkos,Valve,2026-02-27,2026-02-28,Closed,Inspection,13532,13532,2,Rapid
+WO-93058,A-6058,Lideta,Pipeline,2026-02-28,2026-03-02,Closed,Repair,13729,13829,3,Civil
+WO-93059,A-6059,Merkato,Pump,2026-03-01,2026-03-04,In Progress,Preventive,13926,14126,4,Mechanical
+WO-93060,A-6060,Gullele,Storage,2026-03-02,2026-03-06,Open,Inspection,14123,14423,5,Rapid
+WO-93061,A-6061,Bole,Valve,2026-03-03,2026-03-08,Closed,Repair,14320,14720,1,Civil
+WO-93062,A-6062,Akaki,Pipeline,2026-03-04,2026-03-10,closed,Preventive,14517,15017,2,Mechanical
+WO-93063,A-6063,Kirkos,Pump,2026-03-05,2026-03-12,In Progress,Inspection,14714,15314,3,Rapid
+WO-93064,A-6064,Lideta,Storage,2026-03-06,2026-03-14,Open,Repair,14911,14911,4,Civil
+WO-93065,A-6065,Merkato,Valve,2026-03-07,2026-03-16,Closed,Preventive,15108,15208,5,Mechanical
+WO-93066,A-6066,Gullele,Pipeline,2026-03-08,2026-03-18,Closed,Inspection,15305,15505,1,Rapid
+WO-93067,A-6067,Bole,Pump,2026-03-09,2026-03-20,In Progress,Repair,15502,15802,2,Civil
+WO-93068,A-6068,Akaki,Storage,2026-03-10,2026-03-22,Open,Preventive,15699,16099,3,Mechanical
+WO-93069,A-6069,Kirkos,Valve,2026-03-11,2026-03-24,Closed,Inspection,15896,16396,4,Rapid
+WO-93070,A-6070,Lideta,Pipeline,2026-03-12,2026-03-26,Closed,Repair,16093,16693,5,Civil
+WO-93071,A-6071,Merkato,Pump,2026-03-13,2026-03-14,In Progress,Preventive,16290,16290,1,Mechanical
+WO-93072,A-6072,Gullele,Storage,bad date,2026-03-16,Open,Inspection,16487,16587,2,Rapid
+WO-93073,A-6073,Bole,Valve,2026-03-15,2026-03-18,Closed,Repair,16684,16884,3,Civil
+WO-93074,A-6074,Akaki,Pipeline,2026-03-16,2026-03-20,Closed,Preventive,16881,17181,4,Mechanical
+WO-93075,A-6075,Kirkos,Pump,2026-03-17,2026-03-22,In Progress,Inspection,17078,17478,5,Rapid
+WO-93076,A-6076,Lideta,Storage,2026-03-18,2026-03-24,Open,Repair,17275,17775,1,Civil
+WO-93077,A-6077,Merkato,Valve,2026-03-19,2026-03-26,Closed,Preventive,17472,18072,2,Mechanical
+WO-93078,A-6078,Gullele,Pipeline,2026-03-20,2026-03-28,Closed,Inspection,17669,17669,3,Rapid
+WO-93079,A-6079,Bole,Pump,2026-03-21,2026-03-30,In Progress,Repair,17866,17966,4,Civil
+WO-93080,A-6080,Akaki,Storage,2026-03-22,2026-04-01,Open,Preventive,2563,2763,5,Mechanical
+WO-93081,A-6081,Kirkos,Valve,2026-03-23,2026-04-03,Closed,Inspection,2760,3060,1,Rapid
+WO-93082,A-6082,Lideta,Pipeline,2026-03-24,2026-04-05,Closed,Repair,2957,3357,2,Civil
+WO-93083,A-6083,Merkato,Pump,2026-03-25,2026-04-07,In Progress,Preventive,3154,missing,3,Mechanical
+WO-93084,A-6084,Gullele,Storage,2026-03-26,2026-04-09,Open,Inspection,3351,3951,4,Rapid
+WO-93085,A-6085,Bole,Valve,2026-03-27,2026-03-28,Closed,Repair,3548,3548,5,Civil
+WO-93086,A-6086,Akaki,Pipeline,2026-03-28,2026-03-30,Closed,Preventive,3745,3845,1,Mechanical
+WO-93087,A-6087,Kirkos,Pump,2026-03-29,2026-04-01,In Progress,Inspection,3942,4142,2,Rapid
+WO-93088,A-6088,Lideta,Storage,2026-03-30,2026-04-03,Open,Repair,4139,4439,3,Civil
+WO-93089,A-6089,Merkato,Valve,2026-03-31,2026-04-05,Closed,Preventive,4336,4736,4,Mechanical
+WO-93090,A-6090,Gullele,Pipeline,2026-04-01,2026-04-07,Closed,Inspection,4533,5033,5,Rapid
+WO-93091,A-6001,Bole,Pump,2026-04-02,2026-04-09,In Progress,Repair,4730,5330,1,Civil
+WO-93092,A-6002,Akaki,Storage,2026-04-03,2026-04-11,Open,Preventive,4927,4927,2,Mechanical
+WO-93093,A-6003,Kirkos,Valve,2026-04-04,2026-04-13,Closed,Inspection,5124,5224,3,Rapid
+WO-93094,A-6004,Lideta,Pipeline,2026-04-05,2026-04-15,Closed,Repair,5321,5521,4,Civil
+WO-93095,A-6005,Merkato,Pump,2026-04-06,2026-04-17,In Progress,Preventive,5518,5818,5,Mechanical
+WO-93096,A-6006,Gullele,Storage,2026-04-07,2026-04-19,Open,Inspection,5715,6115,1,Rapid
+WO-93097,A-6007,Bole,Valve,2026-04-08,2026-04-21,Closed,Repair,5912,6412,2,Civil
+WO-93098,A-6008,Akaki,Pipeline,2026-04-09,2026-04-06,Closed,Preventive,6109,6709,3,Mechanical
+WO-93099,A-6009,Kirkos,Pump,2026-04-10,2026-04-11,In Progress,Inspection,6306,6306,4,Rapid
+WO-93100,A-6010,Lideta,Storage,2026-04-11,2026-04-13,Open,Repair,6503,6603,5,Civil
+WO-93101,A-6011,Merkato,Valve,2026-04-12,2026-04-15,Closed,Preventive,6700,6900,1,Mechanical
+WO-93102,A-6012,Gullele,Pipeline,2026-04-13,2026-04-17,Closed,Inspection,6897,7197,2,Rapid
+WO-93103,A-6013,Bole,Pump,2026-04-14,2026-04-19,In Progress,Repair,7094,7494,3,Civil
+WO-93104,A-6014,Akaki,Storage,2026-04-15,2026-04-21,Open,Preventive,7291,7791,4,Mechanical
+WO-93105,A-6015,Kirkos,Valve,2026-04-16,2026-04-23,Closed,Inspection,7488,8088,5,Rapid
+WO-93106,A-6016,Lideta,Pipeline,2026-04-17,2026-04-25,Closed,Repair,7685,7685,1,Civil
+WO-93107,A-6017,Merkato,Pump,2026-04-18,2026-04-27,In Progress,Preventive,7882,-1500,2,Mechanical
+WO-93108,A-6018,Gullele,Storage,2026-04-19,2026-04-29,Open,Inspection,8079,8279,3,Rapid
+WO-93109,A-6019,Bole,Valve,2026-04-20,2026-05-01,Closed,Repair,8276,8576,4,Civil
+WO-93110,A-6020,Akaki,Pipeline,2026-04-21,2026-05-03,Closed,Preventive,8473,8873,5,Mechanical
+WO-93111,A-6021,Kirkos,Pump,2026-04-22,2026-05-05,In Progress,Inspection,8670,9170,1,Rapid
+WO-93112,A-6022,Lideta,Storage,2026-04-23,2026-05-07,Open,Repair,8867,9467,2,Civil
+WO-93113,A-6023,Merkato,Valve,2026-04-24,2026-04-25,Closed,Preventive,9064,9064,3,Mechanical
+WO-93114,A-6024,Gullele,Pipeline,2026-04-25,2026-04-27,Closed,Inspection,9261,9361,4,Rapid
+WO-93115,A-6025,Bole,Pump,2026-04-26,2026-04-29,In Progress,Repair,9458,9658,5,Civil
+WO-93116,A-6026,Akaki,Storage,2026-04-27,2026-05-01,Open,Preventive,9655,9955,1,Mechanical
+WO-93117,A-6027,Kirkos,Valve,2026-04-28,2026-05-03,Closed,Inspection,9852,10252,2,Rapid
+WO-93118,A-6028,Lideta,Pipeline,2026-04-29,2026-05-05,Closed,Repair,10049,10549,3,Civil
+WO-93119,A-6029,Merkato,Pump,2026-04-30,2026-05-07,In Progress,Preventive,10246,10846,4,Mechanical
+WO-93120,A-6030,Gullele,Storage,2026-05-01,2026-05-09,Open,Inspection,10443,10443,5,Rapid
+WO-93121,A-6031,Bole,Valve,2026-05-02,2026-05-11,Closed,Repair,10640,10740,1,Civil
+WO-93122,A-6032,Akaki,Pipeline,2026-05-03,2026-05-13,Closed,Preventive,10837,11037,2,Mechanical
+WO-93123,A-6033,Kirkos,Pump,2026-05-04,2026-05-15,closed,Inspection,11034,11334,3,Rapid
+WO-93124,A-6034,Lideta,Storage,2026-05-05,2026-05-17,Open,Repair,11231,missing,4,Civil
+WO-93125,A-6035,Merkato,Valve,2026-05-06,2026-05-19,Closed,Preventive,11428,11928,5,Mechanical
+WO-93126,A-6036,Gullele,Pipeline,2026-05-07,2026-05-21,Closed,Inspection,11625,12225,1,Rapid
+WO-93127,A-6037,Bole,Pump,2026-05-08,2026-05-09,In Progress,Repair,11822,11822,2,Civil
+WO-93128,A-6038,Akaki,Storage,2026-05-09,2026-05-11,Open,Preventive,12019,12119,3,Mechanical
+WO-93129,A-6039,Kirkos,Valve,2026-05-10,2026-05-13,Closed,Inspection,12216,12416,4,Rapid
+WO-93130,A-6040,Lideta,Pipeline,2026-05-11,2026-05-15,Closed,Repair,12413,12713,5,Civil
+WO-93131,A-6041,Merkato,Pump,2026-05-12,2026-05-17,In Progress,Preventive,12610,13010,1,Mechanical
+WO-93132,A-6042,Gullele,Storage,2026-05-13,2026-05-19,Open,Inspection,12807,13307,2,Rapid
+WO-93133,A-6043,Bole,Valve,2026-05-14,2026-05-21,Closed,Repair,13004,13604,3,Civil
+WO-93134,A-6044,Akaki,Pipeline,2026-05-15,2026-05-23,Closed,Preventive,13201,13201,4,Mechanical
+WO-93135,A-6045,Kirkos,Pump,2026-05-16,2026-05-25,In Progress,Inspection,13398,13498,5,Rapid
+WO-93136,A-6046,Lideta,Storage,2026-05-17,2026-05-27,Open,Repair,13595,13795,1,Civil
+WO-93137,A-6047,Merkato,Valve,2026-05-18,2026-05-29,Closed,Preventive,13792,14092,2,Mechanical
+WO-93138,A-6048,Gullele,Pipeline,2026-05-19,2026-05-31,Closed,Inspection,13989,14389,3,Rapid
+WO-93139,A-6049,Bole,Pump,2026-05-20,2026-06-02,In Progress,Repair,14186,14686,4,Civil
+WO-93140,A-6050,Akaki,Storage,2026-05-21,2026-06-04,Open,Preventive,14383,14983,5,Mechanical
+WO-93141,A-6051,Kirkos,Valve,2026-05-22,2026-05-23,Closed,Inspection,14580,14580,1,Rapid
+WO-93142,A-6052,Lideta,Pipeline,2026-05-23,2026-05-25,Closed,Repair,14777,14877,2,Civil
+WO-93143,A-6053,Merkato,Pump,bad date,2026-05-27,In Progress,Preventive,14974,15174,3,Mechanical
+WO-93144,A-6054,Gullele,Storage,2026-05-25,2026-05-29,Open,Inspection,15171,15471,4,Rapid
+WO-93145,A-6055,Bole,Valve,2026-05-26,2026-05-31,Closed,Repair,15368,15768,5,Civil
+WO-93146,A-6056,Akaki,Pipeline,2026-05-27,2026-06-02,Closed,Preventive,15565,16065,1,Mechanical
+WO-93147,A-6057,Kirkos,Pump,2026-05-28,2026-06-04,In Progress,Inspection,15762,16362,2,Rapid
+WO-93148,A-6058,Lideta,Storage,2026-05-29,2026-06-06,Open,Repair,15959,15959,3,Civil
+WO-93149,A-6059,Merkato,Valve,2026-05-30,2026-06-08,Closed,Preventive,16156,16256,4,Mechanical
+WO-93150,A-6060,Gullele,Pipeline,2026-05-31,2026-06-10,Closed,Inspection,16353,16553,5,Rapid
+WO-93151,A-6061,Bole,Pump,2026-06-01,2026-06-12,In Progress,Repair,16550,16850,1,Civil
+WO-93152,A-6062,Akaki,Storage,2026-06-02,2026-06-14,Open,Preventive,16747,17147,2,Mechanical
+WO-93153,A-6063,Kirkos,Valve,2026-06-03,2026-06-16,Closed,Inspection,16944,17444,3,Rapid
+WO-93154,A-6064,Lideta,Pipeline,2026-06-04,2026-06-18,Closed,Repair,17141,17741,4,Civil
+WO-93155,A-6065,Merkato,Pump,2026-06-05,2026-06-06,In Progress,Preventive,17338,17338,5,Mechanical
+WO-93156,A-6066,Gullele,Storage,2026-06-06,2026-06-08,Open,Inspection,17535,17635,1,Rapid
+WO-93157,A-6067,Bole,Valve,2026-06-07,2026-06-10,Closed,Repair,17732,17932,2,Civil
+WO-93158,A-6068,Akaki,Pipeline,2026-06-08,2026-06-12,Closed,Preventive,17929,18229,3,Mechanical
+WO-93159,A-6069,Kirkos,Pump,2026-06-09,2026-06-14,In Progress,Inspection,2626,3026,4,Rapid
+WO-93160,A-6070,Lideta,Storage,2026-06-10,2026-06-16,Open,Repair,2823,-1500,5,Civil
+WO-93161,A-6071,Merkato,Valve,2026-06-11,2026-06-18,Closed,Preventive,3020,3620,1,Mechanical
+WO-93162,A-6072,Gullele,Pipeline,2026-06-12,2026-06-20,Closed,Inspection,3217,3217,2,Rapid
+WO-93163,A-6073,Bole,Pump,2026-06-13,2026-06-22,In Progress,Repair,3414,3514,3,Civil
+WO-93164,A-6074,Akaki,Storage,2026-06-14,2026-06-24,Open,Preventive,3611,3811,4,Mechanical
+WO-93165,A-6075,Kirkos,Valve,2026-06-15,2026-06-26,Closed,Inspection,3808,missing,5,Rapid
+WO-93166,A-6076,Lideta,Pipeline,2026-06-16,2026-06-28,Closed,Repair,4005,4405,1,Civil
+WO-93167,A-6077,Merkato,Pump,2026-06-17,2026-06-30,In Progress,Preventive,4202,4702,2,Mechanical
+WO-93168,A-6078,Gullele,Storage,2026-06-18,2026-07-02,Open,Inspection,4399,4999,3,Rapid
+WO-93169,A-6079,Bole,Valve,2026-06-19,2026-06-20,Closed,Repair,4596,4596,4,Civil
+WO-93170,A-6080,Akaki,Pipeline,2026-06-20,2026-06-22,Closed,Preventive,4793,4893,5,Mechanical
+WO-93171,A-6081,Kirkos,Pump,2026-06-21,2026-06-24,In Progress,Inspection,4990,5190,1,Rapid
+WO-93172,A-6082,Lideta,Storage,2026-06-22,2026-06-26,Open,Repair,5187,5487,2,Civil
+WO-93173,A-6083,Merkato,Valve,2026-06-23,2026-06-28,Closed,Preventive,5384,5784,3,Mechanical
+WO-93174,A-6084,Gullele,Pipeline,2026-06-24,2026-06-30,Closed,Inspection,5581,6081,4,Rapid
+WO-93175,A-6085,Bole,Pump,2026-06-25,2026-07-02,In Progress,Repair,5778,6378,5,Civil
+WO-93176,A-6086,Akaki,Storage,2026-06-26,2026-07-04,Open,Preventive,5975,5975,1,Mechanical
+WO-93177,A-6087,Kirkos,Valve,2026-06-27,2026-07-06,Closed,Inspection,6172,6272,2,Rapid
+WO-93178,A-6088,Lideta,Pipeline,2026-06-28,2026-07-08,Closed,Repair,6369,6569,3,Civil
+WO-93179,A-6089,Merkato,Pump,2026-06-29,2026-07-10,In Progress,Preventive,6566,6866,4,Mechanical
+WO-93180,A-6090,Gullele,Storage,2026-06-30,2026-07-12,Open,Inspection,6763,7163,5,Rapid
+WO-93181,A-6001,Bole,Valve,2026-07-01,2026-07-14,Closed,Repair,6960,7460,1,Civil
+WO-93182,A-6002,Akaki,Pipeline,2026-07-02,2026-07-16,Closed,Preventive,7157,7757,2,Mechanical
+WO-93183,A-6003,Kirkos,Pump,2026-07-03,2026-07-04,In Progress,Inspection,7354,7354,3,Rapid
+WO-93184,A-6004,Lideta,Storage,2026-07-04,2026-07-06,closed,Repair,7551,7651,4,Civil
+WO-93185,A-6005,Merkato,Valve,2026-07-05,2026-07-08,Closed,Preventive,7748,7948,5,Mechanical
+WO-93186,A-6006,Gullele,Pipeline,2026-07-06,2026-07-10,Closed,Inspection,7945,8245,1,Rapid
+WO-93187,A-6007,Bole,Pump,2026-07-07,2026-07-12,In Progress,Repair,8142,8542,2,Civil
+WO-93188,A-6008,Akaki,Storage,2026-07-08,2026-07-14,Open,Preventive,8339,8839,3,Mechanical
+WO-93189,A-6009,Kirkos,Valve,2026-07-09,2026-07-16,Closed,Inspection,8536,9136,4,Rapid
+WO-93190,A-6010,Lideta,Pipeline,2026-07-10,2026-07-18,Closed,Repair,8733,8733,5,Civil
+WO-93191,A-6011,Merkato,Pump,2026-07-11,2026-07-20,In Progress,Preventive,8930,9030,1,Mechanical
+WO-93192,A-6012,Gullele,Storage,2026-07-12,2026-07-22,Open,Inspection,9127,9327,2,Rapid
+WO-93193,A-6013,Bole,Valve,2026-07-13,2026-07-24,Closed,Repair,9324,9624,3,Civil
+WO-93194,A-6014,Akaki,Pipeline,2026-07-14,2026-07-26,Closed,Preventive,9521,9921,4,Mechanical
+WO-93195,A-6015,Kirkos,Pump,2026-07-15,2026-07-12,In Progress,Inspection,9718,10218,5,Rapid
+WO-93196,A-6016,Lideta,Storage,2026-07-16,2026-07-30,Open,Repair,9915,10515,1,Civil
+WO-93197,A-6017,Merkato,Valve,2026-07-17,2026-07-18,Closed,Preventive,10112,10112,2,Mechanical
+WO-93198,A-6018,Gullele,Pipeline,2026-07-18,2026-07-20,Closed,Inspection,10309,10409,3,Rapid
+WO-93199,A-6019,Bole,Pump,2026-07-19,2026-07-22,In Progress,Repair,10506,10706,4,Civil
+WO-93200,A-6020,Akaki,Storage,2026-07-20,2026-07-24,Open,Preventive,10703,11003,5,Mechanical
+WO-93201,A-6021,Kirkos,Valve,2026-07-21,2026-07-26,Closed,Inspection,10900,11300,1,Rapid
+WO-93202,A-6022,Lideta,Pipeline,2026-07-22,2026-07-28,Closed,Repair,11097,11597,2,Civil
+WO-93203,A-6023,Merkato,Pump,2026-07-23,2026-07-30,In Progress,Preventive,11294,11894,3,Mechanical
+WO-93204,A-6024,Gullele,Storage,2026-07-24,2026-08-01,Open,Inspection,11491,11491,4,Rapid
+WO-93205,A-6025,Bole,Valve,2026-07-25,2026-08-03,Closed,Repair,11688,11788,5,Civil
+WO-93206,A-6026,Akaki,Pipeline,2026-07-26,2026-08-05,Closed,Preventive,11885,missing,1,Mechanical
+WO-93207,A-6027,Kirkos,Pump,2026-07-27,2026-08-07,In Progress,Inspection,12082,12382,2,Rapid
+WO-93208,A-6028,Lideta,Storage,2026-07-28,2026-08-09,Open,Repair,12279,12679,3,Civil
+WO-93209,A-6029,Merkato,Valve,2026-07-29,2026-08-11,Closed,Preventive,12476,12976,4,Mechanical
+WO-93210,A-6030,Gullele,Pipeline,2026-07-30,2026-08-13,Closed,Inspection,12673,13273,5,Rapid
+WO-93211,A-6031,Bole,Pump,2026-07-31,2026-08-01,In Progress,Repair,12870,12870,1,Civil
+WO-93212,A-6032,Akaki,Storage,2026-08-01,2026-08-03,Open,Preventive,13067,13167,2,Mechanical
+WO-93213,A-6033,Kirkos,Valve,2026-08-02,2026-08-05,Closed,Inspection,13264,-1500,3,Rapid
+WO-93214,A-6034,Lideta,Pipeline,bad date,2026-08-07,Closed,Repair,13461,13761,4,Civil
+WO-93215,A-6035,Merkato,Pump,2026-08-04,2026-08-09,In Progress,Preventive,13658,14058,5,Mechanical
+WO-93216,A-6036,Gullele,Storage,2026-08-05,2026-08-11,Open,Inspection,13855,14355,1,Rapid
+WO-93217,A-6037,Bole,Valve,2026-08-06,2026-08-13,Closed,Repair,14052,14652,2,Civil
+WO-93218,A-6038,Akaki,Pipeline,2026-08-07,2026-08-15,Closed,Preventive,14249,14249,3,Mechanical
+WO-93219,A-6039,Kirkos,Pump,2026-08-08,2026-08-17,In Progress,Inspection,14446,14546,4,Rapid
+WO-93220,A-6040,Lideta,Storage,2026-08-09,2026-08-19,Open,Repair,14643,14843,5,Civil
+WO-93221,A-6041,Merkato,Valve,2026-08-10,2026-08-21,Closed,Preventive,14840,15140,1,Mechanical
+WO-93222,A-6042,Gullele,Pipeline,2026-08-11,2026-08-23,Closed,Inspection,15037,15437,2,Rapid
+WO-93223,A-6043,Bole,Pump,2026-08-12,2026-08-25,In Progress,Repair,15234,15734,3,Civil
+WO-93224,A-6044,Akaki,Storage,2026-08-13,2026-08-27,Open,Preventive,15431,16031,4,Mechanical
+WO-93225,A-6045,Kirkos,Valve,2026-08-14,2026-08-15,Closed,Inspection,15628,15628,5,Rapid
+WO-93226,A-6046,Lideta,Pipeline,2026-08-15,2026-08-17,Closed,Repair,15825,15925,1,Civil
+WO-93227,A-6047,Merkato,Pump,2026-08-16,2026-08-19,In Progress,Preventive,16022,16222,2,Mechanical
+WO-93228,A-6048,Gullele,Storage,2026-08-17,2026-08-21,Open,Inspection,16219,16519,3,Rapid
+WO-93229,A-6049,Bole,Valve,2026-08-18,2026-08-23,Closed,Repair,16416,16816,4,Civil
+WO-93230,A-6050,Akaki,Pipeline,2026-08-19,2026-08-25,Closed,Preventive,16613,17113,5,Mechanical
+WO-93231,A-6051,Kirkos,Pump,2026-08-20,2026-08-27,In Progress,Inspection,16810,17410,1,Rapid
+WO-93232,A-6052,Lideta,Storage,2026-08-21,2026-08-29,Open,Repair,17007,17007,2,Civil
+WO-93233,A-6053,Merkato,Valve,2026-08-22,2026-08-31,Closed,Preventive,17204,17304,3,Mechanical
+WO-93234,A-6054,Gullele,Pipeline,2026-08-23,2026-09-02,Closed,Inspection,17401,17601,4,Rapid
+WO-93235,A-6055,Bole,Pump,2026-08-24,2026-09-04,In Progress,Repair,17598,17898,5,Civil
+WO-93236,A-6056,Akaki,Storage,2026-08-25,2026-09-06,Open,Preventive,17795,18195,1,Mechanical
+WO-93237,A-6057,Kirkos,Valve,2026-08-26,2026-09-08,Closed,Inspection,17992,18492,2,Rapid
+WO-93238,A-6058,Lideta,Pipeline,2026-08-27,2026-09-10,Closed,Repair,2689,3289,3,Civil
+WO-93239,A-6059,Merkato,Pump,2026-08-28,2026-08-29,In Progress,Preventive,2886,2886,4,Mechanical
+WO-93240,A-6060,Gullele,Storage,2026-08-29,2026-08-31,Open,Inspection,3083,3183,5,Rapid
+WO-93241,A-6061,Bole,Valve,2026-08-30,2026-09-02,Closed,Repair,3280,3480,1,Civil
+WO-93242,A-6062,Akaki,Pipeline,2026-08-31,2026-09-04,Closed,Preventive,3477,3777,2,Mechanical
+WO-93243,A-6063,Kirkos,Pump,2026-09-01,2026-09-06,In Progress,Inspection,3674,4074,3,Rapid
+WO-93244,A-6064,Lideta,Storage,2026-09-02,2026-09-08,Open,Repair,3871,4371,4,Civil
+WO-93245,A-6065,Merkato,Valve,2026-09-03,2026-09-10,closed,Preventive,4068,4668,5,Mechanical
+WO-93246,A-6066,Gullele,Pipeline,2026-09-04,2026-09-12,Closed,Inspection,4265,4265,1,Rapid
+WO-93247,A-6067,Bole,Pump,2026-09-05,2026-09-14,In Progress,Repair,4462,missing,2,Civil
+WO-93248,A-6068,Akaki,Storage,2026-09-06,2026-09-16,Open,Preventive,4659,4859,3,Mechanical
+WO-93249,A-6069,Kirkos,Valve,2026-09-07,2026-09-18,Closed,Inspection,4856,5156,4,Rapid
+WO-93250,A-6070,Lideta,Pipeline,2026-09-08,2026-09-20,Closed,Repair,5053,5453,5,Civil
+WO-93251,A-6071,Merkato,Pump,2026-01-02,2026-01-15,In Progress,Preventive,5250,5750,1,Mechanical
+WO-93252,A-6072,Gullele,Storage,2026-01-03,2026-01-17,Open,Inspection,5447,6047,2,Rapid
+WO-93253,A-6073,Bole,Valve,2026-01-04,2026-01-05,Closed,Repair,5644,5644,3,Civil
+WO-93254,A-6074,Akaki,Pipeline,2026-01-05,2026-01-07,Closed,Preventive,5841,5941,4,Mechanical
+WO-93255,A-6075,Kirkos,Pump,2026-01-06,2026-01-09,In Progress,Inspection,6038,6238,5,Rapid
+WO-93256,A-6076,Lideta,Storage,2026-01-07,2026-01-11,Open,Repair,6235,6535,1,Civil
+WO-93257,A-6077,Merkato,Valve,2026-01-08,2026-01-13,Closed,Preventive,6432,6832,2,Mechanical
+WO-93258,A-6078,Gullele,Pipeline,2026-01-09,2026-01-15,Closed,Inspection,6629,7129,3,Rapid
+WO-93259,A-6079,Bole,Pump,2026-01-10,2026-01-17,In Progress,Repair,6826,7426,4,Civil
+WO-93260,A-6080,Akaki,Storage,2026-01-11,2026-01-19,Open,Preventive,7023,7023,5,Mechanical
+WO-93261,A-6081,Kirkos,Valve,2026-01-12,2026-01-21,Closed,Inspection,7220,7320,1,Rapid
+WO-93262,A-6082,Lideta,Pipeline,2026-01-13,2026-01-23,Closed,Repair,7417,7617,2,Civil
+WO-93263,A-6083,Merkato,Pump,2026-01-14,2026-01-25,In Progress,Preventive,7614,7914,3,Mechanical
+WO-93264,A-6084,Gullele,Storage,2026-01-15,2026-01-27,Open,Inspection,7811,8211,4,Rapid
+WO-93265,A-6085,Bole,Valve,2026-01-16,2026-01-29,Closed,Repair,8008,8508,5,Civil
+WO-93266,A-6086,Akaki,Pipeline,2026-01-17,2026-01-31,Closed,Preventive,8205,-1500,1,Mechanical
+WO-93267,A-6087,Kirkos,Pump,2026-01-18,2026-01-19,In Progress,Inspection,8402,8402,2,Rapid
+WO-93268,A-6088,Lideta,Storage,2026-01-19,2026-01-21,Open,Repair,8599,8699,3,Civil
+WO-93269,A-6089,Merkato,Valve,2026-01-20,2026-01-23,Closed,Preventive,8796,8996,4,Mechanical
+WO-93270,A-6090,Gullele,Pipeline,2026-01-21,2026-01-25,Closed,Inspection,8993,9293,5,Rapid
+WO-93271,A-6001,Bole,Pump,2026-01-22,2026-01-27,In Progress,Repair,9190,9590,1,Civil
+WO-93272,A-6002,Akaki,Storage,2026-01-23,2026-01-29,Open,Preventive,9387,9887,2,Mechanical
+WO-93273,A-6003,Kirkos,Valve,2026-01-24,2026-01-31,Closed,Inspection,9584,10184,3,Rapid
+WO-93274,A-6004,Lideta,Pipeline,2026-01-25,2026-02-02,Closed,Repair,9781,9781,4,Civil
+WO-93275,A-6005,Merkato,Pump,2026-01-26,2026-02-04,In Progress,Preventive,9978,10078,5,Mechanical
+WO-93276,A-6006,Gullele,Storage,2026-01-27,2026-02-06,Open,Inspection,10175,10375,1,Rapid
+WO-93277,A-6007,Bole,Valve,2026-01-28,2026-02-08,Closed,Repair,10372,10672,2,Civil
+WO-93278,A-6008,Akaki,Pipeline,2026-01-29,2026-02-10,Closed,Preventive,10569,10969,3,Mechanical
+WO-93279,A-6009,Kirkos,Pump,2026-01-30,2026-02-12,In Progress,Inspection,10766,11266,4,Rapid
+WO-93280,A-6010,Lideta,Storage,2026-01-31,2026-02-14,Open,Repair,10963,11563,5,Civil
+WO-93281,A-6011,Merkato,Valve,2026-02-01,2026-02-02,Closed,Preventive,11160,11160,1,Mechanical
+WO-93282,A-6012,Gullele,Pipeline,2026-02-02,2026-02-04,Closed,Inspection,11357,11457,2,Rapid
+WO-93283,A-6013,Bole,Pump,2026-02-03,2026-02-06,In Progress,Repair,11554,11754,3,Civil
+WO-93284,A-6014,Akaki,Storage,2026-02-04,2026-02-08,Open,Preventive,11751,12051,4,Mechanical
+WO-93285,A-6015,Kirkos,Valve,bad date,2026-02-10,Closed,Inspection,11948,12348,5,Rapid
+WO-93286,A-6016,Lideta,Pipeline,2026-02-06,2026-02-12,Closed,Repair,12145,12645,1,Civil
+WO-93287,A-6017,Merkato,Pump,2026-02-07,2026-02-14,In Progress,Preventive,12342,12942,2,Mechanical
+WO-93288,A-6018,Gullele,Storage,2026-02-08,2026-02-16,Open,Inspection,12539,missing,3,Rapid
+WO-93289,A-6019,Bole,Valve,2026-02-09,2026-02-18,Closed,Repair,12736,12836,4,Civil
+WO-93290,A-6020,Akaki,Pipeline,2026-02-10,2026-02-20,Closed,Preventive,12933,13133,5,Mechanical
+WO-93291,A-6021,Kirkos,Pump,2026-02-11,2026-02-22,In Progress,Inspection,13130,13430,1,Rapid
+WO-93292,A-6022,Lideta,Storage,2026-02-12,2026-02-09,Open,Repair,13327,13727,2,Civil
+WO-93293,A-6023,Merkato,Valve,2026-02-13,2026-02-26,Closed,Preventive,13524,14024,3,Mechanical
+WO-93294,A-6024,Gullele,Pipeline,2026-02-14,2026-02-28,Closed,Inspection,13721,14321,4,Rapid
+WO-93295,A-6025,Bole,Pump,2026-02-15,2026-02-16,In Progress,Repair,13918,13918,5,Civil
+WO-93296,A-6026,Akaki,Storage,2026-02-16,2026-02-18,Open,Preventive,14115,14215,1,Mechanical
+WO-93297,A-6027,Kirkos,Valve,2026-02-17,2026-02-20,Closed,Inspection,14312,14512,2,Rapid
+WO-93298,A-6028,Lideta,Pipeline,2026-02-18,2026-02-22,Closed,Repair,14509,14809,3,Civil
+WO-93299,A-6029,Merkato,Pump,2026-02-19,2026-02-24,In Progress,Preventive,14706,15106,4,Mechanical
+WO-93300,A-6030,Gullele,Storage,2026-02-20,2026-02-26,Open,Inspection,14903,15403,5,Rapid
+WO-93001,A-6001,Bole,Valve,bad date,2025-12-30,closed,Repair,2500,-1500,1,Civil
+WO-93011,A-6011,Merkato,Pump,2026-01-12,2026-01-23,In Progress,Preventive,4470,4770,1,Mechanical
+WO-93021,A-6021,Kirkos,Valve,2026-01-22,2026-01-29,Closed,Inspection,6440,7040,1,Rapid
+WO-93031,A-6031,Bole,Pump,2026-02-01,2026-02-04,In Progress,Repair,8410,8610,1,Civil
+WO-93041,A-6041,Merkato,Valve,2026-02-11,2026-02-24,Closed,Preventive,10380,10880,1,Mechanical
+WO-93051,A-6051,Kirkos,Pump,2026-02-21,2026-03-02,In Progress,Inspection,12350,12450,1,Rapid
+WO-93061,A-6061,Bole,Valve,2026-03-03,2026-03-08,Closed,Repair,14320,14720,1,Civil
+WO-93071,A-6071,Merkato,Pump,2026-03-13,2026-03-14,In Progress,Preventive,16290,16290,1,Mechanical
+WO-93081,A-6081,Kirkos,Valve,2026-03-23,2026-04-03,Closed,Inspection,2760,3060,1,Rapid
+WO-93091,A-6001,Bole,Pump,2026-04-02,2026-04-09,In Progress,Repair,4730,5330,1,Civil
