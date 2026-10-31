@@ -1,0 +1,361 @@
+project_id,reporting_month,branch,project_type,funding_source,procurement_method,milestone,planned_etb,actual_etb,completion_pct,variance_etb,cost_status,contractor_group
+CAP-101,2025-11-01,Bole,Network Expansion,Capital Budget,Open Bid,Design,360000,259200,8,-100800,Within Plan,Local A
+CAP-101,2025-12-01,Bole,Network Expansion,Capital Budget,Open Bid,Design,371000,322770,15,-48230,Within Plan,Local A
+CAP-101,2026-01-01,Bole,Network Expansion,Capital Budget,Open Bid,Design,382000,397280,22,15280,Over Plan,Local A
+CAP-101,2026-02-01,Bole,Network Expansion,Capital Budget,Open Bid,Tender,393000,475530,29,82530,Over Plan,Local A
+CAP-101,2026-03-01,Bole,Network Expansion,Capital Budget,Open Bid,Tender,404000,290880,36,-113120,Within Plan,Local A
+CAP-101,2026-04-01,Bole,Network Expansion,Capital Budget,Open Bid,Tender,415000,361050,43,-53950,Within Plan,Local A
+CAP-101,2026-05-01,Bole,Network Expansion,Capital Budget,Open Bid,Civil Works,426000,443040,50,17040,Over Plan,Local A
+CAP-101,2026-06-01,Bole,Network Expansion,Capital Budget,Open Bid,Civil Works,437000,528770,57,91770,Over Plan,Local A
+CAP-101,2026-07-01,Bole,Network Expansion,Capital Budget,Open Bid,Civil Works,448000,322560,64,-125440,Within Plan,Local A
+CAP-101,2026-08-01,Bole,Network Expansion,Capital Budget,Open Bid,Install,459000,399330,71,-59670,Within Plan,Local A
+CAP-101,2026-09-01,Bole,Network Expansion,Capital Budget,Open Bid,Install,470000,488800,78,18800,Over Plan,Local A
+CAP-101,2026-10-01,Bole,Network Expansion,Capital Budget,Open Bid,Install,481000,582010,85,101010,Over Plan,Local A
+CAP-102,2025-11-01,Akaki,Water Storage,Development Grant,Framework,Design,377000,327990,10,-49010,Within Plan,Local B
+CAP-102,2025-12-01,Akaki,Water Storage,Development Grant,Framework,Design,388000,403520,17,15520,Over Plan,Local B
+CAP-102,2026-01-01,Akaki,Water Storage,Development Grant,Framework,Tender,399000,482790,24,83790,Over Plan,Local B
+CAP-102,2026-02-01,Akaki,Water Storage,Development Grant,Framework,Tender,410000,295200,31,-114800,Within Plan,Local B
+CAP-102,2026-03-01,Akaki,Water Storage,Development Grant,Framework,Tender,421000,366270,38,-54730,Within Plan,Local B
+CAP-102,2026-04-01,Akaki,Water Storage,Development Grant,Framework,Civil Works,432000,449280,45,17280,Over Plan,Local B
+CAP-102,2026-05-01,Akaki,Water Storage,Development Grant,Framework,Civil Works,443000,536030,52,93030,Over Plan,Local B
+CAP-102,2026-06-01,Akaki,Water Storage,Development Grant,Framework,Civil Works,454000,326880,59,-127120,Within Plan,Local B
+CAP-102,2026-07-01,Akaki,Water Storage,Development Grant,Framework,Install,465000,404550,66,-60450,Within Plan,Local B
+CAP-102,2026-08-01,Akaki,Water Storage,Development Grant,Framework,Install,476000,495040,73,19040,Over Plan,Local B
+CAP-102,2026-09-01,Akaki,Water Storage,Development Grant,Framework,Install,487000,589270,80,102270,Over Plan,Local B
+CAP-102,2026-10-01,Akaki,Water Storage,Development Grant,Framework,Commission,498000,358560,87,-139440,Within Plan,Local B
+CAP-103,2025-11-01,Kirkos,Civil Upgrade,Utility Revenue,Direct,Design,394000,409760,12,15760,Over Plan,JV
+CAP-103,2025-12-01,Kirkos,Civil Upgrade,Utility Revenue,Direct,Tender,405000,490050,19,85050,Over Plan,JV
+CAP-103,2026-01-01,Kirkos,Civil Upgrade,Utility Revenue,Direct,Tender,416000,299520,26,-116480,Within Plan,JV
+CAP-103,2026-02-01,Kirkos,Civil Upgrade,Utility Revenue,Direct,Tender,427000,371490,33,-55510,Within Plan,JV
+CAP-103,2026-03-01,Kirkos,Civil Upgrade,Utility Revenue,Direct,Civil Works,438000,455520,40,17520,Over Plan,JV
+CAP-103,2026-04-01,Kirkos,Civil Upgrade,Utility Revenue,Direct,Civil Works,449000,543290,47,94290,Over Plan,JV
+CAP-103,2026-05-01,Kirkos,Civil Upgrade,Utility Revenue,Direct,Civil Works,460000,331200,54,-128800,Within Plan,JV
+CAP-103,2026-06-01,Kirkos,Civil Upgrade,Utility Revenue,Direct,Install,471000,409770,61,-61230,Within Plan,JV
+CAP-103,2026-07-01,Kirkos,Civil Upgrade,Utility Revenue,Direct,Install,482000,501280,68,19280,Over Plan,JV
+CAP-103,2026-08-01,Kirkos,Civil Upgrade,Utility Revenue,Direct,Install,493000,596530,75,103530,Over Plan,JV
+CAP-103,2026-09-01,Kirkos,Civil Upgrade,Utility Revenue,Direct,Commission,504000,362880,82,-141120,Within Plan,JV
+CAP-103,2026-10-01,Kirkos,Civil Upgrade,Utility Revenue,Direct,Commission,515000,448050,89,-66950,Within Plan,JV
+CAP-104,2025-11-01,Lideta,Control Systems,Capital Budget,Open Bid,Tender,411000,497310,14,86310,Over Plan,Specialist
+CAP-104,2025-12-01,Lideta,Control Systems,Capital Budget,Open Bid,Tender,422000,303840,21,-118160,Within Plan,Specialist
+CAP-104,2026-01-01,Lideta,Control Systems,Capital Budget,Open Bid,Tender,433000,376710,28,-56290,Within Plan,Specialist
+CAP-104,2026-02-01,Lideta,Control Systems,Capital Budget,Open Bid,Civil Works,444000,461760,35,17760,Over Plan,Specialist
+CAP-104,2026-03-01,Lideta,Control Systems,Capital Budget,Open Bid,Civil Works,455000,550550,42,95550,Over Plan,Specialist
+CAP-104,2026-04-01,Lideta,Control Systems,Capital Budget,Open Bid,Civil Works,466000,335520,49,-130480,Within Plan,Specialist
+CAP-104,2026-05-01,Lideta,Control Systems,Capital Budget,Open Bid,Install,477000,414990,56,-62010,Within Plan,Specialist
+CAP-104,2026-06-01,Lideta,Control Systems,Capital Budget,Open Bid,Install,488000,507520,63,19520,Over Plan,Specialist
+CAP-104,2026-07-01,Lideta,Control Systems,Capital Budget,Open Bid,Install,499000,603790,70,104790,Over Plan,Specialist
+CAP-104,2026-08-01,Lideta,Control Systems,Capital Budget,Open Bid,Commission,510000,367200,77,-142800,Within Plan,Specialist
+CAP-104,2026-09-01,Lideta,Control Systems,Capital Budget,Open Bid,Commission,521000,453270,84,-67730,Within Plan,Specialist
+CAP-104,2026-10-01,Lideta,Control Systems,Capital Budget,Open Bid,Commission,532000,553280,91,21280,Over Plan,Specialist
+CAP-105,2025-11-01,Gullele,Network Expansion,Development Grant,Framework,Tender,428000,308160,16,-119840,Within Plan,Local A
+CAP-105,2025-12-01,Gullele,Network Expansion,Development Grant,Framework,Tender,439000,381930,23,-57070,Within Plan,Local A
+CAP-105,2026-01-01,Gullele,Network Expansion,Development Grant,Framework,Civil Works,450000,468000,30,18000,Over Plan,Local A
+CAP-105,2026-02-01,Gullele,Network Expansion,Development Grant,Framework,Civil Works,461000,557810,37,96810,Over Plan,Local A
+CAP-105,2026-03-01,Gullele,Network Expansion,Development Grant,Framework,Civil Works,472000,339840,44,-132160,Within Plan,Local A
+CAP-105,2026-04-01,Gullele,Network Expansion,Development Grant,Framework,Install,483000,420210,51,-62790,Within Plan,Local A
+CAP-105,2026-05-01,Gullele,Network Expansion,Development Grant,Framework,Install,494000,513760,58,19760,Over Plan,Local A
+CAP-105,2026-06-01,Gullele,Network Expansion,Development Grant,Framework,Install,505000,611050,65,106050,Over Plan,Local A
+CAP-105,2026-07-01,Gullele,Network Expansion,Development Grant,Framework,Commission,516000,371520,72,-144480,Within Plan,Local A
+CAP-105,2026-08-01,Gullele,Network Expansion,Development Grant,Framework,Commission,527000,458490,79,-68510,Within Plan,Local A
+CAP-105,2026-09-01,Gullele,Network Expansion,Development Grant,Framework,Commission,538000,559520,86,21520,Over Plan,Local A
+CAP-105,2026-10-01,Gullele,Network Expansion,Development Grant,Framework,Design,549000,664290,93,115290,Over Plan,Local A
+CAP-106,2025-11-01,Nifas Silk,Water Storage,Utility Revenue,Direct,Tender,445000,387150,8,-57850,Within Plan,Local B
+CAP-106,2025-12-01,Nifas Silk,Water Storage,Utility Revenue,Direct,Civil Works,456000,474240,15,18240,Over Plan,Local B
+CAP-106,2026-01-01,Nifas Silk,Water Storage,Utility Revenue,Direct,Civil Works,467000,565070,22,98070,Over Plan,Local B
+CAP-106,2026-02-01,Nifas Silk,Water Storage,Utility Revenue,Direct,Civil Works,478000,344160,29,-133840,Within Plan,Local B
+CAP-106,2026-03-01,Nifas Silk,Water Storage,Utility Revenue,Direct,Install,489000,425430,36,-63570,Within Plan,Local B
+CAP-106,2026-04-01,Nifas Silk,Water Storage,Utility Revenue,Direct,Install,500000,520000,43,20000,Over Plan,Local B
+CAP-106,2026-05-01,Nifas Silk,Water Storage,Utility Revenue,Direct,Install,511000,618310,50,107310,Over Plan,Local B
+CAP-106,2026-06-01,Nifas Silk,Water Storage,Utility Revenue,Direct,Commission,522000,375840,57,-146160,Within Plan,Local B
+CAP-106,2026-07-01,Nifas Silk,Water Storage,Utility Revenue,Direct,Commission,533000,463710,64,-69290,Within Plan,Local B
+CAP-106,2026-08-01,Nifas Silk,Water Storage,Utility Revenue,Direct,Commission,544000,565760,71,21760,Over Plan,Local B
+CAP-106,2026-09-01,Nifas Silk,Water Storage,Utility Revenue,Direct,Design,555000,671550,78,116550,Over Plan,Local B
+CAP-106,2026-10-01,Nifas Silk,Water Storage,Utility Revenue,Direct,Design,566000,407520,85,-158480,Within Plan,Local B
+CAP-107,2025-11-01,Bole,Civil Upgrade,Capital Budget,Open Bid,Civil Works,462000,480480,10,18480,Over Plan,JV
+CAP-107,2025-12-01,Bole,Civil Upgrade,Capital Budget,Open Bid,Civil Works,473000,572330,17,99330,Over Plan,JV
+CAP-107,2026-01-01,Bole,Civil Upgrade,Capital Budget,Open Bid,Civil Works,484000,348480,24,-135520,Within Plan,JV
+CAP-107,2026-02-01,Bole,Civil Upgrade,Capital Budget,Open Bid,Install,495000,430650,31,-64350,Within Plan,JV
+CAP-107,2026-03-01,Bole,Civil Upgrade,Capital Budget,Open Bid,Install,506000,526240,38,20240,Over Plan,JV
+CAP-107,2026-04-01,Bole,Civil Upgrade,Capital Budget,Open Bid,Install,517000,625570,45,108570,Over Plan,JV
+CAP-107,2026-05-01,Bole,Civil Upgrade,Capital Budget,Open Bid,Commission,528000,380160,52,-147840,Within Plan,JV
+CAP-107,2026-06-01,Bole,Civil Upgrade,Capital Budget,Open Bid,Commission,539000,468930,59,-70070,Within Plan,JV
+CAP-107,2026-07-01,Bole,Civil Upgrade,Capital Budget,Open Bid,Commission,550000,572000,66,22000,Over Plan,JV
+CAP-107,2026-08-01,Bole,Civil Upgrade,Capital Budget,Open Bid,Design,561000,678810,73,117810,Over Plan,JV
+CAP-107,2026-09-01,Bole,Civil Upgrade,Capital Budget,Open Bid,Design,572000,411840,80,-160160,Within Plan,JV
+CAP-107,2026-10-01,Bole,Civil Upgrade,Capital Budget,Open Bid,Design,583000,507210,87,-75790,Within Plan,JV
+CAP-108,2025-11-01,Akaki,Control Systems,Development Grant,Framework,Civil Works,479000,579590,12,100590,Over Plan,Specialist
+CAP-108,2025-12-01,Akaki,Control Systems,Development Grant,Framework,Civil Works,490000,352800,19,-137200,Within Plan,Specialist
+CAP-108,2026-01-01,Akaki,Control Systems,Development Grant,Framework,Install,501000,435870,26,-65130,Within Plan,Specialist
+CAP-108,2026-02-01,Akaki,Control Systems,Development Grant,Framework,Install,512000,532480,33,20480,Over Plan,Specialist
+CAP-108,2026-03-01,Akaki,Control Systems,Development Grant,Framework,Install,523000,632830,40,109830,Over Plan,Specialist
+CAP-108,2026-04-01,Akaki,Control Systems,Development Grant,Framework,Commission,534000,384480,47,-149520,Within Plan,Specialist
+CAP-108,2026-05-01,Akaki,Control Systems,Development Grant,Framework,Commission,545000,474150,54,-70850,Within Plan,Specialist
+CAP-108,2026-06-01,Akaki,Control Systems,Development Grant,Framework,Commission,556000,578240,61,22240,Over Plan,Specialist
+CAP-108,2026-07-01,Akaki,Control Systems,Development Grant,Framework,Design,567000,686070,68,119070,Over Plan,Specialist
+CAP-108,2026-08-01,Akaki,Control Systems,Development Grant,Framework,Design,578000,416160,75,-161840,Within Plan,Specialist
+CAP-108,2026-09-01,Akaki,Control Systems,Development Grant,Framework,Design,589000,512430,82,-76570,Within Plan,Specialist
+CAP-108,2026-10-01,Akaki,Control Systems,Development Grant,Framework,Tender,600000,624000,89,24000,Over Plan,Specialist
+CAP-109,2025-11-01,Kirkos,Network Expansion,Utility Revenue,Direct,Civil Works,496000,357120,14,-138880,Within Plan,Local A
+CAP-109,2025-12-01,Kirkos,Network Expansion,Utility Revenue,Direct,Install,507000,441090,21,-65910,Within Plan,Local A
+CAP-109,2026-01-01,Kirkos,Network Expansion,Utility Revenue,Direct,Install,518000,538720,28,20720,Over Plan,Local A
+CAP-109,2026-02-01,Kirkos,Network Expansion,Utility Revenue,Direct,Install,529000,640090,35,111090,Over Plan,Local A
+CAP-109,2026-03-01,Kirkos,Network Expansion,Utility Revenue,Direct,Commission,540000,388800,42,-151200,Within Plan,Local A
+CAP-109,2026-04-01,Kirkos,Network Expansion,Utility Revenue,Direct,Commission,551000,479370,49,-71630,Within Plan,Local A
+CAP-109,2026-05-01,Kirkos,Network Expansion,Utility Revenue,Direct,Commission,562000,584480,56,22480,Over Plan,Local A
+CAP-109,2026-06-01,Kirkos,Network Expansion,Utility Revenue,Direct,Design,573000,693330,63,120330,Over Plan,Local A
+CAP-109,2026-07-01,Kirkos,Network Expansion,Utility Revenue,Direct,Design,584000,420480,70,-163520,Within Plan,Local A
+CAP-109,2026-08-01,Kirkos,Network Expansion,Utility Revenue,Direct,Design,595000,517650,77,-77350,Within Plan,Local A
+CAP-109,2026-09-01,Kirkos,Network Expansion,Utility Revenue,Direct,Tender,606000,630240,84,24240,Over Plan,Local A
+CAP-109,2026-10-01,Kirkos,Network Expansion,Utility Revenue,Direct,Tender,617000,746570,91,129570,Over Plan,Local A
+CAP-110,2025-11-01,Lideta,Water Storage,Capital Budget,Open Bid,Install,513000,446310,16,-66690,Within Plan,Local B
+CAP-110,2025-12-01,Lideta,Water Storage,Capital Budget,Open Bid,Install,524000,544960,23,20960,Over Plan,Local B
+CAP-110,2026-01-01,Lideta,Water Storage,Capital Budget,Open Bid,Install,535000,647350,30,112350,Over Plan,Local B
+CAP-110,2026-02-01,Lideta,Water Storage,Capital Budget,Open Bid,Commission,546000,393120,37,-152880,Within Plan,Local B
+CAP-110,2026-03-01,Lideta,Water Storage,Capital Budget,Open Bid,Commission,557000,484590,44,-72410,Within Plan,Local B
+CAP-110,2026-04-01,Lideta,Water Storage,Capital Budget,Open Bid,Commission,568000,590720,51,22720,Over Plan,Local B
+CAP-110,2026-05-01,Lideta,Water Storage,Capital Budget,Open Bid,Design,579000,700590,58,121590,Over Plan,Local B
+CAP-110,2026-06-01,Lideta,Water Storage,Capital Budget,Open Bid,Design,590000,424800,65,-165200,Within Plan,Local B
+CAP-110,2026-07-01,Lideta,Water Storage,Capital Budget,Open Bid,Design,601000,522870,72,-78130,Within Plan,Local B
+CAP-110,2026-08-01,Lideta,Water Storage,Capital Budget,Open Bid,Tender,612000,636480,79,24480,Over Plan,Local B
+CAP-110,2026-09-01,Lideta,Water Storage,Capital Budget,Open Bid,Tender,623000,753830,86,130830,Over Plan,Local B
+CAP-110,2026-10-01,Lideta,Water Storage,Capital Budget,Open Bid,Tender,634000,456480,93,-177520,Within Plan,Local B
+CAP-111,2025-11-01,Gullele,Civil Upgrade,Development Grant,Framework,Install,530000,551200,8,21200,Over Plan,JV
+CAP-111,2025-12-01,Gullele,Civil Upgrade,Development Grant,Framework,Install,541000,654610,15,113610,Over Plan,JV
+CAP-111,2026-01-01,Gullele,Civil Upgrade,Development Grant,Framework,Commission,552000,397440,22,-154560,Within Plan,JV
+CAP-111,2026-02-01,Gullele,Civil Upgrade,Development Grant,Framework,Commission,563000,489810,29,-73190,Within Plan,JV
+CAP-111,2026-03-01,Gullele,Civil Upgrade,Development Grant,Framework,Commission,574000,596960,36,22960,Over Plan,JV
+CAP-111,2026-04-01,Gullele,Civil Upgrade,Development Grant,Framework,Design,585000,707850,43,122850,Over Plan,JV
+CAP-111,2026-05-01,Gullele,Civil Upgrade,Development Grant,Framework,Design,596000,429120,50,-166880,Within Plan,JV
+CAP-111,2026-06-01,Gullele,Civil Upgrade,Development Grant,Framework,Design,607000,528090,57,-78910,Within Plan,JV
+CAP-111,2026-07-01,Gullele,Civil Upgrade,Development Grant,Framework,Tender,618000,642720,64,24720,Over Plan,JV
+CAP-111,2026-08-01,Gullele,Civil Upgrade,Development Grant,Framework,Tender,629000,761090,71,132090,Over Plan,JV
+CAP-111,2026-09-01,Gullele,Civil Upgrade,Development Grant,Framework,Tender,640000,460800,78,-179200,Within Plan,JV
+CAP-111,2026-10-01,Gullele,Civil Upgrade,Development Grant,Framework,Civil Works,651000,566370,85,-84630,Within Plan,JV
+CAP-112,2025-11-01,Nifas Silk,Control Systems,Utility Revenue,Direct,Install,547000,661870,10,114870,Over Plan,Specialist
+CAP-112,2025-12-01,Nifas Silk,Control Systems,Utility Revenue,Direct,Commission,558000,401760,17,-156240,Within Plan,Specialist
+CAP-112,2026-01-01,Nifas Silk,Control Systems,Utility Revenue,Direct,Commission,569000,495030,24,-73970,Within Plan,Specialist
+CAP-112,2026-02-01,Nifas Silk,Control Systems,Utility Revenue,Direct,Commission,580000,603200,31,23200,Over Plan,Specialist
+CAP-112,2026-03-01,Nifas Silk,Control Systems,Utility Revenue,Direct,Design,591000,715110,38,124110,Over Plan,Specialist
+CAP-112,2026-04-01,Nifas Silk,Control Systems,Utility Revenue,Direct,Design,602000,433440,45,-168560,Within Plan,Specialist
+CAP-112,2026-05-01,Nifas Silk,Control Systems,Utility Revenue,Direct,Design,613000,533310,52,-79690,Within Plan,Specialist
+CAP-112,2026-06-01,Nifas Silk,Control Systems,Utility Revenue,Direct,Tender,624000,648960,59,24960,Over Plan,Specialist
+CAP-112,2026-07-01,Nifas Silk,Control Systems,Utility Revenue,Direct,Tender,635000,768350,66,133350,Over Plan,Specialist
+CAP-112,2026-08-01,Nifas Silk,Control Systems,Utility Revenue,Direct,Tender,646000,465120,73,-180880,Within Plan,Specialist
+CAP-112,2026-09-01,Nifas Silk,Control Systems,Utility Revenue,Direct,Civil Works,657000,571590,80,-85410,Within Plan,Specialist
+CAP-112,2026-10-01,Nifas Silk,Control Systems,Utility Revenue,Direct,Civil Works,668000,694720,87,26720,Over Plan,Specialist
+CAP-113,2025-11-01,Bole,Network Expansion,Capital Budget,Open Bid,Commission,564000,406080,12,-157920,Within Plan,Local A
+CAP-113,2025-12-01,Bole,Network Expansion,Capital Budget,Open Bid,Commission,575000,500250,19,-74750,Within Plan,Local A
+CAP-113,2026-01-01,Bole,Network Expansion,Capital Budget,Open Bid,Commission,586000,609440,26,23440,Over Plan,Local A
+CAP-113,2026-02-01,Bole,Network Expansion,Capital Budget,Open Bid,Design,597000,722370,33,125370,Over Plan,Local A
+CAP-113,2026-03-01,Bole,Network Expansion,Capital Budget,Open Bid,Design,608000,437760,40,-170240,Within Plan,Local A
+CAP-113,2026-04-01,Bole,Network Expansion,Capital Budget,Open Bid,Design,619000,538530,47,-80470,Within Plan,Local A
+CAP-113,2026-05-01,Bole,Network Expansion,Capital Budget,Open Bid,Tender,630000,655200,54,25200,Over Plan,Local A
+CAP-113,2026-06-01,Bole,Network Expansion,Capital Budget,Open Bid,Tender,641000,775610,61,134610,Over Plan,Local A
+CAP-113,2026-07-01,Bole,Network Expansion,Capital Budget,Open Bid,Tender,652000,469440,68,-182560,Within Plan,Local A
+CAP-113,2026-08-01,Bole,Network Expansion,Capital Budget,Open Bid,Civil Works,663000,576810,75,-86190,Within Plan,Local A
+CAP-113,2026-09-01,Bole,Network Expansion,Capital Budget,Open Bid,Civil Works,674000,700960,82,26960,Over Plan,Local A
+CAP-113,2026-10-01,Bole,Network Expansion,Capital Budget,Open Bid,Civil Works,685000,828850,89,143850,Over Plan,Local A
+CAP-114,2025-11-01,Akaki,Water Storage,Development Grant,Framework,Commission,581000,505470,14,-75530,Within Plan,Local B
+CAP-114,2025-12-01,Akaki,Water Storage,Development Grant,Framework,Commission,592000,615680,21,23680,Over Plan,Local B
+CAP-114,2026-01-01,Akaki,Water Storage,Development Grant,Framework,Design,603000,729630,28,126630,Over Plan,Local B
+CAP-114,2026-02-01,Akaki,Water Storage,Development Grant,Framework,Design,614000,442080,35,-171920,Within Plan,Local B
+CAP-114,2026-03-01,Akaki,Water Storage,Development Grant,Framework,Design,625000,543750,42,-81250,Within Plan,Local B
+CAP-114,2026-04-01,Akaki,Water Storage,Development Grant,Framework,Tender,636000,661440,49,25440,Over Plan,Local B
+CAP-114,2026-05-01,Akaki,Water Storage,Development Grant,Framework,Tender,647000,782870,56,135870,Over Plan,Local B
+CAP-114,2026-06-01,Akaki,Water Storage,Development Grant,Framework,Tender,658000,473760,63,-184240,Within Plan,Local B
+CAP-114,2026-07-01,Akaki,Water Storage,Development Grant,Framework,Civil Works,669000,582030,70,-86970,Within Plan,Local B
+CAP-114,2026-08-01,Akaki,Water Storage,Development Grant,Framework,Civil Works,680000,707200,77,27200,Over Plan,Local B
+CAP-114,2026-09-01,Akaki,Water Storage,Development Grant,Framework,Civil Works,691000,836110,84,145110,Over Plan,Local B
+CAP-114,2026-10-01,Akaki,Water Storage,Development Grant,Framework,Install,702000,505440,91,-196560,Within Plan,Local B
+CAP-115,2025-11-01,Kirkos,Civil Upgrade,Utility Revenue,Direct,Commission,598000,621920,16,23920,Over Plan,JV
+CAP-115,2025-12-01,Kirkos,Civil Upgrade,Utility Revenue,Direct,Design,609000,736890,23,127890,Over Plan,JV
+CAP-115,2026-01-01,Kirkos,Civil Upgrade,Utility Revenue,Direct,Design,620000,446400,30,-173600,Within Plan,JV
+CAP-115,2026-02-01,Kirkos,Civil Upgrade,Utility Revenue,Direct,Design,631000,548970,37,-82030,Within Plan,JV
+CAP-115,2026-03-01,Kirkos,Civil Upgrade,Utility Revenue,Direct,Tender,642000,667680,44,25680,Over Plan,JV
+CAP-115,2026-04-01,Kirkos,Civil Upgrade,Utility Revenue,Direct,Tender,653000,790130,51,137130,Over Plan,JV
+CAP-115,2026-05-01,Kirkos,Civil Upgrade,Utility Revenue,Direct,Tender,664000,478080,58,-185920,Within Plan,JV
+CAP-115,2026-06-01,Kirkos,Civil Upgrade,Utility Revenue,Direct,Civil Works,675000,587250,65,-87750,Within Plan,JV
+CAP-115,2026-07-01,Kirkos,Civil Upgrade,Utility Revenue,Direct,Civil Works,686000,713440,72,27440,Over Plan,JV
+CAP-115,2026-08-01,Kirkos,Civil Upgrade,Utility Revenue,Direct,Civil Works,697000,843370,79,146370,Over Plan,JV
+CAP-115,2026-09-01,Kirkos,Civil Upgrade,Utility Revenue,Direct,Install,708000,509760,86,-198240,Within Plan,JV
+CAP-115,2026-10-01,Kirkos,Civil Upgrade,Utility Revenue,Direct,Install,719000,625530,93,-93470,Within Plan,JV
+CAP-116,2025-11-01,Lideta,Control Systems,Capital Budget,Open Bid,Design,615000,744150,8,129150,Over Plan,Specialist
+CAP-116,2025-12-01,Lideta,Control Systems,Capital Budget,Open Bid,Design,626000,450720,15,-175280,Within Plan,Specialist
+CAP-116,2026-01-01,Lideta,Control Systems,Capital Budget,Open Bid,Design,637000,554190,22,-82810,Within Plan,Specialist
+CAP-116,2026-02-01,Lideta,Control Systems,Capital Budget,Open Bid,Tender,648000,673920,29,25920,Over Plan,Specialist
+CAP-116,2026-03-01,Lideta,Control Systems,Capital Budget,Open Bid,Tender,659000,797390,36,138390,Over Plan,Specialist
+CAP-116,2026-04-01,Lideta,Control Systems,Capital Budget,Open Bid,Tender,670000,482400,43,-187600,Within Plan,Specialist
+CAP-116,2026-05-01,Lideta,Control Systems,Capital Budget,Open Bid,Civil Works,681000,592470,50,-88530,Within Plan,Specialist
+CAP-116,2026-06-01,Lideta,Control Systems,Capital Budget,Open Bid,Civil Works,692000,719680,57,27680,Over Plan,Specialist
+CAP-116,2026-07-01,Lideta,Control Systems,Capital Budget,Open Bid,Civil Works,703000,850630,64,147630,Over Plan,Specialist
+CAP-116,2026-08-01,Lideta,Control Systems,Capital Budget,Open Bid,Install,714000,514080,71,-199920,Within Plan,Specialist
+CAP-116,2026-09-01,Lideta,Control Systems,Capital Budget,Open Bid,Install,725000,630750,78,-94250,Within Plan,Specialist
+CAP-116,2026-10-01,Lideta,Control Systems,Capital Budget,Open Bid,Install,736000,765440,85,29440,Over Plan,Specialist
+CAP-117,2025-11-01,Gullele,Network Expansion,Development Grant,Framework,Design,632000,455040,10,-176960,Within Plan,Local A
+CAP-117,2025-12-01,Gullele,Network Expansion,Development Grant,Framework,Design,643000,559410,17,-83590,Within Plan,Local A
+CAP-117,2026-01-01,Gullele,Network Expansion,Development Grant,Framework,Tender,654000,680160,24,26160,Over Plan,Local A
+CAP-117,2026-02-01,Gullele,Network Expansion,Development Grant,Framework,Tender,665000,804650,31,139650,Over Plan,Local A
+CAP-117,2026-03-01,Gullele,Network Expansion,Development Grant,Framework,Tender,676000,486720,38,-189280,Within Plan,Local A
+CAP-117,2026-04-01,Gullele,Network Expansion,Development Grant,Framework,Civil Works,687000,597690,45,-89310,Within Plan,Local A
+CAP-117,2026-05-01,Gullele,Network Expansion,Development Grant,Framework,Civil Works,698000,725920,52,27920,Over Plan,Local A
+CAP-117,2026-06-01,Gullele,Network Expansion,Development Grant,Framework,Civil Works,709000,857890,59,148890,Over Plan,Local A
+CAP-117,2026-07-01,Gullele,Network Expansion,Development Grant,Framework,Install,720000,518400,66,-201600,Within Plan,Local A
+CAP-117,2026-08-01,Gullele,Network Expansion,Development Grant,Framework,Install,731000,635970,73,-95030,Within Plan,Local A
+CAP-117,2026-09-01,Gullele,Network Expansion,Development Grant,Framework,Install,742000,771680,80,29680,Over Plan,Local A
+CAP-117,2026-10-01,Gullele,Network Expansion,Development Grant,Framework,Commission,753000,911130,87,158130,Over Plan,Local A
+CAP-118,2025-11-01,Nifas Silk,Water Storage,Utility Revenue,Direct,Design,649000,564630,12,-84370,Within Plan,Local B
+CAP-118,2025-12-01,Nifas Silk,Water Storage,Utility Revenue,Direct,Tender,660000,686400,19,26400,Over Plan,Local B
+CAP-118,2026-01-01,Nifas Silk,Water Storage,Utility Revenue,Direct,Tender,671000,811910,26,140910,Over Plan,Local B
+CAP-118,2026-02-01,Nifas Silk,Water Storage,Utility Revenue,Direct,Tender,682000,491040,33,-190960,Within Plan,Local B
+CAP-118,2026-03-01,Nifas Silk,Water Storage,Utility Revenue,Direct,Civil Works,693000,602910,40,-90090,Within Plan,Local B
+CAP-118,2026-04-01,Nifas Silk,Water Storage,Utility Revenue,Direct,Civil Works,704000,732160,47,28160,Over Plan,Local B
+CAP-118,2026-05-01,Nifas Silk,Water Storage,Utility Revenue,Direct,Civil Works,715000,865150,54,150150,Over Plan,Local B
+CAP-118,2026-06-01,Nifas Silk,Water Storage,Utility Revenue,Direct,Install,726000,522720,61,-203280,Within Plan,Local B
+CAP-118,2026-07-01,Nifas Silk,Water Storage,Utility Revenue,Direct,Install,737000,641190,68,-95810,Within Plan,Local B
+CAP-118,2026-08-01,Nifas Silk,Water Storage,Utility Revenue,Direct,Install,748000,777920,75,29920,Over Plan,Local B
+CAP-118,2026-09-01,Nifas Silk,Water Storage,Utility Revenue,Direct,Commission,759000,918390,82,159390,Over Plan,Local B
+CAP-118,2026-10-01,Nifas Silk,Water Storage,Utility Revenue,Direct,Commission,770000,554400,89,-215600,Within Plan,Local B
+CAP-119,2025-11-01,Bole,Civil Upgrade,Capital Budget,Open Bid,Tender,666000,692640,14,26640,Over Plan,JV
+CAP-119,2025-12-01,Bole,Civil Upgrade,Capital Budget,Open Bid,Tender,677000,819170,21,142170,Over Plan,JV
+CAP-119,2026-01-01,Bole,Civil Upgrade,Capital Budget,Open Bid,Tender,688000,495360,28,-192640,Within Plan,JV
+CAP-119,2026-02-01,Bole,Civil Upgrade,Capital Budget,Open Bid,Civil Works,699000,608130,35,-90870,Within Plan,JV
+CAP-119,2026-03-01,Bole,Civil Upgrade,Capital Budget,Open Bid,Civil Works,710000,738400,42,28400,Over Plan,JV
+CAP-119,2026-04-01,Bole,Civil Upgrade,Capital Budget,Open Bid,Civil Works,721000,872410,49,151410,Over Plan,JV
+CAP-119,2026-05-01,Bole,Civil Upgrade,Capital Budget,Open Bid,Install,732000,527040,56,-204960,Within Plan,JV
+CAP-119,2026-06-01,Bole,Civil Upgrade,Capital Budget,Open Bid,Install,743000,646410,63,-96590,Within Plan,JV
+CAP-119,2026-07-01,Bole,Civil Upgrade,Capital Budget,Open Bid,Install,754000,784160,70,30160,Over Plan,JV
+CAP-119,2026-08-01,Bole,Civil Upgrade,Capital Budget,Open Bid,Commission,765000,925650,77,160650,Over Plan,JV
+CAP-119,2026-09-01,Bole,Civil Upgrade,Capital Budget,Open Bid,Commission,776000,558720,84,-217280,Within Plan,JV
+CAP-119,2026-10-01,Bole,Civil Upgrade,Capital Budget,Open Bid,Commission,787000,684690,91,-102310,Within Plan,JV
+CAP-120,2025-11-01,Akaki,Control Systems,Development Grant,Framework,Tender,683000,826430,16,143430,Over Plan,Specialist
+CAP-120,2025-12-01,Akaki,Control Systems,Development Grant,Framework,Tender,694000,499680,23,-194320,Within Plan,Specialist
+CAP-120,2026-01-01,Akaki,Control Systems,Development Grant,Framework,Civil Works,705000,613350,30,-91650,Within Plan,Specialist
+CAP-120,2026-02-01,Akaki,Control Systems,Development Grant,Framework,Civil Works,716000,744640,37,28640,Over Plan,Specialist
+CAP-120,2026-03-01,Akaki,Control Systems,Development Grant,Framework,Civil Works,727000,879670,44,152670,Over Plan,Specialist
+CAP-120,2026-04-01,Akaki,Control Systems,Development Grant,Framework,Install,738000,531360,51,-206640,Within Plan,Specialist
+CAP-120,2026-05-01,Akaki,Control Systems,Development Grant,Framework,Install,749000,651630,58,-97370,Within Plan,Specialist
+CAP-120,2026-06-01,Akaki,Control Systems,Development Grant,Framework,Install,760000,790400,65,30400,Over Plan,Specialist
+CAP-120,2026-07-01,Akaki,Control Systems,Development Grant,Framework,Commission,771000,932910,72,161910,Over Plan,Specialist
+CAP-120,2026-08-01,Akaki,Control Systems,Development Grant,Framework,Commission,782000,563040,79,-218960,Within Plan,Specialist
+CAP-120,2026-09-01,Akaki,Control Systems,Development Grant,Framework,Commission,793000,689910,86,-103090,Within Plan,Specialist
+CAP-120,2026-10-01,Akaki,Control Systems,Development Grant,Framework,Design,804000,836160,93,32160,Over Plan,Specialist
+CAP-121,2025-11-01,Kirkos,Network Expansion,Utility Revenue,Direct,Tender,700000,504000,8,-196000,Within Plan,Local A
+CAP-121,2025-12-01,Kirkos,Network Expansion,Utility Revenue,Direct,Civil Works,711000,618570,15,-92430,Within Plan,Local A
+CAP-121,2026-01-01,Kirkos,Network Expansion,Utility Revenue,Direct,Civil Works,722000,750880,22,28880,Over Plan,Local A
+CAP-121,2026-02-01,Kirkos,Network Expansion,Utility Revenue,Direct,Civil Works,733000,886930,29,153930,Over Plan,Local A
+CAP-121,2026-03-01,Kirkos,Network Expansion,Utility Revenue,Direct,Install,744000,535680,36,-208320,Within Plan,Local A
+CAP-121,2026-04-01,Kirkos,Network Expansion,Utility Revenue,Direct,Install,755000,656850,43,-98150,Within Plan,Local A
+CAP-121,2026-05-01,Kirkos,Network Expansion,Utility Revenue,Direct,Install,766000,796640,50,30640,Over Plan,Local A
+CAP-121,2026-06-01,Kirkos,Network Expansion,Utility Revenue,Direct,Commission,777000,940170,57,163170,Over Plan,Local A
+CAP-121,2026-07-01,Kirkos,Network Expansion,Utility Revenue,Direct,Commission,788000,567360,64,-220640,Within Plan,Local A
+CAP-121,2026-08-01,Kirkos,Network Expansion,Utility Revenue,Direct,Commission,799000,695130,71,-103870,Within Plan,Local A
+CAP-121,2026-09-01,Kirkos,Network Expansion,Utility Revenue,Direct,Design,810000,842400,78,32400,Over Plan,Local A
+CAP-121,2026-10-01,Kirkos,Network Expansion,Utility Revenue,Direct,Design,821000,993410,85,172410,Over Plan,Local A
+CAP-122,2025-11-01,Lideta,Water Storage,Capital Budget,Open Bid,Civil Works,717000,623790,10,-93210,Within Plan,Local B
+CAP-122,2025-12-01,Lideta,Water Storage,Capital Budget,Open Bid,Civil Works,728000,757120,17,29120,Over Plan,Local B
+CAP-122,2026-01-01,Lideta,Water Storage,Capital Budget,Open Bid,Civil Works,739000,894190,24,155190,Over Plan,Local B
+CAP-122,2026-02-01,Lideta,Water Storage,Capital Budget,Open Bid,Install,750000,540000,31,-210000,Within Plan,Local B
+CAP-122,2026-03-01,Lideta,Water Storage,Capital Budget,Open Bid,Install,761000,662070,38,-98930,Within Plan,Local B
+CAP-122,2026-04-01,Lideta,Water Storage,Capital Budget,Open Bid,Install,772000,802880,45,30880,Over Plan,Local B
+CAP-122,2026-05-01,Lideta,Water Storage,Capital Budget,Open Bid,Commission,783000,947430,52,164430,Over Plan,Local B
+CAP-122,2026-06-01,Lideta,Water Storage,Capital Budget,Open Bid,Commission,794000,571680,59,-222320,Within Plan,Local B
+CAP-122,2026-07-01,Lideta,Water Storage,Capital Budget,Open Bid,Commission,805000,700350,66,-104650,Within Plan,Local B
+CAP-122,2026-08-01,Lideta,Water Storage,Capital Budget,Open Bid,Design,816000,848640,73,32640,Over Plan,Local B
+CAP-122,2026-09-01,Lideta,Water Storage,Capital Budget,Open Bid,Design,827000,1000670,80,173670,Over Plan,Local B
+CAP-122,2026-10-01,Lideta,Water Storage,Capital Budget,Open Bid,Design,838000,603360,87,-234640,Within Plan,Local B
+CAP-123,2025-11-01,Gullele,Civil Upgrade,Development Grant,Framework,Civil Works,734000,763360,12,29360,Over Plan,JV
+CAP-123,2025-12-01,Gullele,Civil Upgrade,Development Grant,Framework,Civil Works,745000,901450,19,156450,Over Plan,JV
+CAP-123,2026-01-01,Gullele,Civil Upgrade,Development Grant,Framework,Install,756000,544320,26,-211680,Within Plan,JV
+CAP-123,2026-02-01,Gullele,Civil Upgrade,Development Grant,Framework,Install,767000,667290,33,-99710,Within Plan,JV
+CAP-123,2026-03-01,Gullele,Civil Upgrade,Development Grant,Framework,Install,778000,809120,40,31120,Over Plan,JV
+CAP-123,2026-04-01,Gullele,Civil Upgrade,Development Grant,Framework,Commission,789000,954690,47,165690,Over Plan,JV
+CAP-123,2026-05-01,Gullele,Civil Upgrade,Development Grant,Framework,Commission,800000,576000,54,-224000,Within Plan,JV
+CAP-123,2026-06-01,Gullele,Civil Upgrade,Development Grant,Framework,Commission,811000,705570,61,-105430,Within Plan,JV
+CAP-123,2026-07-01,Gullele,Civil Upgrade,Development Grant,Framework,Design,822000,854880,68,32880,Over Plan,JV
+CAP-123,2026-08-01,Gullele,Civil Upgrade,Development Grant,Framework,Design,833000,1007930,75,174930,Over Plan,JV
+CAP-123,2026-09-01,Gullele,Civil Upgrade,Development Grant,Framework,Design,844000,607680,82,-236320,Within Plan,JV
+CAP-123,2026-10-01,Gullele,Civil Upgrade,Development Grant,Framework,Tender,855000,743850,89,-111150,Within Plan,JV
+CAP-124,2025-11-01,Nifas Silk,Control Systems,Utility Revenue,Direct,Civil Works,751000,908710,14,157710,Over Plan,Specialist
+CAP-124,2025-12-01,Nifas Silk,Control Systems,Utility Revenue,Direct,Install,762000,548640,21,-213360,Within Plan,Specialist
+CAP-124,2026-01-01,Nifas Silk,Control Systems,Utility Revenue,Direct,Install,773000,672510,28,-100490,Within Plan,Specialist
+CAP-124,2026-02-01,Nifas Silk,Control Systems,Utility Revenue,Direct,Install,784000,815360,35,31360,Over Plan,Specialist
+CAP-124,2026-03-01,Nifas Silk,Control Systems,Utility Revenue,Direct,Commission,795000,961950,42,166950,Over Plan,Specialist
+CAP-124,2026-04-01,Nifas Silk,Control Systems,Utility Revenue,Direct,Commission,806000,580320,49,-225680,Within Plan,Specialist
+CAP-124,2026-05-01,Nifas Silk,Control Systems,Utility Revenue,Direct,Commission,817000,710790,56,-106210,Within Plan,Specialist
+CAP-124,2026-06-01,Nifas Silk,Control Systems,Utility Revenue,Direct,Design,828000,861120,63,33120,Over Plan,Specialist
+CAP-124,2026-07-01,Nifas Silk,Control Systems,Utility Revenue,Direct,Design,839000,1015190,70,176190,Over Plan,Specialist
+CAP-124,2026-08-01,Nifas Silk,Control Systems,Utility Revenue,Direct,Design,850000,612000,77,-238000,Within Plan,Specialist
+CAP-124,2026-09-01,Nifas Silk,Control Systems,Utility Revenue,Direct,Tender,861000,749070,84,-111930,Within Plan,Specialist
+CAP-124,2026-10-01,Nifas Silk,Control Systems,Utility Revenue,Direct,Tender,872000,906880,91,34880,Over Plan,Specialist
+CAP-125,2025-11-01,Bole,Network Expansion,Capital Budget,Open Bid,Install,768000,552960,16,-215040,Within Plan,Local A
+CAP-125,2025-12-01,Bole,Network Expansion,Capital Budget,Open Bid,Install,779000,677730,23,-101270,Within Plan,Local A
+CAP-125,2026-01-01,Bole,Network Expansion,Capital Budget,Open Bid,Install,790000,821600,30,31600,Over Plan,Local A
+CAP-125,2026-02-01,Bole,Network Expansion,Capital Budget,Open Bid,Commission,801000,969210,37,168210,Over Plan,Local A
+CAP-125,2026-03-01,Bole,Network Expansion,Capital Budget,Open Bid,Commission,812000,584640,44,-227360,Within Plan,Local A
+CAP-125,2026-04-01,Bole,Network Expansion,Capital Budget,Open Bid,Commission,823000,716010,51,-106990,Within Plan,Local A
+CAP-125,2026-05-01,Bole,Network Expansion,Capital Budget,Open Bid,Design,834000,867360,58,33360,Over Plan,Local A
+CAP-125,2026-06-01,Bole,Network Expansion,Capital Budget,Open Bid,Design,845000,1022450,65,177450,Over Plan,Local A
+CAP-125,2026-07-01,Bole,Network Expansion,Capital Budget,Open Bid,Design,856000,616320,72,-239680,Within Plan,Local A
+CAP-125,2026-08-01,Bole,Network Expansion,Capital Budget,Open Bid,Tender,867000,754290,79,-112710,Within Plan,Local A
+CAP-125,2026-09-01,Bole,Network Expansion,Capital Budget,Open Bid,Tender,878000,913120,86,35120,Over Plan,Local A
+CAP-125,2026-10-01,Bole,Network Expansion,Capital Budget,Open Bid,Tender,889000,1075690,93,186690,Over Plan,Local A
+CAP-126,2025-11-01,Akaki,Water Storage,Development Grant,Framework,Install,785000,682950,8,-102050,Within Plan,Local B
+CAP-126,2025-12-01,Akaki,Water Storage,Development Grant,Framework,Install,796000,827840,15,31840,Over Plan,Local B
+CAP-126,2026-01-01,Akaki,Water Storage,Development Grant,Framework,Commission,807000,976470,22,169470,Over Plan,Local B
+CAP-126,2026-02-01,Akaki,Water Storage,Development Grant,Framework,Commission,818000,588960,29,-229040,Within Plan,Local B
+CAP-126,2026-03-01,Akaki,Water Storage,Development Grant,Framework,Commission,829000,721230,36,-107770,Within Plan,Local B
+CAP-126,2026-04-01,Akaki,Water Storage,Development Grant,Framework,Design,840000,873600,43,33600,Over Plan,Local B
+CAP-126,2026-05-01,Akaki,Water Storage,Development Grant,Framework,Design,851000,1029710,50,178710,Over Plan,Local B
+CAP-126,2026-06-01,Akaki,Water Storage,Development Grant,Framework,Design,862000,620640,57,-241360,Within Plan,Local B
+CAP-126,2026-07-01,Akaki,Water Storage,Development Grant,Framework,Tender,873000,759510,64,-113490,Within Plan,Local B
+CAP-126,2026-08-01,Akaki,Water Storage,Development Grant,Framework,Tender,884000,919360,71,35360,Over Plan,Local B
+CAP-126,2026-09-01,Akaki,Water Storage,Development Grant,Framework,Tender,895000,1082950,78,187950,Over Plan,Local B
+CAP-126,2026-10-01,Akaki,Water Storage,Development Grant,Framework,Civil Works,906000,652320,85,-253680,Within Plan,Local B
+CAP-127,2025-11-01,Kirkos,Civil Upgrade,Utility Revenue,Direct,Install,802000,834080,10,32080,Over Plan,JV
+CAP-127,2025-12-01,Kirkos,Civil Upgrade,Utility Revenue,Direct,Commission,813000,983730,17,170730,Over Plan,JV
+CAP-127,2026-01-01,Kirkos,Civil Upgrade,Utility Revenue,Direct,Commission,824000,593280,24,-230720,Within Plan,JV
+CAP-127,2026-02-01,Kirkos,Civil Upgrade,Utility Revenue,Direct,Commission,835000,726450,31,-108550,Within Plan,JV
+CAP-127,2026-03-01,Kirkos,Civil Upgrade,Utility Revenue,Direct,Design,846000,879840,38,33840,Over Plan,JV
+CAP-127,2026-04-01,Kirkos,Civil Upgrade,Utility Revenue,Direct,Design,857000,1036970,45,179970,Over Plan,JV
+CAP-127,2026-05-01,Kirkos,Civil Upgrade,Utility Revenue,Direct,Design,868000,624960,52,-243040,Within Plan,JV
+CAP-127,2026-06-01,Kirkos,Civil Upgrade,Utility Revenue,Direct,Tender,879000,764730,59,-114270,Within Plan,JV
+CAP-127,2026-07-01,Kirkos,Civil Upgrade,Utility Revenue,Direct,Tender,890000,925600,66,35600,Over Plan,JV
+CAP-127,2026-08-01,Kirkos,Civil Upgrade,Utility Revenue,Direct,Tender,901000,1090210,73,189210,Over Plan,JV
+CAP-127,2026-09-01,Kirkos,Civil Upgrade,Utility Revenue,Direct,Civil Works,912000,656640,80,-255360,Within Plan,JV
+CAP-127,2026-10-01,Kirkos,Civil Upgrade,Utility Revenue,Direct,Civil Works,923000,803010,87,-119990,Within Plan,JV
+CAP-128,2025-11-01,Lideta,Control Systems,Capital Budget,Open Bid,Commission,819000,990990,12,171990,Over Plan,Specialist
+CAP-128,2025-12-01,Lideta,Control Systems,Capital Budget,Open Bid,Commission,830000,597600,19,-232400,Within Plan,Specialist
+CAP-128,2026-01-01,Lideta,Control Systems,Capital Budget,Open Bid,Commission,841000,731670,26,-109330,Within Plan,Specialist
+CAP-128,2026-02-01,Lideta,Control Systems,Capital Budget,Open Bid,Design,852000,886080,33,34080,Over Plan,Specialist
+CAP-128,2026-03-01,Lideta,Control Systems,Capital Budget,Open Bid,Design,863000,1044230,40,181230,Over Plan,Specialist
+CAP-128,2026-04-01,Lideta,Control Systems,Capital Budget,Open Bid,Design,874000,629280,47,-244720,Within Plan,Specialist
+CAP-128,2026-05-01,Lideta,Control Systems,Capital Budget,Open Bid,Tender,885000,769950,54,-115050,Within Plan,Specialist
+CAP-128,2026-06-01,Lideta,Control Systems,Capital Budget,Open Bid,Tender,896000,931840,61,35840,Over Plan,Specialist
+CAP-128,2026-07-01,Lideta,Control Systems,Capital Budget,Open Bid,Tender,907000,1097470,68,190470,Over Plan,Specialist
+CAP-128,2026-08-01,Lideta,Control Systems,Capital Budget,Open Bid,Civil Works,918000,660960,75,-257040,Within Plan,Specialist
+CAP-128,2026-09-01,Lideta,Control Systems,Capital Budget,Open Bid,Civil Works,929000,808230,82,-120770,Within Plan,Specialist
+CAP-128,2026-10-01,Lideta,Control Systems,Capital Budget,Open Bid,Civil Works,940000,977600,89,37600,Over Plan,Specialist
+CAP-129,2025-11-01,Gullele,Network Expansion,Development Grant,Framework,Commission,836000,601920,14,-234080,Within Plan,Local A
+CAP-129,2025-12-01,Gullele,Network Expansion,Development Grant,Framework,Commission,847000,736890,21,-110110,Within Plan,Local A
+CAP-129,2026-01-01,Gullele,Network Expansion,Development Grant,Framework,Design,858000,892320,28,34320,Over Plan,Local A
+CAP-129,2026-02-01,Gullele,Network Expansion,Development Grant,Framework,Design,869000,1051490,35,182490,Over Plan,Local A
+CAP-129,2026-03-01,Gullele,Network Expansion,Development Grant,Framework,Design,880000,633600,42,-246400,Within Plan,Local A
+CAP-129,2026-04-01,Gullele,Network Expansion,Development Grant,Framework,Tender,891000,775170,49,-115830,Within Plan,Local A
+CAP-129,2026-05-01,Gullele,Network Expansion,Development Grant,Framework,Tender,902000,938080,56,36080,Over Plan,Local A
+CAP-129,2026-06-01,Gullele,Network Expansion,Development Grant,Framework,Tender,913000,1104730,63,191730,Over Plan,Local A
+CAP-129,2026-07-01,Gullele,Network Expansion,Development Grant,Framework,Civil Works,924000,665280,70,-258720,Within Plan,Local A
+CAP-129,2026-08-01,Gullele,Network Expansion,Development Grant,Framework,Civil Works,935000,813450,77,-121550,Within Plan,Local A
+CAP-129,2026-09-01,Gullele,Network Expansion,Development Grant,Framework,Civil Works,946000,983840,84,37840,Over Plan,Local A
+CAP-129,2026-10-01,Gullele,Network Expansion,Development Grant,Framework,Install,957000,1157970,91,200970,Over Plan,Local A
+CAP-130,2025-11-01,Nifas Silk,Water Storage,Utility Revenue,Direct,Commission,853000,742110,16,-110890,Within Plan,Local B
+CAP-130,2025-12-01,Nifas Silk,Water Storage,Utility Revenue,Direct,Design,864000,898560,23,34560,Over Plan,Local B
+CAP-130,2026-01-01,Nifas Silk,Water Storage,Utility Revenue,Direct,Design,875000,1058750,30,183750,Over Plan,Local B
+CAP-130,2026-02-01,Nifas Silk,Water Storage,Utility Revenue,Direct,Design,886000,637920,37,-248080,Within Plan,Local B
+CAP-130,2026-03-01,Nifas Silk,Water Storage,Utility Revenue,Direct,Tender,897000,780390,44,-116610,Within Plan,Local B
+CAP-130,2026-04-01,Nifas Silk,Water Storage,Utility Revenue,Direct,Tender,908000,944320,51,36320,Over Plan,Local B
+CAP-130,2026-05-01,Nifas Silk,Water Storage,Utility Revenue,Direct,Tender,919000,1111990,58,192990,Over Plan,Local B
+CAP-130,2026-06-01,Nifas Silk,Water Storage,Utility Revenue,Direct,Civil Works,930000,669600,65,-260400,Within Plan,Local B
+CAP-130,2026-07-01,Nifas Silk,Water Storage,Utility Revenue,Direct,Civil Works,941000,818670,72,-122330,Within Plan,Local B
+CAP-130,2026-08-01,Nifas Silk,Water Storage,Utility Revenue,Direct,Civil Works,952000,990080,79,38080,Over Plan,Local B
+CAP-130,2026-09-01,Nifas Silk,Water Storage,Utility Revenue,Direct,Install,963000,1165230,86,202230,Over Plan,Local B
+CAP-130,2026-10-01,Nifas Silk,Water Storage,Utility Revenue,Direct,Install,974000,701280,93,-272720,Within Plan,Local B

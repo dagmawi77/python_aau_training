@@ -1,0 +1,721 @@
+transaction_id,event_date,warehouse,branch,material_family,sku,event_type,qty_units,signed_units,unit_cost_etb,line_value_etb,supplier_group,fiscal_quarter,authorization
+TX-30001,2025-11-01,WH-N,Bole,Pipe Fitting,SKU-100,Received,3,3,80,240,Public Tender,Q4,Approved
+TX-30002,2025-11-12,WH-S,Akaki,Pipe Fitting,SKU-101,Issued,16,-16,215,3440,Framework Supplier,Q4,Review
+TX-30003,2025-11-23,WH-E,Kirkos,Pipe Fitting,SKU-102,Transferred,29,-29,350,10150,Spot Purchase,Q4,Approved
+TX-30004,2025-12-04,WH-W,Lideta,Pipe Fitting,SKU-103,Issued,42,-42,485,20370,Public Tender,Q4,Approved
+TX-30005,2025-12-15,WH-N,Gullele,Valve Spare,SKU-104,Returned,55,55,620,34100,Framework Supplier,Q4,Approved
+TX-30006,2025-12-26,WH-S,Nifas Silk,Valve Spare,SKU-105,Received,68,68,755,51340,Spot Purchase,Q4,Review
+TX-30007,2026-01-06,WH-E,Bole,Valve Spare,SKU-106,Issued,81,-81,890,72090,Public Tender,Q1,Approved
+TX-30008,2026-01-17,WH-W,Akaki,Valve Spare,SKU-107,Transferred,94,-94,1025,96350,Framework Supplier,Q1,Approved
+TX-30009,2026-01-28,WH-N,Kirkos,Safety Supply,SKU-108,Issued,12,-12,1160,13920,Spot Purchase,Q1,Approved
+TX-30010,2026-02-08,WH-S,Lideta,Safety Supply,SKU-109,Returned,25,25,1295,32375,Public Tender,Q1,Review
+TX-30011,2026-02-19,WH-E,Gullele,Safety Supply,SKU-110,Received,38,38,1430,54340,Framework Supplier,Q1,Approved
+TX-30012,2026-03-02,WH-W,Nifas Silk,Safety Supply,SKU-111,Returned,51,51,1565,79815,Spot Purchase,Q1,Approved
+TX-30013,2026-03-13,WH-N,Bole,Electrical Part,SKU-112,Received,64,64,1700,108800,Public Tender,Q1,Approved
+TX-30014,2026-03-24,WH-S,Akaki,Electrical Part,SKU-113,Issued,77,-77,1835,141295,Framework Supplier,Q1,Review
+TX-30015,2026-04-04,WH-E,Kirkos,Electrical Part,SKU-114,Transferred,90,-90,1970,177300,Spot Purchase,Q2,Approved
+TX-30016,2026-04-15,WH-W,Lideta,Electrical Part,SKU-115,Issued,8,-8,2105,16840,Public Tender,Q2,Approved
+TX-30017,2026-04-26,WH-N,Gullele,Civil Material,SKU-116,Returned,21,21,2240,47040,Framework Supplier,Q2,Approved
+TX-30018,2026-05-07,WH-E,Nifas Silk,Civil Material,SKU-117,Received,34,34,2375,80750,Spot Purchase,Q2,Review
+TX-30019,2026-05-18,WH-W,Bole,Civil Material,SKU-118,Issued,47,-47,2510,117970,Public Tender,Q2,Approved
+TX-30020,2026-05-29,WH-N,Akaki,Civil Material,SKU-119,Transferred,60,-60,2645,158700,Framework Supplier,Q2,Approved
+TX-30021,2026-06-09,WH-S,Kirkos,Pipe Fitting,SKU-120,Issued,73,-73,80,5840,Spot Purchase,Q2,Approved
+TX-30022,2026-06-20,WH-E,Lideta,Pipe Fitting,SKU-121,Returned,86,86,215,18490,Public Tender,Q2,Review
+TX-30023,2026-07-01,WH-W,Gullele,Pipe Fitting,SKU-122,Issued,4,-4,350,1400,Framework Supplier,Q3,Approved
+TX-30024,2026-07-12,WH-N,Nifas Silk,Pipe Fitting,SKU-123,Returned,17,17,485,8245,Spot Purchase,Q3,Approved
+TX-30025,2026-07-23,WH-S,Bole,Valve Spare,SKU-124,Received,30,30,620,18600,Public Tender,Q3,Approved
+TX-30026,2026-08-03,WH-E,Akaki,Valve Spare,SKU-125,Issued,43,-43,755,32465,Framework Supplier,Q3,Review
+TX-30027,2026-08-14,WH-W,Kirkos,Valve Spare,SKU-126,Transferred,56,-56,890,49840,Spot Purchase,Q3,Approved
+TX-30028,2026-08-25,WH-N,Lideta,Valve Spare,SKU-127,Issued,69,-69,1025,70725,Public Tender,Q3,Approved
+TX-30029,2026-09-05,WH-S,Gullele,Safety Supply,SKU-128,Returned,82,82,1160,95120,Framework Supplier,Q3,Approved
+TX-30030,2026-09-16,WH-E,Nifas Silk,Safety Supply,SKU-129,Received,95,95,1295,123025,Spot Purchase,Q3,Review
+TX-30031,2026-09-27,WH-W,Bole,Safety Supply,SKU-100,Issued,13,-13,1430,18590,Public Tender,Q3,Approved
+TX-30032,2026-10-08,WH-N,Akaki,Safety Supply,SKU-101,Transferred,26,-26,1565,40690,Framework Supplier,Q4,Approved
+TX-30033,2025-11-03,WH-S,Kirkos,Electrical Part,SKU-102,Issued,39,-39,1700,66300,Spot Purchase,Q4,Approved
+TX-30034,2025-11-14,WH-E,Lideta,Electrical Part,SKU-103,Transferred,52,-52,1835,95420,Public Tender,Q4,Review
+TX-30035,2025-11-25,WH-N,Gullele,Electrical Part,SKU-104,Issued,65,-65,1970,128050,Framework Supplier,Q4,Approved
+TX-30036,2025-12-06,WH-S,Nifas Silk,Electrical Part,SKU-105,Returned,78,78,2105,164190,Spot Purchase,Q4,Approved
+TX-30037,2025-12-17,WH-E,Bole,Civil Material,SKU-106,Received,91,91,2240,203840,Public Tender,Q4,Approved
+TX-30038,2025-12-28,WH-W,Akaki,Civil Material,SKU-107,Issued,9,-9,2375,21375,Framework Supplier,Q4,Review
+TX-30039,2026-01-08,WH-N,Kirkos,Civil Material,SKU-108,Transferred,22,-22,2510,55220,Spot Purchase,Q1,Approved
+TX-30040,2026-01-19,WH-S,Lideta,Civil Material,SKU-109,Issued,35,-35,2645,92575,Public Tender,Q1,Approved
+TX-30041,2026-01-30,WH-E,Gullele,Pipe Fitting,SKU-110,Returned,48,48,80,3840,Framework Supplier,Q1,Approved
+TX-30042,2026-02-10,WH-W,Nifas Silk,Pipe Fitting,SKU-111,Received,61,61,215,13115,Spot Purchase,Q1,Review
+TX-30043,2026-02-21,WH-N,Bole,Pipe Fitting,SKU-112,Issued,74,-74,350,25900,Public Tender,Q1,Approved
+TX-30044,2026-03-04,WH-S,Akaki,Pipe Fitting,SKU-113,Transferred,87,-87,485,42195,Framework Supplier,Q1,Approved
+TX-30045,2026-03-15,WH-E,Kirkos,Valve Spare,SKU-114,Issued,5,-5,620,3100,Spot Purchase,Q1,Approved
+TX-30046,2026-03-26,WH-W,Lideta,Valve Spare,SKU-115,Transferred,18,-18,755,13590,Public Tender,Q1,Review
+TX-30047,2026-04-06,WH-N,Gullele,Valve Spare,SKU-116,Issued,31,-31,890,27590,Framework Supplier,Q2,Approved
+TX-30048,2026-04-17,WH-S,Nifas Silk,Valve Spare,SKU-117,Returned,44,44,1025,45100,Spot Purchase,Q2,Approved
+TX-30049,2026-04-28,WH-E,Bole,Safety Supply,SKU-118,Received,57,57,1160,66120,Public Tender,Q2,Approved
+TX-30050,2026-05-09,WH-W,Akaki,Safety Supply,SKU-119,Issued,70,-70,1295,90650,Framework Supplier,Q2,Review
+TX-30051,2026-05-20,WH-N,Kirkos,Safety Supply,SKU-120,Transferred,83,-83,1430,118690,Spot Purchase,Q2,Approved
+TX-30052,2026-05-31,WH-E,Lideta,Safety Supply,SKU-121,Issued,96,-96,1565,150240,Public Tender,Q2,Approved
+TX-30053,2026-06-11,WH-W,Gullele,Electrical Part,SKU-122,Returned,14,14,1700,23800,Framework Supplier,Q2,Approved
+TX-30054,2026-06-22,WH-N,Nifas Silk,Electrical Part,SKU-123,Received,27,27,1835,49545,Spot Purchase,Q2,Review
+TX-30055,2026-07-03,WH-S,Bole,Electrical Part,SKU-124,Issued,40,-40,1970,78800,Public Tender,Q3,Approved
+TX-30056,2026-07-14,WH-E,Akaki,Electrical Part,SKU-125,Received,53,53,2105,111565,Framework Supplier,Q3,Approved
+TX-30057,2026-07-25,WH-W,Kirkos,Civil Material,SKU-126,Issued,66,-66,2240,147840,Spot Purchase,Q3,Approved
+TX-30058,2026-08-05,WH-N,Lideta,Civil Material,SKU-127,Transferred,79,-79,2375,187625,Public Tender,Q3,Review
+TX-30059,2026-08-16,WH-S,Gullele,Civil Material,SKU-128,Issued,92,-92,2510,230920,Framework Supplier,Q3,Approved
+TX-30060,2026-08-27,WH-E,Nifas Silk,Civil Material,SKU-129,Returned,10,10,2645,26450,Spot Purchase,Q3,Approved
+TX-30061,2026-09-07,WH-W,Bole,Pipe Fitting,SKU-100,Received,23,23,80,1840,Public Tender,Q3,Approved
+TX-30062,2026-09-18,WH-N,Akaki,Pipe Fitting,SKU-101,Issued,36,-36,215,7740,Framework Supplier,Q3,Review
+TX-30063,2026-09-29,WH-S,Kirkos,Pipe Fitting,SKU-102,Transferred,49,-49,350,17150,Spot Purchase,Q3,Approved
+TX-30064,2026-10-10,WH-E,Lideta,Pipe Fitting,SKU-103,Issued,62,-62,485,30070,Public Tender,Q4,Approved
+TX-30065,2025-11-05,WH-W,Gullele,Valve Spare,SKU-104,Returned,75,75,620,46500,Framework Supplier,Q4,Approved
+TX-30066,2025-11-16,WH-N,Nifas Silk,Valve Spare,SKU-105,Received,88,88,755,66440,Spot Purchase,Q4,Review
+TX-30067,2025-11-27,WH-S,Bole,Valve Spare,SKU-106,Returned,6,6,890,5340,Public Tender,Q4,Approved
+TX-30068,2025-12-08,WH-E,Akaki,Valve Spare,SKU-107,Received,19,19,1025,19475,Framework Supplier,Q4,Approved
+TX-30069,2025-12-19,WH-N,Kirkos,Safety Supply,SKU-108,Issued,32,-32,1160,37120,Spot Purchase,Q4,Approved
+TX-30070,2025-12-30,WH-S,Lideta,Safety Supply,SKU-109,Transferred,45,-45,1295,58275,Public Tender,Q4,Review
+TX-30071,2026-01-10,WH-E,Gullele,Safety Supply,SKU-110,Issued,58,-58,1430,82940,Framework Supplier,Q1,Approved
+TX-30072,2026-01-21,WH-W,Nifas Silk,Safety Supply,SKU-111,Returned,71,71,1565,111115,Spot Purchase,Q1,Approved
+TX-30073,2026-02-01,WH-N,Bole,Electrical Part,SKU-112,Received,84,84,1700,142800,Public Tender,Q1,Approved
+TX-30074,2026-02-12,WH-S,Akaki,Electrical Part,SKU-113,Issued,97,-97,1835,177995,Framework Supplier,Q1,Review
+TX-30075,2026-02-23,WH-E,Kirkos,Electrical Part,SKU-114,Transferred,15,-15,1970,29550,Spot Purchase,Q1,Approved
+TX-30076,2026-03-06,WH-W,Lideta,Electrical Part,SKU-115,Issued,28,-28,2105,58940,Public Tender,Q1,Approved
+TX-30077,2026-03-17,WH-N,Gullele,Civil Material,SKU-116,Returned,41,41,2240,91840,Framework Supplier,Q1,Approved
+TX-30078,2026-03-28,WH-S,Nifas Silk,Civil Material,SKU-117,Issued,54,-54,2375,128250,Spot Purchase,Q1,Review
+TX-30079,2026-04-08,WH-E,Bole,Civil Material,SKU-118,Returned,67,67,2510,168170,Public Tender,Q2,Approved
+TX-30080,2026-04-19,WH-W,Akaki,Civil Material,SKU-119,Received,80,80,2645,211600,Framework Supplier,Q2,Approved
+TX-30081,2026-04-30,WH-N,Kirkos,Pipe Fitting,SKU-120,Issued,93,-93,80,7440,Spot Purchase,Q2,Approved
+TX-30082,2026-05-11,WH-S,Lideta,Pipe Fitting,SKU-121,Transferred,11,-11,215,2365,Public Tender,Q2,Review
+TX-30083,2026-05-22,WH-E,Gullele,Pipe Fitting,SKU-122,Issued,24,-24,350,8400,Framework Supplier,Q2,Approved
+TX-30084,2026-06-02,WH-W,Nifas Silk,Pipe Fitting,SKU-123,Returned,37,37,485,17945,Spot Purchase,Q2,Approved
+TX-30085,2026-06-13,WH-N,Bole,Valve Spare,SKU-124,Received,50,50,620,31000,Public Tender,Q2,Approved
+TX-30086,2026-06-24,WH-E,Akaki,Valve Spare,SKU-125,Issued,63,-63,755,47565,Framework Supplier,Q2,Review
+TX-30087,2026-07-05,WH-W,Kirkos,Valve Spare,SKU-126,Transferred,76,-76,890,67640,Spot Purchase,Q3,Approved
+TX-30088,2026-07-16,WH-N,Lideta,Valve Spare,SKU-127,Issued,89,-89,1025,91225,Public Tender,Q3,Approved
+TX-30089,2026-07-27,WH-S,Gullele,Safety Supply,SKU-128,Transferred,7,-7,1160,8120,Framework Supplier,Q3,Approved
+TX-30090,2026-08-07,WH-E,Nifas Silk,Safety Supply,SKU-129,Issued,20,-20,1295,25900,Spot Purchase,Q3,Review
+TX-30091,2026-08-18,WH-W,Bole,Safety Supply,SKU-100,Returned,33,33,1430,47190,Public Tender,Q3,Approved
+TX-30092,2026-08-29,WH-N,Akaki,Safety Supply,SKU-101,Received,46,46,1565,71990,Framework Supplier,Q3,Approved
+TX-30093,2026-09-09,WH-S,Kirkos,Electrical Part,SKU-102,Issued,59,-59,1700,100300,Spot Purchase,Q3,Approved
+TX-30094,2026-09-20,WH-E,Lideta,Electrical Part,SKU-103,Transferred,72,-72,1835,132120,Public Tender,Q3,Review
+TX-30095,2026-10-01,WH-W,Gullele,Electrical Part,SKU-104,Issued,85,-85,1970,167450,Framework Supplier,Q4,Approved
+TX-30096,2026-10-12,WH-N,Nifas Silk,Electrical Part,SKU-105,Returned,3,3,2105,6315,Spot Purchase,Q4,Approved
+TX-30097,2025-11-07,WH-S,Bole,Civil Material,SKU-106,Received,16,16,2240,35840,Public Tender,Q4,Approved
+TX-30098,2025-11-18,WH-E,Akaki,Civil Material,SKU-107,Issued,29,-29,2375,68875,Framework Supplier,Q4,Review
+TX-30099,2025-11-29,WH-W,Kirkos,Civil Material,SKU-108,Transferred,42,-42,2510,105420,Spot Purchase,Q4,Approved
+TX-30100,2025-12-10,WH-N,Lideta,Civil Material,SKU-109,Issued,55,-55,2645,145475,Public Tender,Q4,Approved
+TX-30101,2025-12-21,WH-S,Gullele,Pipe Fitting,SKU-110,Transferred,68,-68,80,5440,Framework Supplier,Q4,Approved
+TX-30102,2026-01-01,WH-E,Nifas Silk,Pipe Fitting,SKU-111,Issued,81,-81,215,17415,Spot Purchase,Q1,Review
+TX-30103,2026-01-12,WH-N,Bole,Pipe Fitting,SKU-112,Returned,94,94,350,32900,Public Tender,Q1,Approved
+TX-30104,2026-01-23,WH-S,Akaki,Pipe Fitting,SKU-113,Received,12,12,485,5820,Framework Supplier,Q1,Approved
+TX-30105,2026-02-03,WH-E,Kirkos,Valve Spare,SKU-114,Issued,25,-25,620,15500,Spot Purchase,Q1,Approved
+TX-30106,2026-02-14,WH-W,Lideta,Valve Spare,SKU-115,Transferred,38,-38,755,28690,Public Tender,Q1,Review
+TX-30107,2026-02-25,WH-N,Gullele,Valve Spare,SKU-116,Issued,51,-51,890,45390,Framework Supplier,Q1,Approved
+TX-30108,2026-03-08,WH-S,Nifas Silk,Valve Spare,SKU-117,Returned,64,64,1025,65600,Spot Purchase,Q1,Approved
+TX-30109,2026-03-19,WH-E,Bole,Safety Supply,SKU-118,Received,77,77,1160,89320,Public Tender,Q1,Approved
+TX-30110,2026-03-30,WH-W,Akaki,Safety Supply,SKU-119,Issued,90,-90,1295,116550,Framework Supplier,Q1,Review
+TX-30111,2026-04-10,WH-N,Kirkos,Safety Supply,SKU-120,Received,8,8,1430,11440,Spot Purchase,Q2,Approved
+TX-30112,2026-04-21,WH-S,Lideta,Safety Supply,SKU-121,Issued,21,-21,1565,32865,Public Tender,Q2,Approved
+TX-30113,2026-05-02,WH-E,Gullele,Electrical Part,SKU-122,Transferred,34,-34,1700,57800,Framework Supplier,Q2,Approved
+TX-30114,2026-05-13,WH-W,Nifas Silk,Electrical Part,SKU-123,Issued,47,-47,1835,86245,Spot Purchase,Q2,Review
+TX-30115,2026-05-24,WH-N,Bole,Electrical Part,SKU-124,Returned,60,60,1970,118200,Public Tender,Q2,Approved
+TX-30116,2026-06-04,WH-S,Akaki,Electrical Part,SKU-125,Received,73,73,2105,153665,Framework Supplier,Q2,Approved
+TX-30117,2026-06-15,WH-E,Kirkos,Civil Material,SKU-126,Issued,86,-86,2240,192640,Spot Purchase,Q2,Approved
+TX-30118,2026-06-26,WH-W,Lideta,Civil Material,SKU-127,Transferred,4,-4,2375,9500,Public Tender,Q2,Review
+TX-30119,2026-07-07,WH-N,Gullele,Civil Material,SKU-128,Issued,17,-17,2510,42670,Framework Supplier,Q3,Approved
+TX-30120,2026-07-18,WH-E,Nifas Silk,Civil Material,SKU-129,Returned,30,30,2645,79350,Spot Purchase,Q3,Approved
+TX-30121,2026-07-29,WH-W,Bole,Pipe Fitting,SKU-100,Received,43,43,80,3440,Public Tender,Q3,Approved
+TX-30122,2026-08-09,WH-N,Akaki,Pipe Fitting,SKU-101,Returned,56,56,215,12040,Framework Supplier,Q3,Review
+TX-30123,2026-08-20,WH-S,Kirkos,Pipe Fitting,SKU-102,Received,69,69,350,24150,Spot Purchase,Q3,Approved
+TX-30124,2026-08-31,WH-E,Lideta,Pipe Fitting,SKU-103,Issued,82,-82,485,39770,Public Tender,Q3,Approved
+TX-30125,2026-09-11,WH-W,Gullele,Valve Spare,SKU-104,Transferred,95,-95,620,58900,Framework Supplier,Q3,Approved
+TX-30126,2026-09-22,WH-N,Nifas Silk,Valve Spare,SKU-105,Issued,13,-13,755,9815,Spot Purchase,Q3,Review
+TX-30127,2026-10-03,WH-S,Bole,Valve Spare,SKU-106,Returned,26,26,890,23140,Public Tender,Q4,Approved
+TX-30128,2026-10-14,WH-E,Akaki,Valve Spare,SKU-107,Received,39,39,1025,39975,Framework Supplier,Q4,Approved
+TX-30129,2025-11-09,WH-W,Kirkos,Safety Supply,SKU-108,Issued,52,-52,1160,60320,Spot Purchase,Q4,Approved
+TX-30130,2025-11-20,WH-N,Lideta,Safety Supply,SKU-109,Transferred,65,-65,1295,84175,Public Tender,Q4,Review
+TX-30131,2025-12-01,WH-S,Gullele,Safety Supply,SKU-110,Issued,78,-78,1430,111540,Framework Supplier,Q4,Approved
+TX-30132,2025-12-12,WH-E,Nifas Silk,Safety Supply,SKU-111,Returned,91,91,1565,142415,Spot Purchase,Q4,Approved
+TX-30133,2025-12-23,WH-W,Bole,Electrical Part,SKU-112,Issued,9,-9,1700,15300,Public Tender,Q4,Approved
+TX-30134,2026-01-03,WH-N,Akaki,Electrical Part,SKU-113,Returned,22,22,1835,40370,Framework Supplier,Q1,Review
+TX-30135,2026-01-14,WH-S,Kirkos,Electrical Part,SKU-114,Received,35,35,1970,68950,Spot Purchase,Q1,Approved
+TX-30136,2026-01-25,WH-E,Lideta,Electrical Part,SKU-115,Issued,48,-48,2105,101040,Public Tender,Q1,Approved
+TX-30137,2026-02-05,WH-N,Gullele,Civil Material,SKU-116,Transferred,61,-61,2240,136640,Framework Supplier,Q1,Approved
+TX-30138,2026-02-16,WH-S,Nifas Silk,Civil Material,SKU-117,Issued,74,-74,2375,175750,Spot Purchase,Q1,Review
+TX-30139,2026-02-27,WH-E,Bole,Civil Material,SKU-118,Returned,87,87,2510,218370,Public Tender,Q1,Approved
+TX-30140,2026-03-10,WH-W,Akaki,Civil Material,SKU-119,Received,5,5,2645,13225,Framework Supplier,Q1,Approved
+TX-30141,2026-03-21,WH-N,Kirkos,Pipe Fitting,SKU-120,Issued,18,-18,80,1440,Spot Purchase,Q1,Approved
+TX-30142,2026-04-01,WH-S,Lideta,Pipe Fitting,SKU-121,Transferred,31,-31,215,6665,Public Tender,Q2,Review
+TX-30143,2026-04-12,WH-E,Gullele,Pipe Fitting,SKU-122,Issued,44,-44,350,15400,Framework Supplier,Q2,Approved
+TX-30144,2026-04-23,WH-W,Nifas Silk,Pipe Fitting,SKU-123,Transferred,57,-57,485,27645,Spot Purchase,Q2,Approved
+TX-30145,2026-05-04,WH-N,Bole,Valve Spare,SKU-124,Issued,70,-70,620,43400,Public Tender,Q2,Approved
+TX-30146,2026-05-15,WH-S,Akaki,Valve Spare,SKU-125,Returned,83,83,755,62665,Framework Supplier,Q2,Review
+TX-30147,2026-05-26,WH-E,Kirkos,Valve Spare,SKU-126,Received,96,96,890,85440,Spot Purchase,Q2,Approved
+TX-30148,2026-06-06,WH-W,Lideta,Valve Spare,SKU-127,Issued,14,-14,1025,14350,Public Tender,Q2,Approved
+TX-30149,2026-06-17,WH-N,Gullele,Safety Supply,SKU-128,Transferred,27,-27,1160,31320,Framework Supplier,Q2,Approved
+TX-30150,2026-06-28,WH-S,Nifas Silk,Safety Supply,SKU-129,Issued,40,-40,1295,51800,Spot Purchase,Q2,Review
+TX-30151,2026-07-09,WH-E,Bole,Safety Supply,SKU-100,Returned,53,53,1430,75790,Public Tender,Q3,Approved
+TX-30152,2026-07-20,WH-W,Akaki,Safety Supply,SKU-101,Received,66,66,1565,103290,Framework Supplier,Q3,Approved
+TX-30153,2026-07-31,WH-N,Kirkos,Electrical Part,SKU-102,Issued,79,-79,1700,134300,Spot Purchase,Q3,Approved
+TX-30154,2026-08-11,WH-E,Lideta,Electrical Part,SKU-103,Transferred,92,-92,1835,168820,Public Tender,Q3,Review
+TX-30155,2026-08-22,WH-W,Gullele,Electrical Part,SKU-104,Issued,10,-10,1970,19700,Framework Supplier,Q3,Approved
+TX-30156,2026-09-02,WH-N,Nifas Silk,Electrical Part,SKU-105,Transferred,23,-23,2105,48415,Spot Purchase,Q3,Approved
+TX-30157,2026-09-13,WH-S,Bole,Civil Material,SKU-106,Issued,36,-36,2240,80640,Public Tender,Q3,Approved
+TX-30158,2026-09-24,WH-E,Akaki,Civil Material,SKU-107,Returned,49,49,2375,116375,Framework Supplier,Q3,Review
+TX-30159,2026-10-05,WH-W,Kirkos,Civil Material,SKU-108,Received,62,62,2510,155620,Spot Purchase,Q4,Approved
+TX-30160,2026-10-16,WH-N,Lideta,Civil Material,SKU-109,Issued,75,-75,2645,198375,Public Tender,Q4,Approved
+TX-30161,2025-11-11,WH-S,Gullele,Pipe Fitting,SKU-110,Transferred,88,-88,80,7040,Framework Supplier,Q4,Approved
+TX-30162,2025-11-22,WH-E,Nifas Silk,Pipe Fitting,SKU-111,Issued,6,-6,215,1290,Spot Purchase,Q4,Review
+TX-30163,2025-12-03,WH-W,Bole,Pipe Fitting,SKU-112,Returned,19,19,350,6650,Public Tender,Q4,Approved
+TX-30164,2025-12-14,WH-N,Akaki,Pipe Fitting,SKU-113,Received,32,32,485,15520,Framework Supplier,Q4,Approved
+TX-30165,2025-12-25,WH-S,Kirkos,Valve Spare,SKU-114,Issued,45,-45,620,27900,Spot Purchase,Q4,Approved
+TX-30166,2026-01-05,WH-E,Lideta,Valve Spare,SKU-115,Received,58,58,755,43790,Public Tender,Q1,Review
+TX-30167,2026-01-16,WH-W,Gullele,Valve Spare,SKU-116,Issued,71,-71,890,63190,Framework Supplier,Q1,Approved
+TX-30168,2026-01-27,WH-N,Nifas Silk,Valve Spare,SKU-117,Transferred,84,-84,1025,86100,Spot Purchase,Q1,Approved
+TX-30169,2026-02-07,WH-S,Bole,Safety Supply,SKU-118,Issued,97,-97,1160,112520,Public Tender,Q1,Approved
+TX-30170,2026-02-18,WH-E,Akaki,Safety Supply,SKU-119,Returned,15,15,1295,19425,Framework Supplier,Q1,Review
+TX-30171,2026-03-01,WH-N,Kirkos,Safety Supply,SKU-120,Received,28,28,1430,40040,Spot Purchase,Q1,Approved
+TX-30172,2026-03-12,WH-S,Lideta,Safety Supply,SKU-121,Issued,41,-41,1565,64165,Public Tender,Q1,Approved
+TX-30173,2026-03-23,WH-E,Gullele,Electrical Part,SKU-122,Transferred,54,-54,1700,91800,Framework Supplier,Q1,Approved
+TX-30174,2026-04-03,WH-W,Nifas Silk,Electrical Part,SKU-123,Issued,67,-67,1835,122945,Spot Purchase,Q2,Review
+TX-30175,2026-04-14,WH-N,Bole,Electrical Part,SKU-124,Returned,80,80,1970,157600,Public Tender,Q2,Approved
+TX-30176,2026-04-25,WH-S,Akaki,Electrical Part,SKU-125,Received,93,93,2105,195765,Framework Supplier,Q2,Approved
+TX-30177,2026-05-06,WH-E,Kirkos,Civil Material,SKU-126,Returned,11,11,2240,24640,Spot Purchase,Q2,Approved
+TX-30178,2026-05-17,WH-W,Lideta,Civil Material,SKU-127,Received,24,24,2375,57000,Public Tender,Q2,Review
+TX-30179,2026-05-28,WH-N,Gullele,Civil Material,SKU-128,Issued,37,-37,2510,92870,Framework Supplier,Q2,Approved
+TX-30180,2026-06-08,WH-S,Nifas Silk,Civil Material,SKU-129,Transferred,50,-50,2645,132250,Spot Purchase,Q2,Approved
+TX-30181,2026-06-19,WH-E,Bole,Pipe Fitting,SKU-100,Issued,63,-63,80,5040,Public Tender,Q2,Approved
+TX-30182,2026-06-30,WH-W,Akaki,Pipe Fitting,SKU-101,Returned,76,76,215,16340,Framework Supplier,Q2,Review
+TX-30183,2026-07-11,WH-N,Kirkos,Pipe Fitting,SKU-102,Received,89,89,350,31150,Spot Purchase,Q3,Approved
+TX-30184,2026-07-22,WH-S,Lideta,Pipe Fitting,SKU-103,Issued,7,-7,485,3395,Public Tender,Q3,Approved
+TX-30185,2026-08-02,WH-E,Gullele,Valve Spare,SKU-104,Transferred,20,-20,620,12400,Framework Supplier,Q3,Approved
+TX-30186,2026-08-13,WH-W,Nifas Silk,Valve Spare,SKU-105,Issued,33,-33,755,24915,Spot Purchase,Q3,Review
+TX-30187,2026-08-24,WH-N,Bole,Valve Spare,SKU-106,Returned,46,46,890,40940,Public Tender,Q3,Approved
+TX-30188,2026-09-04,WH-E,Akaki,Valve Spare,SKU-107,Issued,59,-59,1025,60475,Framework Supplier,Q3,Approved
+TX-30189,2026-09-15,WH-W,Kirkos,Safety Supply,SKU-108,Returned,72,72,1160,83520,Spot Purchase,Q3,Approved
+TX-30190,2026-09-26,WH-N,Lideta,Safety Supply,SKU-109,Received,85,85,1295,110075,Public Tender,Q3,Review
+TX-30191,2026-10-07,WH-S,Gullele,Safety Supply,SKU-110,Issued,3,-3,1430,4290,Framework Supplier,Q4,Approved
+TX-30192,2025-11-02,WH-E,Nifas Silk,Safety Supply,SKU-111,Transferred,16,-16,1565,25040,Spot Purchase,Q4,Approved
+TX-30193,2025-11-13,WH-W,Bole,Electrical Part,SKU-112,Issued,29,-29,1700,49300,Public Tender,Q4,Approved
+TX-30194,2025-11-24,WH-N,Akaki,Electrical Part,SKU-113,Returned,42,42,1835,77070,Framework Supplier,Q4,Review
+TX-30195,2025-12-05,WH-S,Kirkos,Electrical Part,SKU-114,Received,55,55,1970,108350,Spot Purchase,Q4,Approved
+TX-30196,2025-12-16,WH-E,Lideta,Electrical Part,SKU-115,Issued,68,-68,2105,143140,Public Tender,Q4,Approved
+TX-30197,2025-12-27,WH-W,Gullele,Civil Material,SKU-116,Transferred,81,-81,2240,181440,Framework Supplier,Q4,Approved
+TX-30198,2026-01-07,WH-N,Nifas Silk,Civil Material,SKU-117,Issued,94,-94,2375,223250,Spot Purchase,Q1,Review
+TX-30199,2026-01-18,WH-S,Bole,Civil Material,SKU-118,Transferred,12,-12,2510,30120,Public Tender,Q1,Approved
+TX-30200,2026-01-29,WH-E,Akaki,Civil Material,SKU-119,Issued,25,-25,2645,66125,Framework Supplier,Q1,Approved
+TX-30201,2026-02-09,WH-W,Kirkos,Pipe Fitting,SKU-120,Returned,38,38,80,3040,Spot Purchase,Q1,Approved
+TX-30202,2026-02-20,WH-N,Lideta,Pipe Fitting,SKU-121,Received,51,51,215,10965,Public Tender,Q1,Review
+TX-30203,2026-03-03,WH-S,Gullele,Pipe Fitting,SKU-122,Issued,64,-64,350,22400,Framework Supplier,Q1,Approved
+TX-30204,2026-03-14,WH-E,Nifas Silk,Pipe Fitting,SKU-123,Transferred,77,-77,485,37345,Spot Purchase,Q1,Approved
+TX-30205,2026-03-25,WH-N,Bole,Valve Spare,SKU-124,Issued,90,-90,620,55800,Public Tender,Q1,Approved
+TX-30206,2026-04-05,WH-S,Akaki,Valve Spare,SKU-125,Returned,8,8,755,6040,Framework Supplier,Q2,Review
+TX-30207,2026-04-16,WH-E,Kirkos,Valve Spare,SKU-126,Received,21,21,890,18690,Spot Purchase,Q2,Approved
+TX-30208,2026-04-27,WH-W,Lideta,Valve Spare,SKU-127,Issued,34,-34,1025,34850,Public Tender,Q2,Approved
+TX-30209,2026-05-08,WH-N,Gullele,Safety Supply,SKU-128,Transferred,47,-47,1160,54520,Framework Supplier,Q2,Approved
+TX-30210,2026-05-19,WH-S,Nifas Silk,Safety Supply,SKU-129,Issued,60,-60,1295,77700,Spot Purchase,Q2,Review
+TX-30211,2026-05-30,WH-E,Bole,Safety Supply,SKU-100,Transferred,73,-73,1430,104390,Public Tender,Q2,Approved
+TX-30212,2026-06-10,WH-W,Akaki,Safety Supply,SKU-101,Issued,86,-86,1565,134590,Framework Supplier,Q2,Approved
+TX-30213,2026-06-21,WH-N,Kirkos,Electrical Part,SKU-102,Returned,4,4,1700,6800,Spot Purchase,Q2,Approved
+TX-30214,2026-07-02,WH-S,Lideta,Electrical Part,SKU-103,Received,17,17,1835,31195,Public Tender,Q3,Review
+TX-30215,2026-07-13,WH-E,Gullele,Electrical Part,SKU-104,Issued,30,-30,1970,59100,Framework Supplier,Q3,Approved
+TX-30216,2026-07-24,WH-W,Nifas Silk,Electrical Part,SKU-105,Transferred,43,-43,2105,90515,Spot Purchase,Q3,Approved
+TX-30217,2026-08-04,WH-N,Bole,Civil Material,SKU-106,Issued,56,-56,2240,125440,Public Tender,Q3,Approved
+TX-30218,2026-08-15,WH-S,Akaki,Civil Material,SKU-107,Returned,69,69,2375,163875,Framework Supplier,Q3,Review
+TX-30219,2026-08-26,WH-E,Kirkos,Civil Material,SKU-108,Received,82,82,2510,205820,Spot Purchase,Q3,Approved
+TX-30220,2026-09-06,WH-W,Lideta,Civil Material,SKU-109,Issued,95,-95,2645,251275,Public Tender,Q3,Approved
+TX-30221,2026-09-17,WH-N,Gullele,Pipe Fitting,SKU-110,Received,13,13,80,1040,Framework Supplier,Q3,Approved
+TX-30222,2026-09-28,WH-E,Nifas Silk,Pipe Fitting,SKU-111,Issued,26,-26,215,5590,Spot Purchase,Q3,Review
+TX-30223,2026-10-09,WH-W,Bole,Pipe Fitting,SKU-112,Transferred,39,-39,350,13650,Public Tender,Q4,Approved
+TX-30224,2025-11-04,WH-N,Akaki,Pipe Fitting,SKU-113,Issued,52,-52,485,25220,Framework Supplier,Q4,Approved
+TX-30225,2025-11-15,WH-S,Kirkos,Valve Spare,SKU-114,Returned,65,65,620,40300,Spot Purchase,Q4,Approved
+TX-30226,2025-11-26,WH-E,Lideta,Valve Spare,SKU-115,Received,78,78,755,58890,Public Tender,Q4,Review
+TX-30227,2025-12-07,WH-W,Gullele,Valve Spare,SKU-116,Issued,91,-91,890,80990,Framework Supplier,Q4,Approved
+TX-30228,2025-12-18,WH-N,Nifas Silk,Valve Spare,SKU-117,Transferred,9,-9,1025,9225,Spot Purchase,Q4,Approved
+TX-30229,2025-12-29,WH-S,Bole,Safety Supply,SKU-118,Issued,22,-22,1160,25520,Public Tender,Q4,Approved
+TX-30230,2026-01-09,WH-E,Akaki,Safety Supply,SKU-119,Returned,35,35,1295,45325,Framework Supplier,Q1,Review
+TX-30231,2026-01-20,WH-W,Kirkos,Safety Supply,SKU-120,Received,48,48,1430,68640,Spot Purchase,Q1,Approved
+TX-30232,2026-01-31,WH-N,Lideta,Safety Supply,SKU-121,Returned,61,61,1565,95465,Public Tender,Q1,Approved
+TX-30233,2026-02-11,WH-S,Gullele,Electrical Part,SKU-122,Received,74,74,1700,125800,Framework Supplier,Q1,Approved
+TX-30234,2026-02-22,WH-E,Nifas Silk,Electrical Part,SKU-123,Issued,87,-87,1835,159645,Spot Purchase,Q1,Review
+TX-30235,2026-03-05,WH-W,Bole,Electrical Part,SKU-124,Transferred,5,-5,1970,9850,Public Tender,Q1,Approved
+TX-30236,2026-03-16,WH-N,Akaki,Electrical Part,SKU-125,Issued,18,-18,2105,37890,Framework Supplier,Q1,Approved
+TX-30237,2026-03-27,WH-S,Kirkos,Civil Material,SKU-126,Returned,31,31,2240,69440,Spot Purchase,Q1,Approved
+TX-30238,2026-04-07,WH-E,Lideta,Civil Material,SKU-127,Received,44,44,2375,104500,Public Tender,Q2,Review
+TX-30239,2026-04-18,WH-N,Gullele,Civil Material,SKU-128,Issued,57,-57,2510,143070,Framework Supplier,Q2,Approved
+TX-30240,2026-04-29,WH-S,Nifas Silk,Civil Material,SKU-129,Transferred,70,-70,2645,185150,Spot Purchase,Q2,Approved
+TX-30241,2026-05-10,WH-E,Bole,Pipe Fitting,SKU-100,Issued,83,-83,80,6640,Public Tender,Q2,Approved
+TX-30242,2026-05-21,WH-W,Akaki,Pipe Fitting,SKU-101,Returned,96,96,215,20640,Framework Supplier,Q2,Review
+TX-30243,2026-06-01,WH-N,Kirkos,Pipe Fitting,SKU-102,Issued,14,-14,350,4900,Spot Purchase,Q2,Approved
+TX-30244,2026-06-12,WH-S,Lideta,Pipe Fitting,SKU-103,Returned,27,27,485,13095,Public Tender,Q2,Approved
+TX-30245,2026-06-23,WH-E,Gullele,Valve Spare,SKU-104,Received,40,40,620,24800,Framework Supplier,Q2,Approved
+TX-30246,2026-07-04,WH-W,Nifas Silk,Valve Spare,SKU-105,Issued,53,-53,755,40015,Spot Purchase,Q3,Review
+TX-30247,2026-07-15,WH-N,Bole,Valve Spare,SKU-106,Transferred,66,-66,890,58740,Public Tender,Q3,Approved
+TX-30248,2026-07-26,WH-S,Akaki,Valve Spare,SKU-107,Issued,79,-79,1025,80975,Framework Supplier,Q3,Approved
+TX-30249,2026-08-06,WH-E,Kirkos,Safety Supply,SKU-108,Returned,92,92,1160,106720,Spot Purchase,Q3,Approved
+TX-30250,2026-08-17,WH-W,Lideta,Safety Supply,SKU-109,Received,10,10,1295,12950,Public Tender,Q3,Review
+TX-30251,2026-08-28,WH-N,Gullele,Safety Supply,SKU-110,Issued,23,-23,1430,32890,Framework Supplier,Q3,Approved
+TX-30252,2026-09-08,WH-S,Nifas Silk,Safety Supply,SKU-111,Transferred,36,-36,1565,56340,Spot Purchase,Q3,Approved
+TX-30253,2026-09-19,WH-E,Bole,Electrical Part,SKU-112,Issued,49,-49,1700,83300,Public Tender,Q3,Approved
+TX-30254,2026-09-30,WH-W,Akaki,Electrical Part,SKU-113,Transferred,62,-62,1835,113770,Framework Supplier,Q3,Review
+TX-30255,2026-10-11,WH-N,Kirkos,Electrical Part,SKU-114,Issued,75,-75,1970,147750,Spot Purchase,Q4,Approved
+TX-30256,2025-11-06,WH-E,Lideta,Electrical Part,SKU-115,Returned,88,88,2105,185240,Public Tender,Q4,Approved
+TX-30257,2025-11-17,WH-W,Gullele,Civil Material,SKU-116,Received,6,6,2240,13440,Framework Supplier,Q4,Approved
+TX-30258,2025-11-28,WH-N,Nifas Silk,Civil Material,SKU-117,Issued,19,-19,2375,45125,Spot Purchase,Q4,Review
+TX-30259,2025-12-09,WH-S,Bole,Civil Material,SKU-118,Transferred,32,-32,2510,80320,Public Tender,Q4,Approved
+TX-30260,2025-12-20,WH-E,Akaki,Civil Material,SKU-119,Issued,45,-45,2645,119025,Framework Supplier,Q4,Approved
+TX-30261,2025-12-31,WH-W,Kirkos,Pipe Fitting,SKU-120,Returned,58,58,80,4640,Spot Purchase,Q4,Approved
+TX-30262,2026-01-11,WH-N,Lideta,Pipe Fitting,SKU-121,Received,71,71,215,15265,Public Tender,Q1,Review
+TX-30263,2026-01-22,WH-S,Gullele,Pipe Fitting,SKU-122,Issued,84,-84,350,29400,Framework Supplier,Q1,Approved
+TX-30264,2026-02-02,WH-E,Nifas Silk,Pipe Fitting,SKU-123,Transferred,97,-97,485,47045,Spot Purchase,Q1,Approved
+TX-30265,2026-02-13,WH-W,Bole,Valve Spare,SKU-124,Issued,15,-15,620,9300,Public Tender,Q1,Approved
+TX-30266,2026-02-24,WH-N,Akaki,Valve Spare,SKU-125,Transferred,28,-28,755,21140,Framework Supplier,Q1,Review
+TX-30267,2026-03-07,WH-S,Kirkos,Valve Spare,SKU-126,Issued,41,-41,890,36490,Spot Purchase,Q1,Approved
+TX-30268,2026-03-18,WH-E,Lideta,Valve Spare,SKU-127,Returned,54,54,1025,55350,Public Tender,Q1,Approved
+TX-30269,2026-03-29,WH-W,Gullele,Safety Supply,SKU-128,Received,67,67,1160,77720,Framework Supplier,Q1,Approved
+TX-30270,2026-04-09,WH-N,Nifas Silk,Safety Supply,SKU-129,Issued,80,-80,1295,103600,Spot Purchase,Q2,Review
+TX-30271,2026-04-20,WH-S,Bole,Safety Supply,SKU-100,Transferred,93,-93,1430,132990,Public Tender,Q2,Approved
+TX-30272,2026-05-01,WH-E,Akaki,Safety Supply,SKU-101,Issued,11,-11,1565,17215,Framework Supplier,Q2,Approved
+TX-30273,2026-05-12,WH-N,Kirkos,Electrical Part,SKU-102,Returned,24,24,1700,40800,Spot Purchase,Q2,Approved
+TX-30274,2026-05-23,WH-S,Lideta,Electrical Part,SKU-103,Received,37,37,1835,67895,Public Tender,Q2,Review
+TX-30275,2026-06-03,WH-E,Gullele,Electrical Part,SKU-104,Issued,50,-50,1970,98500,Framework Supplier,Q2,Approved
+TX-30276,2026-06-14,WH-W,Nifas Silk,Electrical Part,SKU-105,Received,63,63,2105,132615,Spot Purchase,Q2,Approved
+TX-30277,2026-06-25,WH-N,Bole,Civil Material,SKU-106,Issued,76,-76,2240,170240,Public Tender,Q2,Approved
+TX-30278,2026-07-06,WH-S,Akaki,Civil Material,SKU-107,Transferred,89,-89,2375,211375,Framework Supplier,Q3,Review
+TX-30279,2026-07-17,WH-E,Kirkos,Civil Material,SKU-108,Issued,7,-7,2510,17570,Spot Purchase,Q3,Approved
+TX-30280,2026-07-28,WH-W,Lideta,Civil Material,SKU-109,Returned,20,20,2645,52900,Public Tender,Q3,Approved
+TX-30281,2026-08-08,WH-N,Gullele,Pipe Fitting,SKU-110,Received,33,33,80,2640,Framework Supplier,Q3,Approved
+TX-30282,2026-08-19,WH-S,Nifas Silk,Pipe Fitting,SKU-111,Issued,46,-46,215,9890,Spot Purchase,Q3,Review
+TX-30283,2026-08-30,WH-E,Bole,Pipe Fitting,SKU-112,Transferred,59,-59,350,20650,Public Tender,Q3,Approved
+TX-30284,2026-09-10,WH-W,Akaki,Pipe Fitting,SKU-113,Issued,72,-72,485,34920,Framework Supplier,Q3,Approved
+TX-30285,2026-09-21,WH-N,Kirkos,Valve Spare,SKU-114,Returned,85,85,620,52700,Spot Purchase,Q3,Approved
+TX-30286,2026-10-02,WH-S,Lideta,Valve Spare,SKU-115,Received,3,3,755,2265,Public Tender,Q4,Review
+TX-30287,2026-10-13,WH-E,Gullele,Valve Spare,SKU-116,Returned,16,16,890,14240,Framework Supplier,Q4,Approved
+TX-30288,2025-11-08,WH-W,Nifas Silk,Valve Spare,SKU-117,Received,29,29,1025,29725,Spot Purchase,Q4,Approved
+TX-30289,2025-11-19,WH-N,Bole,Safety Supply,SKU-118,Issued,42,-42,1160,48720,Public Tender,Q4,Approved
+TX-30290,2025-11-30,WH-E,Akaki,Safety Supply,SKU-119,Transferred,55,-55,1295,71225,Framework Supplier,Q4,Review
+TX-30291,2025-12-11,WH-W,Kirkos,Safety Supply,SKU-120,Issued,68,-68,1430,97240,Spot Purchase,Q4,Approved
+TX-30292,2025-12-22,WH-N,Lideta,Safety Supply,SKU-121,Returned,81,81,1565,126765,Public Tender,Q4,Approved
+TX-30293,2026-01-02,WH-S,Gullele,Electrical Part,SKU-122,Received,94,94,1700,159800,Framework Supplier,Q1,Approved
+TX-30294,2026-01-13,WH-E,Nifas Silk,Electrical Part,SKU-123,Issued,12,-12,1835,22020,Spot Purchase,Q1,Review
+TX-30295,2026-01-24,WH-W,Bole,Electrical Part,SKU-124,Transferred,25,-25,1970,49250,Public Tender,Q1,Approved
+TX-30296,2026-02-04,WH-N,Akaki,Electrical Part,SKU-125,Issued,38,-38,2105,79990,Framework Supplier,Q1,Approved
+TX-30297,2026-02-15,WH-S,Kirkos,Civil Material,SKU-126,Returned,51,51,2240,114240,Spot Purchase,Q1,Approved
+TX-30298,2026-02-26,WH-E,Lideta,Civil Material,SKU-127,Issued,64,-64,2375,152000,Public Tender,Q1,Review
+TX-30299,2026-03-09,WH-W,Gullele,Civil Material,SKU-128,Returned,77,77,2510,193270,Framework Supplier,Q1,Approved
+TX-30300,2026-03-20,WH-N,Nifas Silk,Civil Material,SKU-129,Received,90,90,2645,238050,Spot Purchase,Q1,Approved
+TX-30301,2026-03-31,WH-S,Bole,Pipe Fitting,SKU-100,Issued,8,-8,80,640,Public Tender,Q1,Approved
+TX-30302,2026-04-11,WH-E,Akaki,Pipe Fitting,SKU-101,Transferred,21,-21,215,4515,Framework Supplier,Q2,Review
+TX-30303,2026-04-22,WH-W,Kirkos,Pipe Fitting,SKU-102,Issued,34,-34,350,11900,Spot Purchase,Q2,Approved
+TX-30304,2026-05-03,WH-N,Lideta,Pipe Fitting,SKU-103,Returned,47,47,485,22795,Public Tender,Q2,Approved
+TX-30305,2026-05-14,WH-S,Gullele,Valve Spare,SKU-104,Received,60,60,620,37200,Framework Supplier,Q2,Approved
+TX-30306,2026-05-25,WH-E,Nifas Silk,Valve Spare,SKU-105,Issued,73,-73,755,55115,Spot Purchase,Q2,Review
+TX-30307,2026-06-05,WH-N,Bole,Valve Spare,SKU-106,Transferred,86,-86,890,76540,Public Tender,Q2,Approved
+TX-30308,2026-06-16,WH-S,Akaki,Valve Spare,SKU-107,Issued,4,-4,1025,4100,Framework Supplier,Q2,Approved
+TX-30309,2026-06-27,WH-E,Kirkos,Safety Supply,SKU-108,Transferred,17,-17,1160,19720,Spot Purchase,Q2,Approved
+TX-30310,2026-07-08,WH-W,Lideta,Safety Supply,SKU-109,Issued,30,-30,1295,38850,Public Tender,Q3,Review
+TX-30311,2026-07-19,WH-N,Gullele,Safety Supply,SKU-110,Returned,43,43,1430,61490,Framework Supplier,Q3,Approved
+TX-30312,2026-07-30,WH-S,Nifas Silk,Safety Supply,SKU-111,Received,56,56,1565,87640,Spot Purchase,Q3,Approved
+TX-30313,2026-08-10,WH-E,Bole,Electrical Part,SKU-112,Issued,69,-69,1700,117300,Public Tender,Q3,Approved
+TX-30314,2026-08-21,WH-W,Akaki,Electrical Part,SKU-113,Transferred,82,-82,1835,150470,Framework Supplier,Q3,Review
+TX-30315,2026-09-01,WH-N,Kirkos,Electrical Part,SKU-114,Issued,95,-95,1970,187150,Spot Purchase,Q3,Approved
+TX-30316,2026-09-12,WH-S,Lideta,Electrical Part,SKU-115,Returned,13,13,2105,27365,Public Tender,Q3,Approved
+TX-30317,2026-09-23,WH-E,Gullele,Civil Material,SKU-116,Received,26,26,2240,58240,Framework Supplier,Q3,Approved
+TX-30318,2026-10-04,WH-W,Nifas Silk,Civil Material,SKU-117,Issued,39,-39,2375,92625,Spot Purchase,Q4,Review
+TX-30319,2026-10-15,WH-N,Bole,Civil Material,SKU-118,Transferred,52,-52,2510,130520,Public Tender,Q4,Approved
+TX-30320,2025-11-10,WH-S,Akaki,Civil Material,SKU-119,Issued,65,-65,2645,171925,Framework Supplier,Q4,Approved
+TX-30321,2025-11-21,WH-E,Kirkos,Pipe Fitting,SKU-120,Transferred,78,-78,80,6240,Spot Purchase,Q4,Approved
+TX-30322,2025-12-02,WH-W,Lideta,Pipe Fitting,SKU-121,Issued,91,-91,215,19565,Public Tender,Q4,Review
+TX-30323,2025-12-13,WH-N,Gullele,Pipe Fitting,SKU-122,Returned,9,9,350,3150,Framework Supplier,Q4,Approved
+TX-30324,2025-12-24,WH-E,Nifas Silk,Pipe Fitting,SKU-123,Received,22,22,485,10670,Spot Purchase,Q4,Approved
+TX-30325,2026-01-04,WH-W,Bole,Valve Spare,SKU-124,Issued,35,-35,620,21700,Public Tender,Q1,Approved
+TX-30326,2026-01-15,WH-N,Akaki,Valve Spare,SKU-125,Transferred,48,-48,755,36240,Framework Supplier,Q1,Review
+TX-30327,2026-01-26,WH-S,Kirkos,Valve Spare,SKU-126,Issued,61,-61,890,54290,Spot Purchase,Q1,Approved
+TX-30328,2026-02-06,WH-E,Lideta,Valve Spare,SKU-127,Returned,74,74,1025,75850,Public Tender,Q1,Approved
+TX-30329,2026-02-17,WH-W,Gullele,Safety Supply,SKU-128,Received,87,87,1160,100920,Framework Supplier,Q1,Approved
+TX-30330,2026-02-28,WH-N,Nifas Silk,Safety Supply,SKU-129,Issued,5,-5,1295,6475,Spot Purchase,Q1,Review
+TX-30331,2026-03-11,WH-S,Bole,Safety Supply,SKU-100,Received,18,18,1430,25740,Public Tender,Q1,Approved
+TX-30332,2026-03-22,WH-E,Akaki,Safety Supply,SKU-101,Issued,31,-31,1565,48515,Framework Supplier,Q1,Approved
+TX-30333,2026-04-02,WH-W,Kirkos,Electrical Part,SKU-102,Transferred,44,-44,1700,74800,Spot Purchase,Q2,Approved
+TX-30334,2026-04-13,WH-N,Lideta,Electrical Part,SKU-103,Issued,57,-57,1835,104595,Public Tender,Q2,Review
+TX-30335,2026-04-24,WH-S,Gullele,Electrical Part,SKU-104,Returned,70,70,1970,137900,Framework Supplier,Q2,Approved
+TX-30336,2026-05-05,WH-E,Nifas Silk,Electrical Part,SKU-105,Received,83,83,2105,174715,Spot Purchase,Q2,Approved
+TX-30337,2026-05-16,WH-W,Bole,Civil Material,SKU-106,Issued,96,-96,2240,215040,Public Tender,Q2,Approved
+TX-30338,2026-05-27,WH-N,Akaki,Civil Material,SKU-107,Transferred,14,-14,2375,33250,Framework Supplier,Q2,Review
+TX-30339,2026-06-07,WH-S,Kirkos,Civil Material,SKU-108,Issued,27,-27,2510,67770,Spot Purchase,Q2,Approved
+TX-30340,2026-06-18,WH-E,Lideta,Civil Material,SKU-109,Returned,40,40,2645,105800,Public Tender,Q2,Approved
+TX-30341,2026-06-29,WH-N,Gullele,Pipe Fitting,SKU-110,Received,53,53,80,4240,Framework Supplier,Q2,Approved
+TX-30342,2026-07-10,WH-S,Nifas Silk,Pipe Fitting,SKU-111,Returned,66,66,215,14190,Spot Purchase,Q3,Review
+TX-30343,2026-07-21,WH-E,Bole,Pipe Fitting,SKU-112,Received,79,79,350,27650,Public Tender,Q3,Approved
+TX-30344,2026-08-01,WH-W,Akaki,Pipe Fitting,SKU-113,Issued,92,-92,485,44620,Framework Supplier,Q3,Approved
+TX-30345,2026-08-12,WH-N,Kirkos,Valve Spare,SKU-114,Transferred,10,-10,620,6200,Spot Purchase,Q3,Approved
+TX-30346,2026-08-23,WH-S,Lideta,Valve Spare,SKU-115,Issued,23,-23,755,17365,Public Tender,Q3,Review
+TX-30347,2026-09-03,WH-E,Gullele,Valve Spare,SKU-116,Returned,36,36,890,32040,Framework Supplier,Q3,Approved
+TX-30348,2026-09-14,WH-W,Nifas Silk,Valve Spare,SKU-117,Received,49,49,1025,50225,Spot Purchase,Q3,Approved
+TX-30349,2026-09-25,WH-N,Bole,Safety Supply,SKU-118,Issued,62,-62,1160,71920,Public Tender,Q3,Approved
+TX-30350,2026-10-06,WH-S,Akaki,Safety Supply,SKU-119,Transferred,75,-75,1295,97125,Framework Supplier,Q4,Review
+TX-30351,2025-11-01,WH-E,Kirkos,Safety Supply,SKU-120,Issued,88,-88,1430,125840,Spot Purchase,Q4,Approved
+TX-30352,2025-11-12,WH-W,Lideta,Safety Supply,SKU-121,Returned,6,6,1565,9390,Public Tender,Q4,Approved
+TX-30353,2025-11-23,WH-N,Gullele,Electrical Part,SKU-122,Issued,19,-19,1700,32300,Framework Supplier,Q4,Approved
+TX-30354,2025-12-04,WH-S,Nifas Silk,Electrical Part,SKU-123,Returned,32,32,1835,58720,Spot Purchase,Q4,Review
+TX-30355,2025-12-15,WH-E,Bole,Electrical Part,SKU-124,Received,45,45,1970,88650,Public Tender,Q4,Approved
+TX-30356,2025-12-26,WH-W,Akaki,Electrical Part,SKU-125,Issued,58,-58,2105,122090,Framework Supplier,Q4,Approved
+TX-30357,2026-01-06,WH-N,Kirkos,Civil Material,SKU-126,Transferred,71,-71,2240,159040,Spot Purchase,Q1,Approved
+TX-30358,2026-01-17,WH-E,Lideta,Civil Material,SKU-127,Issued,84,-84,2375,199500,Public Tender,Q1,Review
+TX-30359,2026-01-28,WH-W,Gullele,Civil Material,SKU-128,Returned,97,97,2510,243470,Framework Supplier,Q1,Approved
+TX-30360,2026-02-08,WH-N,Nifas Silk,Civil Material,SKU-129,Received,15,15,2645,39675,Spot Purchase,Q1,Approved
+TX-30361,2026-02-19,WH-S,Bole,Pipe Fitting,SKU-100,Issued,28,-28,80,2240,Public Tender,Q1,Approved
+TX-30362,2026-03-02,WH-E,Akaki,Pipe Fitting,SKU-101,Transferred,41,-41,215,8815,Framework Supplier,Q1,Review
+TX-30363,2026-03-13,WH-W,Kirkos,Pipe Fitting,SKU-102,Issued,54,-54,350,18900,Spot Purchase,Q1,Approved
+TX-30364,2026-03-24,WH-N,Lideta,Pipe Fitting,SKU-103,Transferred,67,-67,485,32495,Public Tender,Q1,Approved
+TX-30365,2026-04-04,WH-S,Gullele,Valve Spare,SKU-104,Issued,80,-80,620,49600,Framework Supplier,Q2,Approved
+TX-30366,2026-04-15,WH-E,Nifas Silk,Valve Spare,SKU-105,Returned,93,93,755,70215,Spot Purchase,Q2,Review
+TX-30367,2026-04-26,WH-W,Bole,Valve Spare,SKU-106,Received,11,11,890,9790,Public Tender,Q2,Approved
+TX-30368,2026-05-07,WH-N,Akaki,Valve Spare,SKU-107,Issued,24,-24,1025,24600,Framework Supplier,Q2,Approved
+TX-30369,2026-05-18,WH-S,Kirkos,Safety Supply,SKU-108,Transferred,37,-37,1160,42920,Spot Purchase,Q2,Approved
+TX-30370,2026-05-29,WH-E,Lideta,Safety Supply,SKU-109,Issued,50,-50,1295,64750,Public Tender,Q2,Review
+TX-30371,2026-06-09,WH-W,Gullele,Safety Supply,SKU-110,Returned,63,63,1430,90090,Framework Supplier,Q2,Approved
+TX-30372,2026-06-20,WH-N,Nifas Silk,Safety Supply,SKU-111,Received,76,76,1565,118940,Spot Purchase,Q2,Approved
+TX-30373,2026-07-01,WH-S,Bole,Electrical Part,SKU-112,Issued,89,-89,1700,151300,Public Tender,Q3,Approved
+TX-30374,2026-07-12,WH-E,Akaki,Electrical Part,SKU-113,Transferred,7,-7,1835,12845,Framework Supplier,Q3,Review
+TX-30375,2026-07-23,WH-N,Kirkos,Electrical Part,SKU-114,Issued,20,-20,1970,39400,Spot Purchase,Q3,Approved
+TX-30376,2026-08-03,WH-S,Lideta,Electrical Part,SKU-115,Transferred,33,-33,2105,69465,Public Tender,Q3,Approved
+TX-30377,2026-08-14,WH-E,Gullele,Civil Material,SKU-116,Issued,46,-46,2240,103040,Framework Supplier,Q3,Approved
+TX-30378,2026-08-25,WH-W,Nifas Silk,Civil Material,SKU-117,Returned,59,59,2375,140125,Spot Purchase,Q3,Review
+TX-30379,2026-09-05,WH-N,Bole,Civil Material,SKU-118,Received,72,72,2510,180720,Public Tender,Q3,Approved
+TX-30380,2026-09-16,WH-S,Akaki,Civil Material,SKU-119,Issued,85,-85,2645,224825,Framework Supplier,Q3,Approved
+TX-30381,2026-09-27,WH-E,Kirkos,Pipe Fitting,SKU-120,Transferred,3,-3,80,240,Spot Purchase,Q3,Approved
+TX-30382,2026-10-08,WH-W,Lideta,Pipe Fitting,SKU-121,Issued,16,-16,215,3440,Public Tender,Q4,Review
+TX-30383,2025-11-03,WH-N,Gullele,Pipe Fitting,SKU-122,Returned,29,29,350,10150,Framework Supplier,Q4,Approved
+TX-30384,2025-11-14,WH-S,Nifas Silk,Pipe Fitting,SKU-123,Received,42,42,485,20370,Spot Purchase,Q4,Approved
+TX-30385,2025-11-25,WH-E,Bole,Valve Spare,SKU-124,Issued,55,-55,620,34100,Public Tender,Q4,Approved
+TX-30386,2025-12-06,WH-W,Akaki,Valve Spare,SKU-125,Received,68,68,755,51340,Framework Supplier,Q4,Review
+TX-30387,2025-12-17,WH-N,Kirkos,Valve Spare,SKU-126,Issued,81,-81,890,72090,Spot Purchase,Q4,Approved
+TX-30388,2025-12-28,WH-S,Lideta,Valve Spare,SKU-127,Transferred,94,-94,1025,96350,Public Tender,Q4,Approved
+TX-30389,2026-01-08,WH-E,Gullele,Safety Supply,SKU-128,Issued,12,-12,1160,13920,Framework Supplier,Q1,Approved
+TX-30390,2026-01-19,WH-W,Nifas Silk,Safety Supply,SKU-129,Returned,25,25,1295,32375,Spot Purchase,Q1,Review
+TX-30391,2026-01-30,WH-N,Bole,Safety Supply,SKU-100,Received,38,38,1430,54340,Public Tender,Q1,Approved
+TX-30392,2026-02-10,WH-E,Akaki,Safety Supply,SKU-101,Issued,51,-51,1565,79815,Framework Supplier,Q1,Approved
+TX-30393,2026-02-21,WH-W,Kirkos,Electrical Part,SKU-102,Transferred,64,-64,1700,108800,Spot Purchase,Q1,Approved
+TX-30394,2026-03-04,WH-N,Lideta,Electrical Part,SKU-103,Issued,77,-77,1835,141295,Public Tender,Q1,Review
+TX-30395,2026-03-15,WH-S,Gullele,Electrical Part,SKU-104,Returned,90,90,1970,177300,Framework Supplier,Q1,Approved
+TX-30396,2026-03-26,WH-E,Nifas Silk,Electrical Part,SKU-105,Received,8,8,2105,16840,Spot Purchase,Q1,Approved
+TX-30397,2026-04-06,WH-W,Bole,Civil Material,SKU-106,Returned,21,21,2240,47040,Public Tender,Q2,Approved
+TX-30398,2026-04-17,WH-N,Akaki,Civil Material,SKU-107,Received,34,34,2375,80750,Framework Supplier,Q2,Review
+TX-30399,2026-04-28,WH-S,Kirkos,Civil Material,SKU-108,Issued,47,-47,2510,117970,Spot Purchase,Q2,Approved
+TX-30400,2026-05-09,WH-E,Lideta,Civil Material,SKU-109,Transferred,60,-60,2645,158700,Public Tender,Q2,Approved
+TX-30401,2026-05-20,WH-W,Gullele,Pipe Fitting,SKU-110,Issued,73,-73,80,5840,Framework Supplier,Q2,Approved
+TX-30402,2026-05-31,WH-N,Nifas Silk,Pipe Fitting,SKU-111,Returned,86,86,215,18490,Spot Purchase,Q2,Review
+TX-30403,2026-06-11,WH-S,Bole,Pipe Fitting,SKU-112,Received,4,4,350,1400,Public Tender,Q2,Approved
+TX-30404,2026-06-22,WH-E,Akaki,Pipe Fitting,SKU-113,Issued,17,-17,485,8245,Framework Supplier,Q2,Approved
+TX-30405,2026-07-03,WH-W,Kirkos,Valve Spare,SKU-114,Transferred,30,-30,620,18600,Spot Purchase,Q3,Approved
+TX-30406,2026-07-14,WH-N,Lideta,Valve Spare,SKU-115,Issued,43,-43,755,32465,Public Tender,Q3,Review
+TX-30407,2026-07-25,WH-S,Gullele,Valve Spare,SKU-116,Returned,56,56,890,49840,Framework Supplier,Q3,Approved
+TX-30408,2026-08-05,WH-E,Nifas Silk,Valve Spare,SKU-117,Issued,69,-69,1025,70725,Spot Purchase,Q3,Approved
+TX-30409,2026-08-16,WH-N,Bole,Safety Supply,SKU-118,Returned,82,82,1160,95120,Public Tender,Q3,Approved
+TX-30410,2026-08-27,WH-S,Akaki,Safety Supply,SKU-119,Received,95,95,1295,123025,Framework Supplier,Q3,Review
+TX-30411,2026-09-07,WH-E,Kirkos,Safety Supply,SKU-120,Issued,13,-13,1430,18590,Spot Purchase,Q3,Approved
+TX-30412,2026-09-18,WH-W,Lideta,Safety Supply,SKU-121,Transferred,26,-26,1565,40690,Public Tender,Q3,Approved
+TX-30413,2026-09-29,WH-N,Gullele,Electrical Part,SKU-122,Issued,39,-39,1700,66300,Framework Supplier,Q3,Approved
+TX-30414,2026-10-10,WH-S,Nifas Silk,Electrical Part,SKU-123,Returned,52,52,1835,95420,Spot Purchase,Q4,Review
+TX-30415,2025-11-05,WH-E,Bole,Electrical Part,SKU-124,Received,65,65,1970,128050,Public Tender,Q4,Approved
+TX-30416,2025-11-16,WH-W,Akaki,Electrical Part,SKU-125,Issued,78,-78,2105,164190,Framework Supplier,Q4,Approved
+TX-30417,2025-11-27,WH-N,Kirkos,Civil Material,SKU-126,Transferred,91,-91,2240,203840,Spot Purchase,Q4,Approved
+TX-30418,2025-12-08,WH-S,Lideta,Civil Material,SKU-127,Issued,9,-9,2375,21375,Public Tender,Q4,Review
+TX-30419,2025-12-19,WH-E,Gullele,Civil Material,SKU-128,Transferred,22,-22,2510,55220,Framework Supplier,Q4,Approved
+TX-30420,2025-12-30,WH-W,Nifas Silk,Civil Material,SKU-129,Issued,35,-35,2645,92575,Spot Purchase,Q4,Approved
+TX-30421,2026-01-10,WH-N,Bole,Pipe Fitting,SKU-100,Returned,48,48,80,3840,Public Tender,Q1,Approved
+TX-30422,2026-01-21,WH-S,Akaki,Pipe Fitting,SKU-101,Received,61,61,215,13115,Framework Supplier,Q1,Review
+TX-30423,2026-02-01,WH-E,Kirkos,Pipe Fitting,SKU-102,Issued,74,-74,350,25900,Spot Purchase,Q1,Approved
+TX-30424,2026-02-12,WH-W,Lideta,Pipe Fitting,SKU-103,Transferred,87,-87,485,42195,Public Tender,Q1,Approved
+TX-30425,2026-02-23,WH-N,Gullele,Valve Spare,SKU-104,Issued,5,-5,620,3100,Framework Supplier,Q1,Approved
+TX-30426,2026-03-06,WH-E,Nifas Silk,Valve Spare,SKU-105,Returned,18,18,755,13590,Spot Purchase,Q1,Review
+TX-30427,2026-03-17,WH-W,Bole,Valve Spare,SKU-106,Received,31,31,890,27590,Public Tender,Q1,Approved
+TX-30428,2026-03-28,WH-N,Akaki,Valve Spare,SKU-107,Issued,44,-44,1025,45100,Framework Supplier,Q1,Approved
+TX-30429,2026-04-08,WH-S,Kirkos,Safety Supply,SKU-108,Transferred,57,-57,1160,66120,Spot Purchase,Q2,Approved
+TX-30430,2026-04-19,WH-E,Lideta,Safety Supply,SKU-109,Issued,70,-70,1295,90650,Public Tender,Q2,Review
+TX-30431,2026-04-30,WH-W,Gullele,Safety Supply,SKU-110,Transferred,83,-83,1430,118690,Framework Supplier,Q2,Approved
+TX-30432,2026-05-11,WH-N,Nifas Silk,Safety Supply,SKU-111,Issued,96,-96,1565,150240,Spot Purchase,Q2,Approved
+TX-30433,2026-05-22,WH-S,Bole,Electrical Part,SKU-112,Returned,14,14,1700,23800,Public Tender,Q2,Approved
+TX-30434,2026-06-02,WH-E,Akaki,Electrical Part,SKU-113,Received,27,27,1835,49545,Framework Supplier,Q2,Review
+TX-30435,2026-06-13,WH-W,Kirkos,Electrical Part,SKU-114,Issued,40,-40,1970,78800,Spot Purchase,Q2,Approved
+TX-30436,2026-06-24,WH-N,Lideta,Electrical Part,SKU-115,Transferred,53,-53,2105,111565,Public Tender,Q2,Approved
+TX-30437,2026-07-05,WH-S,Gullele,Civil Material,SKU-116,Issued,66,-66,2240,147840,Framework Supplier,Q3,Approved
+TX-30438,2026-07-16,WH-E,Nifas Silk,Civil Material,SKU-117,Returned,79,79,2375,187625,Spot Purchase,Q3,Review
+TX-30439,2026-07-27,WH-W,Bole,Civil Material,SKU-118,Received,92,92,2510,230920,Public Tender,Q3,Approved
+TX-30440,2026-08-07,WH-N,Akaki,Civil Material,SKU-119,Issued,10,-10,2645,26450,Framework Supplier,Q3,Approved
+TX-30441,2026-08-18,WH-S,Kirkos,Pipe Fitting,SKU-120,Received,23,23,80,1840,Spot Purchase,Q3,Approved
+TX-30442,2026-08-29,WH-E,Lideta,Pipe Fitting,SKU-121,Issued,36,-36,215,7740,Public Tender,Q3,Review
+TX-30443,2026-09-09,WH-N,Gullele,Pipe Fitting,SKU-122,Transferred,49,-49,350,17150,Framework Supplier,Q3,Approved
+TX-30444,2026-09-20,WH-S,Nifas Silk,Pipe Fitting,SKU-123,Issued,62,-62,485,30070,Spot Purchase,Q3,Approved
+TX-30445,2026-10-01,WH-E,Bole,Valve Spare,SKU-124,Returned,75,75,620,46500,Public Tender,Q4,Approved
+TX-30446,2026-10-12,WH-W,Akaki,Valve Spare,SKU-125,Received,88,88,755,66440,Framework Supplier,Q4,Review
+TX-30447,2025-11-07,WH-N,Kirkos,Valve Spare,SKU-126,Issued,6,-6,890,5340,Spot Purchase,Q4,Approved
+TX-30448,2025-11-18,WH-S,Lideta,Valve Spare,SKU-127,Transferred,19,-19,1025,19475,Public Tender,Q4,Approved
+TX-30449,2025-11-29,WH-E,Gullele,Safety Supply,SKU-128,Issued,32,-32,1160,37120,Framework Supplier,Q4,Approved
+TX-30450,2025-12-10,WH-W,Nifas Silk,Safety Supply,SKU-129,Returned,45,45,1295,58275,Spot Purchase,Q4,Review
+TX-30451,2025-12-21,WH-N,Bole,Safety Supply,SKU-100,Received,58,58,1430,82940,Public Tender,Q4,Approved
+TX-30452,2026-01-01,WH-S,Akaki,Safety Supply,SKU-101,Returned,71,71,1565,111115,Framework Supplier,Q1,Approved
+TX-30453,2026-01-12,WH-E,Kirkos,Electrical Part,SKU-102,Received,84,84,1700,142800,Spot Purchase,Q1,Approved
+TX-30454,2026-01-23,WH-W,Lideta,Electrical Part,SKU-103,Issued,97,-97,1835,177995,Public Tender,Q1,Review
+TX-30455,2026-02-03,WH-N,Gullele,Electrical Part,SKU-104,Transferred,15,-15,1970,29550,Framework Supplier,Q1,Approved
+TX-30456,2026-02-14,WH-S,Nifas Silk,Electrical Part,SKU-105,Issued,28,-28,2105,58940,Spot Purchase,Q1,Approved
+TX-30457,2026-02-25,WH-E,Bole,Civil Material,SKU-106,Returned,41,41,2240,91840,Public Tender,Q1,Approved
+TX-30458,2026-03-08,WH-W,Akaki,Civil Material,SKU-107,Received,54,54,2375,128250,Framework Supplier,Q1,Review
+TX-30459,2026-03-19,WH-N,Kirkos,Civil Material,SKU-108,Issued,67,-67,2510,168170,Spot Purchase,Q1,Approved
+TX-30460,2026-03-30,WH-E,Lideta,Civil Material,SKU-109,Transferred,80,-80,2645,211600,Public Tender,Q1,Approved
+TX-30461,2026-04-10,WH-W,Gullele,Pipe Fitting,SKU-110,Issued,93,-93,80,7440,Framework Supplier,Q2,Approved
+TX-30462,2026-04-21,WH-N,Nifas Silk,Pipe Fitting,SKU-111,Returned,11,11,215,2365,Spot Purchase,Q2,Review
+TX-30463,2026-05-02,WH-S,Bole,Pipe Fitting,SKU-112,Issued,24,-24,350,8400,Public Tender,Q2,Approved
+TX-30464,2026-05-13,WH-E,Akaki,Pipe Fitting,SKU-113,Returned,37,37,485,17945,Framework Supplier,Q2,Approved
+TX-30465,2026-05-24,WH-W,Kirkos,Valve Spare,SKU-114,Received,50,50,620,31000,Spot Purchase,Q2,Approved
+TX-30466,2026-06-04,WH-N,Lideta,Valve Spare,SKU-115,Issued,63,-63,755,47565,Public Tender,Q2,Review
+TX-30467,2026-06-15,WH-S,Gullele,Valve Spare,SKU-116,Transferred,76,-76,890,67640,Framework Supplier,Q2,Approved
+TX-30468,2026-06-26,WH-E,Nifas Silk,Valve Spare,SKU-117,Issued,89,-89,1025,91225,Spot Purchase,Q2,Approved
+TX-30469,2026-07-07,WH-W,Bole,Safety Supply,SKU-118,Returned,7,7,1160,8120,Public Tender,Q3,Approved
+TX-30470,2026-07-18,WH-N,Akaki,Safety Supply,SKU-119,Received,20,20,1295,25900,Framework Supplier,Q3,Review
+TX-30471,2026-07-29,WH-S,Kirkos,Safety Supply,SKU-120,Issued,33,-33,1430,47190,Spot Purchase,Q3,Approved
+TX-30472,2026-08-09,WH-E,Lideta,Safety Supply,SKU-121,Transferred,46,-46,1565,71990,Public Tender,Q3,Approved
+TX-30473,2026-08-20,WH-W,Gullele,Electrical Part,SKU-122,Issued,59,-59,1700,100300,Framework Supplier,Q3,Approved
+TX-30474,2026-08-31,WH-N,Nifas Silk,Electrical Part,SKU-123,Transferred,72,-72,1835,132120,Spot Purchase,Q3,Review
+TX-30475,2026-09-11,WH-S,Bole,Electrical Part,SKU-124,Issued,85,-85,1970,167450,Public Tender,Q3,Approved
+TX-30476,2026-09-22,WH-E,Akaki,Electrical Part,SKU-125,Returned,3,3,2105,6315,Framework Supplier,Q3,Approved
+TX-30477,2026-10-03,WH-N,Kirkos,Civil Material,SKU-126,Received,16,16,2240,35840,Spot Purchase,Q4,Approved
+TX-30478,2026-10-14,WH-S,Lideta,Civil Material,SKU-127,Issued,29,-29,2375,68875,Public Tender,Q4,Review
+TX-30479,2025-11-09,WH-E,Gullele,Civil Material,SKU-128,Transferred,42,-42,2510,105420,Framework Supplier,Q4,Approved
+TX-30480,2025-11-20,WH-W,Nifas Silk,Civil Material,SKU-129,Issued,55,-55,2645,145475,Spot Purchase,Q4,Approved
+TX-30481,2025-12-01,WH-N,Bole,Pipe Fitting,SKU-100,Returned,68,68,80,5440,Public Tender,Q4,Approved
+TX-30482,2025-12-12,WH-S,Akaki,Pipe Fitting,SKU-101,Received,81,81,215,17415,Framework Supplier,Q4,Review
+TX-30483,2025-12-23,WH-E,Kirkos,Pipe Fitting,SKU-102,Issued,94,-94,350,32900,Spot Purchase,Q4,Approved
+TX-30484,2026-01-03,WH-W,Lideta,Pipe Fitting,SKU-103,Transferred,12,-12,485,5820,Public Tender,Q1,Approved
+TX-30485,2026-01-14,WH-N,Gullele,Valve Spare,SKU-104,Issued,25,-25,620,15500,Framework Supplier,Q1,Approved
+TX-30486,2026-01-25,WH-S,Nifas Silk,Valve Spare,SKU-105,Transferred,38,-38,755,28690,Spot Purchase,Q1,Review
+TX-30487,2026-02-05,WH-E,Bole,Valve Spare,SKU-106,Issued,51,-51,890,45390,Public Tender,Q1,Approved
+TX-30488,2026-02-16,WH-W,Akaki,Valve Spare,SKU-107,Returned,64,64,1025,65600,Framework Supplier,Q1,Approved
+TX-30489,2026-02-27,WH-N,Kirkos,Safety Supply,SKU-108,Received,77,77,1160,89320,Spot Purchase,Q1,Approved
+TX-30490,2026-03-10,WH-S,Lideta,Safety Supply,SKU-109,Issued,90,-90,1295,116550,Public Tender,Q1,Review
+TX-30491,2026-03-21,WH-E,Gullele,Safety Supply,SKU-110,Transferred,8,-8,1430,11440,Framework Supplier,Q1,Approved
+TX-30492,2026-04-01,WH-W,Nifas Silk,Safety Supply,SKU-111,Issued,21,-21,1565,32865,Spot Purchase,Q2,Approved
+TX-30493,2026-04-12,WH-N,Bole,Electrical Part,SKU-112,Returned,34,34,1700,57800,Public Tender,Q2,Approved
+TX-30494,2026-04-23,WH-E,Akaki,Electrical Part,SKU-113,Received,47,47,1835,86245,Framework Supplier,Q2,Review
+TX-30495,2026-05-04,WH-W,Kirkos,Electrical Part,SKU-114,Issued,60,-60,1970,118200,Spot Purchase,Q2,Approved
+TX-30496,2026-05-15,WH-N,Lideta,Electrical Part,SKU-115,Received,73,73,2105,153665,Public Tender,Q2,Approved
+TX-30497,2026-05-26,WH-S,Gullele,Civil Material,SKU-116,Issued,86,-86,2240,192640,Framework Supplier,Q2,Approved
+TX-30498,2026-06-06,WH-E,Nifas Silk,Civil Material,SKU-117,Transferred,4,-4,2375,9500,Spot Purchase,Q2,Review
+TX-30499,2026-06-17,WH-W,Bole,Civil Material,SKU-118,Issued,17,-17,2510,42670,Public Tender,Q2,Approved
+TX-30500,2026-06-28,WH-N,Akaki,Civil Material,SKU-119,Returned,30,30,2645,79350,Framework Supplier,Q2,Approved
+TX-30501,2026-07-09,WH-S,Kirkos,Pipe Fitting,SKU-120,Received,43,43,80,3440,Spot Purchase,Q3,Approved
+TX-30502,2026-07-20,WH-E,Lideta,Pipe Fitting,SKU-121,Issued,56,-56,215,12040,Public Tender,Q3,Review
+TX-30503,2026-07-31,WH-W,Gullele,Pipe Fitting,SKU-122,Transferred,69,-69,350,24150,Framework Supplier,Q3,Approved
+TX-30504,2026-08-11,WH-N,Nifas Silk,Pipe Fitting,SKU-123,Issued,82,-82,485,39770,Spot Purchase,Q3,Approved
+TX-30505,2026-08-22,WH-S,Bole,Valve Spare,SKU-124,Returned,95,95,620,58900,Public Tender,Q3,Approved
+TX-30506,2026-09-02,WH-E,Akaki,Valve Spare,SKU-125,Received,13,13,755,9815,Framework Supplier,Q3,Review
+TX-30507,2026-09-13,WH-W,Kirkos,Valve Spare,SKU-126,Returned,26,26,890,23140,Spot Purchase,Q3,Approved
+TX-30508,2026-09-24,WH-N,Lideta,Valve Spare,SKU-127,Received,39,39,1025,39975,Public Tender,Q3,Approved
+TX-30509,2026-10-05,WH-S,Gullele,Safety Supply,SKU-128,Issued,52,-52,1160,60320,Framework Supplier,Q4,Approved
+TX-30510,2026-10-16,WH-E,Nifas Silk,Safety Supply,SKU-129,Transferred,65,-65,1295,84175,Spot Purchase,Q4,Review
+TX-30511,2025-11-11,WH-N,Bole,Safety Supply,SKU-100,Issued,78,-78,1430,111540,Public Tender,Q4,Approved
+TX-30512,2025-11-22,WH-S,Akaki,Safety Supply,SKU-101,Returned,91,91,1565,142415,Framework Supplier,Q4,Approved
+TX-30513,2025-12-03,WH-E,Kirkos,Electrical Part,SKU-102,Received,9,9,1700,15300,Spot Purchase,Q4,Approved
+TX-30514,2025-12-14,WH-W,Lideta,Electrical Part,SKU-103,Issued,22,-22,1835,40370,Public Tender,Q4,Review
+TX-30515,2025-12-25,WH-N,Gullele,Electrical Part,SKU-104,Transferred,35,-35,1970,68950,Framework Supplier,Q4,Approved
+TX-30516,2026-01-05,WH-S,Nifas Silk,Electrical Part,SKU-105,Issued,48,-48,2105,101040,Spot Purchase,Q1,Approved
+TX-30517,2026-01-16,WH-E,Bole,Civil Material,SKU-106,Returned,61,61,2240,136640,Public Tender,Q1,Approved
+TX-30518,2026-01-27,WH-W,Akaki,Civil Material,SKU-107,Issued,74,-74,2375,175750,Framework Supplier,Q1,Review
+TX-30519,2026-02-07,WH-N,Kirkos,Civil Material,SKU-108,Returned,87,87,2510,218370,Spot Purchase,Q1,Approved
+TX-30520,2026-02-18,WH-S,Lideta,Civil Material,SKU-109,Received,5,5,2645,13225,Public Tender,Q1,Approved
+TX-30521,2026-03-01,WH-E,Gullele,Pipe Fitting,SKU-110,Issued,18,-18,80,1440,Framework Supplier,Q1,Approved
+TX-30522,2026-03-12,WH-W,Nifas Silk,Pipe Fitting,SKU-111,Transferred,31,-31,215,6665,Spot Purchase,Q1,Review
+TX-30523,2026-03-23,WH-N,Bole,Pipe Fitting,SKU-112,Issued,44,-44,350,15400,Public Tender,Q1,Approved
+TX-30524,2026-04-03,WH-S,Akaki,Pipe Fitting,SKU-113,Returned,57,57,485,27645,Framework Supplier,Q2,Approved
+TX-30525,2026-04-14,WH-E,Kirkos,Valve Spare,SKU-114,Received,70,70,620,43400,Spot Purchase,Q2,Approved
+TX-30526,2026-04-25,WH-W,Lideta,Valve Spare,SKU-115,Issued,83,-83,755,62665,Public Tender,Q2,Review
+TX-30527,2026-05-06,WH-N,Gullele,Valve Spare,SKU-116,Transferred,96,-96,890,85440,Framework Supplier,Q2,Approved
+TX-30528,2026-05-17,WH-E,Nifas Silk,Valve Spare,SKU-117,Issued,14,-14,1025,14350,Spot Purchase,Q2,Approved
+TX-30529,2026-05-28,WH-W,Bole,Safety Supply,SKU-118,Transferred,27,-27,1160,31320,Public Tender,Q2,Approved
+TX-30530,2026-06-08,WH-N,Akaki,Safety Supply,SKU-119,Issued,40,-40,1295,51800,Framework Supplier,Q2,Review
+TX-30531,2026-06-19,WH-S,Kirkos,Safety Supply,SKU-120,Returned,53,53,1430,75790,Spot Purchase,Q2,Approved
+TX-30532,2026-06-30,WH-E,Lideta,Safety Supply,SKU-121,Received,66,66,1565,103290,Public Tender,Q2,Approved
+TX-30533,2026-07-11,WH-W,Gullele,Electrical Part,SKU-122,Issued,79,-79,1700,134300,Framework Supplier,Q3,Approved
+TX-30534,2026-07-22,WH-N,Nifas Silk,Electrical Part,SKU-123,Transferred,92,-92,1835,168820,Spot Purchase,Q3,Review
+TX-30535,2026-08-02,WH-S,Bole,Electrical Part,SKU-124,Issued,10,-10,1970,19700,Public Tender,Q3,Approved
+TX-30536,2026-08-13,WH-E,Akaki,Electrical Part,SKU-125,Returned,23,23,2105,48415,Framework Supplier,Q3,Approved
+TX-30537,2026-08-24,WH-W,Kirkos,Civil Material,SKU-126,Received,36,36,2240,80640,Spot Purchase,Q3,Approved
+TX-30538,2026-09-04,WH-N,Lideta,Civil Material,SKU-127,Issued,49,-49,2375,116375,Public Tender,Q3,Review
+TX-30539,2026-09-15,WH-S,Gullele,Civil Material,SKU-128,Transferred,62,-62,2510,155620,Framework Supplier,Q3,Approved
+TX-30540,2026-09-26,WH-E,Nifas Silk,Civil Material,SKU-129,Issued,75,-75,2645,198375,Spot Purchase,Q3,Approved
+TX-30541,2026-10-07,WH-W,Bole,Pipe Fitting,SKU-100,Transferred,88,-88,80,7040,Public Tender,Q4,Approved
+TX-30542,2025-11-02,WH-N,Akaki,Pipe Fitting,SKU-101,Issued,6,-6,215,1290,Framework Supplier,Q4,Review
+TX-30543,2025-11-13,WH-S,Kirkos,Pipe Fitting,SKU-102,Returned,19,19,350,6650,Spot Purchase,Q4,Approved
+TX-30544,2025-11-24,WH-E,Lideta,Pipe Fitting,SKU-103,Received,32,32,485,15520,Public Tender,Q4,Approved
+TX-30545,2025-12-05,WH-N,Gullele,Valve Spare,SKU-104,Issued,45,-45,620,27900,Framework Supplier,Q4,Approved
+TX-30546,2025-12-16,WH-S,Nifas Silk,Valve Spare,SKU-105,Transferred,58,-58,755,43790,Spot Purchase,Q4,Review
+TX-30547,2025-12-27,WH-E,Bole,Valve Spare,SKU-106,Issued,71,-71,890,63190,Public Tender,Q4,Approved
+TX-30548,2026-01-07,WH-W,Akaki,Valve Spare,SKU-107,Returned,84,84,1025,86100,Framework Supplier,Q1,Approved
+TX-30549,2026-01-18,WH-N,Kirkos,Safety Supply,SKU-108,Received,97,97,1160,112520,Spot Purchase,Q1,Approved
+TX-30550,2026-01-29,WH-S,Lideta,Safety Supply,SKU-109,Issued,15,-15,1295,19425,Public Tender,Q1,Review
+TX-30551,2026-02-09,WH-E,Gullele,Safety Supply,SKU-110,Received,28,28,1430,40040,Framework Supplier,Q1,Approved
+TX-30552,2026-02-20,WH-W,Nifas Silk,Safety Supply,SKU-111,Issued,41,-41,1565,64165,Spot Purchase,Q1,Approved
+TX-30553,2026-03-03,WH-N,Bole,Electrical Part,SKU-112,Transferred,54,-54,1700,91800,Public Tender,Q1,Approved
+TX-30554,2026-03-14,WH-S,Akaki,Electrical Part,SKU-113,Issued,67,-67,1835,122945,Framework Supplier,Q1,Review
+TX-30555,2026-03-25,WH-E,Kirkos,Electrical Part,SKU-114,Returned,80,80,1970,157600,Spot Purchase,Q1,Approved
+TX-30556,2026-04-05,WH-W,Lideta,Electrical Part,SKU-115,Received,93,93,2105,195765,Public Tender,Q2,Approved
+TX-30557,2026-04-16,WH-N,Gullele,Civil Material,SKU-116,Issued,11,-11,2240,24640,Framework Supplier,Q2,Approved
+TX-30558,2026-04-27,WH-S,Nifas Silk,Civil Material,SKU-117,Transferred,24,-24,2375,57000,Spot Purchase,Q2,Review
+TX-30559,2026-05-08,WH-E,Bole,Civil Material,SKU-118,Issued,37,-37,2510,92870,Public Tender,Q2,Approved
+TX-30560,2026-05-19,WH-W,Akaki,Civil Material,SKU-119,Returned,50,50,2645,132250,Framework Supplier,Q2,Approved
+TX-30561,2026-05-30,WH-N,Kirkos,Pipe Fitting,SKU-120,Received,63,63,80,5040,Spot Purchase,Q2,Approved
+TX-30562,2026-06-10,WH-E,Lideta,Pipe Fitting,SKU-121,Returned,76,76,215,16340,Public Tender,Q2,Review
+TX-30563,2026-06-21,WH-W,Gullele,Pipe Fitting,SKU-122,Received,89,89,350,31150,Framework Supplier,Q2,Approved
+TX-30564,2026-07-02,WH-N,Nifas Silk,Pipe Fitting,SKU-123,Issued,7,-7,485,3395,Spot Purchase,Q3,Approved
+TX-30565,2026-07-13,WH-S,Bole,Valve Spare,SKU-124,Transferred,20,-20,620,12400,Public Tender,Q3,Approved
+TX-30566,2026-07-24,WH-E,Akaki,Valve Spare,SKU-125,Issued,33,-33,755,24915,Framework Supplier,Q3,Review
+TX-30567,2026-08-04,WH-W,Kirkos,Valve Spare,SKU-126,Returned,46,46,890,40940,Spot Purchase,Q3,Approved
+TX-30568,2026-08-15,WH-N,Lideta,Valve Spare,SKU-127,Received,59,59,1025,60475,Public Tender,Q3,Approved
+TX-30569,2026-08-26,WH-S,Gullele,Safety Supply,SKU-128,Issued,72,-72,1160,83520,Framework Supplier,Q3,Approved
+TX-30570,2026-09-06,WH-E,Nifas Silk,Safety Supply,SKU-129,Transferred,85,-85,1295,110075,Spot Purchase,Q3,Review
+TX-30571,2026-09-17,WH-W,Bole,Safety Supply,SKU-100,Issued,3,-3,1430,4290,Public Tender,Q3,Approved
+TX-30572,2026-09-28,WH-N,Akaki,Safety Supply,SKU-101,Returned,16,16,1565,25040,Framework Supplier,Q3,Approved
+TX-30573,2026-10-09,WH-S,Kirkos,Electrical Part,SKU-102,Issued,29,-29,1700,49300,Spot Purchase,Q4,Approved
+TX-30574,2025-11-04,WH-E,Lideta,Electrical Part,SKU-103,Returned,42,42,1835,77070,Public Tender,Q4,Review
+TX-30575,2025-11-15,WH-W,Gullele,Electrical Part,SKU-104,Received,55,55,1970,108350,Framework Supplier,Q4,Approved
+TX-30576,2025-11-26,WH-N,Nifas Silk,Electrical Part,SKU-105,Issued,68,-68,2105,143140,Spot Purchase,Q4,Approved
+TX-30577,2025-12-07,WH-S,Bole,Civil Material,SKU-106,Transferred,81,-81,2240,181440,Public Tender,Q4,Approved
+TX-30578,2025-12-18,WH-E,Akaki,Civil Material,SKU-107,Issued,94,-94,2375,223250,Framework Supplier,Q4,Review
+TX-30579,2025-12-29,WH-N,Kirkos,Civil Material,SKU-108,Returned,12,12,2510,30120,Spot Purchase,Q4,Approved
+TX-30580,2026-01-09,WH-S,Lideta,Civil Material,SKU-109,Received,25,25,2645,66125,Public Tender,Q1,Approved
+TX-30581,2026-01-20,WH-E,Gullele,Pipe Fitting,SKU-110,Issued,38,-38,80,3040,Framework Supplier,Q1,Approved
+TX-30582,2026-01-31,WH-W,Nifas Silk,Pipe Fitting,SKU-111,Transferred,51,-51,215,10965,Spot Purchase,Q1,Review
+TX-30583,2026-02-11,WH-N,Bole,Pipe Fitting,SKU-112,Issued,64,-64,350,22400,Public Tender,Q1,Approved
+TX-30584,2026-02-22,WH-S,Akaki,Pipe Fitting,SKU-113,Transferred,77,-77,485,37345,Framework Supplier,Q1,Approved
+TX-30585,2026-03-05,WH-E,Kirkos,Valve Spare,SKU-114,Issued,90,-90,620,55800,Spot Purchase,Q1,Approved
+TX-30586,2026-03-16,WH-W,Lideta,Valve Spare,SKU-115,Returned,8,8,755,6040,Public Tender,Q1,Review
+TX-30587,2026-03-27,WH-N,Gullele,Valve Spare,SKU-116,Received,21,21,890,18690,Framework Supplier,Q1,Approved
+TX-30588,2026-04-07,WH-S,Nifas Silk,Valve Spare,SKU-117,Issued,34,-34,1025,34850,Spot Purchase,Q2,Approved
+TX-30589,2026-04-18,WH-E,Bole,Safety Supply,SKU-118,Transferred,47,-47,1160,54520,Public Tender,Q2,Approved
+TX-30590,2026-04-29,WH-W,Akaki,Safety Supply,SKU-119,Issued,60,-60,1295,77700,Framework Supplier,Q2,Review
+TX-30591,2026-05-10,WH-N,Kirkos,Safety Supply,SKU-120,Returned,73,73,1430,104390,Spot Purchase,Q2,Approved
+TX-30592,2026-05-21,WH-S,Lideta,Safety Supply,SKU-121,Received,86,86,1565,134590,Public Tender,Q2,Approved
+TX-30593,2026-06-01,WH-E,Gullele,Electrical Part,SKU-122,Issued,4,-4,1700,6800,Framework Supplier,Q2,Approved
+TX-30594,2026-06-12,WH-W,Nifas Silk,Electrical Part,SKU-123,Transferred,17,-17,1835,31195,Spot Purchase,Q2,Review
+TX-30595,2026-06-23,WH-N,Bole,Electrical Part,SKU-124,Issued,30,-30,1970,59100,Public Tender,Q2,Approved
+TX-30596,2026-07-04,WH-E,Akaki,Electrical Part,SKU-125,Transferred,43,-43,2105,90515,Framework Supplier,Q3,Approved
+TX-30597,2026-07-15,WH-W,Kirkos,Civil Material,SKU-126,Issued,56,-56,2240,125440,Spot Purchase,Q3,Approved
+TX-30598,2026-07-26,WH-N,Lideta,Civil Material,SKU-127,Returned,69,69,2375,163875,Public Tender,Q3,Review
+TX-30599,2026-08-06,WH-S,Gullele,Civil Material,SKU-128,Received,82,82,2510,205820,Framework Supplier,Q3,Approved
+TX-30600,2026-08-17,WH-E,Nifas Silk,Civil Material,SKU-129,Issued,95,-95,2645,251275,Spot Purchase,Q3,Approved
+TX-30601,2026-08-28,WH-W,Bole,Pipe Fitting,SKU-100,Transferred,13,-13,80,1040,Public Tender,Q3,Approved
+TX-30602,2026-09-08,WH-N,Akaki,Pipe Fitting,SKU-101,Issued,26,-26,215,5590,Framework Supplier,Q3,Review
+TX-30603,2026-09-19,WH-S,Kirkos,Pipe Fitting,SKU-102,Returned,39,39,350,13650,Spot Purchase,Q3,Approved
+TX-30604,2026-09-30,WH-E,Lideta,Pipe Fitting,SKU-103,Received,52,52,485,25220,Public Tender,Q3,Approved
+TX-30605,2026-10-11,WH-W,Gullele,Valve Spare,SKU-104,Issued,65,-65,620,40300,Framework Supplier,Q4,Approved
+TX-30606,2025-11-06,WH-N,Nifas Silk,Valve Spare,SKU-105,Received,78,78,755,58890,Spot Purchase,Q4,Review
+TX-30607,2025-11-17,WH-S,Bole,Valve Spare,SKU-106,Issued,91,-91,890,80990,Public Tender,Q4,Approved
+TX-30608,2025-11-28,WH-E,Akaki,Valve Spare,SKU-107,Transferred,9,-9,1025,9225,Framework Supplier,Q4,Approved
+TX-30609,2025-12-09,WH-W,Kirkos,Safety Supply,SKU-108,Issued,22,-22,1160,25520,Spot Purchase,Q4,Approved
+TX-30610,2025-12-20,WH-N,Lideta,Safety Supply,SKU-109,Returned,35,35,1295,45325,Public Tender,Q4,Review
+TX-30611,2025-12-31,WH-S,Gullele,Safety Supply,SKU-110,Received,48,48,1430,68640,Framework Supplier,Q4,Approved
+TX-30612,2026-01-11,WH-E,Nifas Silk,Safety Supply,SKU-111,Issued,61,-61,1565,95465,Spot Purchase,Q1,Approved
+TX-30613,2026-01-22,WH-N,Bole,Electrical Part,SKU-112,Transferred,74,-74,1700,125800,Public Tender,Q1,Approved
+TX-30614,2026-02-02,WH-S,Akaki,Electrical Part,SKU-113,Issued,87,-87,1835,159645,Framework Supplier,Q1,Review
+TX-30615,2026-02-13,WH-E,Kirkos,Electrical Part,SKU-114,Returned,5,5,1970,9850,Spot Purchase,Q1,Approved
+TX-30616,2026-02-24,WH-W,Lideta,Electrical Part,SKU-115,Received,18,18,2105,37890,Public Tender,Q1,Approved
+TX-30617,2026-03-07,WH-N,Gullele,Civil Material,SKU-116,Returned,31,31,2240,69440,Framework Supplier,Q1,Approved
+TX-30618,2026-03-18,WH-S,Nifas Silk,Civil Material,SKU-117,Received,44,44,2375,104500,Spot Purchase,Q1,Review
+TX-30619,2026-03-29,WH-E,Bole,Civil Material,SKU-118,Issued,57,-57,2510,143070,Public Tender,Q1,Approved
+TX-30620,2026-04-09,WH-W,Akaki,Civil Material,SKU-119,Transferred,70,-70,2645,185150,Framework Supplier,Q2,Approved
+TX-30621,2026-04-20,WH-N,Kirkos,Pipe Fitting,SKU-120,Issued,83,-83,80,6640,Spot Purchase,Q2,Approved
+TX-30622,2026-05-01,WH-S,Lideta,Pipe Fitting,SKU-121,Returned,96,96,215,20640,Public Tender,Q2,Review
+TX-30623,2026-05-12,WH-E,Gullele,Pipe Fitting,SKU-122,Received,14,14,350,4900,Framework Supplier,Q2,Approved
+TX-30624,2026-05-23,WH-W,Nifas Silk,Pipe Fitting,SKU-123,Issued,27,-27,485,13095,Spot Purchase,Q2,Approved
+TX-30625,2026-06-03,WH-N,Bole,Valve Spare,SKU-124,Transferred,40,-40,620,24800,Public Tender,Q2,Approved
+TX-30626,2026-06-14,WH-S,Akaki,Valve Spare,SKU-125,Issued,53,-53,755,40015,Framework Supplier,Q2,Review
+TX-30627,2026-06-25,WH-E,Kirkos,Valve Spare,SKU-126,Returned,66,66,890,58740,Spot Purchase,Q2,Approved
+TX-30628,2026-07-06,WH-W,Lideta,Valve Spare,SKU-127,Issued,79,-79,1025,80975,Public Tender,Q3,Approved
+TX-30629,2026-07-17,WH-N,Gullele,Safety Supply,SKU-128,Returned,92,92,1160,106720,Framework Supplier,Q3,Approved
+TX-30630,2026-07-28,WH-E,Nifas Silk,Safety Supply,SKU-129,Received,10,10,1295,12950,Spot Purchase,Q3,Review
+TX-30631,2026-08-08,WH-W,Bole,Safety Supply,SKU-100,Issued,23,-23,1430,32890,Public Tender,Q3,Approved
+TX-30632,2026-08-19,WH-N,Akaki,Safety Supply,SKU-101,Transferred,36,-36,1565,56340,Framework Supplier,Q3,Approved
+TX-30633,2026-08-30,WH-S,Kirkos,Electrical Part,SKU-102,Issued,49,-49,1700,83300,Spot Purchase,Q3,Approved
+TX-30634,2026-09-10,WH-E,Lideta,Electrical Part,SKU-103,Returned,62,62,1835,113770,Public Tender,Q3,Review
+TX-30635,2026-09-21,WH-W,Gullele,Electrical Part,SKU-104,Received,75,75,1970,147750,Framework Supplier,Q3,Approved
+TX-30636,2026-10-02,WH-N,Nifas Silk,Electrical Part,SKU-105,Issued,88,-88,2105,185240,Spot Purchase,Q4,Approved
+TX-30637,2026-10-13,WH-S,Bole,Civil Material,SKU-106,Transferred,6,-6,2240,13440,Public Tender,Q4,Approved
+TX-30638,2025-11-08,WH-E,Akaki,Civil Material,SKU-107,Issued,19,-19,2375,45125,Framework Supplier,Q4,Review
+TX-30639,2025-11-19,WH-W,Kirkos,Civil Material,SKU-108,Transferred,32,-32,2510,80320,Spot Purchase,Q4,Approved
+TX-30640,2025-11-30,WH-N,Lideta,Civil Material,SKU-109,Issued,45,-45,2645,119025,Public Tender,Q4,Approved
+TX-30641,2025-12-11,WH-S,Gullele,Pipe Fitting,SKU-110,Returned,58,58,80,4640,Framework Supplier,Q4,Approved
+TX-30642,2025-12-22,WH-E,Nifas Silk,Pipe Fitting,SKU-111,Received,71,71,215,15265,Spot Purchase,Q4,Review
+TX-30643,2026-01-02,WH-W,Bole,Pipe Fitting,SKU-112,Issued,84,-84,350,29400,Public Tender,Q1,Approved
+TX-30644,2026-01-13,WH-N,Akaki,Pipe Fitting,SKU-113,Transferred,97,-97,485,47045,Framework Supplier,Q1,Approved
+TX-30645,2026-01-24,WH-S,Kirkos,Valve Spare,SKU-114,Issued,15,-15,620,9300,Spot Purchase,Q1,Approved
+TX-30646,2026-02-04,WH-E,Lideta,Valve Spare,SKU-115,Returned,28,28,755,21140,Public Tender,Q1,Review
+TX-30647,2026-02-15,WH-N,Gullele,Valve Spare,SKU-116,Received,41,41,890,36490,Framework Supplier,Q1,Approved
+TX-30648,2026-02-26,WH-S,Nifas Silk,Valve Spare,SKU-117,Issued,54,-54,1025,55350,Spot Purchase,Q1,Approved
+TX-30649,2026-03-09,WH-E,Bole,Safety Supply,SKU-118,Transferred,67,-67,1160,77720,Public Tender,Q1,Approved
+TX-30650,2026-03-20,WH-W,Akaki,Safety Supply,SKU-119,Issued,80,-80,1295,103600,Framework Supplier,Q1,Review
+TX-30651,2026-03-31,WH-N,Kirkos,Safety Supply,SKU-120,Transferred,93,-93,1430,132990,Spot Purchase,Q1,Approved
+TX-30652,2026-04-11,WH-S,Lideta,Safety Supply,SKU-121,Issued,11,-11,1565,17215,Public Tender,Q2,Approved
+TX-30653,2026-04-22,WH-E,Gullele,Electrical Part,SKU-122,Returned,24,24,1700,40800,Framework Supplier,Q2,Approved
+TX-30654,2026-05-03,WH-W,Nifas Silk,Electrical Part,SKU-123,Received,37,37,1835,67895,Spot Purchase,Q2,Review
+TX-30655,2026-05-14,WH-N,Bole,Electrical Part,SKU-124,Issued,50,-50,1970,98500,Public Tender,Q2,Approved
+TX-30656,2026-05-25,WH-S,Akaki,Electrical Part,SKU-125,Transferred,63,-63,2105,132615,Framework Supplier,Q2,Approved
+TX-30657,2026-06-05,WH-E,Kirkos,Civil Material,SKU-126,Issued,76,-76,2240,170240,Spot Purchase,Q2,Approved
+TX-30658,2026-06-16,WH-W,Lideta,Civil Material,SKU-127,Returned,89,89,2375,211375,Public Tender,Q2,Review
+TX-30659,2026-06-27,WH-N,Gullele,Civil Material,SKU-128,Received,7,7,2510,17570,Framework Supplier,Q2,Approved
+TX-30660,2026-07-08,WH-S,Nifas Silk,Civil Material,SKU-129,Issued,20,-20,2645,52900,Spot Purchase,Q3,Approved
+TX-30661,2026-07-19,WH-E,Bole,Pipe Fitting,SKU-100,Received,33,33,80,2640,Public Tender,Q3,Approved
+TX-30662,2026-07-30,WH-W,Akaki,Pipe Fitting,SKU-101,Issued,46,-46,215,9890,Framework Supplier,Q3,Review
+TX-30663,2026-08-10,WH-N,Kirkos,Pipe Fitting,SKU-102,Transferred,59,-59,350,20650,Spot Purchase,Q3,Approved
+TX-30664,2026-08-21,WH-E,Lideta,Pipe Fitting,SKU-103,Issued,72,-72,485,34920,Public Tender,Q3,Approved
+TX-30665,2026-09-01,WH-W,Gullele,Valve Spare,SKU-104,Returned,85,85,620,52700,Framework Supplier,Q3,Approved
+TX-30666,2026-09-12,WH-N,Nifas Silk,Valve Spare,SKU-105,Received,3,3,755,2265,Spot Purchase,Q3,Review
+TX-30667,2026-09-23,WH-S,Bole,Valve Spare,SKU-106,Issued,16,-16,890,14240,Public Tender,Q3,Approved
+TX-30668,2026-10-04,WH-E,Akaki,Valve Spare,SKU-107,Transferred,29,-29,1025,29725,Framework Supplier,Q4,Approved
+TX-30669,2026-10-15,WH-W,Kirkos,Safety Supply,SKU-108,Issued,42,-42,1160,48720,Spot Purchase,Q4,Approved
+TX-30670,2025-11-10,WH-N,Lideta,Safety Supply,SKU-109,Returned,55,55,1295,71225,Public Tender,Q4,Review
+TX-30671,2025-11-21,WH-S,Gullele,Safety Supply,SKU-110,Received,68,68,1430,97240,Framework Supplier,Q4,Approved
+TX-30672,2025-12-02,WH-E,Nifas Silk,Safety Supply,SKU-111,Returned,81,81,1565,126765,Spot Purchase,Q4,Approved
+TX-30673,2025-12-13,WH-W,Bole,Electrical Part,SKU-112,Received,94,94,1700,159800,Public Tender,Q4,Approved
+TX-30674,2025-12-24,WH-N,Akaki,Electrical Part,SKU-113,Issued,12,-12,1835,22020,Framework Supplier,Q4,Review
+TX-30675,2026-01-04,WH-S,Kirkos,Electrical Part,SKU-114,Transferred,25,-25,1970,49250,Spot Purchase,Q1,Approved
+TX-30676,2026-01-15,WH-E,Lideta,Electrical Part,SKU-115,Issued,38,-38,2105,79990,Public Tender,Q1,Approved
+TX-30677,2026-01-26,WH-W,Gullele,Civil Material,SKU-116,Returned,51,51,2240,114240,Framework Supplier,Q1,Approved
+TX-30678,2026-02-06,WH-N,Nifas Silk,Civil Material,SKU-117,Received,64,64,2375,152000,Spot Purchase,Q1,Review
+TX-30679,2026-02-17,WH-S,Bole,Civil Material,SKU-118,Issued,77,-77,2510,193270,Public Tender,Q1,Approved
+TX-30680,2026-02-28,WH-E,Akaki,Civil Material,SKU-119,Transferred,90,-90,2645,238050,Framework Supplier,Q1,Approved
+TX-30681,2026-03-11,WH-N,Kirkos,Pipe Fitting,SKU-120,Issued,8,-8,80,640,Spot Purchase,Q1,Approved
+TX-30682,2026-03-22,WH-S,Lideta,Pipe Fitting,SKU-121,Returned,21,21,215,4515,Public Tender,Q1,Review
+TX-30683,2026-04-02,WH-E,Gullele,Pipe Fitting,SKU-122,Issued,34,-34,350,11900,Framework Supplier,Q2,Approved
+TX-30684,2026-04-13,WH-W,Nifas Silk,Pipe Fitting,SKU-123,Returned,47,47,485,22795,Spot Purchase,Q2,Approved
+TX-30685,2026-04-24,WH-N,Bole,Valve Spare,SKU-124,Received,60,60,620,37200,Public Tender,Q2,Approved
+TX-30686,2026-05-05,WH-S,Akaki,Valve Spare,SKU-125,Issued,73,-73,755,55115,Framework Supplier,Q2,Review
+TX-30687,2026-05-16,WH-E,Kirkos,Valve Spare,SKU-126,Transferred,86,-86,890,76540,Spot Purchase,Q2,Approved
+TX-30688,2026-05-27,WH-W,Lideta,Valve Spare,SKU-127,Issued,4,-4,1025,4100,Public Tender,Q2,Approved
+TX-30689,2026-06-07,WH-N,Gullele,Safety Supply,SKU-128,Returned,17,17,1160,19720,Framework Supplier,Q2,Approved
+TX-30690,2026-06-18,WH-S,Nifas Silk,Safety Supply,SKU-129,Received,30,30,1295,38850,Spot Purchase,Q2,Review
+TX-30691,2026-06-29,WH-E,Bole,Safety Supply,SKU-100,Issued,43,-43,1430,61490,Public Tender,Q2,Approved
+TX-30692,2026-07-10,WH-W,Akaki,Safety Supply,SKU-101,Transferred,56,-56,1565,87640,Framework Supplier,Q3,Approved
+TX-30693,2026-07-21,WH-N,Kirkos,Electrical Part,SKU-102,Issued,69,-69,1700,117300,Spot Purchase,Q3,Approved
+TX-30694,2026-08-01,WH-S,Lideta,Electrical Part,SKU-103,Transferred,82,-82,1835,150470,Public Tender,Q3,Review
+TX-30695,2026-08-12,WH-E,Gullele,Electrical Part,SKU-104,Issued,95,-95,1970,187150,Framework Supplier,Q3,Approved
+TX-30696,2026-08-23,WH-W,Nifas Silk,Electrical Part,SKU-105,Returned,13,13,2105,27365,Spot Purchase,Q3,Approved
+TX-30697,2026-09-03,WH-N,Bole,Civil Material,SKU-106,Received,26,26,2240,58240,Public Tender,Q3,Approved
+TX-30698,2026-09-14,WH-E,Akaki,Civil Material,SKU-107,Issued,39,-39,2375,92625,Framework Supplier,Q3,Review
+TX-30699,2026-09-25,WH-W,Kirkos,Civil Material,SKU-108,Transferred,52,-52,2510,130520,Spot Purchase,Q3,Approved
+TX-30700,2026-10-06,WH-N,Lideta,Civil Material,SKU-109,Issued,65,-65,2645,171925,Public Tender,Q4,Approved
+TX-30701,2025-11-01,WH-S,Gullele,Pipe Fitting,SKU-110,Returned,78,78,80,6240,Framework Supplier,Q4,Approved
+TX-30702,2025-11-12,WH-E,Nifas Silk,Pipe Fitting,SKU-111,Received,91,91,215,19565,Spot Purchase,Q4,Review
+TX-30703,2025-11-23,WH-W,Bole,Pipe Fitting,SKU-112,Issued,9,-9,350,3150,Public Tender,Q4,Approved
+TX-30704,2025-12-04,WH-N,Akaki,Pipe Fitting,SKU-113,Transferred,22,-22,485,10670,Framework Supplier,Q4,Approved
+TX-30705,2025-12-15,WH-S,Kirkos,Valve Spare,SKU-114,Issued,35,-35,620,21700,Spot Purchase,Q4,Approved
+TX-30706,2025-12-26,WH-E,Lideta,Valve Spare,SKU-115,Transferred,48,-48,755,36240,Public Tender,Q4,Review
+TX-30707,2026-01-06,WH-W,Gullele,Valve Spare,SKU-116,Issued,61,-61,890,54290,Framework Supplier,Q1,Approved
+TX-30708,2026-01-17,WH-N,Nifas Silk,Valve Spare,SKU-117,Returned,74,74,1025,75850,Spot Purchase,Q1,Approved
+TX-30709,2026-01-28,WH-S,Bole,Safety Supply,SKU-118,Received,87,87,1160,100920,Public Tender,Q1,Approved
+TX-30710,2026-02-08,WH-E,Akaki,Safety Supply,SKU-119,Issued,5,-5,1295,6475,Framework Supplier,Q1,Review
+TX-30711,2026-02-19,WH-W,Kirkos,Safety Supply,SKU-120,Transferred,18,-18,1430,25740,Spot Purchase,Q1,Approved
+TX-30712,2026-03-02,WH-N,Lideta,Safety Supply,SKU-121,Issued,31,-31,1565,48515,Public Tender,Q1,Approved
+TX-30713,2026-03-13,WH-S,Gullele,Electrical Part,SKU-122,Returned,44,44,1700,74800,Framework Supplier,Q1,Approved
+TX-30714,2026-03-24,WH-E,Nifas Silk,Electrical Part,SKU-123,Received,57,57,1835,104595,Spot Purchase,Q1,Review
+TX-30715,2026-04-04,WH-N,Bole,Electrical Part,SKU-124,Issued,70,-70,1970,137900,Public Tender,Q2,Approved
+TX-30716,2026-04-15,WH-S,Akaki,Electrical Part,SKU-125,Received,83,83,2105,174715,Framework Supplier,Q2,Approved
+TX-30717,2026-04-26,WH-E,Kirkos,Civil Material,SKU-126,Issued,96,-96,2240,215040,Spot Purchase,Q2,Approved
+TX-30718,2026-05-07,WH-W,Lideta,Civil Material,SKU-127,Transferred,14,-14,2375,33250,Public Tender,Q2,Review
+TX-30719,2026-05-18,WH-N,Gullele,Civil Material,SKU-128,Issued,27,-27,2510,67770,Framework Supplier,Q2,Approved
+TX-30720,2026-05-29,WH-S,Nifas Silk,Civil Material,SKU-129,Returned,40,40,2645,105800,Spot Purchase,Q2,Approved

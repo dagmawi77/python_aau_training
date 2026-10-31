@@ -1,0 +1,97 @@
+unit,month,branch,operational_area,stock_receipts,stock_issues,completed_tasks,fleet_trips,safety_events
+Unit-01,2025-11-01,Bole,Depot,70,61,20,10,0
+Unit-01,2025-12-01,Bole,Depot,74,66,22,13,1
+Unit-01,2026-01-01,Bole,Depot,78,71,24,16,2
+Unit-01,2026-02-01,Bole,Depot,82,76,26,10,3
+Unit-01,2026-03-01,Bole,Depot,86,81,28,13,0
+Unit-01,2026-04-01,Bole,Depot,90,86,30,16,1
+Unit-01,2026-05-01,Bole,Depot,94,91,21,10,2
+Unit-01,2026-06-01,Bole,Depot,98,96,23,13,3
+Unit-01,2026-07-01,Bole,Depot,102,101,25,16,0
+Unit-01,2026-08-01,Bole,Depot,106,106,27,10,1
+Unit-01,2026-09-01,Bole,Depot,110,111,29,13,2
+Unit-01,2026-10-01,Bole,Depot,114,116,20,16,3
+Unit-02,2025-11-01,Akaki,Workshop,81,68,23,12,1
+Unit-02,2025-12-01,Akaki,Workshop,85,73,25,15,2
+Unit-02,2026-01-01,Akaki,Workshop,89,78,27,18,3
+Unit-02,2026-02-01,Akaki,Workshop,93,83,29,12,0
+Unit-02,2026-03-01,Akaki,Workshop,97,88,31,15,1
+Unit-02,2026-04-01,Akaki,Workshop,101,93,33,18,2
+Unit-02,2026-05-01,Akaki,Workshop,105,98,24,12,3
+Unit-02,2026-06-01,Akaki,Workshop,109,103,26,15,0
+Unit-02,2026-07-01,Akaki,Workshop,113,108,28,18,1
+Unit-02,2026-08-01,Akaki,Workshop,117,113,30,12,2
+Unit-02,2026-09-01,Akaki,Workshop,121,118,32,15,3
+Unit-02,2026-10-01,Akaki,Workshop,125,123,23,18,0
+Unit-03,2025-11-01,Kirkos,Distribution,92,75,26,14,2
+Unit-03,2025-12-01,Kirkos,Distribution,96,80,28,17,3
+Unit-03,2026-01-01,Kirkos,Distribution,100,85,30,20,0
+Unit-03,2026-02-01,Kirkos,Distribution,104,90,32,14,1
+Unit-03,2026-03-01,Kirkos,Distribution,108,95,34,17,2
+Unit-03,2026-04-01,Kirkos,Distribution,112,100,36,20,3
+Unit-03,2026-05-01,Kirkos,Distribution,116,105,27,14,0
+Unit-03,2026-06-01,Kirkos,Distribution,120,110,29,17,1
+Unit-03,2026-07-01,Kirkos,Distribution,124,115,31,20,2
+Unit-03,2026-08-01,Kirkos,Distribution,128,120,33,14,3
+Unit-03,2026-09-01,Kirkos,Distribution,132,125,35,17,0
+Unit-03,2026-10-01,Kirkos,Distribution,136,130,26,20,1
+Unit-04,2025-11-01,Lideta,Admin,103,82,29,16,3
+Unit-04,2025-12-01,Lideta,Admin,107,87,31,19,0
+Unit-04,2026-01-01,Lideta,Admin,111,92,33,22,1
+Unit-04,2026-02-01,Lideta,Admin,115,97,35,16,2
+Unit-04,2026-03-01,Lideta,Admin,119,102,37,19,3
+Unit-04,2026-04-01,Lideta,Admin,123,107,39,22,0
+Unit-04,2026-05-01,Lideta,Admin,127,112,30,16,1
+Unit-04,2026-06-01,Lideta,Admin,131,117,32,19,2
+Unit-04,2026-07-01,Lideta,Admin,135,122,34,22,3
+Unit-04,2026-08-01,Lideta,Admin,139,127,36,16,0
+Unit-04,2026-09-01,Lideta,Admin,143,132,38,19,1
+Unit-04,2026-10-01,Lideta,Admin,147,137,29,22,2
+Unit-05,2025-11-01,Gullele,Depot,114,89,32,18,0
+Unit-05,2025-12-01,Gullele,Depot,118,94,34,21,1
+Unit-05,2026-01-01,Gullele,Depot,122,99,36,24,2
+Unit-05,2026-02-01,Gullele,Depot,126,104,38,18,3
+Unit-05,2026-03-01,Gullele,Depot,130,109,40,21,0
+Unit-05,2026-04-01,Gullele,Depot,134,114,42,24,1
+Unit-05,2026-05-01,Gullele,Depot,138,119,33,18,2
+Unit-05,2026-06-01,Gullele,Depot,142,124,35,21,3
+Unit-05,2026-07-01,Gullele,Depot,146,129,37,24,0
+Unit-05,2026-08-01,Gullele,Depot,150,134,39,18,1
+Unit-05,2026-09-01,Gullele,Depot,154,139,41,21,2
+Unit-05,2026-10-01,Gullele,Depot,158,144,32,24,3
+Unit-06,2025-11-01,Nifas Silk,Workshop,125,96,35,20,1
+Unit-06,2025-12-01,Nifas Silk,Workshop,129,101,37,23,2
+Unit-06,2026-01-01,Nifas Silk,Workshop,133,106,39,26,3
+Unit-06,2026-02-01,Nifas Silk,Workshop,137,111,41,20,0
+Unit-06,2026-03-01,Nifas Silk,Workshop,141,116,43,23,1
+Unit-06,2026-04-01,Nifas Silk,Workshop,145,121,45,26,2
+Unit-06,2026-05-01,Nifas Silk,Workshop,149,126,36,20,3
+Unit-06,2026-06-01,Nifas Silk,Workshop,153,131,38,23,0
+Unit-06,2026-07-01,Nifas Silk,Workshop,157,136,40,26,1
+Unit-06,2026-08-01,Nifas Silk,Workshop,161,141,42,20,2
+Unit-06,2026-09-01,Nifas Silk,Workshop,165,146,44,23,3
+Unit-06,2026-10-01,Nifas Silk,Workshop,169,151,35,26,0
+Unit-07,2025-11-01,Bole,Distribution,136,103,38,22,2
+Unit-07,2025-12-01,Bole,Distribution,140,108,40,25,3
+Unit-07,2026-01-01,Bole,Distribution,144,113,42,28,0
+Unit-07,2026-02-01,Bole,Distribution,148,118,44,22,1
+Unit-07,2026-03-01,Bole,Distribution,152,123,46,25,2
+Unit-07,2026-04-01,Bole,Distribution,156,128,48,28,3
+Unit-07,2026-05-01,Bole,Distribution,160,133,39,22,0
+Unit-07,2026-06-01,Bole,Distribution,164,138,41,25,1
+Unit-07,2026-07-01,Bole,Distribution,168,143,43,28,2
+Unit-07,2026-08-01,Bole,Distribution,172,148,45,22,3
+Unit-07,2026-09-01,Bole,Distribution,176,153,47,25,0
+Unit-07,2026-10-01,Bole,Distribution,180,158,38,28,1
+Unit-08,2025-11-01,Akaki,Admin,147,110,41,24,3
+Unit-08,2025-12-01,Akaki,Admin,151,115,43,27,0
+Unit-08,2026-01-01,Akaki,Admin,155,120,45,30,1
+Unit-08,2026-02-01,Akaki,Admin,159,125,47,24,2
+Unit-08,2026-03-01,Akaki,Admin,163,130,49,27,3
+Unit-08,2026-04-01,Akaki,Admin,167,135,51,30,0
+Unit-08,2026-05-01,Akaki,Admin,171,140,42,24,1
+Unit-08,2026-06-01,Akaki,Admin,175,145,44,27,2
+Unit-08,2026-07-01,Akaki,Admin,179,150,46,30,3
+Unit-08,2026-08-01,Akaki,Admin,183,155,48,24,0
+Unit-08,2026-09-01,Akaki,Admin,187,160,50,27,1
+Unit-08,2026-10-01,Akaki,Admin,191,165,41,30,2

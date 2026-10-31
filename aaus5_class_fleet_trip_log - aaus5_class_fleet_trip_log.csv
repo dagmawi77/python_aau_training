@@ -1,0 +1,433 @@
+trip_id,trip_date,vehicle_id,vehicle_class,branch,trip_purpose,km_travelled,fuel_litres,travel_hours,passenger_count,route_type,vehicle_age_years
+TR-40001,2026-01-08,VH-201,Pickup,Bole,Field Inspection,18,2.43,1.3,1,Urban,2
+TR-40002,2026-01-21,VH-201,Pickup,Akaki,Material Delivery,35,4.73,1.92,2,Peri-Urban,2
+TR-40003,2026-02-03,VH-201,Pickup,Kirkos,Site Visit,52,7.03,2.54,3,Rural,2
+TR-40004,2026-02-16,VH-201,Pickup,Lideta,Community Outreach,69,9.32,3.17,4,Urban,2
+TR-40005,2026-03-01,VH-201,Pickup,Gullele,Field Inspection,86,11.62,3.19,5,Peri-Urban,2
+TR-40006,2026-03-14,VH-201,Pickup,Nifas Silk,Material Delivery,103,13.92,3.81,1,Rural,2
+TR-40007,2026-03-27,VH-201,Pickup,Bole,Site Visit,120,16.22,4.43,2,Urban,2
+TR-40008,2026-04-09,VH-201,Pickup,Akaki,Community Outreach,137,18.51,5.06,3,Peri-Urban,2
+TR-40009,2026-04-22,VH-201,Pickup,Kirkos,Field Inspection,154,20.81,5.08,4,Rural,2
+TR-40010,2026-05-05,VH-201,Pickup,Lideta,Material Delivery,171,23.11,5.7,5,Urban,2
+TR-40011,2026-05-18,VH-201,Pickup,Gullele,Site Visit,188,25.41,6.32,1,Peri-Urban,2
+TR-40012,2026-05-31,VH-201,Pickup,Nifas Silk,Community Outreach,205,27.7,6.94,2,Rural,2
+TR-40013,2026-06-13,VH-201,Pickup,Bole,Field Inspection,32,4.32,1.69,3,Urban,2
+TR-40014,2026-06-26,VH-201,Pickup,Akaki,Material Delivery,49,6.62,2.31,4,Peri-Urban,2
+TR-40015,2026-07-09,VH-201,Pickup,Kirkos,Site Visit,66,8.92,2.93,5,Rural,2
+TR-40016,2026-07-22,VH-201,Pickup,Lideta,Community Outreach,83,11.22,3.56,1,Urban,2
+TR-40017,2026-08-04,VH-201,Pickup,Gullele,Field Inspection,100,13.51,3.58,2,Peri-Urban,2
+TR-40018,2026-08-17,VH-201,Pickup,Nifas Silk,Material Delivery,117,15.81,4.2,3,Rural,2
+TR-40019,2026-08-30,VH-201,Pickup,Bole,Site Visit,134,18.11,4.82,4,Urban,2
+TR-40020,2026-09-12,VH-201,Pickup,Akaki,Community Outreach,151,20.41,5.44,5,Peri-Urban,2
+TR-40021,2026-09-25,VH-201,Pickup,Kirkos,Field Inspection,168,22.7,5.47,1,Rural,2
+TR-40022,2026-01-11,VH-201,Pickup,Lideta,Material Delivery,185,25,6.09,2,Urban,2
+TR-40023,2026-01-24,VH-201,Pickup,Gullele,Site Visit,202,27.3,6.71,3,Peri-Urban,2
+TR-40024,2026-02-06,VH-201,Pickup,Nifas Silk,Community Outreach,29,3.92,2.06,4,Rural,2
+TR-40025,2026-02-19,VH-202,Utility Van,Akaki,Field Inspection,46,5.68,2.08,5,Urban,3
+TR-40026,2026-03-04,VH-202,Utility Van,Kirkos,Material Delivery,63,7.78,2.7,1,Peri-Urban,3
+TR-40027,2026-03-17,VH-202,Utility Van,Lideta,Site Visit,80,9.88,3.32,2,Rural,3
+TR-40028,2026-03-30,VH-202,Utility Van,Gullele,Community Outreach,97,11.98,3.94,3,Urban,3
+TR-40029,2026-04-12,VH-202,Utility Van,Nifas Silk,Field Inspection,114,14.07,3.97,4,Peri-Urban,3
+TR-40030,2026-04-25,VH-202,Utility Van,Bole,Material Delivery,131,16.17,4.59,5,Rural,3
+TR-40031,2026-05-08,VH-202,Utility Van,Akaki,Site Visit,148,18.27,5.21,1,Urban,3
+TR-40032,2026-05-21,VH-202,Utility Van,Kirkos,Community Outreach,165,20.37,5.83,2,Peri-Urban,3
+TR-40033,2026-06-03,VH-202,Utility Van,Lideta,Field Inspection,182,22.47,5.86,3,Rural,3
+TR-40034,2026-06-16,VH-202,Utility Van,Gullele,Material Delivery,199,24.57,6.48,4,Urban,3
+TR-40035,2026-06-29,VH-202,Utility Van,Nifas Silk,Site Visit,26,3.21,1.82,5,Peri-Urban,3
+TR-40036,2026-07-12,VH-202,Utility Van,Bole,Community Outreach,43,5.31,2.44,1,Rural,3
+TR-40037,2026-07-25,VH-202,Utility Van,Akaki,Field Inspection,60,7.41,2.47,2,Urban,3
+TR-40038,2026-08-07,VH-202,Utility Van,Kirkos,Material Delivery,77,9.51,3.09,3,Peri-Urban,3
+TR-40039,2026-08-20,VH-202,Utility Van,Lideta,Site Visit,94,11.6,3.71,4,Rural,3
+TR-40040,2026-09-02,VH-202,Utility Van,Gullele,Community Outreach,111,13.7,4.33,5,Urban,3
+TR-40041,2026-09-15,VH-202,Utility Van,Nifas Silk,Field Inspection,128,15.8,4.36,1,Peri-Urban,3
+TR-40042,2026-09-28,VH-202,Utility Van,Bole,Material Delivery,145,17.9,4.98,2,Rural,3
+TR-40043,2026-01-14,VH-202,Utility Van,Akaki,Site Visit,162,20,5.6,3,Urban,3
+TR-40044,2026-01-27,VH-202,Utility Van,Kirkos,Community Outreach,179,22.1,6.22,4,Peri-Urban,3
+TR-40045,2026-02-09,VH-202,Utility Van,Lideta,Field Inspection,196,24.2,6.24,5,Rural,3
+TR-40046,2026-02-22,VH-202,Utility Van,Gullele,Material Delivery,23,2.84,1.59,1,Urban,3
+TR-40047,2026-03-07,VH-202,Utility Van,Nifas Silk,Site Visit,40,4.94,2.21,2,Peri-Urban,3
+TR-40048,2026-03-20,VH-202,Utility Van,Bole,Community Outreach,57,7.04,2.83,3,Rural,3
+TR-40049,2026-04-02,VH-203,Light Truck,Kirkos,Field Inspection,74,8.41,2.86,4,Urban,4
+TR-40050,2026-04-15,VH-203,Light Truck,Lideta,Material Delivery,91,10.34,3.48,5,Peri-Urban,4
+TR-40051,2026-04-28,VH-203,Light Truck,Gullele,Site Visit,108,12.27,4.1,1,Rural,4
+TR-40052,2026-05-11,VH-203,Light Truck,Nifas Silk,Community Outreach,125,14.2,4.72,2,Urban,4
+TR-40053,2026-05-24,VH-203,Light Truck,Bole,Field Inspection,142,16.14,4.74,3,Peri-Urban,4
+TR-40054,2026-06-06,VH-203,Light Truck,Akaki,Material Delivery,159,18.07,5.37,4,Rural,4
+TR-40055,2026-06-19,VH-203,Light Truck,Kirkos,Site Visit,176,20,5.99,5,Urban,4
+TR-40056,2026-07-02,VH-203,Light Truck,Lideta,Community Outreach,193,21.93,6.61,1,Peri-Urban,4
+TR-40057,2026-07-15,VH-203,Light Truck,Gullele,Field Inspection,20,2.27,1.36,2,Rural,4
+TR-40058,2026-07-28,VH-203,Light Truck,Nifas Silk,Material Delivery,37,4.2,1.98,3,Urban,4
+TR-40059,2026-08-10,VH-203,Light Truck,Bole,Site Visit,54,6.14,2.6,4,Peri-Urban,4
+TR-40060,2026-08-23,VH-203,Light Truck,Akaki,Community Outreach,71,8.07,3.22,5,Rural,4
+TR-40061,2026-09-05,VH-203,Light Truck,Kirkos,Field Inspection,88,10,3.24,1,Urban,4
+TR-40062,2026-09-18,VH-203,Light Truck,Lideta,Material Delivery,105,11.93,3.87,2,Peri-Urban,4
+TR-40063,2026-10-01,VH-203,Light Truck,Gullele,Site Visit,122,13.86,4.49,3,Rural,4
+TR-40064,2026-01-17,VH-203,Light Truck,Nifas Silk,Community Outreach,139,15.8,5.11,4,Urban,4
+TR-40065,2026-01-30,VH-203,Light Truck,Bole,Field Inspection,156,17.73,5.13,5,Peri-Urban,4
+TR-40066,2026-02-12,VH-203,Light Truck,Akaki,Material Delivery,173,19.66,5.76,1,Rural,4
+TR-40067,2026-02-25,VH-203,Light Truck,Kirkos,Site Visit,190,21.59,6.38,2,Urban,4
+TR-40068,2026-03-10,VH-203,Light Truck,Lideta,Community Outreach,207,23.52,7,3,Peri-Urban,4
+TR-40069,2026-03-23,VH-203,Light Truck,Gullele,Field Inspection,34,3.86,1.74,4,Rural,4
+TR-40070,2026-04-05,VH-203,Light Truck,Nifas Silk,Material Delivery,51,5.8,2.37,5,Urban,4
+TR-40071,2026-04-18,VH-203,Light Truck,Bole,Site Visit,68,7.73,2.99,1,Peri-Urban,4
+TR-40072,2026-05-01,VH-203,Light Truck,Akaki,Community Outreach,85,9.66,3.61,2,Rural,4
+TR-40073,2026-05-14,VH-204,Service Truck,Lideta,Field Inspection,102,10.74,3.63,3,Urban,5
+TR-40074,2026-05-27,VH-204,Service Truck,Gullele,Material Delivery,119,12.53,4.26,4,Peri-Urban,5
+TR-40075,2026-06-09,VH-204,Service Truck,Nifas Silk,Site Visit,136,14.32,4.88,5,Rural,5
+TR-40076,2026-06-22,VH-204,Service Truck,Bole,Community Outreach,153,16.11,5.5,1,Urban,5
+TR-40077,2026-07-05,VH-204,Service Truck,Akaki,Field Inspection,170,17.89,5.52,2,Peri-Urban,5
+TR-40078,2026-07-18,VH-204,Service Truck,Kirkos,Material Delivery,187,19.68,6.14,3,Rural,5
+TR-40079,2026-07-31,VH-204,Service Truck,Lideta,Site Visit,204,21.47,6.77,4,Urban,5
+TR-40080,2026-08-13,VH-204,Service Truck,Gullele,Community Outreach,31,3.26,2.11,5,Peri-Urban,5
+TR-40081,2026-08-26,VH-204,Service Truck,Nifas Silk,Field Inspection,48,5.05,2.13,1,Rural,5
+TR-40082,2026-09-08,VH-204,Service Truck,Bole,Material Delivery,65,6.84,2.76,2,Urban,5
+TR-40083,2026-09-21,VH-204,Service Truck,Akaki,Site Visit,82,8.63,3.38,3,Peri-Urban,5
+TR-40084,2026-10-04,VH-204,Service Truck,Kirkos,Community Outreach,99,10.42,4,4,Rural,5
+TR-40085,2026-01-20,VH-204,Service Truck,Lideta,Field Inspection,116,12.21,4.02,5,Urban,5
+TR-40086,2026-02-02,VH-204,Service Truck,Gullele,Material Delivery,133,14,4.64,1,Peri-Urban,5
+TR-40087,2026-02-15,VH-204,Service Truck,Nifas Silk,Site Visit,150,15.79,5.27,2,Rural,5
+TR-40088,2026-02-28,VH-204,Service Truck,Bole,Community Outreach,167,17.58,5.89,3,Urban,5
+TR-40089,2026-03-13,VH-204,Service Truck,Akaki,Field Inspection,184,19.37,5.91,4,Peri-Urban,5
+TR-40090,2026-03-26,VH-204,Service Truck,Kirkos,Material Delivery,201,21.16,6.53,5,Rural,5
+TR-40091,2026-04-08,VH-204,Service Truck,Lideta,Site Visit,28,2.95,1.88,1,Urban,5
+TR-40092,2026-04-21,VH-204,Service Truck,Gullele,Community Outreach,45,4.74,2.5,2,Peri-Urban,5
+TR-40093,2026-05-04,VH-204,Service Truck,Nifas Silk,Field Inspection,62,6.53,2.52,3,Rural,5
+TR-40094,2026-05-17,VH-204,Service Truck,Bole,Material Delivery,79,8.32,3.14,4,Urban,5
+TR-40095,2026-05-30,VH-204,Service Truck,Akaki,Site Visit,96,10.11,3.77,5,Peri-Urban,5
+TR-40096,2026-06-12,VH-204,Service Truck,Kirkos,Community Outreach,113,11.89,4.39,1,Rural,5
+TR-40097,2026-06-25,VH-205,Pickup,Gullele,Field Inspection,130,12.75,4.41,2,Urban,6
+TR-40098,2026-07-08,VH-205,Pickup,Nifas Silk,Material Delivery,147,14.41,5.03,3,Peri-Urban,6
+TR-40099,2026-07-21,VH-205,Pickup,Bole,Site Visit,164,16.08,5.66,4,Rural,6
+TR-40100,2026-08-03,VH-205,Pickup,Akaki,Community Outreach,181,17.75,6.28,5,Urban,6
+TR-40101,2026-08-16,VH-205,Pickup,Kirkos,Field Inspection,198,19.41,6.3,1,Peri-Urban,6
+TR-40102,2026-08-29,VH-205,Pickup,Lideta,Material Delivery,25,2.45,1.64,2,Rural,6
+TR-40103,2026-09-11,VH-205,Pickup,Gullele,Site Visit,42,4.12,2.27,3,Urban,6
+TR-40104,2026-09-24,VH-205,Pickup,Nifas Silk,Community Outreach,59,5.78,2.89,4,Peri-Urban,6
+TR-40105,2026-01-10,VH-205,Pickup,Bole,Field Inspection,76,7.45,2.91,5,Rural,6
+TR-40106,2026-01-23,VH-205,Pickup,Akaki,Material Delivery,93,9.12,3.53,1,Urban,6
+TR-40107,2026-02-05,VH-205,Pickup,Kirkos,Site Visit,110,10.78,4.16,2,Peri-Urban,6
+TR-40108,2026-02-18,VH-205,Pickup,Lideta,Community Outreach,127,12.45,4.78,3,Rural,6
+TR-40109,2026-03-03,VH-205,Pickup,Gullele,Field Inspection,144,14.12,4.8,4,Urban,6
+TR-40110,2026-03-16,VH-205,Pickup,Nifas Silk,Material Delivery,161,15.78,5.42,5,Peri-Urban,6
+TR-40111,2026-03-29,VH-205,Pickup,Bole,Site Visit,178,17.45,6.04,1,Rural,6
+TR-40112,2026-04-11,VH-205,Pickup,Akaki,Community Outreach,195,19.12,6.67,2,Urban,6
+TR-40113,2026-04-24,VH-205,Pickup,Kirkos,Field Inspection,22,2.16,1.41,3,Peri-Urban,6
+TR-40114,2026-05-07,VH-205,Pickup,Lideta,Material Delivery,39,3.82,2.03,4,Rural,6
+TR-40115,2026-05-20,VH-205,Pickup,Gullele,Site Visit,56,5.49,2.66,5,Urban,6
+TR-40116,2026-06-02,VH-205,Pickup,Nifas Silk,Community Outreach,73,7.16,3.28,1,Peri-Urban,6
+TR-40117,2026-06-15,VH-205,Pickup,Bole,Field Inspection,90,8.82,3.3,2,Rural,6
+TR-40118,2026-06-28,VH-205,Pickup,Akaki,Material Delivery,107,10.49,3.92,3,Urban,6
+TR-40119,2026-07-11,VH-205,Pickup,Kirkos,Site Visit,124,12.16,4.54,4,Peri-Urban,6
+TR-40120,2026-07-24,VH-205,Pickup,Lideta,Community Outreach,141,13.82,5.17,5,Rural,6
+TR-40121,2026-08-06,VH-206,Utility Van,Nifas Silk,Field Inspection,158,21.35,5.19,1,Urban,7
+TR-40122,2026-08-19,VH-206,Utility Van,Bole,Material Delivery,175,23.65,5.81,2,Peri-Urban,7
+TR-40123,2026-09-01,VH-206,Utility Van,Akaki,Site Visit,192,25.95,6.43,3,Rural,7
+TR-40124,2026-09-14,VH-206,Utility Van,Kirkos,Community Outreach,19,2.57,1.78,4,Urban,7
+TR-40125,2026-09-27,VH-206,Utility Van,Lideta,Field Inspection,36,4.86,1.8,5,Peri-Urban,7
+TR-40126,2026-01-13,VH-206,Utility Van,Gullele,Material Delivery,53,7.16,2.42,1,Rural,7
+TR-40127,2026-01-26,VH-206,Utility Van,Nifas Silk,Site Visit,70,9.46,3.04,2,Urban,7
+TR-40128,2026-02-08,VH-206,Utility Van,Bole,Community Outreach,87,11.76,3.67,3,Peri-Urban,7
+TR-40129,2026-02-21,VH-206,Utility Van,Akaki,Field Inspection,104,14.05,3.69,4,Rural,7
+TR-40130,2026-03-06,VH-206,Utility Van,Kirkos,Material Delivery,121,16.35,4.31,5,Urban,7
+TR-40131,2026-03-19,VH-206,Utility Van,Lideta,Site Visit,138,18.65,4.93,1,Peri-Urban,7
+TR-40132,2026-04-01,VH-206,Utility Van,Gullele,Community Outreach,155,20.95,5.56,2,Rural,7
+TR-40133,2026-04-14,VH-206,Utility Van,Nifas Silk,Field Inspection,172,23.24,5.58,3,Urban,7
+TR-40134,2026-04-27,VH-206,Utility Van,Bole,Material Delivery,189,25.54,6.2,4,Peri-Urban,7
+TR-40135,2026-05-10,VH-206,Utility Van,Akaki,Site Visit,206,27.84,6.82,5,Rural,7
+TR-40136,2026-05-23,VH-206,Utility Van,Kirkos,Community Outreach,33,4.46,2.17,1,Urban,7
+TR-40137,2026-06-05,VH-206,Utility Van,Lideta,Field Inspection,50,6.76,2.19,2,Peri-Urban,7
+TR-40138,2026-06-18,VH-206,Utility Van,Gullele,Material Delivery,67,9.05,2.81,3,Rural,7
+TR-40139,2026-07-01,VH-206,Utility Van,Nifas Silk,Site Visit,84,11.35,3.43,4,Urban,7
+TR-40140,2026-07-14,VH-206,Utility Van,Bole,Community Outreach,101,13.65,4.06,5,Peri-Urban,7
+TR-40141,2026-07-27,VH-206,Utility Van,Akaki,Field Inspection,118,15.95,4.08,1,Rural,7
+TR-40142,2026-08-09,VH-206,Utility Van,Kirkos,Material Delivery,135,18.24,4.7,2,Urban,7
+TR-40143,2026-08-22,VH-206,Utility Van,Lideta,Site Visit,152,20.54,5.32,3,Peri-Urban,7
+TR-40144,2026-09-04,VH-206,Utility Van,Gullele,Community Outreach,169,22.84,5.94,4,Rural,7
+TR-40145,2026-09-17,VH-207,Light Truck,Bole,Field Inspection,186,22.96,5.97,5,Urban,8
+TR-40146,2026-09-30,VH-207,Light Truck,Akaki,Material Delivery,203,25.06,6.59,1,Peri-Urban,8
+TR-40147,2026-01-16,VH-207,Light Truck,Kirkos,Site Visit,30,3.7,1.93,2,Rural,8
+TR-40148,2026-01-29,VH-207,Light Truck,Lideta,Community Outreach,47,5.8,2.56,3,Urban,8
+TR-40149,2026-02-11,VH-207,Light Truck,Gullele,Field Inspection,64,7.9,2.58,4,Peri-Urban,8
+TR-40150,2026-02-24,VH-207,Light Truck,Nifas Silk,Material Delivery,81,10,3.2,5,Rural,8
+TR-40151,2026-03-09,VH-207,Light Truck,Bole,Site Visit,98,12.1,3.82,1,Urban,8
+TR-40152,2026-03-22,VH-207,Light Truck,Akaki,Community Outreach,115,14.2,4.44,2,Peri-Urban,8
+TR-40153,2026-04-04,VH-207,Light Truck,Kirkos,Field Inspection,132,16.3,4.47,3,Rural,8
+TR-40154,2026-04-17,VH-207,Light Truck,Lideta,Material Delivery,149,18.4,5.09,4,Urban,8
+TR-40155,2026-04-30,VH-207,Light Truck,Gullele,Site Visit,166,20.49,5.71,5,Peri-Urban,8
+TR-40156,2026-05-13,VH-207,Light Truck,Nifas Silk,Community Outreach,183,22.59,6.33,1,Rural,8
+TR-40157,2026-05-26,VH-207,Light Truck,Bole,Field Inspection,200,24.69,6.36,2,Urban,8
+TR-40158,2026-06-08,VH-207,Light Truck,Akaki,Material Delivery,27,3.33,1.7,3,Peri-Urban,8
+TR-40159,2026-06-21,VH-207,Light Truck,Kirkos,Site Visit,44,5.43,2.32,4,Rural,8
+TR-40160,2026-07-04,VH-207,Light Truck,Lideta,Community Outreach,61,7.53,2.94,5,Urban,8
+TR-40161,2026-07-17,VH-207,Light Truck,Gullele,Field Inspection,78,9.63,2.97,1,Peri-Urban,8
+TR-40162,2026-07-30,VH-207,Light Truck,Nifas Silk,Material Delivery,95,11.73,3.59,2,Rural,8
+TR-40163,2026-08-12,VH-207,Light Truck,Bole,Site Visit,112,13.83,4.21,3,Urban,8
+TR-40164,2026-08-25,VH-207,Light Truck,Akaki,Community Outreach,129,15.93,4.83,4,Peri-Urban,8
+TR-40165,2026-09-07,VH-207,Light Truck,Kirkos,Field Inspection,146,18.02,4.86,5,Rural,8
+TR-40166,2026-09-20,VH-207,Light Truck,Lideta,Material Delivery,163,20.12,5.48,1,Urban,8
+TR-40167,2026-10-03,VH-207,Light Truck,Gullele,Site Visit,180,22.22,6.1,2,Peri-Urban,8
+TR-40168,2026-01-19,VH-207,Light Truck,Nifas Silk,Community Outreach,197,24.32,6.72,3,Rural,8
+TR-40169,2026-02-01,VH-208,Service Truck,Akaki,Field Inspection,24,2.73,1.47,4,Urban,9
+TR-40170,2026-02-14,VH-208,Service Truck,Kirkos,Material Delivery,41,4.66,2.09,5,Peri-Urban,9
+TR-40171,2026-02-27,VH-208,Service Truck,Lideta,Site Visit,58,6.59,2.71,1,Rural,9
+TR-40172,2026-03-12,VH-208,Service Truck,Gullele,Community Outreach,75,8.52,3.33,2,Urban,9
+TR-40173,2026-03-25,VH-208,Service Truck,Nifas Silk,Field Inspection,92,10.45,3.36,3,Peri-Urban,9
+TR-40174,2026-04-07,VH-208,Service Truck,Bole,Material Delivery,109,12.39,3.98,4,Rural,9
+TR-40175,2026-04-20,VH-208,Service Truck,Akaki,Site Visit,126,14.32,4.6,5,Urban,9
+TR-40176,2026-05-03,VH-208,Service Truck,Kirkos,Community Outreach,143,16.25,5.22,1,Peri-Urban,9
+TR-40177,2026-05-16,VH-208,Service Truck,Lideta,Field Inspection,160,18.18,5.24,2,Rural,9
+TR-40178,2026-05-29,VH-208,Service Truck,Gullele,Material Delivery,177,20.11,5.87,3,Urban,9
+TR-40179,2026-06-11,VH-208,Service Truck,Nifas Silk,Site Visit,194,22.05,6.49,4,Peri-Urban,9
+TR-40180,2026-06-24,VH-208,Service Truck,Bole,Community Outreach,21,2.39,1.83,5,Rural,9
+TR-40181,2026-07-07,VH-208,Service Truck,Akaki,Field Inspection,38,4.32,1.86,1,Urban,9
+TR-40182,2026-07-20,VH-208,Service Truck,Kirkos,Material Delivery,55,6.25,2.48,2,Peri-Urban,9
+TR-40183,2026-08-02,VH-208,Service Truck,Lideta,Site Visit,72,8.18,3.1,3,Rural,9
+TR-40184,2026-08-15,VH-208,Service Truck,Gullele,Community Outreach,89,10.11,3.72,4,Urban,9
+TR-40185,2026-08-28,VH-208,Service Truck,Nifas Silk,Field Inspection,106,12.05,3.74,5,Peri-Urban,9
+TR-40186,2026-09-10,VH-208,Service Truck,Bole,Material Delivery,123,13.98,4.37,1,Rural,9
+TR-40187,2026-09-23,VH-208,Service Truck,Akaki,Site Visit,140,15.91,4.99,2,Urban,9
+TR-40188,2026-01-09,VH-208,Service Truck,Kirkos,Community Outreach,157,17.84,5.61,3,Peri-Urban,9
+TR-40189,2026-01-22,VH-208,Service Truck,Lideta,Field Inspection,174,19.77,5.63,4,Rural,9
+TR-40190,2026-02-04,VH-208,Service Truck,Gullele,Material Delivery,191,21.7,6.26,5,Urban,9
+TR-40191,2026-02-17,VH-208,Service Truck,Nifas Silk,Site Visit,18,2.05,1.6,1,Peri-Urban,9
+TR-40192,2026-03-02,VH-208,Service Truck,Bole,Community Outreach,35,3.98,2.22,2,Rural,9
+TR-40193,2026-03-15,VH-209,Pickup,Kirkos,Field Inspection,52,5.47,2.24,3,Urban,10
+TR-40194,2026-03-28,VH-209,Pickup,Lideta,Material Delivery,69,7.26,2.87,4,Peri-Urban,10
+TR-40195,2026-04-10,VH-209,Pickup,Gullele,Site Visit,86,9.05,3.49,5,Rural,10
+TR-40196,2026-04-23,VH-209,Pickup,Nifas Silk,Community Outreach,103,10.84,4.11,1,Urban,10
+TR-40197,2026-05-06,VH-209,Pickup,Bole,Field Inspection,120,12.63,4.13,2,Peri-Urban,10
+TR-40198,2026-05-19,VH-209,Pickup,Akaki,Material Delivery,137,14.42,4.76,3,Rural,10
+TR-40199,2026-06-01,VH-209,Pickup,Kirkos,Site Visit,154,16.21,5.38,4,Urban,10
+TR-40200,2026-06-14,VH-209,Pickup,Lideta,Community Outreach,171,18,6,5,Peri-Urban,10
+TR-40201,2026-06-27,VH-209,Pickup,Gullele,Field Inspection,188,19.79,6.02,1,Rural,10
+TR-40202,2026-07-10,VH-209,Pickup,Nifas Silk,Material Delivery,205,21.58,6.64,2,Urban,10
+TR-40203,2026-07-23,VH-209,Pickup,Bole,Site Visit,32,3.37,1.99,3,Peri-Urban,10
+TR-40204,2026-08-05,VH-209,Pickup,Akaki,Community Outreach,49,5.16,2.61,4,Rural,10
+TR-40205,2026-08-18,VH-209,Pickup,Kirkos,Field Inspection,66,6.95,2.63,5,Urban,10
+TR-40206,2026-08-31,VH-209,Pickup,Lideta,Material Delivery,83,8.74,3.26,1,Peri-Urban,10
+TR-40207,2026-09-13,VH-209,Pickup,Gullele,Site Visit,100,10.53,3.88,2,Rural,10
+TR-40208,2026-09-26,VH-209,Pickup,Nifas Silk,Community Outreach,117,12.32,4.5,3,Urban,10
+TR-40209,2026-01-12,VH-209,Pickup,Bole,Field Inspection,134,14.11,4.52,4,Peri-Urban,10
+TR-40210,2026-01-25,VH-209,Pickup,Akaki,Material Delivery,151,15.89,5.14,5,Rural,10
+TR-40211,2026-02-07,VH-209,Pickup,Kirkos,Site Visit,168,17.68,5.77,1,Urban,10
+TR-40212,2026-02-20,VH-209,Pickup,Lideta,Community Outreach,185,19.47,6.39,2,Peri-Urban,10
+TR-40213,2026-03-05,VH-209,Pickup,Gullele,Field Inspection,202,21.26,6.41,3,Rural,10
+TR-40214,2026-03-18,VH-209,Pickup,Nifas Silk,Material Delivery,29,3.05,1.76,4,Urban,10
+TR-40215,2026-03-31,VH-209,Pickup,Bole,Site Visit,46,4.84,2.38,5,Peri-Urban,10
+TR-40216,2026-04-13,VH-209,Pickup,Akaki,Community Outreach,63,6.63,3,1,Rural,10
+TR-40217,2026-04-26,VH-210,Utility Van,Lideta,Field Inspection,80,7.84,3.02,2,Urban,2
+TR-40218,2026-05-09,VH-210,Utility Van,Gullele,Material Delivery,97,9.51,3.64,3,Peri-Urban,2
+TR-40219,2026-05-22,VH-210,Utility Van,Nifas Silk,Site Visit,114,11.18,4.27,4,Rural,2
+TR-40220,2026-06-04,VH-210,Utility Van,Bole,Community Outreach,131,12.84,4.89,5,Urban,2
+TR-40221,2026-06-17,VH-210,Utility Van,Akaki,Field Inspection,148,14.51,4.91,1,Peri-Urban,2
+TR-40222,2026-06-30,VH-210,Utility Van,Kirkos,Material Delivery,165,16.18,5.53,2,Rural,2
+TR-40223,2026-07-13,VH-210,Utility Van,Lideta,Site Visit,182,17.84,6.16,3,Urban,2
+TR-40224,2026-07-26,VH-210,Utility Van,Gullele,Community Outreach,199,19.51,6.78,4,Peri-Urban,2
+TR-40225,2026-08-08,VH-210,Utility Van,Nifas Silk,Field Inspection,26,2.55,1.52,5,Rural,2
+TR-40226,2026-08-21,VH-210,Utility Van,Bole,Material Delivery,43,4.22,2.14,1,Urban,2
+TR-40227,2026-09-03,VH-210,Utility Van,Akaki,Site Visit,60,5.88,2.77,2,Peri-Urban,2
+TR-40228,2026-09-16,VH-210,Utility Van,Kirkos,Community Outreach,77,7.55,3.39,3,Rural,2
+TR-40229,2026-09-29,VH-210,Utility Van,Lideta,Field Inspection,94,9.22,3.41,4,Urban,2
+TR-40230,2026-01-15,VH-210,Utility Van,Gullele,Material Delivery,111,10.88,4.03,5,Peri-Urban,2
+TR-40231,2026-01-28,VH-210,Utility Van,Nifas Silk,Site Visit,128,12.55,4.66,1,Rural,2
+TR-40232,2026-02-10,VH-210,Utility Van,Bole,Community Outreach,145,14.22,5.28,2,Urban,2
+TR-40233,2026-02-23,VH-210,Utility Van,Akaki,Field Inspection,162,15.88,5.3,3,Peri-Urban,2
+TR-40234,2026-03-08,VH-210,Utility Van,Kirkos,Material Delivery,179,17.55,5.92,4,Rural,2
+TR-40235,2026-03-21,VH-210,Utility Van,Lideta,Site Visit,196,19.22,6.54,5,Urban,2
+TR-40236,2026-04-03,VH-210,Utility Van,Gullele,Community Outreach,23,2.25,1.89,1,Peri-Urban,2
+TR-40237,2026-04-16,VH-210,Utility Van,Nifas Silk,Field Inspection,40,3.92,1.91,2,Rural,2
+TR-40238,2026-04-29,VH-210,Utility Van,Bole,Material Delivery,57,5.59,2.53,3,Urban,2
+TR-40239,2026-05-12,VH-210,Utility Van,Akaki,Site Visit,74,7.25,3.16,4,Peri-Urban,2
+TR-40240,2026-05-25,VH-210,Utility Van,Kirkos,Community Outreach,91,8.92,3.78,5,Rural,2
+TR-40241,2026-06-07,VH-211,Light Truck,Gullele,Field Inspection,108,14.59,3.8,1,Urban,3
+TR-40242,2026-06-20,VH-211,Light Truck,Nifas Silk,Material Delivery,125,16.89,4.42,2,Peri-Urban,3
+TR-40243,2026-07-03,VH-211,Light Truck,Bole,Site Visit,142,19.19,5.04,3,Rural,3
+TR-40244,2026-07-16,VH-211,Light Truck,Akaki,Community Outreach,159,21.49,5.67,4,Urban,3
+TR-40245,2026-07-29,VH-211,Light Truck,Kirkos,Field Inspection,176,23.78,5.69,5,Peri-Urban,3
+TR-40246,2026-08-11,VH-211,Light Truck,Lideta,Material Delivery,193,26.08,6.31,1,Rural,3
+TR-40247,2026-08-24,VH-211,Light Truck,Gullele,Site Visit,20,2.7,1.66,2,Urban,3
+TR-40248,2026-09-06,VH-211,Light Truck,Nifas Silk,Community Outreach,37,5,2.28,3,Peri-Urban,3
+TR-40249,2026-09-19,VH-211,Light Truck,Bole,Field Inspection,54,7.3,2.3,4,Rural,3
+TR-40250,2026-10-02,VH-211,Light Truck,Akaki,Material Delivery,71,9.59,2.92,5,Urban,3
+TR-40251,2026-01-18,VH-211,Light Truck,Kirkos,Site Visit,88,11.89,3.54,1,Peri-Urban,3
+TR-40252,2026-01-31,VH-211,Light Truck,Lideta,Community Outreach,105,14.19,4.17,2,Rural,3
+TR-40253,2026-02-13,VH-211,Light Truck,Gullele,Field Inspection,122,16.49,4.19,3,Urban,3
+TR-40254,2026-02-26,VH-211,Light Truck,Nifas Silk,Material Delivery,139,18.78,4.81,4,Peri-Urban,3
+TR-40255,2026-03-11,VH-211,Light Truck,Bole,Site Visit,156,21.08,5.43,5,Rural,3
+TR-40256,2026-03-24,VH-211,Light Truck,Akaki,Community Outreach,173,23.38,6.06,1,Urban,3
+TR-40257,2026-04-06,VH-211,Light Truck,Kirkos,Field Inspection,190,25.68,6.08,2,Peri-Urban,3
+TR-40258,2026-04-19,VH-211,Light Truck,Lideta,Material Delivery,207,27.97,6.7,3,Rural,3
+TR-40259,2026-05-02,VH-211,Light Truck,Gullele,Site Visit,34,4.59,2.04,4,Urban,3
+TR-40260,2026-05-15,VH-211,Light Truck,Nifas Silk,Community Outreach,51,6.89,2.67,5,Peri-Urban,3
+TR-40261,2026-05-28,VH-211,Light Truck,Bole,Field Inspection,68,9.19,2.69,1,Rural,3
+TR-40262,2026-06-10,VH-211,Light Truck,Akaki,Material Delivery,85,11.49,3.31,2,Urban,3
+TR-40263,2026-06-23,VH-211,Light Truck,Kirkos,Site Visit,102,13.78,3.93,3,Peri-Urban,3
+TR-40264,2026-07-06,VH-211,Light Truck,Lideta,Community Outreach,119,16.08,4.56,4,Rural,3
+TR-40265,2026-07-19,VH-212,Service Truck,Nifas Silk,Field Inspection,136,16.79,4.58,5,Urban,4
+TR-40266,2026-08-01,VH-212,Service Truck,Bole,Material Delivery,153,18.89,5.2,1,Peri-Urban,4
+TR-40267,2026-08-14,VH-212,Service Truck,Akaki,Site Visit,170,20.99,5.82,2,Rural,4
+TR-40268,2026-08-27,VH-212,Service Truck,Kirkos,Community Outreach,187,23.09,6.44,3,Urban,4
+TR-40269,2026-09-09,VH-212,Service Truck,Lideta,Field Inspection,204,25.19,6.47,4,Peri-Urban,4
+TR-40270,2026-09-22,VH-212,Service Truck,Gullele,Material Delivery,31,3.83,1.81,5,Rural,4
+TR-40271,2026-01-08,VH-212,Service Truck,Nifas Silk,Site Visit,48,5.93,2.43,1,Urban,4
+TR-40272,2026-01-21,VH-212,Service Truck,Bole,Community Outreach,65,8.02,3.06,2,Peri-Urban,4
+TR-40273,2026-02-03,VH-212,Service Truck,Akaki,Field Inspection,82,10.12,3.08,3,Rural,4
+TR-40274,2026-02-16,VH-212,Service Truck,Kirkos,Material Delivery,99,12.22,3.7,4,Urban,4
+TR-40275,2026-03-01,VH-212,Service Truck,Lideta,Site Visit,116,14.32,4.32,5,Peri-Urban,4
+TR-40276,2026-03-14,VH-212,Service Truck,Gullele,Community Outreach,133,16.42,4.94,1,Rural,4
+TR-40277,2026-03-27,VH-212,Service Truck,Nifas Silk,Field Inspection,150,18.52,4.97,2,Urban,4
+TR-40278,2026-04-09,VH-212,Service Truck,Bole,Material Delivery,167,20.62,5.59,3,Peri-Urban,4
+TR-40279,2026-04-22,VH-212,Service Truck,Akaki,Site Visit,184,22.72,6.21,4,Rural,4
+TR-40280,2026-05-05,VH-212,Service Truck,Kirkos,Community Outreach,201,24.81,6.83,5,Urban,4
+TR-40281,2026-05-18,VH-212,Service Truck,Lideta,Field Inspection,28,3.46,1.58,1,Peri-Urban,4
+TR-40282,2026-05-31,VH-212,Service Truck,Gullele,Material Delivery,45,5.56,2.2,2,Rural,4
+TR-40283,2026-06-13,VH-212,Service Truck,Nifas Silk,Site Visit,62,7.65,2.82,3,Urban,4
+TR-40284,2026-06-26,VH-212,Service Truck,Bole,Community Outreach,79,9.75,3.44,4,Peri-Urban,4
+TR-40285,2026-07-09,VH-212,Service Truck,Akaki,Field Inspection,96,11.85,3.47,5,Rural,4
+TR-40286,2026-07-22,VH-212,Service Truck,Kirkos,Material Delivery,113,13.95,4.09,1,Urban,4
+TR-40287,2026-08-04,VH-212,Service Truck,Lideta,Site Visit,130,16.05,4.71,2,Peri-Urban,4
+TR-40288,2026-08-17,VH-212,Service Truck,Gullele,Community Outreach,147,18.15,5.33,3,Rural,4
+TR-40289,2026-08-30,VH-213,Pickup,Bole,Field Inspection,164,18.64,5.36,4,Urban,5
+TR-40290,2026-09-12,VH-213,Pickup,Akaki,Material Delivery,181,20.57,5.98,5,Peri-Urban,5
+TR-40291,2026-09-25,VH-213,Pickup,Kirkos,Site Visit,198,22.5,6.6,1,Rural,5
+TR-40292,2026-01-11,VH-213,Pickup,Lideta,Community Outreach,25,2.84,1.94,2,Urban,5
+TR-40293,2026-01-24,VH-213,Pickup,Gullele,Field Inspection,42,4.77,1.97,3,Peri-Urban,5
+TR-40294,2026-02-06,VH-213,Pickup,Nifas Silk,Material Delivery,59,6.7,2.59,4,Rural,5
+TR-40295,2026-02-19,VH-213,Pickup,Bole,Site Visit,76,8.64,3.21,5,Urban,5
+TR-40296,2026-03-04,VH-213,Pickup,Akaki,Community Outreach,93,10.57,3.83,1,Peri-Urban,5
+TR-40297,2026-03-17,VH-213,Pickup,Kirkos,Field Inspection,110,12.5,3.86,2,Rural,5
+TR-40298,2026-03-30,VH-213,Pickup,Lideta,Material Delivery,127,14.43,4.48,3,Urban,5
+TR-40299,2026-04-12,VH-213,Pickup,Gullele,Site Visit,144,16.36,5.1,4,Peri-Urban,5
+TR-40300,2026-04-25,VH-213,Pickup,Nifas Silk,Community Outreach,161,18.3,5.72,5,Rural,5
+TR-40301,2026-05-08,VH-213,Pickup,Bole,Field Inspection,178,20.23,5.74,1,Urban,5
+TR-40302,2026-05-21,VH-213,Pickup,Akaki,Material Delivery,195,22.16,6.37,2,Peri-Urban,5
+TR-40303,2026-06-03,VH-213,Pickup,Kirkos,Site Visit,22,2.5,1.71,3,Rural,5
+TR-40304,2026-06-16,VH-213,Pickup,Lideta,Community Outreach,39,4.43,2.33,4,Urban,5
+TR-40305,2026-06-29,VH-213,Pickup,Gullele,Field Inspection,56,6.36,2.36,5,Peri-Urban,5
+TR-40306,2026-07-12,VH-213,Pickup,Nifas Silk,Material Delivery,73,8.3,2.98,1,Rural,5
+TR-40307,2026-07-25,VH-213,Pickup,Bole,Site Visit,90,10.23,3.6,2,Urban,5
+TR-40308,2026-08-07,VH-213,Pickup,Akaki,Community Outreach,107,12.16,4.22,3,Peri-Urban,5
+TR-40309,2026-08-20,VH-213,Pickup,Kirkos,Field Inspection,124,14.09,4.24,4,Rural,5
+TR-40310,2026-09-02,VH-213,Pickup,Lideta,Material Delivery,141,16.02,4.87,5,Urban,5
+TR-40311,2026-09-15,VH-213,Pickup,Gullele,Site Visit,158,17.95,5.49,1,Peri-Urban,5
+TR-40312,2026-09-28,VH-213,Pickup,Nifas Silk,Community Outreach,175,19.89,6.11,2,Rural,5
+TR-40313,2026-01-14,VH-214,Utility Van,Akaki,Field Inspection,192,20.21,6.13,3,Urban,6
+TR-40314,2026-01-27,VH-214,Utility Van,Kirkos,Material Delivery,19,2,1.48,4,Peri-Urban,6
+TR-40315,2026-02-09,VH-214,Utility Van,Lideta,Site Visit,36,3.79,2.1,5,Rural,6
+TR-40316,2026-02-22,VH-214,Utility Van,Gullele,Community Outreach,53,5.58,2.72,1,Urban,6
+TR-40317,2026-03-07,VH-214,Utility Van,Nifas Silk,Field Inspection,70,7.37,2.74,2,Peri-Urban,6
+TR-40318,2026-03-20,VH-214,Utility Van,Bole,Material Delivery,87,9.16,3.37,3,Rural,6
+TR-40319,2026-04-02,VH-214,Utility Van,Akaki,Site Visit,104,10.95,3.99,4,Urban,6
+TR-40320,2026-04-15,VH-214,Utility Van,Kirkos,Community Outreach,121,12.74,4.61,5,Peri-Urban,6
+TR-40321,2026-04-28,VH-214,Utility Van,Lideta,Field Inspection,138,14.53,4.63,1,Rural,6
+TR-40322,2026-05-11,VH-214,Utility Van,Gullele,Material Delivery,155,16.32,5.26,2,Urban,6
+TR-40323,2026-05-24,VH-214,Utility Van,Nifas Silk,Site Visit,172,18.11,5.88,3,Peri-Urban,6
+TR-40324,2026-06-06,VH-214,Utility Van,Bole,Community Outreach,189,19.89,6.5,4,Rural,6
+TR-40325,2026-06-19,VH-214,Utility Van,Akaki,Field Inspection,206,21.68,6.52,5,Urban,6
+TR-40326,2026-07-02,VH-214,Utility Van,Kirkos,Material Delivery,33,3.47,1.87,1,Peri-Urban,6
+TR-40327,2026-07-15,VH-214,Utility Van,Lideta,Site Visit,50,5.26,2.49,2,Rural,6
+TR-40328,2026-07-28,VH-214,Utility Van,Gullele,Community Outreach,67,7.05,3.11,3,Urban,6
+TR-40329,2026-08-10,VH-214,Utility Van,Nifas Silk,Field Inspection,84,8.84,3.13,4,Peri-Urban,6
+TR-40330,2026-08-23,VH-214,Utility Van,Bole,Material Delivery,101,10.63,3.76,5,Rural,6
+TR-40331,2026-09-05,VH-214,Utility Van,Akaki,Site Visit,118,12.42,4.38,1,Urban,6
+TR-40332,2026-09-18,VH-214,Utility Van,Kirkos,Community Outreach,135,14.21,5,2,Peri-Urban,6
+TR-40333,2026-10-01,VH-214,Utility Van,Lideta,Field Inspection,152,16,5.02,3,Rural,6
+TR-40334,2026-01-17,VH-214,Utility Van,Gullele,Material Delivery,169,17.79,5.64,4,Urban,6
+TR-40335,2026-01-30,VH-214,Utility Van,Nifas Silk,Site Visit,186,19.58,6.27,5,Peri-Urban,6
+TR-40336,2026-02-12,VH-214,Utility Van,Bole,Community Outreach,203,21.37,6.89,1,Rural,6
+TR-40337,2026-02-25,VH-215,Light Truck,Kirkos,Field Inspection,30,2.94,1.63,2,Urban,7
+TR-40338,2026-03-10,VH-215,Light Truck,Lideta,Material Delivery,47,4.61,2.26,3,Peri-Urban,7
+TR-40339,2026-03-23,VH-215,Light Truck,Gullele,Site Visit,64,6.27,2.88,4,Rural,7
+TR-40340,2026-04-05,VH-215,Light Truck,Nifas Silk,Community Outreach,81,7.94,3.5,5,Urban,7
+TR-40341,2026-04-18,VH-215,Light Truck,Bole,Field Inspection,98,9.61,3.52,1,Peri-Urban,7
+TR-40342,2026-05-01,VH-215,Light Truck,Akaki,Material Delivery,115,11.27,4.14,2,Rural,7
+TR-40343,2026-05-14,VH-215,Light Truck,Kirkos,Site Visit,132,12.94,4.77,3,Urban,7
+TR-40344,2026-05-27,VH-215,Light Truck,Lideta,Community Outreach,149,14.61,5.39,4,Peri-Urban,7
+TR-40345,2026-06-09,VH-215,Light Truck,Gullele,Field Inspection,166,16.27,5.41,5,Rural,7
+TR-40346,2026-06-22,VH-215,Light Truck,Nifas Silk,Material Delivery,183,17.94,6.03,1,Urban,7
+TR-40347,2026-07-05,VH-215,Light Truck,Bole,Site Visit,200,19.61,6.66,2,Peri-Urban,7
+TR-40348,2026-07-18,VH-215,Light Truck,Akaki,Community Outreach,27,2.65,2,3,Rural,7
+TR-40349,2026-07-31,VH-215,Light Truck,Kirkos,Field Inspection,44,4.31,2.02,4,Urban,7
+TR-40350,2026-08-13,VH-215,Light Truck,Lideta,Material Delivery,61,5.98,2.64,5,Peri-Urban,7
+TR-40351,2026-08-26,VH-215,Light Truck,Gullele,Site Visit,78,7.65,3.27,1,Rural,7
+TR-40352,2026-09-08,VH-215,Light Truck,Nifas Silk,Community Outreach,95,9.31,3.89,2,Urban,7
+TR-40353,2026-09-21,VH-215,Light Truck,Bole,Field Inspection,112,10.98,3.91,3,Peri-Urban,7
+TR-40354,2026-10-04,VH-215,Light Truck,Akaki,Material Delivery,129,12.65,4.53,4,Rural,7
+TR-40355,2026-01-20,VH-215,Light Truck,Kirkos,Site Visit,146,14.31,5.16,5,Urban,7
+TR-40356,2026-02-02,VH-215,Light Truck,Lideta,Community Outreach,163,15.98,5.78,1,Peri-Urban,7
+TR-40357,2026-02-15,VH-215,Light Truck,Gullele,Field Inspection,180,17.65,5.8,2,Rural,7
+TR-40358,2026-02-28,VH-215,Light Truck,Nifas Silk,Material Delivery,197,19.31,6.42,3,Urban,7
+TR-40359,2026-03-13,VH-215,Light Truck,Bole,Site Visit,24,2.35,1.77,4,Peri-Urban,7
+TR-40360,2026-03-26,VH-215,Light Truck,Akaki,Community Outreach,41,4.02,2.39,5,Rural,7
+TR-40361,2026-04-08,VH-216,Service Truck,Lideta,Field Inspection,58,7.84,2.41,1,Urban,8
+TR-40362,2026-04-21,VH-216,Service Truck,Gullele,Material Delivery,75,10.14,3.03,2,Peri-Urban,8
+TR-40363,2026-05-04,VH-216,Service Truck,Nifas Silk,Site Visit,92,12.43,3.66,3,Rural,8
+TR-40364,2026-05-17,VH-216,Service Truck,Bole,Community Outreach,109,14.73,4.28,4,Urban,8
+TR-40365,2026-05-30,VH-216,Service Truck,Akaki,Field Inspection,126,17.03,4.3,5,Peri-Urban,8
+TR-40366,2026-06-12,VH-216,Service Truck,Kirkos,Material Delivery,143,19.32,4.92,1,Rural,8
+TR-40367,2026-06-25,VH-216,Service Truck,Lideta,Site Visit,160,21.62,5.54,2,Urban,8
+TR-40368,2026-07-08,VH-216,Service Truck,Gullele,Community Outreach,177,23.92,6.17,3,Peri-Urban,8
+TR-40369,2026-07-21,VH-216,Service Truck,Nifas Silk,Field Inspection,194,26.22,6.19,4,Rural,8
+TR-40370,2026-08-03,VH-216,Service Truck,Bole,Material Delivery,21,2.84,1.53,5,Urban,8
+TR-40371,2026-08-16,VH-216,Service Truck,Akaki,Site Visit,38,5.14,2.16,1,Peri-Urban,8
+TR-40372,2026-08-29,VH-216,Service Truck,Kirkos,Community Outreach,55,7.43,2.78,2,Rural,8
+TR-40373,2026-09-11,VH-216,Service Truck,Lideta,Field Inspection,72,9.73,2.8,3,Urban,8
+TR-40374,2026-09-24,VH-216,Service Truck,Gullele,Material Delivery,89,12.03,3.42,4,Peri-Urban,8
+TR-40375,2026-01-10,VH-216,Service Truck,Nifas Silk,Site Visit,106,14.32,4.04,5,Rural,8
+TR-40376,2026-01-23,VH-216,Service Truck,Bole,Community Outreach,123,16.62,4.67,1,Urban,8
+TR-40377,2026-02-05,VH-216,Service Truck,Akaki,Field Inspection,140,18.92,4.69,2,Peri-Urban,8
+TR-40378,2026-02-18,VH-216,Service Truck,Kirkos,Material Delivery,157,21.22,5.31,3,Rural,8
+TR-40379,2026-03-03,VH-216,Service Truck,Lideta,Site Visit,174,23.51,5.93,4,Urban,8
+TR-40380,2026-03-16,VH-216,Service Truck,Gullele,Community Outreach,191,25.81,6.56,5,Peri-Urban,8
+TR-40381,2026-03-29,VH-216,Service Truck,Nifas Silk,Field Inspection,18,2.43,1.3,1,Rural,8
+TR-40382,2026-04-11,VH-216,Service Truck,Bole,Material Delivery,35,4.73,1.92,2,Urban,8
+TR-40383,2026-04-24,VH-216,Service Truck,Akaki,Site Visit,52,7.03,2.54,3,Peri-Urban,8
+TR-40384,2026-05-07,VH-216,Service Truck,Kirkos,Community Outreach,69,9.32,3.17,4,Rural,8
+TR-40385,2026-05-20,VH-217,Pickup,Gullele,Field Inspection,86,10.62,3.19,5,Urban,9
+TR-40386,2026-06-02,VH-217,Pickup,Nifas Silk,Material Delivery,103,12.72,3.81,1,Peri-Urban,9
+TR-40387,2026-06-15,VH-217,Pickup,Bole,Site Visit,120,14.81,4.43,2,Rural,9
+TR-40388,2026-06-28,VH-217,Pickup,Akaki,Community Outreach,137,16.91,5.06,3,Urban,9
+TR-40389,2026-07-11,VH-217,Pickup,Kirkos,Field Inspection,154,19.01,5.08,4,Peri-Urban,9
+TR-40390,2026-07-24,VH-217,Pickup,Lideta,Material Delivery,171,21.11,5.7,5,Rural,9
+TR-40391,2026-08-06,VH-217,Pickup,Gullele,Site Visit,188,23.21,6.32,1,Urban,9
+TR-40392,2026-08-19,VH-217,Pickup,Nifas Silk,Community Outreach,205,25.31,6.94,2,Peri-Urban,9
+TR-40393,2026-09-01,VH-217,Pickup,Bole,Field Inspection,32,3.95,1.69,3,Rural,9
+TR-40394,2026-09-14,VH-217,Pickup,Akaki,Material Delivery,49,6.05,2.31,4,Urban,9
+TR-40395,2026-09-27,VH-217,Pickup,Kirkos,Site Visit,66,8.15,2.93,5,Peri-Urban,9
+TR-40396,2026-01-13,VH-217,Pickup,Lideta,Community Outreach,83,10.25,3.56,1,Rural,9
+TR-40397,2026-01-26,VH-217,Pickup,Gullele,Field Inspection,100,12.35,3.58,2,Urban,9
+TR-40398,2026-02-08,VH-217,Pickup,Nifas Silk,Material Delivery,117,14.44,4.2,3,Peri-Urban,9
+TR-40399,2026-02-21,VH-217,Pickup,Bole,Site Visit,134,16.54,4.82,4,Rural,9
+TR-40400,2026-03-06,VH-217,Pickup,Akaki,Community Outreach,151,18.64,5.44,5,Urban,9
+TR-40401,2026-03-19,VH-217,Pickup,Kirkos,Field Inspection,168,20.74,5.47,1,Peri-Urban,9
+TR-40402,2026-04-01,VH-217,Pickup,Lideta,Material Delivery,185,22.84,6.09,2,Rural,9
+TR-40403,2026-04-14,VH-217,Pickup,Gullele,Site Visit,202,24.94,6.71,3,Urban,9
+TR-40404,2026-04-27,VH-217,Pickup,Nifas Silk,Community Outreach,29,3.58,2.06,4,Peri-Urban,9
+TR-40405,2026-05-10,VH-217,Pickup,Bole,Field Inspection,46,5.68,2.08,5,Rural,9
+TR-40406,2026-05-23,VH-217,Pickup,Akaki,Material Delivery,63,7.78,2.7,1,Urban,9
+TR-40407,2026-06-05,VH-217,Pickup,Kirkos,Site Visit,80,9.88,3.32,2,Peri-Urban,9
+TR-40408,2026-06-18,VH-217,Pickup,Lideta,Community Outreach,97,11.98,3.94,3,Rural,9
+TR-40409,2026-07-01,VH-218,Utility Van,Nifas Silk,Field Inspection,114,12.95,3.97,4,Urban,10
+TR-40410,2026-07-14,VH-218,Utility Van,Bole,Material Delivery,131,14.89,4.59,5,Peri-Urban,10
+TR-40411,2026-07-27,VH-218,Utility Van,Akaki,Site Visit,148,16.82,5.21,1,Rural,10
+TR-40412,2026-08-09,VH-218,Utility Van,Kirkos,Community Outreach,165,18.75,5.83,2,Urban,10
+TR-40413,2026-08-22,VH-218,Utility Van,Lideta,Field Inspection,182,20.68,5.86,3,Peri-Urban,10
+TR-40414,2026-09-04,VH-218,Utility Van,Gullele,Material Delivery,199,22.61,6.48,4,Rural,10
+TR-40415,2026-09-17,VH-218,Utility Van,Nifas Silk,Site Visit,26,2.95,1.82,5,Urban,10
+TR-40416,2026-09-30,VH-218,Utility Van,Bole,Community Outreach,43,4.89,2.44,1,Peri-Urban,10
+TR-40417,2026-01-16,VH-218,Utility Van,Akaki,Field Inspection,60,6.82,2.47,2,Rural,10
+TR-40418,2026-01-29,VH-218,Utility Van,Kirkos,Material Delivery,77,8.75,3.09,3,Urban,10
+TR-40419,2026-02-11,VH-218,Utility Van,Lideta,Site Visit,94,10.68,3.71,4,Peri-Urban,10
+TR-40420,2026-02-24,VH-218,Utility Van,Gullele,Community Outreach,111,12.61,4.33,5,Rural,10
+TR-40421,2026-03-09,VH-218,Utility Van,Nifas Silk,Field Inspection,128,14.55,4.36,1,Urban,10
+TR-40422,2026-03-22,VH-218,Utility Van,Bole,Material Delivery,145,16.48,4.98,2,Peri-Urban,10
+TR-40423,2026-04-04,VH-218,Utility Van,Akaki,Site Visit,162,18.41,5.6,3,Rural,10
+TR-40424,2026-04-17,VH-218,Utility Van,Kirkos,Community Outreach,179,20.34,6.22,4,Urban,10
+TR-40425,2026-04-30,VH-218,Utility Van,Lideta,Field Inspection,196,22.27,6.24,5,Peri-Urban,10
+TR-40426,2026-05-13,VH-218,Utility Van,Gullele,Material Delivery,23,2.61,1.59,1,Rural,10
+TR-40427,2026-05-26,VH-218,Utility Van,Nifas Silk,Site Visit,40,4.55,2.21,2,Urban,10
+TR-40428,2026-06-08,VH-218,Utility Van,Bole,Community Outreach,57,6.48,2.83,3,Peri-Urban,10
+TR-40429,2026-06-21,VH-218,Utility Van,Akaki,Field Inspection,74,8.41,2.86,4,Rural,10
+TR-40430,2026-07-04,VH-218,Utility Van,Kirkos,Material Delivery,91,10.34,3.48,5,Urban,10
+TR-40431,2026-07-17,VH-218,Utility Van,Lideta,Site Visit,108,12.27,4.1,1,Peri-Urban,10
+TR-40432,2026-07-30,VH-218,Utility Van,Gullele,Community Outreach,125,14.2,4.72,2,Rural,10
