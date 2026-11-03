@@ -1,0 +1,97 @@
+contract_key,supplier_key,procurement_method,contract_category,contract_amount_etb,approval_stage,start_date
+C-0001,S-007,RFQ,Water Kiosk,139317,Active,2026-01-02
+C-0002,S-014,Framework,SCADA Gateway,158634,Under Review,2026-01-03
+C-0003,S-021,Open Tender,Lab Analyzer,177951,Approved,2026-01-04
+C-0004,S-028,RFQ,Solar Controller,197268,Active,2026-01-05
+C-0005,S-035,Framework,Water Kiosk,216585,Under Review,2026-01-06
+C-0006,S-042,Open Tender,SCADA Gateway,235902,Approved,2026-01-07
+C-0007,S-049,RFQ,Lab Analyzer,255219,Active,2026-01-08
+C-0008,S-056,Framework,Solar Controller,274536,Under Review,2026-01-09
+C-0009,S-003,Open Tender,Water Kiosk,293853,Approved,2026-01-10
+C-0010,S-010,RFQ,SCADA Gateway,313170,Active,2026-01-11
+C-0011,S-017,Framework,Lab Analyzer,332487,Under Review,2026-01-12
+C-0012,S-024,Open Tender,Solar Controller,351804,Approved,2026-01-13
+C-0013,S-031,RFQ,Water Kiosk,371121,Active,2026-01-14
+C-0014,S-038,Framework,SCADA Gateway,390438,Under Review,2026-01-15
+C-0015,S-045,Open Tender,Lab Analyzer,409755,Approved,2026-01-16
+C-0016,S-052,RFQ,Solar Controller,429072,Active,2026-01-17
+C-0017,S-059,Framework,Water Kiosk,448389,Under Review,2026-01-18
+C-0018,S-006,Open Tender,SCADA Gateway,467706,Approved,2026-01-19
+C-0019,S-013,RFQ,Lab Analyzer,487023,Active,2026-01-20
+C-0020,S-020,Framework,Solar Controller,506340,Under Review,2026-01-21
+C-0021,S-027,Open Tender,Water Kiosk,525657,Approved,2026-01-22
+C-0022,S-034,RFQ,SCADA Gateway,544974,Active,2026-01-23
+C-0023,S-041,Framework,Lab Analyzer,564291,Under Review,2026-01-24
+C-0024,S-999,Open Tender,Solar Controller,583608,Approved,2026-01-25
+C-0025,S-055,RFQ,Water Kiosk,602925,Active,2026-01-26
+C-0026,S-002,Framework,SCADA Gateway,622242,Under Review,2026-01-27
+C-0027,S-009,Open Tender,Lab Analyzer,641559,Approved,2026-01-28
+C-0028,S-016,RFQ,Solar Controller,660876,Active,2026-01-29
+C-0029,S-023,Framework,Water Kiosk,680193,Under Review,2026-01-30
+C-0030,S-030,Open Tender,SCADA Gateway,699510,Approved,2026-01-31
+C-0031,S-037,RFQ,Lab Analyzer,718827,Active,2026-02-01
+C-0032,S-044,Framework,Solar Controller,738144,Under Review,2026-02-02
+C-0033,S-051,Open Tender,Water Kiosk,757461,Approved,2026-02-03
+C-0034,S-058,RFQ,SCADA Gateway,776778,Active,2026-02-04
+C-0035,S-005,Framework,Lab Analyzer,796095,Under Review,2026-02-05
+C-0036,S-012,Open Tender,Solar Controller,815412,Approved,2026-02-06
+C-0037,S-019,RFQ,Water Kiosk,834729,Active,2026-02-07
+C-0038,S-026,Framework,SCADA Gateway,854046,Under Review,2026-02-08
+C-0039,S-033,Open Tender,Lab Analyzer,873363,Approved,2026-02-09
+C-0040,S-040,RFQ,Solar Controller,892680,Active,2026-02-10
+C-0041,S-047,Framework,Water Kiosk,911997,Under Review,2026-02-11
+C-0042,S-054,Open Tender,SCADA Gateway,931314,Approved,2026-02-12
+C-0043,S-001,RFQ,Lab Analyzer,950631,Active,2026-02-13
+C-0044,S-008,Framework,Solar Controller,969948,Under Review,2026-02-14
+C-0045,S-015,Open Tender,Water Kiosk,139265,Approved,2026-02-15
+C-0046,S-022,RFQ,SCADA Gateway,158582,Active,2026-02-16
+C-0047,S-029,Framework,Lab Analyzer,177899,Under Review,2026-02-17
+C-0048,S-999,Open Tender,Solar Controller,197216,Approved,2026-02-18
+C-0049,S-043,RFQ,Water Kiosk,216533,Active,2026-02-19
+C-0050,S-050,Framework,SCADA Gateway,235850,Under Review,2026-02-20
+C-0051,S-057,Open Tender,Lab Analyzer,255167,Approved,2026-02-21
+C-0052,S-004,RFQ,Solar Controller,274484,Active,2026-02-22
+C-0053,S-011,Framework,Water Kiosk,293801,Under Review,2026-02-23
+C-0054,S-018,Open Tender,SCADA Gateway,313118,Approved,2026-02-24
+C-0055,S-025,RFQ,Lab Analyzer,332435,Active,2026-02-25
+C-0056,S-032,Framework,Solar Controller,351752,Under Review,2026-02-26
+C-0057,S-039,Open Tender,Water Kiosk,371069,Approved,2026-02-27
+C-0058,S-046,RFQ,SCADA Gateway,390386,Active,2026-02-28
+C-0059,S-053,Framework,Lab Analyzer,409703,Under Review,2026-03-01
+C-0060,S-060,Open Tender,Solar Controller,429020,Approved,2026-03-02
+C-0061,S-007,RFQ,Water Kiosk,448337,Active,2026-03-03
+C-0062,S-014,Framework,SCADA Gateway,467654,Under Review,2026-03-04
+C-0063,S-021,Open Tender,Lab Analyzer,486971,Approved,2026-03-05
+C-0064,S-028,RFQ,Solar Controller,506288,Active,2026-03-06
+C-0065,S-035,Framework,Water Kiosk,525605,Under Review,2026-03-07
+C-0066,S-042,Open Tender,SCADA Gateway,544922,Approved,2026-03-08
+C-0067,S-049,RFQ,Lab Analyzer,564239,Active,2026-03-09
+C-0068,S-056,Framework,Solar Controller,583556,Under Review,2026-03-10
+C-0069,S-003,Open Tender,Water Kiosk,602873,Approved,2026-03-11
+C-0070,S-010,RFQ,SCADA Gateway,622190,Active,2026-03-12
+C-0071,S-017,Framework,Lab Analyzer,641507,Under Review,2026-03-13
+C-0072,S-999,Open Tender,Solar Controller,660824,Approved,2026-03-14
+C-0073,S-031,RFQ,Water Kiosk,680141,Active,2026-03-15
+C-0074,S-038,Framework,SCADA Gateway,699458,Under Review,2026-03-16
+C-0075,S-045,Open Tender,Lab Analyzer,718775,Approved,2026-03-17
+C-0076,S-052,RFQ,Solar Controller,738092,Active,2026-03-18
+C-0077,S-059,Framework,Water Kiosk,757409,Under Review,2026-03-19
+C-0078,S-006,Open Tender,SCADA Gateway,776726,Approved,2026-03-20
+C-0079,S-013,RFQ,Lab Analyzer,796043,Active,2026-03-21
+C-0080,S-020,Framework,Solar Controller,815360,Under Review,2026-03-22
+C-0081,S-027,Open Tender,Water Kiosk,834677,Approved,2026-03-23
+C-0082,S-034,RFQ,SCADA Gateway,853994,Active,2026-03-24
+C-0083,S-041,Framework,Lab Analyzer,873311,Under Review,2026-03-25
+C-0084,S-048,Open Tender,Solar Controller,892628,Approved,2026-03-26
+C-0085,S-055,RFQ,Water Kiosk,911945,Active,2026-03-27
+C-0086,S-002,Framework,SCADA Gateway,931262,Under Review,2026-03-28
+C-0087,S-009,Open Tender,Lab Analyzer,950579,Approved,2026-03-29
+C-0088,S-016,RFQ,Solar Controller,969896,Active,2026-03-30
+C-0089,S-023,Framework,Water Kiosk,139213,Under Review,2026-03-31
+C-0090,S-030,Open Tender,SCADA Gateway,158530,Approved,2026-04-01
+C-0091,S-037,RFQ,Lab Analyzer,177847,Active,2026-04-02
+C-0092,S-044,Framework,Solar Controller,197164,Under Review,2026-04-03
+C-0093,S-051,Open Tender,Water Kiosk,216481,Approved,2026-04-04
+C-0094,S-058,RFQ,SCADA Gateway,235798,Active,2026-04-05
+C-0095,S-005,Framework,Lab Analyzer,255115,Under Review,2026-04-06
+C-0096,S-999,Open Tender,Solar Controller,274432,Approved,2026-04-07

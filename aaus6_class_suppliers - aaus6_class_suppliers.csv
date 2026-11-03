@@ -1,0 +1,61 @@
+supplier_key,supplier_name,supplier_region,certification,service_focus,rating
+S-001,Synthetic Partner 001,Oromia,Conditional,Water Kiosk,2.92
+S-002,Synthetic Partner 002,Amhara,Under Review,SCADA Gateway,3.04
+S-003,Synthetic Partner 003,Addis Ababa,Certified,Lab Analyzer,3.16
+S-004,Synthetic Partner 004,Oromia,Conditional,Solar Controller,3.28
+S-005,Synthetic Partner 005,Amhara,Under Review,Water Kiosk,3.4
+S-006,Synthetic Partner 006,Addis Ababa,Certified,SCADA Gateway,3.52
+S-007,Synthetic Partner 007,Oromia,Conditional,Lab Analyzer,3.64
+S-008,Synthetic Partner 008,Amhara,Under Review,Solar Controller,3.76
+S-009,Synthetic Partner 009,Addis Ababa,Certified,Water Kiosk,3.88
+S-010,Synthetic Partner 010,Oromia,Conditional,SCADA Gateway,4
+S-011,Synthetic Partner 011,Amhara,Under Review,Lab Analyzer,4.12
+S-012,Synthetic Partner 012,Addis Ababa,Certified,Solar Controller,4.24
+S-013,Synthetic Partner 013,Oromia,Conditional,Water Kiosk,4.36
+S-014,Synthetic Partner 014,Amhara,Under Review,SCADA Gateway,4.48
+S-015,Synthetic Partner 015,Addis Ababa,Certified,Lab Analyzer,4.6
+S-016,Synthetic Partner 016,Oromia,Conditional,Solar Controller,4.72
+S-017,Synthetic Partner 017,Amhara,Under Review,Water Kiosk,4.84
+S-018,Synthetic Partner 018,Addis Ababa,Certified,SCADA Gateway,2.8
+S-019,Synthetic Partner 019,Oromia,Conditional,Lab Analyzer,2.92
+S-020,Synthetic Partner 020,Amhara,Under Review,Solar Controller,3.04
+S-021,Synthetic Partner 021,Addis Ababa,Certified,Water Kiosk,3.16
+S-022,Synthetic Partner 022,Oromia,Conditional,SCADA Gateway,3.28
+S-023,Synthetic Partner 023,Amhara,Under Review,Lab Analyzer,3.4
+S-024,Synthetic Partner 024,Addis Ababa,Certified,Solar Controller,3.52
+S-025,Synthetic Partner 025,Oromia,Conditional,Water Kiosk,3.64
+S-026,Synthetic Partner 026,Amhara,Under Review,SCADA Gateway,3.76
+S-027,Synthetic Partner 027,Addis Ababa,Certified,Lab Analyzer,3.88
+S-028,Synthetic Partner 028,Oromia,Conditional,Solar Controller,4
+S-029,Synthetic Partner 029,Amhara,Under Review,Water Kiosk,4.12
+S-030,Synthetic Partner 030,Addis Ababa,Certified,SCADA Gateway,4.24
+S-031,Synthetic Partner 031,Oromia,Conditional,Lab Analyzer,4.36
+S-032,Synthetic Partner 032,Amhara,Under Review,Solar Controller,4.48
+S-033,Synthetic Partner 033,Addis Ababa,Certified,Water Kiosk,4.6
+S-034,Synthetic Partner 034,Oromia,Conditional,SCADA Gateway,4.72
+S-035,Synthetic Partner 035,Amhara,Under Review,Lab Analyzer,4.84
+S-036,Synthetic Partner 036,Addis Ababa,Certified,Solar Controller,2.8
+S-037,Synthetic Partner 037,Oromia,Conditional,Water Kiosk,2.92
+S-038,Synthetic Partner 038,Amhara,Under Review,SCADA Gateway,3.04
+S-039,Synthetic Partner 039,Addis Ababa,Certified,Lab Analyzer,3.16
+S-040,Synthetic Partner 040,Oromia,Conditional,Solar Controller,3.28
+S-041,Synthetic Partner 041,Amhara,Under Review,Water Kiosk,3.4
+S-042,Synthetic Partner 042,Addis Ababa,Certified,SCADA Gateway,3.52
+S-043,Synthetic Partner 043,Oromia,Conditional,Lab Analyzer,3.64
+S-044,Synthetic Partner 044,Amhara,Under Review,Solar Controller,3.76
+S-045,Synthetic Partner 045,Addis Ababa,Certified,Water Kiosk,3.88
+S-046,Synthetic Partner 046,Oromia,Conditional,SCADA Gateway,4
+S-047,Synthetic Partner 047,Amhara,Under Review,Lab Analyzer,4.12
+S-048,Synthetic Partner 048,Addis Ababa,Certified,Solar Controller,4.24
+S-049,Synthetic Partner 049,Oromia,Conditional,Water Kiosk,4.36
+S-050,Synthetic Partner 050,Amhara,Under Review,SCADA Gateway,4.48
+S-051,Synthetic Partner 051,Addis Ababa,Certified,Lab Analyzer,4.6
+S-052,Synthetic Partner 052,Oromia,Conditional,Solar Controller,4.72
+S-053,Synthetic Partner 053,Amhara,Under Review,Water Kiosk,4.84
+S-054,Synthetic Partner 054,Addis Ababa,Certified,SCADA Gateway,2.8
+S-055,Synthetic Partner 055,Oromia,Conditional,Lab Analyzer,2.92
+S-056,Synthetic Partner 056,Amhara,Under Review,Solar Controller,3.04
+S-057,Synthetic Partner 057,Addis Ababa,Certified,Water Kiosk,3.16
+S-058,Synthetic Partner 058,Oromia,Conditional,SCADA Gateway,3.28
+S-059,Synthetic Partner 059,Amhara,Under Review,Lab Analyzer,3.4
+S-060,Synthetic Partner 060,Addis Ababa,Certified,Solar Controller,3.52

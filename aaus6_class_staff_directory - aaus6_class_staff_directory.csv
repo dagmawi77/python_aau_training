@@ -1,0 +1,85 @@
+employee_key,employee_label,manager_key,division,duty_station,job_grade
+E-001,Staff Member 001,,Finance,Akaki,G4
+E-002,Staff Member 002,,Asset Planning,Kirkos,G5
+E-003,Staff Member 003,,Contracts,Gullele,G3
+E-004,Staff Member 004,,Procurement,Lideta,G4
+E-005,Staff Member 005,,Finance,Merkato,G5
+E-006,Staff Member 006,,Asset Planning,Bole,G3
+E-007,Staff Member 007,E-001,Contracts,Akaki,G4
+E-008,Staff Member 008,E-001,Procurement,Kirkos,G5
+E-009,Staff Member 009,E-001,Finance,Gullele,G3
+E-010,Staff Member 010,E-001,Asset Planning,Lideta,G4
+E-011,Staff Member 011,E-001,Contracts,Merkato,G5
+E-012,Staff Member 012,E-001,Procurement,Bole,G3
+E-013,Staff Member 013,E-002,Finance,Akaki,G4
+E-014,Staff Member 014,E-002,Asset Planning,Kirkos,G5
+E-015,Staff Member 015,E-002,Contracts,Gullele,G3
+E-016,Staff Member 016,E-002,Procurement,Lideta,G4
+E-017,Staff Member 017,E-002,Finance,Merkato,G5
+E-018,Staff Member 018,E-002,Asset Planning,Bole,G3
+E-019,Staff Member 019,E-003,Contracts,Akaki,G4
+E-020,Staff Member 020,E-003,Procurement,Kirkos,G5
+E-021,Staff Member 021,E-003,Finance,Gullele,G3
+E-022,Staff Member 022,E-003,Asset Planning,Lideta,G4
+E-023,Staff Member 023,E-003,Contracts,Merkato,G5
+E-024,Staff Member 024,E-003,Procurement,Bole,G3
+E-025,Staff Member 025,E-004,Finance,Akaki,G4
+E-026,Staff Member 026,E-004,Asset Planning,Kirkos,G5
+E-027,Staff Member 027,E-004,Contracts,Gullele,G3
+E-028,Staff Member 028,E-004,Procurement,Lideta,G4
+E-029,Staff Member 029,E-004,Finance,Merkato,G5
+E-030,Staff Member 030,E-004,Asset Planning,Bole,G3
+E-031,Staff Member 031,E-005,Contracts,Akaki,G4
+E-032,Staff Member 032,E-005,Procurement,Kirkos,G5
+E-033,Staff Member 033,E-005,Finance,Gullele,G3
+E-034,Staff Member 034,E-005,Asset Planning,Lideta,G4
+E-035,Staff Member 035,E-005,Contracts,Merkato,G5
+E-036,Staff Member 036,E-005,Procurement,Bole,G3
+E-037,Staff Member 037,E-006,Finance,Akaki,G4
+E-038,Staff Member 038,E-006,Asset Planning,Kirkos,G5
+E-039,Staff Member 039,E-006,Contracts,Gullele,G3
+E-040,Staff Member 040,E-006,Procurement,Lideta,G4
+E-041,Staff Member 041,E-006,Finance,Merkato,G5
+E-042,Staff Member 042,E-006,Asset Planning,Bole,G3
+E-043,Staff Member 043,E-007,Contracts,Akaki,G4
+E-044,Staff Member 044,E-007,Procurement,Kirkos,G5
+E-045,Staff Member 045,E-007,Finance,Gullele,G3
+E-046,Staff Member 046,E-007,Asset Planning,Lideta,G4
+E-047,Staff Member 047,E-007,Contracts,Merkato,G5
+E-048,Staff Member 048,E-007,Procurement,Bole,G3
+E-049,Staff Member 049,E-008,Finance,Akaki,G4
+E-050,Staff Member 050,E-008,Asset Planning,Kirkos,G5
+E-051,Staff Member 051,E-008,Contracts,Gullele,G3
+E-052,Staff Member 052,E-008,Procurement,Lideta,G4
+E-053,Staff Member 053,E-008,Finance,Merkato,G5
+E-054,Staff Member 054,E-008,Asset Planning,Bole,G3
+E-055,Staff Member 055,E-009,Contracts,Akaki,G4
+E-056,Staff Member 056,E-009,Procurement,Kirkos,G5
+E-057,Staff Member 057,E-009,Finance,Gullele,G3
+E-058,Staff Member 058,E-009,Asset Planning,Lideta,G4
+E-059,Staff Member 059,E-009,Contracts,Merkato,G5
+E-060,Staff Member 060,E-009,Procurement,Bole,G3
+E-061,Staff Member 061,E-010,Finance,Akaki,G4
+E-062,Staff Member 062,E-010,Asset Planning,Kirkos,G5
+E-063,Staff Member 063,E-010,Contracts,Gullele,G3
+E-064,Staff Member 064,E-010,Procurement,Lideta,G4
+E-065,Staff Member 065,E-010,Finance,Merkato,G5
+E-066,Staff Member 066,E-010,Asset Planning,Bole,G3
+E-067,Staff Member 067,E-011,Contracts,Akaki,G4
+E-068,Staff Member 068,E-011,Procurement,Kirkos,G5
+E-069,Staff Member 069,E-011,Finance,Gullele,G3
+E-070,Staff Member 070,E-011,Asset Planning,Lideta,G4
+E-071,Staff Member 071,E-011,Contracts,Merkato,G5
+E-072,Staff Member 072,E-011,Procurement,Bole,G3
+E-073,Staff Member 073,E-012,Finance,Akaki,G4
+E-074,Staff Member 074,E-012,Asset Planning,Kirkos,G5
+E-075,Staff Member 075,E-012,Contracts,Gullele,G3
+E-076,Staff Member 076,E-012,Procurement,Lideta,G4
+E-077,Staff Member 077,E-012,Finance,Merkato,G5
+E-078,Staff Member 078,E-012,Asset Planning,Bole,G3
+E-079,Staff Member 079,E-013,Contracts,Akaki,G4
+E-080,Staff Member 080,E-013,Procurement,Kirkos,G5
+E-081,Staff Member 081,E-013,Finance,Gullele,G3
+E-082,Staff Member 082,E-013,Asset Planning,Lideta,G4
+E-083,Staff Member 083,E-013,Contracts,Merkato,G5
+E-084,Staff Member 084,E-013,Procurement,Bole,G3
