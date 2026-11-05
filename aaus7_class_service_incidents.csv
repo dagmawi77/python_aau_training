@@ -1,0 +1,271 @@
+incident_id,event_time,closed_at,zone,category,priority,status,affected_connections,report_channel
+INC-70001,2026-01-05 7:00:00,,Bole,Low Pressure,Low,Open,30,Phone
+INC-70002,2026-01-06 0:07:00,2026-01-06 18:07:00,Akaki,Interrupted Supply,Medium,Closed,49,Web
+INC-70003,2026-01-06 17:14:00,2026-01-08 0:14:00,Kirkos,Water Quality,High,Closed,68,Walk-in
+INC-70004,2026-01-07 10:21:00,2026-01-09 6:21:00,Lideta,Service Query,Urgent,Closed,87,Phone
+INC-70005,2026-01-08 3:28:00,2026-01-10 12:28:00,Merkato,Low Pressure,Low,Closed,106,Web
+INC-70006,2026-01-08 20:35:00,2026-01-11 18:35:00,Gullele,Interrupted Supply,Medium,Closed,125,Walk-in
+INC-70007,2026-01-09 13:42:00,,Bole,Water Quality,High,Open,144,Phone
+INC-70008,2026-01-10 6:00:00,2026-01-10 12:00:00,Akaki,Service Query,Urgent,Closed,163,Web
+INC-70009,2026-01-10 23:07:00,2026-01-11 18:07:00,Kirkos,Low Pressure,Low,Closed,182,Walk-in
+INC-70010,2026-01-11 16:14:00,2026-01-13 0:14:00,Lideta,Interrupted Supply,Medium,Closed,201,Phone
+INC-70011,2026-01-12 9:21:00,2026-01-14 6:21:00,Merkato,Water Quality,High,Closed,220,Web
+INC-70012,2026-01-13 2:28:00,2026-01-15 12:28:00,Gullele,Service Query,Urgent,Closed,239,Walk-in
+INC-70013,2026-01-13 19:35:00,,Bole,Low Pressure,Low,Open,258,Phone
+INC-70014,2026-01-14 12:42:00,2026-01-18 0:42:00,Akaki,Interrupted Supply,Medium,Closed,277,Web
+INC-70015,2026-01-15 5:00:00,2026-01-15 12:00:00,Kirkos,Water Quality,High,Closed,296,Walk-in
+INC-70016,2026-01-15 22:07:00,2026-01-16 18:07:00,Lideta,Service Query,Urgent,Closed,315,Phone
+INC-70017,2026-01-16 15:14:00,2026-01-18 0:14:00,Merkato,Low Pressure,Low,Closed,334,Web
+INC-70018,2026-01-17 8:21:00,2026-01-19 6:21:00,Gullele,Interrupted Supply,Medium,Closed,353,Walk-in
+INC-70019,2026-01-18 1:28:00,,Bole,Water Quality,High,Open,372,Phone
+INC-70020,2026-01-18 18:35:00,2026-01-21 18:35:00,Akaki,Service Query,Urgent,Closed,41,Web
+INC-70021,2026-01-19 11:42:00,2026-01-23 0:42:00,Kirkos,Low Pressure,Low,Closed,60,Walk-in
+INC-70022,2026-01-20 4:00:00,2026-01-20 12:00:00,Lideta,Interrupted Supply,Medium,Closed,79,Phone
+INC-70023,2026-01-20 21:07:00,2026-01-21 18:07:00,Merkato,Water Quality,High,Closed,98,Web
+INC-70024,2026-01-21 14:14:00,2026-01-23 0:14:00,Gullele,Service Query,Urgent,Closed,117,Walk-in
+INC-70025,2026-01-22 7:21:00,,Bole,Low Pressure,Low,Open,136,Phone
+INC-70026,2026-01-23 0:28:00,2026-01-25 12:28:00,Akaki,Interrupted Supply,Medium,Closed,155,Web
+INC-70027,2026-01-23 17:35:00,2026-01-26 18:35:00,Kirkos,Water Quality,High,Closed,174,Walk-in
+INC-70028,2026-01-24 10:42:00,2026-01-28 0:42:00,Lideta,Service Query,Urgent,Closed,193,Phone
+INC-70029,2026-01-25 3:00:00,2026-01-25 12:00:00,Merkato,Low Pressure,Low,Closed,212,Web
+INC-70030,2026-01-25 20:07:00,2026-01-26 18:07:00,Gullele,Interrupted Supply,Medium,Closed,231,Walk-in
+INC-70031,2026-01-26 13:14:00,,Bole,Water Quality,High,Open,250,Phone
+INC-70032,2026-01-27 6:21:00,2026-01-29 6:21:00,Akaki,Service Query,Urgent,Closed,269,Web
+INC-70033,2026-01-27 23:28:00,2026-01-30 12:28:00,Kirkos,Low Pressure,Low,Closed,288,Walk-in
+INC-70034,2026-01-28 16:35:00,2026-01-31 18:35:00,Lideta,Interrupted Supply,Medium,Closed,307,Phone
+INC-70035,2026-01-29 9:42:00,2026-02-02 0:42:00,Merkato,Water Quality,High,Closed,326,Web
+INC-70036,2026-01-30 2:00:00,2026-01-30 12:00:00,Gullele,Service Query,Urgent,Closed,345,Walk-in
+INC-70037,2026-01-30 19:07:00,,Bole,Low Pressure,Low,Open,364,Phone
+INC-70038,2026-01-31 12:14:00,2026-02-02 0:14:00,Akaki,Interrupted Supply,Medium,Closed,33,Web
+INC-70039,2026-02-01 5:21:00,2026-02-03 6:21:00,Kirkos,Water Quality,High,Closed,52,Walk-in
+INC-70040,2026-02-01 22:28:00,2026-02-04 12:28:00,Lideta,Service Query,Urgent,Closed,71,Phone
+INC-70041,2026-02-02 15:35:00,2026-02-05 18:35:00,Merkato,Low Pressure,Low,Closed,90,Web
+INC-70042,2026-02-03 8:42:00,2026-02-07 0:42:00,Gullele,Interrupted Supply,Medium,Closed,109,Walk-in
+INC-70043,2026-02-04 1:00:00,,Bole,Water Quality,High,Open,128,Phone
+INC-70044,2026-02-04 18:07:00,2026-02-05 18:07:00,Akaki,Service Query,Urgent,Closed,147,Web
+INC-70045,2026-02-05 11:14:00,2026-02-07 0:14:00,Kirkos,Low Pressure,Low,Closed,166,Walk-in
+INC-70046,2026-02-06 4:21:00,2026-02-08 6:21:00,Lideta,Interrupted Supply,Medium,Closed,185,Phone
+INC-70047,2026-02-06 21:28:00,2026-02-09 12:28:00,Merkato,Water Quality,High,Closed,204,Web
+INC-70048,2026-02-07 14:35:00,2026-02-10 18:35:00,Gullele,Service Query,Urgent,Closed,223,Walk-in
+INC-70049,2026-02-08 7:42:00,,Bole,Low Pressure,Low,Open,242,Phone
+INC-70050,2026-02-09 0:00:00,2026-02-09 12:00:00,Akaki,Interrupted Supply,Medium,Closed,261,Web
+INC-70051,2026-02-09 17:07:00,2026-02-10 18:07:00,Kirkos,Water Quality,High,Closed,280,Walk-in
+INC-70052,2026-02-10 10:14:00,2026-02-12 0:14:00,Lideta,Service Query,Urgent,Closed,299,Phone
+INC-70053,2026-02-11 3:21:00,2026-02-13 6:21:00,Merkato,Low Pressure,Low,Closed,318,Web
+INC-70054,2026-02-11 20:28:00,2026-02-14 12:28:00,Gullele,Interrupted Supply,Medium,Closed,337,Walk-in
+INC-70055,2026-02-12 13:35:00,,Bole,Water Quality,High,Open,356,Phone
+INC-70056,2026-02-13 6:42:00,2026-02-17 0:42:00,Akaki,Service Query,Urgent,Closed,375,Web
+INC-70057,2026-02-13 23:00:00,2026-02-14 12:00:00,Kirkos,Low Pressure,Low,Closed,44,Walk-in
+INC-70058,2026-02-14 16:07:00,2026-02-15 18:07:00,Lideta,Interrupted Supply,Medium,Closed,63,Phone
+INC-70059,2026-02-15 9:14:00,2026-02-17 0:14:00,Merkato,Water Quality,High,Closed,82,Web
+INC-70060,2026-02-16 2:21:00,2026-02-18 6:21:00,Gullele,Service Query,Urgent,Closed,101,Walk-in
+INC-70061,2026-02-16 19:28:00,,Bole,Low Pressure,Low,Open,120,Phone
+INC-70062,2026-02-17 12:35:00,2026-02-20 18:35:00,Akaki,Interrupted Supply,Medium,Closed,139,Web
+INC-70063,2026-02-18 5:42:00,2026-02-22 0:42:00,Kirkos,Water Quality,High,Closed,158,Walk-in
+INC-70064,2026-02-18 22:00:00,2026-02-19 12:00:00,Lideta,Service Query,Urgent,Closed,177,Phone
+INC-70065,2026-02-19 15:07:00,2026-02-20 18:07:00,Merkato,Low Pressure,Low,Closed,196,Web
+INC-70066,2026-02-20 8:14:00,2026-02-22 0:14:00,Gullele,Interrupted Supply,Medium,Closed,215,Walk-in
+INC-70067,2026-02-21 1:21:00,,Bole,Water Quality,High,Open,234,Phone
+INC-70068,2026-02-21 18:28:00,2026-02-24 12:28:00,Akaki,Service Query,Urgent,Closed,253,Web
+INC-70069,2026-02-22 11:35:00,2026-02-25 18:35:00,Kirkos,Low Pressure,Low,Closed,272,Walk-in
+INC-70070,2026-02-23 4:42:00,2026-02-27 0:42:00,Lideta,Interrupted Supply,Medium,Closed,291,Phone
+INC-70071,2026-02-23 21:00:00,2026-02-24 12:00:00,Merkato,Water Quality,High,Closed,310,Web
+INC-70072,2026-02-24 14:07:00,2026-02-25 18:07:00,Gullele,Service Query,Urgent,Closed,329,Walk-in
+INC-70073,2026-02-25 7:14:00,,Bole,Low Pressure,Low,Open,348,Phone
+INC-70074,2026-02-26 0:21:00,2026-02-28 6:21:00,Akaki,Interrupted Supply,Medium,Closed,367,Web
+INC-70075,2026-02-26 17:28:00,2026-03-01 12:28:00,Kirkos,Water Quality,High,Closed,36,Walk-in
+INC-70076,2026-02-27 10:35:00,2026-03-02 18:35:00,Lideta,Service Query,Urgent,Closed,55,Phone
+INC-70077,2026-02-28 3:42:00,2026-03-04 0:42:00,Merkato,Low Pressure,Low,Closed,74,Web
+INC-70078,2026-02-28 20:00:00,2026-03-01 12:00:00,Gullele,Interrupted Supply,Medium,Closed,93,Walk-in
+INC-70079,2026-03-01 13:07:00,,Bole,Water Quality,High,Open,112,Phone
+INC-70080,2026-03-02 6:14:00,2026-03-04 0:14:00,Akaki,Service Query,Urgent,Closed,131,Web
+INC-70081,2026-03-02 23:21:00,2026-03-05 6:21:00,Kirkos,Low Pressure,Low,Closed,150,Walk-in
+INC-70082,2026-03-03 16:28:00,2026-03-06 12:28:00,Lideta,Interrupted Supply,Medium,Closed,169,Phone
+INC-70083,2026-03-04 9:35:00,2026-03-07 18:35:00,Merkato,Water Quality,High,Closed,188,Web
+INC-70084,2026-03-05 2:42:00,2026-03-09 0:42:00,Gullele,Service Query,Urgent,Closed,207,Walk-in
+INC-70085,2026-03-05 19:00:00,,Bole,Low Pressure,Low,Open,226,Phone
+INC-70086,2026-03-06 12:07:00,2026-03-07 18:07:00,Akaki,Interrupted Supply,Medium,Closed,245,Web
+INC-70087,2026-03-07 5:14:00,2026-03-09 0:14:00,Kirkos,Water Quality,High,Closed,264,Walk-in
+INC-70088,2026-03-07 22:21:00,2026-03-10 6:21:00,Lideta,Service Query,Urgent,Closed,283,Phone
+INC-70089,2026-03-08 15:28:00,2026-03-11 12:28:00,Merkato,Low Pressure,Low,Closed,302,Web
+INC-70090,2026-03-09 8:35:00,2026-03-12 18:35:00,Gullele,Interrupted Supply,Medium,Closed,321,Walk-in
+INC-70091,2026-03-10 1:42:00,,Bole,Water Quality,High,Open,340,Phone
+INC-70092,2026-03-10 18:00:00,2026-03-11 12:00:00,Akaki,Service Query,Urgent,Closed,359,Web
+INC-70093,2026-03-11 11:07:00,2026-03-12 18:07:00,Kirkos,Low Pressure,Low,Closed,378,Walk-in
+INC-70094,2026-03-12 4:14:00,2026-03-14 0:14:00,Lideta,Interrupted Supply,Medium,Closed,47,Phone
+INC-70095,2026-03-12 21:21:00,2026-03-15 6:21:00,Merkato,Water Quality,High,Closed,66,Web
+INC-70096,2026-03-13 14:28:00,2026-03-16 12:28:00,Gullele,Service Query,Urgent,Closed,85,Walk-in
+INC-70097,2026-03-14 7:35:00,,Bole,Low Pressure,Low,Open,104,Phone
+INC-70098,2026-03-15 0:42:00,2026-03-15 6:42:00,Akaki,Interrupted Supply,Medium,Closed,123,Web
+INC-70099,2026-03-15 17:00:00,2026-03-16 12:00:00,Kirkos,Water Quality,High,Closed,142,Walk-in
+INC-70100,2026-03-16 10:07:00,2026-03-17 18:07:00,Lideta,Service Query,Urgent,Closed,161,Phone
+INC-70101,2026-03-17 3:14:00,2026-03-19 0:14:00,Merkato,Low Pressure,Low,Closed,180,Web
+INC-70102,2026-03-17 20:21:00,2026-03-20 6:21:00,Gullele,Interrupted Supply,Medium,Closed,199,Walk-in
+INC-70103,2026-03-18 13:28:00,,Bole,Water Quality,High,Open,218,Phone
+INC-70104,2026-03-19 6:35:00,2026-03-22 18:35:00,Akaki,Service Query,Urgent,Closed,237,Web
+INC-70105,2026-03-19 23:42:00,2026-03-20 6:42:00,Kirkos,Low Pressure,Low,Closed,256,Walk-in
+INC-70106,2026-03-20 16:00:00,2026-03-21 12:00:00,Lideta,Interrupted Supply,Medium,Closed,275,Phone
+INC-70107,2026-03-21 9:07:00,2026-03-22 18:07:00,Merkato,Water Quality,High,Closed,294,Web
+INC-70108,2026-03-22 2:14:00,2026-03-24 0:14:00,Gullele,Service Query,Urgent,Closed,313,Walk-in
+INC-70109,2026-03-22 19:21:00,,Bole,Low Pressure,Low,Open,332,Phone
+INC-70110,2026-03-23 12:28:00,2026-03-26 12:28:00,Akaki,Interrupted Supply,Medium,Closed,351,Web
+INC-70111,2026-03-24 5:35:00,2026-03-27 18:35:00,Kirkos,Water Quality,High,Closed,370,Walk-in
+INC-70112,2026-03-24 22:42:00,2026-03-25 6:42:00,Lideta,Service Query,Urgent,Closed,39,Phone
+INC-70113,2026-03-25 15:00:00,2026-03-26 12:00:00,Merkato,Low Pressure,Low,Closed,58,Web
+INC-70114,2026-03-26 8:07:00,2026-03-27 18:07:00,Gullele,Interrupted Supply,Medium,Closed,77,Walk-in
+INC-70115,2026-03-27 1:14:00,,Bole,Water Quality,High,Open,96,Phone
+INC-70116,2026-03-27 18:21:00,2026-03-30 6:21:00,Akaki,Service Query,Urgent,Closed,115,Web
+INC-70117,2026-03-28 11:28:00,2026-03-31 12:28:00,Kirkos,Low Pressure,Low,Closed,134,Walk-in
+INC-70118,2026-03-29 4:35:00,2026-04-01 18:35:00,Lideta,Interrupted Supply,Medium,Closed,153,Phone
+INC-70119,2026-03-29 21:42:00,2026-03-30 6:42:00,Merkato,Water Quality,High,Closed,172,Web
+INC-70120,2026-03-30 14:00:00,2026-03-31 12:00:00,Gullele,Service Query,Urgent,Closed,191,Walk-in
+INC-70121,2026-03-31 7:07:00,,Bole,Low Pressure,Low,Open,210,Phone
+INC-70122,2026-04-01 0:14:00,2026-04-03 0:14:00,Akaki,Interrupted Supply,Medium,Closed,229,Web
+INC-70123,2026-04-01 17:21:00,2026-04-04 6:21:00,Kirkos,Water Quality,High,Closed,248,Walk-in
+INC-70124,2026-04-02 10:28:00,2026-04-05 12:28:00,Lideta,Service Query,Urgent,Closed,267,Phone
+INC-70125,2026-01-05 15:35:00,2026-01-09 6:35:00,Merkato,Low Pressure,Low,Closed,286,Web
+INC-70126,2026-01-06 8:42:00,2026-01-06 18:42:00,Gullele,Interrupted Supply,Medium,Closed,305,Walk-in
+INC-70127,2026-01-07 1:00:00,,Bole,Water Quality,High,Open,324,Phone
+INC-70128,2026-01-07 18:07:00,2026-01-09 6:07:00,Akaki,Service Query,Urgent,Closed,343,Web
+INC-70129,2026-01-08 11:14:00,2026-01-10 12:14:00,Kirkos,Low Pressure,Low,Closed,362,Walk-in
+INC-70130,2026-01-09 4:21:00,2026-01-11 18:21:00,Lideta,Interrupted Supply,Medium,Closed,31,Phone
+INC-70131,2026-01-09 21:28:00,2026-01-13 0:28:00,Merkato,Water Quality,High,Closed,50,Web
+INC-70132,2026-01-10 14:35:00,2026-01-14 6:35:00,Gullele,Service Query,Urgent,Closed,69,Walk-in
+INC-70133,2026-01-11 7:42:00,,Bole,Low Pressure,Low,Open,88,Phone
+INC-70134,2026-01-12 0:00:00,2026-01-13 0:00:00,Akaki,Interrupted Supply,Medium,Closed,107,Web
+INC-70135,2026-01-12 17:07:00,2026-01-14 6:07:00,Kirkos,Water Quality,High,Closed,126,Walk-in
+INC-70136,2026-01-13 10:14:00,2026-01-15 12:14:00,Lideta,Service Query,Urgent,Closed,145,Phone
+INC-70137,2026-01-14 3:21:00,2026-01-16 18:21:00,Merkato,Low Pressure,Low,Closed,164,Web
+INC-70138,2026-01-14 20:28:00,2026-01-18 0:28:00,Gullele,Interrupted Supply,Medium,Closed,183,Walk-in
+INC-70139,2026-01-15 13:35:00,,Bole,Water Quality,High,Open,202,Phone
+INC-70140,2026-01-16 6:42:00,2026-01-16 18:42:00,Akaki,Service Query,Urgent,Closed,221,Web
+INC-70141,2026-01-16 23:00:00,2026-01-18 0:00:00,Kirkos,Low Pressure,Low,Closed,240,Walk-in
+INC-70142,2026-01-17 16:07:00,2026-01-19 6:07:00,Lideta,Interrupted Supply,Medium,Closed,259,Phone
+INC-70143,2026-01-18 9:14:00,2026-01-20 12:14:00,Merkato,Water Quality,High,Closed,278,Web
+INC-70144,2026-01-19 2:21:00,2026-01-21 18:21:00,Gullele,Service Query,Urgent,Closed,297,Walk-in
+INC-70145,2026-01-19 19:28:00,,Bole,Low Pressure,Low,Open,316,Phone
+INC-70146,2026-01-20 12:35:00,2026-01-24 6:35:00,Akaki,Interrupted Supply,Medium,Closed,335,Web
+INC-70147,2026-01-21 5:42:00,2026-01-21 18:42:00,Kirkos,Water Quality,High,Closed,354,Walk-in
+INC-70148,2026-01-21 22:00:00,2026-01-23 0:00:00,Lideta,Service Query,Urgent,Closed,373,Phone
+INC-70149,2026-01-22 15:07:00,2026-01-24 6:07:00,Merkato,Low Pressure,Low,Closed,42,Web
+INC-70150,2026-01-23 8:14:00,2026-01-25 12:14:00,Gullele,Interrupted Supply,Medium,Closed,61,Walk-in
+INC-70151,2026-01-24 1:21:00,,Bole,Water Quality,High,Open,80,Phone
+INC-70152,2026-01-24 18:28:00,2026-01-28 0:28:00,Akaki,Service Query,Urgent,Closed,99,Web
+INC-70153,2026-01-25 11:35:00,2026-01-29 6:35:00,Kirkos,Low Pressure,Low,Closed,118,Walk-in
+INC-70154,2026-01-26 4:42:00,2026-01-26 18:42:00,Lideta,Interrupted Supply,Medium,Closed,137,Phone
+INC-70155,2026-01-26 21:00:00,2026-01-28 0:00:00,Merkato,Water Quality,High,Closed,156,Web
+INC-70156,2026-01-27 14:07:00,2026-01-29 6:07:00,Gullele,Service Query,Urgent,Closed,175,Walk-in
+INC-70157,2026-01-28 7:14:00,,Bole,Low Pressure,Low,Open,194,Phone
+INC-70158,2026-01-29 0:21:00,2026-01-31 18:21:00,Akaki,Interrupted Supply,Medium,Closed,213,Web
+INC-70159,2026-01-29 17:28:00,2026-02-02 0:28:00,Kirkos,Water Quality,High,Closed,232,Walk-in
+INC-70160,2026-01-30 10:35:00,2026-02-03 6:35:00,Lideta,Service Query,Urgent,Closed,251,Phone
+INC-70161,2026-01-31 3:42:00,2026-01-31 18:42:00,Merkato,Low Pressure,Low,Closed,270,Web
+INC-70162,2026-01-31 20:00:00,2026-02-02 0:00:00,Gullele,Interrupted Supply,Medium,Closed,289,Walk-in
+INC-70163,2026-02-01 13:07:00,,Bole,Water Quality,High,Open,308,Phone
+INC-70164,2026-02-02 6:14:00,2026-02-04 12:14:00,Akaki,Service Query,Urgent,Closed,327,Web
+INC-70165,2026-02-02 23:21:00,2026-02-05 18:21:00,Kirkos,Low Pressure,Low,Closed,346,Walk-in
+INC-70166,2026-02-03 16:28:00,2026-02-07 0:28:00,Lideta,Interrupted Supply,Medium,Closed,365,Phone
+INC-70167,2026-02-04 9:35:00,2026-02-08 6:35:00,Merkato,Water Quality,High,Closed,34,Web
+INC-70168,2026-02-05 2:42:00,2026-02-05 18:42:00,Gullele,Service Query,Urgent,Closed,53,Walk-in
+INC-70169,2026-02-05 19:00:00,,Bole,Low Pressure,Low,Open,72,Phone
+INC-70170,2026-02-06 12:07:00,2026-02-08 6:07:00,Akaki,Interrupted Supply,Medium,Closed,91,Web
+INC-70171,2026-02-07 5:14:00,2026-02-09 12:14:00,Kirkos,Water Quality,High,Closed,110,Walk-in
+INC-70172,2026-02-07 22:21:00,2026-02-10 18:21:00,Lideta,Service Query,Urgent,Closed,129,Phone
+INC-70173,2026-02-08 15:28:00,2026-02-12 0:28:00,Merkato,Low Pressure,Low,Closed,148,Web
+INC-70174,2026-02-09 8:35:00,2026-02-13 6:35:00,Gullele,Interrupted Supply,Medium,Closed,167,Walk-in
+INC-70175,2026-02-10 1:42:00,,Bole,Water Quality,High,Open,186,Phone
+INC-70176,2026-02-10 18:00:00,2026-02-12 0:00:00,Akaki,Service Query,Urgent,Closed,205,Web
+INC-70177,2026-02-11 11:07:00,2026-02-13 6:07:00,Kirkos,Low Pressure,Low,Closed,224,Walk-in
+INC-70178,2026-02-12 4:14:00,2026-02-14 12:14:00,Lideta,Interrupted Supply,Medium,Closed,243,Phone
+INC-70179,2026-02-12 21:21:00,2026-02-15 18:21:00,Merkato,Water Quality,High,Closed,262,Web
+INC-70180,2026-02-13 14:28:00,2026-02-17 0:28:00,Gullele,Service Query,Urgent,Closed,281,Walk-in
+INC-70181,2026-02-14 7:35:00,,Bole,Low Pressure,Low,Open,300,Phone
+INC-70182,2026-02-15 0:42:00,2026-02-15 18:42:00,Akaki,Interrupted Supply,Medium,Closed,319,Web
+INC-70183,2026-02-15 17:00:00,2026-02-17 0:00:00,Kirkos,Water Quality,High,Closed,338,Walk-in
+INC-70184,2026-02-16 10:07:00,2026-02-18 6:07:00,Lideta,Service Query,Urgent,Closed,357,Phone
+INC-70185,2026-02-17 3:14:00,2026-02-19 12:14:00,Merkato,Low Pressure,Low,Closed,376,Web
+INC-70186,2026-02-17 20:21:00,2026-02-20 18:21:00,Gullele,Interrupted Supply,Medium,Closed,45,Walk-in
+INC-70187,2026-02-18 13:28:00,,Bole,Water Quality,High,Open,64,Phone
+INC-70188,2026-02-19 6:35:00,2026-02-19 12:35:00,Akaki,Service Query,Urgent,Closed,83,Web
+INC-70189,2026-02-19 23:42:00,2026-02-20 18:42:00,Kirkos,Low Pressure,Low,Closed,102,Walk-in
+INC-70190,2026-02-20 16:00:00,2026-02-22 0:00:00,Lideta,Interrupted Supply,Medium,Closed,121,Phone
+INC-70191,2026-02-21 9:07:00,2026-02-23 6:07:00,Merkato,Water Quality,High,Closed,140,Web
+INC-70192,2026-02-22 2:14:00,2026-02-24 12:14:00,Gullele,Service Query,Urgent,Closed,159,Walk-in
+INC-70193,2026-02-22 19:21:00,,Bole,Low Pressure,Low,Open,178,Phone
+INC-70194,2026-02-23 12:28:00,2026-02-27 0:28:00,Akaki,Interrupted Supply,Medium,Closed,197,Web
+INC-70195,2026-02-24 5:35:00,2026-02-24 12:35:00,Kirkos,Water Quality,High,Closed,216,Walk-in
+INC-70196,2026-02-24 22:42:00,2026-02-25 18:42:00,Lideta,Service Query,Urgent,Closed,235,Phone
+INC-70197,2026-02-25 15:00:00,2026-02-27 0:00:00,Merkato,Low Pressure,Low,Closed,254,Web
+INC-70198,2026-02-26 8:07:00,2026-02-28 6:07:00,Gullele,Interrupted Supply,Medium,Closed,273,Walk-in
+INC-70199,2026-02-27 1:14:00,,Bole,Water Quality,High,Open,292,Phone
+INC-70200,2026-02-27 18:21:00,2026-03-02 18:21:00,Akaki,Service Query,Urgent,Closed,311,Web
+INC-70201,2026-02-28 11:28:00,2026-03-04 0:28:00,Kirkos,Low Pressure,Low,Closed,330,Walk-in
+INC-70202,2026-03-01 4:35:00,2026-03-01 12:35:00,Lideta,Interrupted Supply,Medium,Closed,349,Phone
+INC-70203,2026-03-01 21:42:00,2026-03-02 18:42:00,Merkato,Water Quality,High,Closed,368,Web
+INC-70204,2026-03-02 14:00:00,2026-03-04 0:00:00,Gullele,Service Query,Urgent,Closed,37,Walk-in
+INC-70205,2026-03-03 7:07:00,,Bole,Low Pressure,Low,Open,56,Phone
+INC-70206,2026-03-04 0:14:00,2026-03-06 12:14:00,Akaki,Interrupted Supply,Medium,Closed,75,Web
+INC-70207,2026-03-04 17:21:00,2026-03-07 18:21:00,Kirkos,Water Quality,High,Closed,94,Walk-in
+INC-70208,2026-03-05 10:28:00,2026-03-09 0:28:00,Lideta,Service Query,Urgent,Closed,113,Phone
+INC-70209,2026-03-06 3:35:00,2026-03-06 12:35:00,Merkato,Low Pressure,Low,Closed,132,Web
+INC-70210,2026-03-06 20:42:00,2026-03-07 18:42:00,Gullele,Interrupted Supply,Medium,Closed,151,Walk-in
+INC-70211,2026-03-07 13:00:00,,Bole,Water Quality,High,Open,170,Phone
+INC-70212,2026-03-08 6:07:00,2026-03-10 6:07:00,Akaki,Service Query,Urgent,Closed,189,Web
+INC-70213,2026-03-08 23:14:00,2026-03-11 12:14:00,Kirkos,Low Pressure,Low,Closed,208,Walk-in
+INC-70214,2026-03-09 16:21:00,2026-03-12 18:21:00,Lideta,Interrupted Supply,Medium,Closed,227,Phone
+INC-70215,2026-03-10 9:28:00,2026-03-14 0:28:00,Merkato,Water Quality,High,Closed,246,Web
+INC-70216,2026-03-11 2:35:00,2026-03-11 12:35:00,Gullele,Service Query,Urgent,Closed,265,Walk-in
+INC-70217,2026-03-11 19:42:00,,Bole,Low Pressure,Low,Open,284,Phone
+INC-70218,2026-03-12 12:00:00,2026-03-14 0:00:00,Akaki,Interrupted Supply,Medium,Closed,303,Web
+INC-70219,2026-03-13 5:07:00,2026-03-15 6:07:00,Kirkos,Water Quality,High,Closed,322,Walk-in
+INC-70220,2026-03-13 22:14:00,2026-03-16 12:14:00,Lideta,Service Query,Urgent,Closed,341,Phone
+INC-70221,2026-03-14 15:21:00,2026-03-17 18:21:00,Merkato,Low Pressure,Low,Closed,360,Web
+INC-70222,2026-03-15 8:28:00,2026-03-19 0:28:00,Gullele,Interrupted Supply,Medium,Closed,379,Walk-in
+INC-70223,2026-03-16 1:35:00,,Bole,Water Quality,High,Open,48,Phone
+INC-70224,2026-03-16 18:42:00,2026-03-17 18:42:00,Akaki,Service Query,Urgent,Closed,67,Web
+INC-70225,2026-03-17 11:00:00,2026-03-19 0:00:00,Kirkos,Low Pressure,Low,Closed,86,Walk-in
+INC-70226,2026-03-18 4:07:00,2026-03-20 6:07:00,Lideta,Interrupted Supply,Medium,Closed,105,Phone
+INC-70227,2026-03-18 21:14:00,2026-03-21 12:14:00,Merkato,Water Quality,High,Closed,124,Web
+INC-70228,2026-03-19 14:21:00,2026-03-22 18:21:00,Gullele,Service Query,Urgent,Closed,143,Walk-in
+INC-70229,2026-03-20 7:28:00,,Bole,Low Pressure,Low,Open,162,Phone
+INC-70230,2026-03-21 0:35:00,2026-03-21 12:35:00,Akaki,Interrupted Supply,Medium,Closed,181,Web
+INC-70231,2026-03-21 17:42:00,2026-03-22 18:42:00,Kirkos,Water Quality,High,Closed,200,Walk-in
+INC-70232,2026-03-22 10:00:00,2026-03-24 0:00:00,Lideta,Service Query,Urgent,Closed,219,Phone
+INC-70233,2026-03-23 3:07:00,2026-03-25 6:07:00,Merkato,Low Pressure,Low,Closed,238,Web
+INC-70234,2026-03-23 20:14:00,2026-03-26 12:14:00,Gullele,Interrupted Supply,Medium,Closed,257,Walk-in
+INC-70235,2026-03-24 13:21:00,,Bole,Water Quality,High,Open,276,Phone
+INC-70236,2026-03-25 6:28:00,2026-03-29 0:28:00,Akaki,Service Query,Urgent,Closed,295,Web
+INC-70237,2026-03-25 23:35:00,2026-03-26 12:35:00,Kirkos,Low Pressure,Low,Closed,314,Walk-in
+INC-70238,2026-03-26 16:42:00,2026-03-27 18:42:00,Lideta,Interrupted Supply,Medium,Closed,333,Phone
+INC-70239,2026-03-27 9:00:00,2026-03-29 0:00:00,Merkato,Water Quality,High,Closed,352,Web
+INC-70240,2026-03-28 2:07:00,2026-03-30 6:07:00,Gullele,Service Query,Urgent,Closed,371,Walk-in
+INC-70241,2026-03-28 19:14:00,,Bole,Low Pressure,Low,Open,40,Phone
+INC-70242,2026-03-29 12:21:00,2026-04-01 18:21:00,Akaki,Interrupted Supply,Medium,Closed,59,Web
+INC-70243,2026-03-30 5:28:00,2026-04-03 0:28:00,Kirkos,Water Quality,High,Closed,78,Walk-in
+INC-70244,2026-03-30 22:35:00,2026-03-31 12:35:00,Lideta,Service Query,Urgent,Closed,97,Phone
+INC-70245,2026-03-31 15:42:00,2026-04-01 18:42:00,Merkato,Low Pressure,Low,Closed,116,Web
+INC-70246,2026-04-01 8:00:00,2026-04-03 0:00:00,Gullele,Interrupted Supply,Medium,Closed,135,Walk-in
+INC-70247,2026-04-02 1:07:00,,Bole,Water Quality,High,Open,154,Phone
+INC-70248,2026-04-02 18:14:00,2026-04-05 12:14:00,Akaki,Service Query,Urgent,Closed,173,Web
+INC-70249,2026-01-05 23:21:00,2026-01-09 6:21:00,Kirkos,Low Pressure,Low,Closed,192,Walk-in
+INC-70250,2026-01-06 16:28:00,2026-01-10 12:28:00,Lideta,Interrupted Supply,Medium,Closed,211,Phone
+INC-70251,2026-01-07 9:35:00,2026-01-08 0:35:00,Merkato,Water Quality,High,Closed,230,Web
+INC-70252,2026-01-08 2:42:00,2026-01-09 6:42:00,Gullele,Service Query,Urgent,Closed,249,Walk-in
+INC-70253,2026-01-08 19:00:00,,Bole,Low Pressure,Low,Open,268,Phone
+INC-70254,2026-01-09 12:07:00,2026-01-11 18:07:00,Akaki,Interrupted Supply,Medium,Closed,287,Web
+INC-70255,2026-01-10 5:14:00,2026-01-13 0:14:00,Kirkos,Water Quality,High,Closed,306,Walk-in
+INC-70256,2026-01-10 22:21:00,2026-01-14 6:21:00,Lideta,Service Query,Urgent,Closed,325,Phone
+INC-70257,2026-01-11 15:28:00,2026-01-15 12:28:00,Merkato,Low Pressure,Low,Closed,344,Web
+INC-70258,2026-01-12 8:35:00,2026-01-13 0:35:00,Gullele,Interrupted Supply,Medium,Closed,363,Walk-in
+INC-70259,2026-01-13 1:42:00,,Bole,Water Quality,High,Open,32,Phone
+INC-70260,2026-01-13 18:00:00,2026-01-15 12:00:00,Akaki,Service Query,Urgent,Closed,51,Web
+INC-70261,2026-01-14 11:07:00,2026-01-16 18:07:00,Kirkos,Low Pressure,Low,Closed,70,Walk-in
+INC-70262,2026-01-15 4:14:00,2026-01-18 0:14:00,Lideta,Interrupted Supply,Medium,Closed,89,Phone
+INC-70263,2026-01-15 21:21:00,2026-01-19 6:21:00,Merkato,Water Quality,High,Closed,108,Web
+INC-70264,2026-01-16 14:28:00,2026-01-20 12:28:00,Gullele,Service Query,Urgent,Closed,127,Walk-in
+INC-70265,2026-01-17 7:35:00,,Bole,Low Pressure,Low,Open,146,Phone
+INC-70266,2026-01-18 0:42:00,2026-01-19 6:42:00,Akaki,Interrupted Supply,Medium,Closed,165,Web
+INC-70267,2026-01-18 17:00:00,2026-01-20 12:00:00,Kirkos,Water Quality,High,Closed,184,Walk-in
+INC-70268,2026-01-19 10:07:00,2026-01-21 18:07:00,Lideta,Service Query,Urgent,Closed,203,Phone
+INC-70269,2026-01-20 3:14:00,2026-01-23 0:14:00,Merkato,Low Pressure,Low,Closed,222,Web
+INC-70270,2026-01-20 20:21:00,2026-01-24 6:21:00,Gullele,Interrupted Supply,Medium,Closed,241,Walk-in

@@ -1,0 +1,1046 @@
+reading_id,observed_at,zone,station_id,sensor_vendor,shift,pressure_bar,flow_lps,chlorine_mg_l,battery_pct,quality_flag
+TR-00001,2026-01-05 20:04:00,Bole,ST-BS-01,Acme Instruments,Night,1.36,58,0.25,73,Valid
+TR-00002,2026-01-05 8:07:00,Akaki,ST-AK-01,HydroSense,Day,1.69,66.2,0.29,79,Valid
+TR-00003,2026-01-05 20:11:00,Akaki,ST-AK-01,HydroSense,Night,1.49,63.2,0.29,80,Valid
+TR-00004,2026-01-05 8:14:00,Kirkos,ST-KI-01,Civic Metering,Day,1.82,71.4,0.33,86,Valid
+TR-00005,2026-01-05 20:18:00,Kirkos,ST-KI-01,Civic Metering,Night,1.62,68.4,0.33,87,Valid
+TR-00006,2026-01-05 8:21:00,Lideta,ST-LI-01,Acme Instruments,Day,1.95,76.6,0.37,93,Valid
+TR-00007,2026-01-05 20:02:00,Lideta,ST-LI-01,Acme Instruments,Night,1.75,73.6,0.37,94,Valid
+TR-00008,2026-01-05 8:05:00,Merkato,ST-ME-01,HydroSense,Day,2.08,81.8,0.41,100,Valid
+TR-00009,2026-01-05 20:09:00,Merkato,ST-ME-01,HydroSense,Night,1.88,78.8,0.41,72,Valid
+TR-00010,2026-01-05 8:12:00,Gullele,ST-GU-01,Civic Metering,Day,2.21,87,0.45,78,Valid
+TR-00011,2026-01-05 20:16:00,Gullele,ST-GU-01,Civic Metering,Night,2.01,84,0.45,79,Valid
+TR-00012,2026-01-06 8:00:00,Bole,ST-BS-02,Acme Instruments,Day,1.66,63.4,0.268,77,Valid
+TR-00013,2026-01-06 20:04:00,Bole,ST-BS-02,Acme Instruments,Night,1.46,60.4,0.268,78,Valid
+TR-00014,2026-01-06 8:07:00,Akaki,ST-AK-02,HydroSense,Day,1.78,68.6,0.308,84,Valid
+TR-00015,2026-01-06 20:11:00,Akaki,ST-AK-02,HydroSense,Night,1.58,65.6,0.308,85,Valid
+TR-00016,2026-01-06 8:14:00,Kirkos,ST-KI-02,Civic Metering,Day,1.92,73.8,0.348,91,Valid
+TR-00017,2026-01-06 20:18:00,Kirkos,ST-KI-02,Civic Metering,Night,1.72,70.8,0.348,92,Valid
+TR-00018,2026-01-06 8:21:00,Lideta,ST-LI-02,Acme Instruments,Day,2.05,79,0.388,98,Valid
+TR-00019,2026-01-06 20:02:00,Lideta,ST-LI-02,Acme Instruments,Night,1.85,76,0.388,99,Valid
+TR-00020,2026-01-06 8:05:00,Merkato,ST-ME-02,HydroSense,Day,2.18,84.2,0.428,76,Valid
+TR-00021,2026-01-06 20:09:00,Merkato,ST-ME-02,HydroSense,Night,1.98,81.2,0.428,77,Valid
+TR-00022,2026-01-06 8:12:00,Gullele,ST-GU-02,Civic Metering,Day,2.31,89.4,0.468,83,Valid
+TR-00023,2026-01-06 20:16:00,Gullele,ST-GU-02,Civic Metering,Night,2.1,86.4,0.468,84,Valid
+TR-00024,2026-01-07 8:00:00,Bole,ST-BS-03,Acme Instruments,Day,1.75,65.8,0.286,82,Valid
+TR-00025,2026-01-07 20:04:00,Bole,ST-BS-03,Acme Instruments,Night,1.55,62.8,0.286,83,Valid
+TR-00026,2026-01-07 8:07:00,Akaki,ST-AK-03,HydroSense,Day,1.88,71,0.326,89,Valid
+TR-00027,2026-01-07 20:11:00,Akaki,ST-AK-03,HydroSense,Night,1.68,68,0.326,90,Valid
+TR-00028,2026-01-07 8:14:00,Kirkos,ST-KI-03,Civic Metering,Day,2.01,76.2,0.366,96,Valid
+TR-00029,2026-01-07 20:18:00,Kirkos,ST-KI-03,Civic Metering,Night,1.81,73.2,0.366,97,Valid
+TR-00030,2026-01-07 8:21:00,Lideta,ST-LI-03,Acme Instruments,Day,2.14,81.4,0.406,74,Valid
+TR-00031,2026-01-07 20:02:00,Lideta,ST-LI-03,Acme Instruments,Night,1.94,78.4,0.406,75,Valid
+TR-00032,2026-01-07 8:05:00,Merkato,ST-ME-03,HydroSense,Day,2.27,86.6,0.446,81,Valid
+TR-00033,2026-01-07 20:09:00,Merkato,ST-ME-03,HydroSense,Night,2.07,83.6,0.446,82,Valid
+TR-00034,2026-01-07 8:12:00,Gullele,ST-GU-03,Civic Metering,Day,2.4,91.8,0.486,88,Valid
+TR-00035,2026-01-07 20:16:00,Gullele,ST-GU-03,Civic Metering,Night,2.2,88.8,0.486,89,Valid
+TR-00036,2026-01-08 8:00:00,Bole,ST-BS-01,Acme Instruments,Day,1.85,68.2,0.304,87,Valid
+TR-00037,2026-01-08 20:04:00,Bole,ST-BS-01,Acme Instruments,Night,1.65,65.2,0.304,88,Valid
+TR-00038,2026-01-08 8:07:00,Akaki,ST-AK-01,HydroSense,Day,1.98,73.4,0.344,94,Valid
+TR-00039,2026-01-08 20:11:00,Akaki,ST-AK-01,HydroSense,Night,1.78,70.4,0.344,95,Valid
+TR-00040,2026-01-08 8:14:00,Kirkos,ST-KI-01,Civic Metering,Day,2.1,78.6,0.384,72,Valid
+TR-00041,2026-01-08 20:18:00,Kirkos,ST-KI-01,Civic Metering,Night,1.91,75.6,0.384,73,Valid
+TR-00042,2026-01-08 8:21:00,Lideta,ST-LI-01,Acme Instruments,Day,2.24,83.8,0.424,79,Valid
+TR-00043,2026-01-08 20:02:00,Lideta,ST-LI-01,Acme Instruments,Night,2.04,80.8,0.424,80,Valid
+TR-00044,2026-01-08 8:05:00,Merkato,ST-ME-01,HydroSense,Day,2.37,89,0.464,86,Valid
+TR-00045,2026-01-08 20:09:00,Merkato,ST-ME-01,HydroSense,Night,2.17,86,0.464,87,Valid
+TR-00046,2026-01-08 8:12:00,Gullele,ST-GU-01,Civic Metering,Day,2.5,94.2,0.504,93,Valid
+TR-00047,2026-01-08 20:16:00,Gullele,ST-GU-01,Civic Metering,Night,2.29,91.2,0.504,94,Review
+TR-00048,2026-01-09 8:00:00,Bole,ST-BS-02,Acme Instruments,Day,1.94,70.6,0.322,92,Valid
+TR-00049,2026-01-09 20:04:00,Bole,ST-BS-02,Acme Instruments,Night,1.74,67.6,0.322,93,Valid
+TR-00050,2026-01-09 8:07:00,Akaki,ST-AK-02,HydroSense,Day,2.07,75.8,0.362,99,Valid
+TR-00051,2026-01-09 20:11:00,Akaki,ST-AK-02,HydroSense,Night,1.87,72.8,0.362,100,Valid
+TR-00052,2026-01-09 8:14:00,Kirkos,ST-KI-02,Civic Metering,Day,2.2,81,0.402,77,Valid
+TR-00053,2026-01-09 20:18:00,Kirkos,ST-KI-02,Civic Metering,Night,2,78,0.402,78,Valid
+TR-00054,2026-01-09 8:21:00,Lideta,ST-LI-02,Acme Instruments,Day,2.33,86.2,0.442,84,Valid
+TR-00055,2026-01-09 20:02:00,Lideta,ST-LI-02,Acme Instruments,Night,2.13,83.2,0.442,85,Valid
+TR-00056,2026-01-09 8:05:00,Merkato,ST-ME-02,HydroSense,Day,2.46,91.4,0.482,91,Valid
+TR-00057,2026-01-09 20:09:00,Merkato,ST-ME-02,HydroSense,Night,2.26,88.4,0.482,92,Valid
+TR-00058,2026-01-09 8:12:00,Gullele,ST-GU-02,Civic Metering,Day,2.59,96.6,0.522,98,Review
+TR-00059,2026-01-09 20:16:00,Gullele,ST-GU-02,Civic Metering,Night,2.39,93.6,0.522,99,Valid
+TR-00060,2026-01-10 8:00:00,Bole,ST-BS-03,Acme Instruments,Day,2.04,73,0.34,97,Valid
+TR-00061,2026-01-10 20:04:00,Bole,ST-BS-03,Acme Instruments,Night,1.84,70,0.34,98,Valid
+TR-00062,2026-01-10 8:07:00,Akaki,ST-AK-03,HydroSense,Day,2.17,78.2,0.38,75,Valid
+TR-00063,2026-01-10 20:11:00,Akaki,ST-AK-03,HydroSense,Night,1.97,75.2,0.38,76,Valid
+TR-00064,2026-01-10 8:14:00,Kirkos,ST-KI-03,Civic Metering,Day,2.29,83.4,0.42,82,Valid
+TR-00065,2026-01-10 20:18:00,Kirkos,ST-KI-03,Civic Metering,Night,2.09,80.4,0.42,83,Valid
+TR-00066,2026-01-10 8:21:00,Lideta,ST-LI-03,Acme Instruments,Day,2.43,88.6,0.46,89,Valid
+TR-00067,2026-01-10 20:02:00,Lideta,ST-LI-03,Acme Instruments,Night,2.23,85.6,0.46,90,Valid
+TR-00068,2026-01-10 8:05:00,Merkato,ST-ME-03,HydroSense,Day,2.56,93.8,0.5,96,Valid
+TR-00069,2026-01-10 20:09:00,Merkato,ST-ME-03,HydroSense,Night,2.35,90.8,0.5,97,Valid
+TR-00070,2026-01-10 8:12:00,Gullele,ST-GU-03,Civic Metering,Day,2.69,99,0.54,74,Valid
+TR-00071,2026-01-11 8:00:00,Bole,ST-BS-01,Acme Instruments,Day,2.13,75.4,0.358,73,Valid
+TR-00072,2026-01-11 20:04:00,Bole,ST-BS-01,Acme Instruments,Night,1.93,72.4,0.358,74,Valid
+TR-00073,2026-01-11 8:07:00,Akaki,ST-AK-01,HydroSense,Day,2.26,80.6,0.398,80,Valid
+TR-00074,2026-01-11 20:11:00,Akaki,ST-AK-01,HydroSense,Night,2.06,77.6,0.398,81,Valid
+TR-00075,2026-01-11 8:14:00,Kirkos,ST-KI-01,Civic Metering,Day,2.39,85.8,0.438,87,Valid
+TR-00076,2026-01-11 20:18:00,Kirkos,ST-KI-01,Civic Metering,Night,2.19,82.8,0.438,88,Valid
+TR-00077,2026-01-11 8:21:00,Lideta,ST-LI-01,Acme Instruments,Day,2.52,91,0.478,94,Valid
+TR-00078,2026-01-11 20:02:00,Lideta,ST-LI-01,Acme Instruments,Night,2.32,88,0.478,95,Valid
+TR-00079,2026-01-11 8:05:00,Merkato,ST-ME-01,HydroSense,Day,2.65,96.2,0.518,72,Valid
+TR-00080,2026-01-11 20:09:00,Merkato,ST-ME-01,HydroSense,Night,2.45,93.2,0.518,73,Review
+TR-00081,2026-01-11 20:16:00,Gullele,ST-GU-01,Civic Metering,Night,2.58,98.4,0.558,80,Valid
+TR-00082,2026-01-12 8:00:00,Bole,ST-BS-02,Acme Instruments,Day,2.23,77.8,0.376,78,Valid
+TR-00083,2026-01-12 20:04:00,Bole,ST-BS-02,Acme Instruments,Night,2.02,74.8,0.376,79,Valid
+TR-00084,2026-01-12 8:07:00,Akaki,ST-AK-02,HydroSense,Day,2.35,83,0.416,85,Valid
+TR-00085,2026-01-12 20:11:00,Akaki,ST-AK-02,HydroSense,Night,2.15,80,0.416,86,Valid
+TR-00086,2026-01-12 8:14:00,Kirkos,ST-KI-02,Civic Metering,Day,2.49,88.2,0.456,92,Valid
+TR-00087,2026-01-12 20:18:00,Kirkos,ST-KI-02,Civic Metering,Night,2.29,85.2,0.456,93,Valid
+TR-00088,2026-01-12 8:21:00,Lideta,ST-LI-02,Acme Instruments,Day,2.62,93.4,0.496,99,Valid
+TR-00089,2026-01-12 20:02:00,Lideta,ST-LI-02,Acme Instruments,Night,2.42,90.4,0.496,100,Valid
+TR-00090,2026-01-12 8:05:00,Merkato,ST-ME-02,HydroSense,Day,2.75,98.6,0.536,77,Review
+TR-00091,2026-01-12 20:09:00,Merkato,ST-ME-02,HydroSense,Night,2.54,95.6,0.536,78,Valid
+TR-00092,2026-01-12 8:12:00,Gullele,ST-GU-02,Civic Metering,Day,2.88,103.8,0.576,84,Valid
+TR-00093,2026-01-12 20:16:00,Gullele,ST-GU-02,Civic Metering,Night,2.67,100.8,0.576,85,Valid
+TR-00094,2026-01-13 8:00:00,Bole,ST-BS-03,Acme Instruments,Day,2.32,80.2,0.25,83,Valid
+TR-00095,2026-01-13 20:04:00,Bole,ST-BS-03,Acme Instruments,Night,2.12,77.2,0.25,84,Valid
+TR-00096,2026-01-13 8:07:00,Akaki,ST-AK-03,HydroSense,Day,2.45,85.4,0.29,90,Valid
+TR-00097,2026-01-13 20:11:00,Akaki,ST-AK-03,HydroSense,Night,2.25,82.4,0.29,91,Valid
+TR-00098,2026-01-13 8:14:00,Kirkos,ST-KI-03,Civic Metering,Day,2.58,90.6,0.33,97,Valid
+TR-00099,2026-01-13 20:18:00,Kirkos,ST-KI-03,Civic Metering,Night,2.38,87.6,0.33,98,Valid
+TR-00100,2026-01-13 8:21:00,Lideta,ST-LI-03,Acme Instruments,Day,2.71,95.8,0.37,75,Valid
+TR-00101,2026-01-13 20:02:00,Lideta,ST-LI-03,Acme Instruments,Night,2.51,92.8,0.37,76,Valid
+TR-00102,2026-01-13 8:05:00,Merkato,ST-ME-03,HydroSense,Day,2.84,101,0.41,82,Valid
+TR-00103,2026-01-13 20:09:00,Merkato,ST-ME-03,HydroSense,Night,2.64,98,0.41,83,Valid
+TR-00104,2026-01-13 8:12:00,Gullele,ST-GU-03,Civic Metering,Day,2.97,106.2,0.45,89,Valid
+TR-00105,2026-01-13 20:16:00,Gullele,ST-GU-03,Civic Metering,Night,2.77,103.2,0.45,90,Valid
+TR-00106,2026-01-14 8:00:00,Bole,ST-BS-01,Acme Instruments,Day,1.56,82.6,0.268,88,Valid
+TR-00107,2026-01-14 20:04:00,Bole,ST-BS-01,Acme Instruments,Night,1.36,79.6,0.268,89,Valid
+TR-00108,2026-01-14 8:07:00,Akaki,ST-AK-01,HydroSense,Day,1.69,87.8,0.308,95,Valid
+TR-00109,2026-01-14 20:11:00,Akaki,ST-AK-01,HydroSense,Night,1.49,84.8,0.308,96,Valid
+TR-00110,2026-01-14 8:14:00,Kirkos,ST-KI-01,Civic Metering,Day,1.82,93,0.348,73,Valid
+TR-00111,2026-01-14 20:18:00,Kirkos,ST-KI-01,Civic Metering,Night,1.62,90,0.348,74,Valid
+TR-00112,2026-01-14 8:21:00,Lideta,ST-LI-01,Acme Instruments,Day,1.95,98.2,0.388,80,Valid
+TR-00113,2026-01-14 20:02:00,Lideta,ST-LI-01,Acme Instruments,Night,1.75,95.2,0.388,81,Review
+TR-00114,2026-01-14 8:05:00,Merkato,ST-ME-01,HydroSense,Day,2.08,103.4,0.428,87,Valid
+TR-00115,2026-01-14 20:09:00,Merkato,ST-ME-01,HydroSense,Night,1.88,100.4,0.428,88,Valid
+TR-00116,2026-01-14 8:12:00,Gullele,ST-GU-01,Civic Metering,Day,2.21,108.6,0.468,94,Valid
+TR-00117,2026-01-14 20:16:00,Gullele,ST-GU-01,Civic Metering,Night,2.01,105.6,0.468,95,Valid
+TR-00118,2026-01-15 8:00:00,Bole,ST-BS-02,Acme Instruments,Day,1.66,85,0.286,93,Valid
+TR-00119,2026-01-15 20:04:00,Bole,ST-BS-02,Acme Instruments,Night,1.46,82,0.286,94,Valid
+TR-00120,2026-01-15 8:07:00,Akaki,ST-AK-02,HydroSense,Day,1.78,90.2,0.326,100,Valid
+TR-00121,2026-01-15 20:11:00,Akaki,ST-AK-02,HydroSense,Night,1.58,87.2,0.326,72,Valid
+TR-00122,2026-01-15 8:14:00,Kirkos,ST-KI-02,Civic Metering,Day,1.92,95.4,0.366,78,Valid
+TR-00123,2026-01-15 20:18:00,Kirkos,ST-KI-02,Civic Metering,Night,1.72,92.4,0.366,79,Valid
+TR-00124,2026-01-15 8:21:00,Lideta,ST-LI-02,Acme Instruments,Day,2.05,100.6,0.406,85,Review
+TR-00125,2026-01-15 20:02:00,Lideta,ST-LI-02,Acme Instruments,Night,1.85,97.6,0.406,86,Valid
+TR-00126,2026-01-15 8:05:00,Merkato,ST-ME-02,HydroSense,Day,2.18,105.8,0.446,92,Valid
+TR-00127,2026-01-15 8:12:00,Gullele,ST-GU-02,Civic Metering,Day,2.31,111,0.486,99,Valid
+TR-00128,2026-01-15 20:16:00,Gullele,ST-GU-02,Civic Metering,Night,2.1,108,0.486,100,Valid
+TR-00129,2026-01-16 8:00:00,Bole,ST-BS-03,Acme Instruments,Day,1.75,87.4,0.304,98,Valid
+TR-00130,2026-01-16 20:04:00,Bole,ST-BS-03,Acme Instruments,Night,1.55,84.4,0.304,99,Valid
+TR-00131,2026-01-16 8:07:00,Akaki,ST-AK-03,HydroSense,Day,1.88,92.6,0.344,76,Valid
+TR-00132,2026-01-16 20:11:00,Akaki,ST-AK-03,HydroSense,Night,1.68,89.6,0.344,77,Valid
+TR-00133,2026-01-16 8:14:00,Kirkos,ST-KI-03,Civic Metering,Day,2.01,97.8,0.384,83,Valid
+TR-00134,2026-01-16 20:18:00,Kirkos,ST-KI-03,Civic Metering,Night,1.81,94.8,0.384,84,Valid
+TR-00135,2026-01-16 8:21:00,Lideta,ST-LI-03,Acme Instruments,Day,2.14,103,0.424,90,Valid
+TR-00136,2026-01-16 20:02:00,Lideta,ST-LI-03,Acme Instruments,Night,1.94,100,0.424,91,Valid
+TR-00137,2026-01-16 20:09:00,Merkato,ST-ME-03,HydroSense,Night,2.07,105.2,0.464,98,Valid
+TR-00138,2026-01-16 8:12:00,Gullele,ST-GU-03,Civic Metering,Day,2.4,113.4,0.504,75,Valid
+TR-00139,2026-01-16 20:16:00,Gullele,ST-GU-03,Civic Metering,Night,2.2,110.4,0.504,76,Valid
+TR-00140,2026-01-17 8:00:00,Bole,ST-BS-01,Acme Instruments,Day,1.85,89.8,0.322,74,Valid
+TR-00141,2026-01-17 20:04:00,Bole,ST-BS-01,Acme Instruments,Night,1.65,86.8,0.322,75,Valid
+TR-00142,2026-01-17 8:07:00,Akaki,ST-AK-01,HydroSense,Day,1.98,95,0.362,81,Valid
+TR-00143,2026-01-17 20:11:00,Akaki,ST-AK-01,HydroSense,Night,1.78,92,0.362,82,Valid
+TR-00144,2026-01-17 8:14:00,Kirkos,ST-KI-01,Civic Metering,Day,2.1,100.2,0.402,88,Valid
+TR-00145,2026-01-17 20:18:00,Kirkos,ST-KI-01,Civic Metering,Night,1.91,97.2,0.402,89,Review
+TR-00146,2026-01-17 8:21:00,Lideta,ST-LI-01,Acme Instruments,Day,2.24,105.4,0.442,95,Valid
+TR-00147,2026-01-17 20:02:00,Lideta,ST-LI-01,Acme Instruments,Night,2.04,102.4,0.442,96,Valid
+TR-00148,2026-01-17 8:05:00,Merkato,ST-ME-01,HydroSense,Day,2.37,110.6,0.482,73,Valid
+TR-00149,2026-01-17 20:09:00,Merkato,ST-ME-01,HydroSense,Night,2.17,107.6,0.482,74,Valid
+TR-00150,2026-01-17 8:12:00,Gullele,ST-GU-01,Civic Metering,Day,2.5,115.8,0.522,80,Valid
+TR-00151,2026-01-17 20:16:00,Gullele,ST-GU-01,Civic Metering,Night,2.29,112.8,0.522,81,Valid
+TR-00152,2026-01-18 8:00:00,Bole,ST-BS-02,Acme Instruments,Day,1.94,61,0.34,79,Valid
+TR-00153,2026-01-18 20:04:00,Bole,ST-BS-02,Acme Instruments,Night,1.74,58,0.34,80,Valid
+TR-00154,2026-01-18 8:07:00,Akaki,ST-AK-02,HydroSense,Day,2.07,66.2,0.38,86,Valid
+TR-00155,2026-01-18 20:11:00,Akaki,ST-AK-02,HydroSense,Night,1.87,63.2,0.38,87,Valid
+TR-00156,2026-01-18 8:14:00,Kirkos,ST-KI-02,Civic Metering,Day,2.2,71.4,0.42,93,Review
+TR-00157,2026-01-18 20:18:00,Kirkos,ST-KI-02,Civic Metering,Night,2,68.4,0.42,94,Valid
+TR-00158,2026-01-18 8:21:00,Lideta,ST-LI-02,Acme Instruments,Day,2.33,76.6,0.46,100,Valid
+TR-00159,2026-01-18 20:02:00,Lideta,ST-LI-02,Acme Instruments,Night,2.13,73.6,0.46,72,Valid
+TR-00160,2026-01-18 8:05:00,Merkato,ST-ME-02,HydroSense,Day,2.46,81.8,0.5,78,Valid
+TR-00161,2026-01-18 20:09:00,Merkato,ST-ME-02,HydroSense,Night,2.26,78.8,0.5,79,Valid
+TR-00162,2026-01-18 8:12:00,Gullele,ST-GU-02,Civic Metering,Day,2.59,87,0.54,85,Valid
+TR-00163,2026-01-18 20:16:00,Gullele,ST-GU-02,Civic Metering,Night,2.39,84,0.54,86,Valid
+TR-00164,2026-01-19 8:00:00,Bole,ST-BS-03,Acme Instruments,Day,2.04,63.4,0.358,84,Valid
+TR-00165,2026-01-19 20:04:00,Bole,ST-BS-03,Acme Instruments,Night,1.84,60.4,0.358,85,Valid
+TR-00166,2026-01-19 8:07:00,Akaki,ST-AK-03,HydroSense,Day,2.17,68.6,0.398,91,Valid
+TR-00167,2026-01-19 20:11:00,Akaki,ST-AK-03,HydroSense,Night,1.97,65.6,0.398,92,Valid
+TR-00168,2026-01-19 8:14:00,Kirkos,ST-KI-03,Civic Metering,Day,2.29,73.8,0.438,98,Valid
+TR-00169,2026-01-19 20:18:00,Kirkos,ST-KI-03,Civic Metering,Night,2.09,70.8,0.438,99,Valid
+TR-00170,2026-01-19 8:21:00,Lideta,ST-LI-03,Acme Instruments,Day,2.43,79,0.478,76,Valid
+TR-00171,2026-01-19 20:02:00,Lideta,ST-LI-03,Acme Instruments,Night,2.23,76,0.478,77,Valid
+TR-00172,2026-01-19 8:05:00,Merkato,ST-ME-03,HydroSense,Day,2.56,84.2,0.518,83,Valid
+TR-00173,2026-01-19 20:09:00,Merkato,ST-ME-03,HydroSense,Night,2.35,81.2,0.518,84,Valid
+TR-00174,2026-01-19 8:12:00,Gullele,ST-GU-03,Civic Metering,Day,2.69,89.4,0.558,90,Valid
+TR-00175,2026-01-19 20:16:00,Gullele,ST-GU-03,Civic Metering,Night,2.48,86.4,0.558,91,Valid
+TR-00176,2026-01-20 8:00:00,Bole,ST-BS-01,Acme Instruments,Day,2.13,65.8,0.376,89,Valid
+TR-00177,2026-01-20 20:04:00,Bole,ST-BS-01,Acme Instruments,Night,1.93,62.8,0.376,90,Valid
+TR-00178,2026-01-20 8:07:00,Akaki,ST-AK-01,HydroSense,Day,2.26,71,0.416,96,Valid
+TR-00179,2026-01-20 20:11:00,Akaki,ST-AK-01,HydroSense,Night,2.06,68,0.416,97,Review
+TR-00180,2026-01-20 8:14:00,Kirkos,ST-KI-01,Civic Metering,Day,2.39,76.2,0.456,74,Valid
+TR-00181,2026-01-20 20:18:00,Kirkos,ST-KI-01,Civic Metering,Night,2.19,73.2,0.456,75,Valid
+TR-00182,2026-01-20 8:21:00,Lideta,ST-LI-01,Acme Instruments,Day,2.52,81.4,0.496,81,Valid
+TR-00183,2026-01-20 8:05:00,Merkato,ST-ME-01,HydroSense,Day,2.65,86.6,0.536,88,Valid
+TR-00184,2026-01-20 20:09:00,Merkato,ST-ME-01,HydroSense,Night,2.45,83.6,0.536,89,Valid
+TR-00185,2026-01-20 8:12:00,Gullele,ST-GU-01,Civic Metering,Day,2.78,91.8,0.576,95,Valid
+TR-00186,2026-01-20 20:16:00,Gullele,ST-GU-01,Civic Metering,Night,2.58,88.8,0.576,96,Valid
+TR-00187,2026-01-21 8:00:00,Bole,ST-BS-02,Acme Instruments,Day,2.23,68.2,0.25,94,Valid
+TR-00188,2026-01-21 20:04:00,Bole,ST-BS-02,Acme Instruments,Night,2.02,65.2,0.25,95,Valid
+TR-00189,2026-01-21 8:07:00,Akaki,ST-AK-02,HydroSense,Day,2.35,73.4,0.29,72,Review
+TR-00190,2026-01-21 20:11:00,Akaki,ST-AK-02,HydroSense,Night,2.15,70.4,0.29,73,Valid
+TR-00191,2026-01-21 8:14:00,Kirkos,ST-KI-02,Civic Metering,Day,2.49,78.6,0.33,79,Valid
+TR-00192,2026-01-21 20:18:00,Kirkos,ST-KI-02,Civic Metering,Night,2.29,75.6,0.33,80,Valid
+TR-00193,2026-01-21 20:02:00,Lideta,ST-LI-02,Acme Instruments,Night,2.42,80.8,0.37,87,Valid
+TR-00194,2026-01-21 8:05:00,Merkato,ST-ME-02,HydroSense,Day,2.75,89,0.41,93,Valid
+TR-00195,2026-01-21 20:09:00,Merkato,ST-ME-02,HydroSense,Night,2.54,86,0.41,94,Valid
+TR-00196,2026-01-21 8:12:00,Gullele,ST-GU-02,Civic Metering,Day,2.88,94.2,0.45,100,Valid
+TR-00197,2026-01-21 20:16:00,Gullele,ST-GU-02,Civic Metering,Night,2.67,91.2,0.45,72,Valid
+TR-00198,2026-01-22 8:00:00,Bole,ST-BS-03,Acme Instruments,Day,2.32,70.6,0.268,99,Valid
+TR-00199,2026-01-22 20:04:00,Bole,ST-BS-03,Acme Instruments,Night,2.12,67.6,0.268,100,Valid
+TR-00200,2026-01-22 8:07:00,Akaki,ST-AK-03,HydroSense,Day,2.45,75.8,0.308,77,Valid
+TR-00201,2026-01-22 20:11:00,Akaki,ST-AK-03,HydroSense,Night,2.25,72.8,0.308,78,Valid
+TR-00202,2026-01-22 8:14:00,Kirkos,ST-KI-03,Civic Metering,Day,2.58,81,0.348,84,Valid
+TR-00203,2026-01-22 20:18:00,Kirkos,ST-KI-03,Civic Metering,Night,2.38,78,0.348,85,Valid
+TR-00204,2026-01-22 8:21:00,Lideta,ST-LI-03,Acme Instruments,Day,2.71,86.2,0.388,91,Valid
+TR-00205,2026-01-22 20:02:00,Lideta,ST-LI-03,Acme Instruments,Night,2.51,83.2,0.388,92,Valid
+TR-00206,2026-01-22 8:05:00,Merkato,ST-ME-03,HydroSense,Day,2.84,91.4,0.428,98,Valid
+TR-00207,2026-01-22 20:09:00,Merkato,ST-ME-03,HydroSense,Night,2.64,88.4,0.428,99,Valid
+TR-00208,2026-01-22 8:12:00,Gullele,ST-GU-03,Civic Metering,Day,2.97,96.6,0.468,76,Valid
+TR-00209,2026-01-22 20:16:00,Gullele,ST-GU-03,Civic Metering,Night,2.77,93.6,0.468,77,Valid
+TR-00210,2026-01-23 8:00:00,Bole,ST-BS-01,Acme Instruments,Day,1.56,73,0.286,75,Valid
+TR-00211,2026-01-23 20:04:00,Bole,ST-BS-01,Acme Instruments,Night,1.36,70,0.286,76,Review
+TR-00212,2026-01-23 8:07:00,Akaki,ST-AK-01,HydroSense,Day,1.69,78.2,0.326,82,Valid
+TR-00213,2026-01-23 20:11:00,Akaki,ST-AK-01,HydroSense,Night,1.49,75.2,0.326,83,Valid
+TR-00214,2026-01-23 8:14:00,Kirkos,ST-KI-01,Civic Metering,Day,1.82,83.4,0.366,89,Valid
+TR-00215,2026-01-23 20:18:00,Kirkos,ST-KI-01,Civic Metering,Night,1.62,80.4,0.366,90,Valid
+TR-00216,2026-01-23 8:21:00,Lideta,ST-LI-01,Acme Instruments,Day,1.95,88.6,0.406,96,Valid
+TR-00217,2026-01-23 20:02:00,Lideta,ST-LI-01,Acme Instruments,Night,1.75,85.6,0.406,97,Valid
+TR-00218,2026-01-23 8:05:00,Merkato,ST-ME-01,HydroSense,Day,2.08,93.8,0.446,74,Valid
+TR-00219,2026-01-23 20:09:00,Merkato,ST-ME-01,HydroSense,Night,1.88,90.8,0.446,75,Valid
+TR-00220,2026-01-23 8:12:00,Gullele,ST-GU-01,Civic Metering,Day,2.21,99,0.486,81,Valid
+TR-00221,2026-01-23 20:16:00,Gullele,ST-GU-01,Civic Metering,Night,2.01,96,0.486,82,Valid
+TR-00222,2026-01-24 8:00:00,Bole,ST-BS-02,Acme Instruments,Day,1.66,75.4,0.304,80,Review
+TR-00223,2026-01-24 20:04:00,Bole,ST-BS-02,Acme Instruments,Night,1.46,72.4,0.304,81,Valid
+TR-00224,2026-01-24 8:07:00,Akaki,ST-AK-02,HydroSense,Day,1.78,80.6,0.344,87,Valid
+TR-00225,2026-01-24 20:11:00,Akaki,ST-AK-02,HydroSense,Night,1.58,77.6,0.344,88,Valid
+TR-00226,2026-01-24 8:14:00,Kirkos,ST-KI-02,Civic Metering,Day,1.92,85.8,0.384,94,Valid
+TR-00227,2026-01-24 20:18:00,Kirkos,ST-KI-02,Civic Metering,Night,1.72,82.8,0.384,95,Valid
+TR-00228,2026-01-24 8:21:00,Lideta,ST-LI-02,Acme Instruments,Day,2.05,91,0.424,72,Valid
+TR-00229,2026-01-24 20:02:00,Lideta,ST-LI-02,Acme Instruments,Night,1.85,88,0.424,73,Valid
+TR-00230,2026-01-24 8:05:00,Merkato,ST-ME-02,HydroSense,Day,2.18,96.2,0.464,79,Valid
+TR-00231,2026-01-24 20:09:00,Merkato,ST-ME-02,HydroSense,Night,1.98,93.2,0.464,80,Valid
+TR-00232,2026-01-24 8:12:00,Gullele,ST-GU-02,Civic Metering,Day,2.31,101.4,0.504,86,Valid
+TR-00233,2026-01-24 20:16:00,Gullele,ST-GU-02,Civic Metering,Night,2.1,98.4,0.504,87,Valid
+TR-00234,2026-01-25 8:00:00,Bole,ST-BS-03,Acme Instruments,Day,1.75,77.8,0.322,85,Valid
+TR-00235,2026-01-25 20:04:00,Bole,ST-BS-03,Acme Instruments,Night,1.55,74.8,0.322,86,Valid
+TR-00236,2026-01-25 8:07:00,Akaki,ST-AK-03,HydroSense,Day,1.88,83,0.362,92,Valid
+TR-00237,2026-01-25 20:11:00,Akaki,ST-AK-03,HydroSense,Night,1.68,80,0.362,93,Valid
+TR-00238,2026-01-25 8:14:00,Kirkos,ST-KI-03,Civic Metering,Day,2.01,88.2,0.402,99,Valid
+TR-00239,2026-01-25 8:21:00,Lideta,ST-LI-03,Acme Instruments,Day,2.14,93.4,0.442,77,Valid
+TR-00240,2026-01-25 20:02:00,Lideta,ST-LI-03,Acme Instruments,Night,1.94,90.4,0.442,78,Valid
+TR-00241,2026-01-25 8:05:00,Merkato,ST-ME-03,HydroSense,Day,2.27,98.6,0.482,84,Valid
+TR-00242,2026-01-25 20:09:00,Merkato,ST-ME-03,HydroSense,Night,2.07,95.6,0.482,85,Valid
+TR-00243,2026-01-25 8:12:00,Gullele,ST-GU-03,Civic Metering,Day,2.4,103.8,0.522,91,Valid
+TR-00244,2026-01-25 20:16:00,Gullele,ST-GU-03,Civic Metering,Night,2.2,100.8,0.522,92,Valid
+TR-00245,2026-01-26 8:00:00,Bole,ST-BS-01,Acme Instruments,Day,1.85,80.2,0.34,90,Valid
+TR-00246,2026-01-26 20:04:00,Bole,ST-BS-01,Acme Instruments,Night,1.65,77.2,0.34,91,Valid
+TR-00247,2026-01-26 8:07:00,Akaki,ST-AK-01,HydroSense,Day,1.98,85.4,0.38,97,Valid
+TR-00248,2026-01-26 20:11:00,Akaki,ST-AK-01,HydroSense,Night,1.78,82.4,0.38,98,Valid
+TR-00249,2026-01-26 20:18:00,Kirkos,ST-KI-01,Civic Metering,Night,1.91,87.6,0.42,76,Valid
+TR-00250,2026-01-26 8:21:00,Lideta,ST-LI-01,Acme Instruments,Day,2.24,95.8,0.46,82,Valid
+TR-00251,2026-01-26 20:02:00,Lideta,ST-LI-01,Acme Instruments,Night,2.04,92.8,0.46,83,Valid
+TR-00252,2026-01-26 8:05:00,Merkato,ST-ME-01,HydroSense,Day,2.37,101,0.5,89,Valid
+TR-00253,2026-01-26 20:09:00,Merkato,ST-ME-01,HydroSense,Night,2.17,98,0.5,90,Valid
+TR-00254,2026-01-26 8:12:00,Gullele,ST-GU-01,Civic Metering,Day,2.5,106.2,0.54,96,Valid
+TR-00255,2026-01-26 20:16:00,Gullele,ST-GU-01,Civic Metering,Night,2.29,103.2,0.54,97,Valid
+TR-00256,2026-01-27 8:00:00,Bole,ST-BS-02,Acme Instruments,Day,1.94,82.6,0.358,95,Valid
+TR-00257,2026-01-27 20:04:00,Bole,ST-BS-02,Acme Instruments,Night,1.74,79.6,0.358,96,Valid
+TR-00258,2026-01-27 8:07:00,Akaki,ST-AK-02,HydroSense,Day,2.07,87.8,0.398,73,Valid
+TR-00259,2026-01-27 20:11:00,Akaki,ST-AK-02,HydroSense,Night,1.87,84.8,0.398,74,Valid
+TR-00260,2026-01-27 8:14:00,Kirkos,ST-KI-02,Civic Metering,Day,2.2,93,0.438,80,Valid
+TR-00261,2026-01-27 20:18:00,Kirkos,ST-KI-02,Civic Metering,Night,2,90,0.438,81,Valid
+TR-00262,2026-01-27 8:21:00,Lideta,ST-LI-02,Acme Instruments,Day,2.33,98.2,0.478,87,Valid
+TR-00263,2026-01-27 20:02:00,Lideta,ST-LI-02,Acme Instruments,Night,2.13,95.2,0.478,88,Valid
+TR-00264,2026-01-27 8:05:00,Merkato,ST-ME-02,HydroSense,Day,2.46,103.4,0.518,94,Valid
+TR-00265,2026-01-27 20:09:00,Merkato,ST-ME-02,HydroSense,Night,2.26,100.4,0.518,95,Valid
+TR-00266,2026-01-27 8:12:00,Gullele,ST-GU-02,Civic Metering,Day,2.59,108.6,0.558,72,Valid
+TR-00267,2026-01-27 20:16:00,Gullele,ST-GU-02,Civic Metering,Night,2.39,105.6,0.558,73,Review
+TR-00268,2026-01-28 8:00:00,Bole,ST-BS-03,Acme Instruments,Day,2.04,85,0.376,100,Valid
+TR-00269,2026-01-28 20:04:00,Bole,ST-BS-03,Acme Instruments,Night,1.84,82,0.376,72,Valid
+TR-00270,2026-01-28 8:07:00,Akaki,ST-AK-03,HydroSense,Day,2.17,90.2,0.416,78,Valid
+TR-00271,2026-01-28 20:11:00,Akaki,ST-AK-03,HydroSense,Night,1.97,87.2,0.416,79,Valid
+TR-00272,2026-01-28 8:14:00,Kirkos,ST-KI-03,Civic Metering,Day,2.29,95.4,0.456,85,Valid
+TR-00273,2026-01-28 20:18:00,Kirkos,ST-KI-03,Civic Metering,Night,2.09,92.4,0.456,86,Valid
+TR-00274,2026-01-28 8:21:00,Lideta,ST-LI-03,Acme Instruments,Day,2.43,100.6,0.496,92,Valid
+TR-00275,2026-01-28 20:02:00,Lideta,ST-LI-03,Acme Instruments,Night,2.23,97.6,0.496,93,Valid
+TR-00276,2026-01-28 8:05:00,Merkato,ST-ME-03,HydroSense,Day,2.56,105.8,0.536,99,Valid
+TR-00277,2026-01-28 20:09:00,Merkato,ST-ME-03,HydroSense,Night,2.35,102.8,0.536,100,Valid
+TR-00278,2026-01-28 8:12:00,Gullele,ST-GU-03,Civic Metering,Day,2.69,111,0.576,77,Review
+TR-00279,2026-01-28 20:16:00,Gullele,ST-GU-03,Civic Metering,Night,2.48,108,0.576,78,Valid
+TR-00280,2026-01-29 8:00:00,Bole,ST-BS-01,Acme Instruments,Day,2.13,87.4,0.25,76,Valid
+TR-00281,2026-01-29 20:04:00,Bole,ST-BS-01,Acme Instruments,Night,1.93,84.4,0.25,77,Valid
+TR-00282,2026-01-29 8:07:00,Akaki,ST-AK-01,HydroSense,Day,2.26,92.6,0.29,83,Valid
+TR-00283,2026-01-29 20:11:00,Akaki,ST-AK-01,HydroSense,Night,2.06,89.6,0.29,84,Valid
+TR-00284,2026-01-29 8:14:00,Kirkos,ST-KI-01,Civic Metering,Day,2.39,97.8,0.33,90,Valid
+TR-00285,2026-01-29 20:18:00,Kirkos,ST-KI-01,Civic Metering,Night,2.19,94.8,0.33,91,Valid
+TR-00286,2026-01-29 8:21:00,Lideta,ST-LI-01,Acme Instruments,Day,2.52,103,0.37,97,Valid
+TR-00287,2026-01-29 20:02:00,Lideta,ST-LI-01,Acme Instruments,Night,2.32,100,0.37,98,Valid
+TR-00288,2026-01-29 8:05:00,Merkato,ST-ME-01,HydroSense,Day,2.65,108.2,0.41,75,Valid
+TR-00289,2026-01-29 20:09:00,Merkato,ST-ME-01,HydroSense,Night,2.45,105.2,0.41,76,Valid
+TR-00290,2026-01-29 8:12:00,Gullele,ST-GU-01,Civic Metering,Day,2.78,113.4,0.45,82,Valid
+TR-00291,2026-01-29 20:16:00,Gullele,ST-GU-01,Civic Metering,Night,2.58,110.4,0.45,83,Valid
+TR-00292,2026-01-30 8:00:00,Bole,ST-BS-02,Acme Instruments,Day,2.23,89.8,0.268,81,Valid
+TR-00293,2026-01-30 20:04:00,Bole,ST-BS-02,Acme Instruments,Night,2.02,86.8,0.268,82,Valid
+TR-00294,2026-01-30 8:07:00,Akaki,ST-AK-02,HydroSense,Day,2.35,95,0.308,88,Valid
+TR-00295,2026-01-30 8:14:00,Kirkos,ST-KI-02,Civic Metering,Day,2.49,100.2,0.348,95,Valid
+TR-00296,2026-01-30 20:18:00,Kirkos,ST-KI-02,Civic Metering,Night,2.29,97.2,0.348,96,Valid
+TR-00297,2026-01-30 8:21:00,Lideta,ST-LI-02,Acme Instruments,Day,2.62,105.4,0.388,73,Valid
+TR-00298,2026-01-30 20:02:00,Lideta,ST-LI-02,Acme Instruments,Night,2.42,102.4,0.388,74,Valid
+TR-00299,2026-01-30 8:05:00,Merkato,ST-ME-02,HydroSense,Day,2.75,110.6,0.428,80,Valid
+TR-00300,2026-01-30 20:09:00,Merkato,ST-ME-02,HydroSense,Night,2.54,107.6,0.428,81,Review
+TR-00301,2026-01-30 8:12:00,Gullele,ST-GU-02,Civic Metering,Day,2.88,115.8,0.468,87,Valid
+TR-00302,2026-01-30 20:16:00,Gullele,ST-GU-02,Civic Metering,Night,2.67,112.8,0.468,88,Valid
+TR-00303,2026-01-31 8:00:00,Bole,ST-BS-03,Acme Instruments,Day,2.32,61,0.286,86,Valid
+TR-00304,2026-01-31 20:04:00,Bole,ST-BS-03,Acme Instruments,Night,2.12,58,0.286,87,Valid
+TR-00305,2026-01-31 20:11:00,Akaki,ST-AK-03,HydroSense,Night,2.25,63.2,0.326,94,Valid
+TR-00306,2026-01-31 8:14:00,Kirkos,ST-KI-03,Civic Metering,Day,2.58,71.4,0.366,100,Valid
+TR-00307,2026-01-31 20:18:00,Kirkos,ST-KI-03,Civic Metering,Night,2.38,68.4,0.366,72,Valid
+TR-00308,2026-01-31 8:21:00,Lideta,ST-LI-03,Acme Instruments,Day,2.71,76.6,0.406,78,Valid
+TR-00309,2026-01-31 20:02:00,Lideta,ST-LI-03,Acme Instruments,Night,2.51,73.6,0.406,79,Valid
+TR-00310,2026-01-31 8:05:00,Merkato,ST-ME-03,HydroSense,Day,2.84,81.8,0.446,85,Review
+TR-00311,2026-01-31 20:09:00,Merkato,ST-ME-03,HydroSense,Night,2.64,78.8,0.446,86,Valid
+TR-00312,2026-01-31 8:12:00,Gullele,ST-GU-03,Civic Metering,Day,2.97,87,0.486,92,Valid
+TR-00313,2026-01-31 20:16:00,Gullele,ST-GU-03,Civic Metering,Night,2.77,84,0.486,93,Valid
+TR-00314,2026-02-01 8:00:00,Bole,ST-BS-01,Acme Instruments,Day,1.56,63.4,0.304,91,Valid
+TR-00315,2026-02-01 20:04:00,Bole,ST-BS-01,Acme Instruments,Night,1.36,60.4,0.304,92,Valid
+TR-00316,2026-02-01 8:07:00,Akaki,ST-AK-01,HydroSense,Day,1.69,68.6,0.344,98,Valid
+TR-00317,2026-02-01 20:11:00,Akaki,ST-AK-01,HydroSense,Night,1.49,65.6,0.344,99,Valid
+TR-00318,2026-02-01 8:14:00,Kirkos,ST-KI-01,Civic Metering,Day,1.82,73.8,0.384,76,Valid
+TR-00319,2026-02-01 20:18:00,Kirkos,ST-KI-01,Civic Metering,Night,1.62,70.8,0.384,77,Valid
+TR-00320,2026-02-01 8:21:00,Lideta,ST-LI-01,Acme Instruments,Day,1.95,79,0.424,83,Valid
+TR-00321,2026-02-01 20:02:00,Lideta,ST-LI-01,Acme Instruments,Night,1.75,76,0.424,84,Valid
+TR-00322,2026-02-01 8:05:00,Merkato,ST-ME-01,HydroSense,Day,2.08,84.2,0.464,90,Valid
+TR-00323,2026-02-01 20:09:00,Merkato,ST-ME-01,HydroSense,Night,1.88,81.2,0.464,91,Valid
+TR-00324,2026-02-01 8:12:00,Gullele,ST-GU-01,Civic Metering,Day,2.21,89.4,0.504,97,Valid
+TR-00325,2026-02-01 20:16:00,Gullele,ST-GU-01,Civic Metering,Night,2.01,86.4,0.504,98,Valid
+TR-00326,2026-02-02 8:00:00,Bole,ST-BS-02,Acme Instruments,Day,1.66,65.8,0.322,96,Valid
+TR-00327,2026-02-02 20:04:00,Bole,ST-BS-02,Acme Instruments,Night,1.46,62.8,0.322,97,Valid
+TR-00328,2026-02-02 8:07:00,Akaki,ST-AK-02,HydroSense,Day,1.78,71,0.362,74,Valid
+TR-00329,2026-02-02 20:11:00,Akaki,ST-AK-02,HydroSense,Night,1.58,68,0.362,75,Valid
+TR-00330,2026-02-02 8:14:00,Kirkos,ST-KI-02,Civic Metering,Day,1.92,76.2,0.402,81,Valid
+TR-00331,2026-02-02 20:18:00,Kirkos,ST-KI-02,Civic Metering,Night,1.72,73.2,0.402,82,Valid
+TR-00332,2026-02-02 8:21:00,Lideta,ST-LI-02,Acme Instruments,Day,2.05,81.4,0.442,88,Valid
+TR-00333,2026-02-02 20:02:00,Lideta,ST-LI-02,Acme Instruments,Night,1.85,78.4,0.442,89,Review
+TR-00334,2026-02-02 8:05:00,Merkato,ST-ME-02,HydroSense,Day,2.18,86.6,0.482,95,Valid
+TR-00335,2026-02-02 20:09:00,Merkato,ST-ME-02,HydroSense,Night,1.98,83.6,0.482,96,Valid
+TR-00336,2026-02-02 8:12:00,Gullele,ST-GU-02,Civic Metering,Day,2.31,91.8,0.522,73,Valid
+TR-00337,2026-02-02 20:16:00,Gullele,ST-GU-02,Civic Metering,Night,2.1,88.8,0.522,74,Valid
+TR-00338,2026-02-03 8:00:00,Bole,ST-BS-03,Acme Instruments,Day,1.75,68.2,0.34,72,Valid
+TR-00339,2026-02-03 20:04:00,Bole,ST-BS-03,Acme Instruments,Night,1.55,65.2,0.34,73,Valid
+TR-00340,2026-02-03 8:07:00,Akaki,ST-AK-03,HydroSense,Day,1.88,73.4,0.38,79,Valid
+TR-00341,2026-02-03 20:11:00,Akaki,ST-AK-03,HydroSense,Night,1.68,70.4,0.38,80,Valid
+TR-00342,2026-02-03 8:14:00,Kirkos,ST-KI-03,Civic Metering,Day,2.01,78.6,0.42,86,Valid
+TR-00343,2026-02-03 20:18:00,Kirkos,ST-KI-03,Civic Metering,Night,1.81,75.6,0.42,87,Valid
+TR-00344,2026-02-03 8:21:00,Lideta,ST-LI-03,Acme Instruments,Day,2.14,83.8,0.46,93,Review
+TR-00345,2026-02-03 20:02:00,Lideta,ST-LI-03,Acme Instruments,Night,1.94,80.8,0.46,94,Valid
+TR-00346,2026-02-03 8:05:00,Merkato,ST-ME-03,HydroSense,Day,2.27,89,0.5,100,Valid
+TR-00347,2026-02-03 20:09:00,Merkato,ST-ME-03,HydroSense,Night,2.07,86,0.5,72,Valid
+TR-00348,2026-02-03 8:12:00,Gullele,ST-GU-03,Civic Metering,Day,2.4,94.2,0.54,78,Valid
+TR-00349,2026-02-03 20:16:00,Gullele,ST-GU-03,Civic Metering,Night,2.2,91.2,0.54,79,Valid
+TR-00350,2026-02-04 8:00:00,Bole,ST-BS-01,Acme Instruments,Day,1.85,70.6,0.358,77,Valid
+TR-00351,2026-02-04 8:07:00,Akaki,ST-AK-01,HydroSense,Day,1.98,75.8,0.398,84,Valid
+TR-00352,2026-02-04 20:11:00,Akaki,ST-AK-01,HydroSense,Night,1.78,72.8,0.398,85,Valid
+TR-00353,2026-02-04 8:14:00,Kirkos,ST-KI-01,Civic Metering,Day,2.1,81,0.438,91,Valid
+TR-00354,2026-02-04 20:18:00,Kirkos,ST-KI-01,Civic Metering,Night,1.91,78,0.438,92,Valid
+TR-00355,2026-02-04 8:21:00,Lideta,ST-LI-01,Acme Instruments,Day,2.24,86.2,0.478,98,Valid
+TR-00356,2026-02-04 20:02:00,Lideta,ST-LI-01,Acme Instruments,Night,2.04,83.2,0.478,99,Valid
+TR-00357,2026-02-04 8:05:00,Merkato,ST-ME-01,HydroSense,Day,2.37,91.4,0.518,76,Valid
+TR-00358,2026-02-04 20:09:00,Merkato,ST-ME-01,HydroSense,Night,2.17,88.4,0.518,77,Valid
+TR-00359,2026-02-04 8:12:00,Gullele,ST-GU-01,Civic Metering,Day,2.5,96.6,0.558,83,Valid
+TR-00360,2026-02-04 20:16:00,Gullele,ST-GU-01,Civic Metering,Night,2.29,93.6,0.558,84,Valid
+TR-00361,2026-02-05 20:04:00,Bole,ST-BS-02,Acme Instruments,Night,1.74,70,0.376,83,Valid
+TR-00362,2026-02-05 8:07:00,Akaki,ST-AK-02,HydroSense,Day,2.07,78.2,0.416,89,Valid
+TR-00363,2026-02-05 20:11:00,Akaki,ST-AK-02,HydroSense,Night,1.87,75.2,0.416,90,Valid
+TR-00364,2026-02-05 8:14:00,Kirkos,ST-KI-02,Civic Metering,Day,2.2,83.4,0.456,96,Valid
+TR-00365,2026-02-05 20:18:00,Kirkos,ST-KI-02,Civic Metering,Night,2,80.4,0.456,97,Review
+TR-00366,2026-02-05 8:21:00,Lideta,ST-LI-02,Acme Instruments,Day,2.33,88.6,0.496,74,Valid
+TR-00367,2026-02-05 20:02:00,Lideta,ST-LI-02,Acme Instruments,Night,2.13,85.6,0.496,75,Valid
+TR-00368,2026-02-05 8:05:00,Merkato,ST-ME-02,HydroSense,Day,2.46,93.8,0.536,81,Valid
+TR-00369,2026-02-05 20:09:00,Merkato,ST-ME-02,HydroSense,Night,2.26,90.8,0.536,82,Valid
+TR-00370,2026-02-05 8:12:00,Gullele,ST-GU-02,Civic Metering,Day,2.59,99,0.576,88,Valid
+TR-00371,2026-02-05 20:16:00,Gullele,ST-GU-02,Civic Metering,Night,2.39,96,0.576,89,Valid
+TR-00372,2026-02-06 8:00:00,Bole,ST-BS-03,Acme Instruments,Day,2.04,75.4,0.25,87,Valid
+TR-00373,2026-02-06 20:04:00,Bole,ST-BS-03,Acme Instruments,Night,1.84,72.4,0.25,88,Valid
+TR-00374,2026-02-06 8:07:00,Akaki,ST-AK-03,HydroSense,Day,2.17,80.6,0.29,94,Valid
+TR-00375,2026-02-06 20:11:00,Akaki,ST-AK-03,HydroSense,Night,1.97,77.6,0.29,95,Valid
+TR-00376,2026-02-06 8:14:00,Kirkos,ST-KI-03,Civic Metering,Day,2.29,85.8,0.33,72,Review
+TR-00377,2026-02-06 20:18:00,Kirkos,ST-KI-03,Civic Metering,Night,2.09,82.8,0.33,73,Valid
+TR-00378,2026-02-06 8:21:00,Lideta,ST-LI-03,Acme Instruments,Day,2.43,91,0.37,79,Valid
+TR-00379,2026-02-06 20:02:00,Lideta,ST-LI-03,Acme Instruments,Night,2.23,88,0.37,80,Valid
+TR-00380,2026-02-06 8:05:00,Merkato,ST-ME-03,HydroSense,Day,2.56,96.2,0.41,86,Valid
+TR-00381,2026-02-06 20:09:00,Merkato,ST-ME-03,HydroSense,Night,2.35,93.2,0.41,87,Valid
+TR-00382,2026-02-06 8:12:00,Gullele,ST-GU-03,Civic Metering,Day,2.69,101.4,0.45,93,Valid
+TR-00383,2026-02-06 20:16:00,Gullele,ST-GU-03,Civic Metering,Night,2.48,98.4,0.45,94,Valid
+TR-00384,2026-02-07 8:00:00,Bole,ST-BS-01,Acme Instruments,Day,2.13,77.8,0.268,92,Valid
+TR-00385,2026-02-07 20:04:00,Bole,ST-BS-01,Acme Instruments,Night,1.93,74.8,0.268,93,Valid
+TR-00386,2026-02-07 8:07:00,Akaki,ST-AK-01,HydroSense,Day,2.26,83,0.308,99,Valid
+TR-00387,2026-02-07 20:11:00,Akaki,ST-AK-01,HydroSense,Night,2.06,80,0.308,100,Valid
+TR-00388,2026-02-07 8:14:00,Kirkos,ST-KI-01,Civic Metering,Day,2.39,88.2,0.348,77,Valid
+TR-00389,2026-02-07 20:18:00,Kirkos,ST-KI-01,Civic Metering,Night,2.19,85.2,0.348,78,Valid
+TR-00390,2026-02-07 8:21:00,Lideta,ST-LI-01,Acme Instruments,Day,2.52,93.4,0.388,84,Valid
+TR-00391,2026-02-07 20:02:00,Lideta,ST-LI-01,Acme Instruments,Night,2.32,90.4,0.388,85,Valid
+TR-00392,2026-02-07 8:05:00,Merkato,ST-ME-01,HydroSense,Day,2.65,98.6,0.428,91,Valid
+TR-00393,2026-02-07 20:09:00,Merkato,ST-ME-01,HydroSense,Night,2.45,95.6,0.428,92,Valid
+TR-00394,2026-02-07 8:12:00,Gullele,ST-GU-01,Civic Metering,Day,2.78,103.8,0.468,98,Valid
+TR-00395,2026-02-07 20:16:00,Gullele,ST-GU-01,Civic Metering,Night,2.58,100.8,0.468,99,Valid
+TR-00396,2026-02-08 8:00:00,Bole,ST-BS-02,Acme Instruments,Day,2.23,80.2,0.286,97,Valid
+TR-00397,2026-02-08 20:04:00,Bole,ST-BS-02,Acme Instruments,Night,2.02,77.2,0.286,98,Valid
+TR-00398,2026-02-08 8:07:00,Akaki,ST-AK-02,HydroSense,Day,2.35,85.4,0.326,75,Valid
+TR-00399,2026-02-08 20:11:00,Akaki,ST-AK-02,HydroSense,Night,2.15,82.4,0.326,76,Review
+TR-00400,2026-02-08 8:14:00,Kirkos,ST-KI-02,Civic Metering,Day,2.49,90.6,0.366,82,Valid
+TR-00401,2026-02-08 20:18:00,Kirkos,ST-KI-02,Civic Metering,Night,2.29,87.6,0.366,83,Valid
+TR-00402,2026-02-08 8:21:00,Lideta,ST-LI-02,Acme Instruments,Day,2.62,95.8,0.406,89,Valid
+TR-00403,2026-02-08 20:02:00,Lideta,ST-LI-02,Acme Instruments,Night,2.42,92.8,0.406,90,Valid
+TR-00404,2026-02-08 8:05:00,Merkato,ST-ME-02,HydroSense,Day,2.75,101,0.446,96,Valid
+TR-00405,2026-02-08 20:09:00,Merkato,ST-ME-02,HydroSense,Night,2.54,98,0.446,97,Valid
+TR-00406,2026-02-08 8:12:00,Gullele,ST-GU-02,Civic Metering,Day,2.88,106.2,0.486,74,Valid
+TR-00407,2026-02-08 20:16:00,Gullele,ST-GU-02,Civic Metering,Night,2.67,103.2,0.486,75,Valid
+TR-00408,2026-02-09 8:00:00,Bole,ST-BS-03,Acme Instruments,Day,2.32,82.6,0.304,73,Valid
+TR-00409,2026-02-09 20:04:00,Bole,ST-BS-03,Acme Instruments,Night,2.12,79.6,0.304,74,Valid
+TR-00410,2026-02-09 8:07:00,Akaki,ST-AK-03,HydroSense,Day,2.45,87.8,0.344,80,Review
+TR-00411,2026-02-09 20:11:00,Akaki,ST-AK-03,HydroSense,Night,2.25,84.8,0.344,81,Valid
+TR-00412,2026-02-09 8:14:00,Kirkos,ST-KI-03,Civic Metering,Day,2.58,93,0.384,87,Valid
+TR-00413,2026-02-09 20:18:00,Kirkos,ST-KI-03,Civic Metering,Night,2.38,90,0.384,88,Valid
+TR-00414,2026-02-09 8:21:00,Lideta,ST-LI-03,Acme Instruments,Day,2.71,98.2,0.424,94,Valid
+TR-00415,2026-02-09 20:02:00,Lideta,ST-LI-03,Acme Instruments,Night,2.51,95.2,0.424,95,Valid
+TR-00416,2026-02-09 8:05:00,Merkato,ST-ME-03,HydroSense,Day,2.84,103.4,0.464,72,Valid
+TR-00417,2026-02-09 20:09:00,Merkato,ST-ME-03,HydroSense,Night,2.64,100.4,0.464,73,Valid
+TR-00418,2026-02-09 8:12:00,Gullele,ST-GU-03,Civic Metering,Day,2.97,108.6,0.504,79,Valid
+TR-00419,2026-02-09 20:16:00,Gullele,ST-GU-03,Civic Metering,Night,2.77,105.6,0.504,80,Valid
+TR-00420,2026-02-10 8:00:00,Bole,ST-BS-01,Acme Instruments,Day,1.56,85,0.322,78,Valid
+TR-00421,2026-02-10 20:04:00,Bole,ST-BS-01,Acme Instruments,Night,1.36,82,0.322,79,Valid
+TR-00422,2026-02-10 8:07:00,Akaki,ST-AK-01,HydroSense,Day,1.69,90.2,0.362,85,Valid
+TR-00423,2026-02-10 20:11:00,Akaki,ST-AK-01,HydroSense,Night,1.49,87.2,0.362,86,Valid
+TR-00424,2026-02-10 8:14:00,Kirkos,ST-KI-01,Civic Metering,Day,1.82,95.4,0.402,92,Valid
+TR-00425,2026-02-10 20:18:00,Kirkos,ST-KI-01,Civic Metering,Night,1.62,92.4,0.402,93,Valid
+TR-00426,2026-02-10 8:21:00,Lideta,ST-LI-01,Acme Instruments,Day,1.95,100.6,0.442,99,Valid
+TR-00427,2026-02-10 20:02:00,Lideta,ST-LI-01,Acme Instruments,Night,1.75,97.6,0.442,100,Valid
+TR-00428,2026-02-10 8:05:00,Merkato,ST-ME-01,HydroSense,Day,2.08,105.8,0.482,77,Valid
+TR-00429,2026-02-10 20:09:00,Merkato,ST-ME-01,HydroSense,Night,1.88,102.8,0.482,78,Valid
+TR-00430,2026-02-10 8:12:00,Gullele,ST-GU-01,Civic Metering,Day,2.21,111,0.522,84,Valid
+TR-00431,2026-02-11 8:00:00,Bole,ST-BS-02,Acme Instruments,Day,1.66,87.4,0.34,83,Valid
+TR-00432,2026-02-11 20:04:00,Bole,ST-BS-02,Acme Instruments,Night,1.46,84.4,0.34,84,Review
+TR-00433,2026-02-11 8:07:00,Akaki,ST-AK-02,HydroSense,Day,1.78,92.6,0.38,90,Valid
+TR-00434,2026-02-11 20:11:00,Akaki,ST-AK-02,HydroSense,Night,1.58,89.6,0.38,91,Valid
+TR-00435,2026-02-11 8:14:00,Kirkos,ST-KI-02,Civic Metering,Day,1.92,97.8,0.42,97,Valid
+TR-00436,2026-02-11 20:18:00,Kirkos,ST-KI-02,Civic Metering,Night,1.72,94.8,0.42,98,Valid
+TR-00437,2026-02-11 8:21:00,Lideta,ST-LI-02,Acme Instruments,Day,2.05,103,0.46,75,Valid
+TR-00438,2026-02-11 20:02:00,Lideta,ST-LI-02,Acme Instruments,Night,1.85,100,0.46,76,Valid
+TR-00439,2026-02-11 8:05:00,Merkato,ST-ME-02,HydroSense,Day,2.18,108.2,0.5,82,Valid
+TR-00440,2026-02-11 20:09:00,Merkato,ST-ME-02,HydroSense,Night,1.98,105.2,0.5,83,Valid
+TR-00441,2026-02-11 20:16:00,Gullele,ST-GU-02,Civic Metering,Night,2.1,110.4,0.54,90,Valid
+TR-00442,2026-02-12 8:00:00,Bole,ST-BS-03,Acme Instruments,Day,1.75,89.8,0.358,88,Review
+TR-00443,2026-02-12 20:04:00,Bole,ST-BS-03,Acme Instruments,Night,1.55,86.8,0.358,89,Valid
+TR-00444,2026-02-12 8:07:00,Akaki,ST-AK-03,HydroSense,Day,1.88,95,0.398,95,Valid
+TR-00445,2026-02-12 20:11:00,Akaki,ST-AK-03,HydroSense,Night,1.68,92,0.398,96,Valid
+TR-00446,2026-02-12 8:14:00,Kirkos,ST-KI-03,Civic Metering,Day,2.01,100.2,0.438,73,Valid
+TR-00447,2026-02-12 20:18:00,Kirkos,ST-KI-03,Civic Metering,Night,1.81,97.2,0.438,74,Valid
+TR-00448,2026-02-12 8:21:00,Lideta,ST-LI-03,Acme Instruments,Day,2.14,105.4,0.478,80,Valid
+TR-00449,2026-02-12 20:02:00,Lideta,ST-LI-03,Acme Instruments,Night,1.94,102.4,0.478,81,Valid
+TR-00450,2026-02-12 8:05:00,Merkato,ST-ME-03,HydroSense,Day,2.27,110.6,0.518,87,Valid
+TR-00451,2026-02-12 20:09:00,Merkato,ST-ME-03,HydroSense,Night,,107.6,0.518,88,Valid
+TR-00452,2026-02-12 8:12:00,Gullele,ST-GU-03,Civic Metering,Day,2.4,115.8,0.558,94,Valid
+TR-00453,2026-02-12 20:16:00,Gullele,ST-GU-03,Civic Metering,Night,2.2,112.8,0.558,95,Valid
+TR-00454,2026-02-13 8:00:00,Bole,ST-BS-01,Acme Instruments,Day,1.85,61,0.376,93,Valid
+TR-00455,2026-02-13 20:04:00,Bole,ST-BS-01,Acme Instruments,Night,1.65,58,0.376,94,Valid
+TR-00456,2026-02-13 8:07:00,Akaki,ST-AK-01,HydroSense,Day,1.98,66.2,0.416,100,Valid
+TR-00457,2026-02-13 20:11:00,Akaki,ST-AK-01,HydroSense,Night,1.78,63.2,0.416,72,Valid
+TR-00458,2026-02-13 8:14:00,Kirkos,ST-KI-01,Civic Metering,Day,2.1,71.4,0.456,78,Valid
+TR-00459,2026-02-13 20:18:00,Kirkos,ST-KI-01,Civic Metering,Night,1.91,68.4,0.456,79,Valid
+TR-00460,2026-02-13 8:21:00,Lideta,ST-LI-01,Acme Instruments,Day,2.24,76.6,0.496,85,Valid
+TR-00461,2026-02-13 20:02:00,Lideta,ST-LI-01,Acme Instruments,Night,2.04,73.6,0.496,86,Valid
+TR-00462,2026-02-13 8:05:00,Merkato,ST-ME-01,HydroSense,Day,,81.8,0.536,92,Valid
+TR-00463,2026-02-13 20:09:00,Merkato,ST-ME-01,HydroSense,Night,2.17,78.8,0.536,93,Valid
+TR-00464,2026-02-13 8:12:00,Gullele,ST-GU-01,Civic Metering,Day,2.5,87,0.576,99,Valid
+TR-00465,2026-02-13 20:16:00,Gullele,ST-GU-01,Civic Metering,Night,2.29,84,0.576,100,Valid
+TR-00466,2026-02-14 8:00:00,Bole,ST-BS-02,Acme Instruments,Day,1.94,63.4,0.25,98,Valid
+TR-00467,2026-02-14 20:04:00,Bole,ST-BS-02,Acme Instruments,Night,1.74,60.4,0.25,99,Valid
+TR-00468,2026-02-14 8:07:00,Akaki,ST-AK-02,HydroSense,Day,2.07,68.6,0.29,76,Valid
+TR-00469,2026-02-14 20:11:00,Akaki,ST-AK-02,HydroSense,Night,1.87,65.6,0.29,77,Valid
+TR-00470,2026-02-14 8:14:00,Kirkos,ST-KI-02,Civic Metering,Day,2.2,73.8,0.33,83,Valid
+TR-00471,2026-02-14 20:18:00,Kirkos,ST-KI-02,Civic Metering,Night,2,70.8,0.33,84,Valid
+TR-00472,2026-02-14 8:21:00,Lideta,ST-LI-02,Acme Instruments,Day,2.33,79,0.37,90,Valid
+TR-00473,2026-02-14 20:02:00,Lideta,ST-LI-02,Acme Instruments,Night,,76,0.37,91,Valid
+TR-00474,2026-02-14 8:05:00,Merkato,ST-ME-02,HydroSense,Day,2.46,84.2,0.41,97,Valid
+TR-00475,2026-02-14 20:09:00,Merkato,ST-ME-02,HydroSense,Night,2.26,81.2,0.41,98,Valid
+TR-00476,2026-02-14 8:12:00,Gullele,ST-GU-02,Civic Metering,Day,2.59,89.4,0.45,75,Valid
+TR-00477,2026-02-14 20:16:00,Gullele,ST-GU-02,Civic Metering,Night,2.39,86.4,0.45,76,Valid
+TR-00478,2026-02-15 8:00:00,Bole,ST-BS-03,Acme Instruments,Day,2.04,65.8,0.268,74,Valid
+TR-00479,2026-02-15 20:04:00,Bole,ST-BS-03,Acme Instruments,Night,1.84,62.8,0.268,75,Valid
+TR-00480,2026-02-15 8:07:00,Akaki,ST-AK-03,HydroSense,Day,2.17,71,0.308,81,Valid
+TR-00481,2026-02-15 20:11:00,Akaki,ST-AK-03,HydroSense,Night,1.97,68,0.308,82,Valid
+TR-00482,2026-02-15 8:14:00,Kirkos,ST-KI-03,Civic Metering,Day,2.29,76.2,0.348,88,Valid
+TR-00483,2026-02-15 20:18:00,Kirkos,ST-KI-03,Civic Metering,Night,2.09,73.2,0.348,89,Valid
+TR-00484,2026-02-15 8:21:00,Lideta,ST-LI-03,Acme Instruments,Day,,81.4,0.388,95,Valid
+TR-00485,2026-02-15 20:02:00,Lideta,ST-LI-03,Acme Instruments,Night,2.23,78.4,0.388,96,Valid
+TR-00486,2026-02-15 8:05:00,Merkato,ST-ME-03,HydroSense,Day,2.56,86.6,0.428,73,Valid
+TR-00487,2026-02-15 8:12:00,Gullele,ST-GU-03,Civic Metering,Day,2.69,91.8,0.468,80,Valid
+TR-00488,2026-02-15 20:16:00,Gullele,ST-GU-03,Civic Metering,Night,2.48,88.8,0.468,81,Review
+TR-00489,2026-02-16 8:00:00,Bole,ST-BS-01,Acme Instruments,Day,2.13,68.2,0.286,79,Valid
+TR-00490,2026-02-16 20:04:00,Bole,ST-BS-01,Acme Instruments,Night,1.93,65.2,0.286,80,Valid
+TR-00491,2026-02-16 8:07:00,Akaki,ST-AK-01,HydroSense,Day,2.26,73.4,0.326,86,Valid
+TR-00492,2026-02-16 20:11:00,Akaki,ST-AK-01,HydroSense,Night,2.06,70.4,0.326,87,Valid
+TR-00493,2026-02-16 8:14:00,Kirkos,ST-KI-01,Civic Metering,Day,2.39,78.6,0.366,93,Valid
+TR-00494,2026-02-16 20:18:00,Kirkos,ST-KI-01,Civic Metering,Night,,75.6,0.366,94,Valid
+TR-00495,2026-02-16 8:21:00,Lideta,ST-LI-01,Acme Instruments,Day,2.52,83.8,0.406,100,Valid
+TR-00496,2026-02-16 20:02:00,Lideta,ST-LI-01,Acme Instruments,Night,2.32,80.8,0.406,72,Valid
+TR-00497,2026-02-16 20:09:00,Merkato,ST-ME-01,HydroSense,Night,2.45,86,0.446,79,Valid
+TR-00498,2026-02-16 8:12:00,Gullele,ST-GU-01,Civic Metering,Day,2.78,94.2,0.486,85,Review
+TR-00499,2026-02-16 20:16:00,Gullele,ST-GU-01,Civic Metering,Night,2.58,91.2,0.486,86,Valid
+TR-00500,2026-02-17 8:00:00,Bole,ST-BS-02,Acme Instruments,Day,2.23,70.6,0.304,84,Valid
+TR-00501,2026-02-17 20:04:00,Bole,ST-BS-02,Acme Instruments,Night,2.02,67.6,0.304,85,Valid
+TR-00502,2026-02-17 8:07:00,Akaki,ST-AK-02,HydroSense,Day,2.35,75.8,0.344,91,Valid
+TR-00503,2026-02-17 20:11:00,Akaki,ST-AK-02,HydroSense,Night,2.15,72.8,0.344,92,Valid
+TR-00504,2026-02-17 8:14:00,Kirkos,ST-KI-02,Civic Metering,Day,,81,0.384,98,Valid
+TR-00505,2026-02-17 20:18:00,Kirkos,ST-KI-02,Civic Metering,Night,2.29,78,0.384,99,Valid
+TR-00506,2026-02-17 8:21:00,Lideta,ST-LI-02,Acme Instruments,Day,2.62,86.2,0.424,76,Valid
+TR-00507,2026-02-17 20:02:00,Lideta,ST-LI-02,Acme Instruments,Night,2.42,83.2,0.424,77,Valid
+TR-00508,2026-02-17 8:05:00,Merkato,ST-ME-02,HydroSense,Day,2.75,91.4,0.464,83,Valid
+TR-00509,2026-02-17 20:09:00,Merkato,ST-ME-02,HydroSense,Night,2.54,88.4,0.464,84,Valid
+TR-00510,2026-02-17 8:12:00,Gullele,ST-GU-02,Civic Metering,Day,2.88,96.6,0.504,90,Valid
+TR-00511,2026-02-17 20:16:00,Gullele,ST-GU-02,Civic Metering,Night,2.67,93.6,0.504,91,Valid
+TR-00512,2026-02-18 8:00:00,Bole,ST-BS-03,Acme Instruments,Day,2.32,73,0.322,89,Valid
+TR-00513,2026-02-18 20:04:00,Bole,ST-BS-03,Acme Instruments,Night,2.12,70,0.322,90,Valid
+TR-00514,2026-02-18 8:07:00,Akaki,ST-AK-03,HydroSense,Day,2.45,78.2,0.362,96,Valid
+TR-00515,2026-02-18 20:11:00,Akaki,ST-AK-03,HydroSense,Night,,75.2,0.362,97,Valid
+TR-00516,2026-02-18 8:14:00,Kirkos,ST-KI-03,Civic Metering,Day,2.58,83.4,0.402,74,Valid
+TR-00517,2026-02-18 20:18:00,Kirkos,ST-KI-03,Civic Metering,Night,2.38,80.4,0.402,75,Valid
+TR-00518,2026-02-18 8:21:00,Lideta,ST-LI-03,Acme Instruments,Day,2.71,88.6,0.442,81,Valid
+TR-00519,2026-02-18 20:02:00,Lideta,ST-LI-03,Acme Instruments,Night,2.51,85.6,0.442,82,Valid
+TR-00520,2026-02-18 8:05:00,Merkato,ST-ME-03,HydroSense,Day,2.84,93.8,0.482,88,Valid
+TR-00521,2026-02-18 20:09:00,Merkato,ST-ME-03,HydroSense,Night,2.64,90.8,0.482,89,Review
+TR-00522,2026-02-18 8:12:00,Gullele,ST-GU-03,Civic Metering,Day,2.97,99,0.522,95,Valid
+TR-00523,2026-02-18 20:16:00,Gullele,ST-GU-03,Civic Metering,Night,2.77,96,0.522,96,Valid
+TR-00524,2026-02-19 8:00:00,Bole,ST-BS-01,Acme Instruments,Day,1.56,75.4,0.34,94,Valid
+TR-00525,2026-02-19 20:04:00,Bole,ST-BS-01,Acme Instruments,Night,1.36,72.4,0.34,95,Valid
+TR-00526,2026-02-19 8:07:00,Akaki,ST-AK-01,HydroSense,Day,,80.6,0.38,72,Valid
+TR-00527,2026-02-19 20:11:00,Akaki,ST-AK-01,HydroSense,Night,1.49,77.6,0.38,73,Valid
+TR-00528,2026-02-19 8:14:00,Kirkos,ST-KI-01,Civic Metering,Day,1.82,85.8,0.42,79,Valid
+TR-00529,2026-02-19 20:18:00,Kirkos,ST-KI-01,Civic Metering,Night,1.62,82.8,0.42,80,Valid
+TR-00530,2026-02-19 8:21:00,Lideta,ST-LI-01,Acme Instruments,Day,1.95,91,0.46,86,Valid
+TR-00531,2026-02-19 20:02:00,Lideta,ST-LI-01,Acme Instruments,Night,1.75,88,0.46,87,Valid
+TR-00532,2026-02-19 8:05:00,Merkato,ST-ME-01,HydroSense,Day,2.08,96.2,0.5,93,Review
+TR-00533,2026-02-19 20:09:00,Merkato,ST-ME-01,HydroSense,Night,1.88,93.2,0.5,94,Valid
+TR-00534,2026-02-19 8:12:00,Gullele,ST-GU-01,Civic Metering,Day,2.21,101.4,0.54,100,Valid
+TR-00535,2026-02-19 20:16:00,Gullele,ST-GU-01,Civic Metering,Night,2.01,98.4,0.54,72,Valid
+TR-00536,2026-02-20 8:00:00,Bole,ST-BS-02,Acme Instruments,Day,1.66,77.8,0.358,99,Valid
+TR-00537,2026-02-20 20:04:00,Bole,ST-BS-02,Acme Instruments,Night,,74.8,0.358,100,Valid
+TR-00538,2026-02-20 8:07:00,Akaki,ST-AK-02,HydroSense,Day,1.78,83,0.398,77,Valid
+TR-00539,2026-02-20 20:11:00,Akaki,ST-AK-02,HydroSense,Night,1.58,80,0.398,78,Valid
+TR-00540,2026-02-20 8:14:00,Kirkos,ST-KI-02,Civic Metering,Day,1.92,88.2,0.438,84,Valid
+TR-00541,2026-02-20 20:18:00,Kirkos,ST-KI-02,Civic Metering,Night,1.72,85.2,0.438,85,Valid
+TR-00542,2026-02-20 8:21:00,Lideta,ST-LI-02,Acme Instruments,Day,2.05,93.4,0.478,91,Valid
+TR-00543,2026-02-20 8:05:00,Merkato,ST-ME-02,HydroSense,Day,2.18,98.6,0.518,98,Valid
+TR-00544,2026-02-20 20:09:00,Merkato,ST-ME-02,HydroSense,Night,1.98,95.6,0.518,99,Valid
+TR-00545,2026-02-20 8:12:00,Gullele,ST-GU-02,Civic Metering,Day,2.31,103.8,0.558,76,Valid
+TR-00546,2026-02-20 20:16:00,Gullele,ST-GU-02,Civic Metering,Night,2.1,100.8,0.558,77,Valid
+TR-00547,2026-02-21 8:00:00,Bole,ST-BS-03,Acme Instruments,Day,,80.2,0.376,75,Valid
+TR-00548,2026-02-21 20:04:00,Bole,ST-BS-03,Acme Instruments,Night,1.55,77.2,0.376,76,Valid
+TR-00549,2026-02-21 8:07:00,Akaki,ST-AK-03,HydroSense,Day,1.88,85.4,0.416,82,Valid
+TR-00550,2026-02-21 20:11:00,Akaki,ST-AK-03,HydroSense,Night,1.68,82.4,0.416,83,Valid
+TR-00551,2026-02-21 8:14:00,Kirkos,ST-KI-03,Civic Metering,Day,2.01,90.6,0.456,89,Valid
+TR-00552,2026-02-21 20:18:00,Kirkos,ST-KI-03,Civic Metering,Night,1.81,87.6,0.456,90,Valid
+TR-00553,2026-02-21 20:02:00,Lideta,ST-LI-03,Acme Instruments,Night,1.94,92.8,0.496,97,Review
+TR-00554,2026-02-21 8:05:00,Merkato,ST-ME-03,HydroSense,Day,2.27,101,0.536,74,Valid
+TR-00555,2026-02-21 20:09:00,Merkato,ST-ME-03,HydroSense,Night,2.07,98,0.536,75,Valid
+TR-00556,2026-02-21 8:12:00,Gullele,ST-GU-03,Civic Metering,Day,2.4,106.2,0.576,81,Valid
+TR-00557,2026-02-21 20:16:00,Gullele,ST-GU-03,Civic Metering,Night,2.2,103.2,0.576,82,Valid
+TR-00558,2026-02-22 8:00:00,Bole,ST-BS-01,Acme Instruments,Day,1.85,82.6,0.25,80,Valid
+TR-00559,2026-02-22 20:04:00,Bole,ST-BS-01,Acme Instruments,Night,1.65,79.6,0.25,81,Valid
+TR-00560,2026-02-22 8:07:00,Akaki,ST-AK-01,HydroSense,Day,1.98,87.8,0.29,87,Valid
+TR-00561,2026-02-22 20:11:00,Akaki,ST-AK-01,HydroSense,Night,1.78,84.8,0.29,88,Valid
+TR-00562,2026-02-22 8:14:00,Kirkos,ST-KI-01,Civic Metering,Day,2.1,93,0.33,94,Valid
+TR-00563,2026-02-22 20:18:00,Kirkos,ST-KI-01,Civic Metering,Night,1.91,90,0.33,95,Valid
+TR-00564,2026-02-22 8:21:00,Lideta,ST-LI-01,Acme Instruments,Day,2.24,98.2,0.37,72,Review
+TR-00565,2026-02-22 20:02:00,Lideta,ST-LI-01,Acme Instruments,Night,2.04,95.2,0.37,73,Valid
+TR-00566,2026-02-22 8:05:00,Merkato,ST-ME-01,HydroSense,Day,2.37,103.4,0.41,79,Valid
+TR-00567,2026-02-22 20:09:00,Merkato,ST-ME-01,HydroSense,Night,2.17,100.4,0.41,80,Valid
+TR-00568,2026-02-22 8:12:00,Gullele,ST-GU-01,Civic Metering,Day,2.5,108.6,0.45,86,Valid
+TR-00569,2026-02-22 20:16:00,Gullele,ST-GU-01,Civic Metering,Night,2.29,105.6,0.45,87,Valid
+TR-00570,2026-02-23 8:00:00,Bole,ST-BS-02,Acme Instruments,Day,1.94,85,0.268,85,Valid
+TR-00571,2026-02-23 20:04:00,Bole,ST-BS-02,Acme Instruments,Night,1.74,82,0.268,86,Valid
+TR-00572,2026-02-23 8:07:00,Akaki,ST-AK-02,HydroSense,Day,2.07,90.2,0.308,92,Valid
+TR-00573,2026-02-23 20:11:00,Akaki,ST-AK-02,HydroSense,Night,1.87,87.2,0.308,93,Valid
+TR-00574,2026-02-23 8:14:00,Kirkos,ST-KI-02,Civic Metering,Day,2.2,95.4,0.348,99,Valid
+TR-00575,2026-02-23 20:18:00,Kirkos,ST-KI-02,Civic Metering,Night,2,92.4,0.348,100,Valid
+TR-00576,2026-02-23 8:21:00,Lideta,ST-LI-02,Acme Instruments,Day,2.33,100.6,0.388,77,Valid
+TR-00577,2026-02-23 20:02:00,Lideta,ST-LI-02,Acme Instruments,Night,2.13,97.6,0.388,78,Valid
+TR-00578,2026-02-23 8:05:00,Merkato,ST-ME-02,HydroSense,Day,2.46,105.8,0.428,84,Valid
+TR-00579,2026-02-23 20:09:00,Merkato,ST-ME-02,HydroSense,Night,2.26,102.8,0.428,85,Valid
+TR-00580,2026-02-23 8:12:00,Gullele,ST-GU-02,Civic Metering,Day,2.59,111,0.468,91,Valid
+TR-00581,2026-02-23 20:16:00,Gullele,ST-GU-02,Civic Metering,Night,2.39,108,0.468,92,Valid
+TR-00582,2026-02-24 8:00:00,Bole,ST-BS-03,Acme Instruments,Day,2.04,87.4,0.286,90,Valid
+TR-00583,2026-02-24 20:04:00,Bole,ST-BS-03,Acme Instruments,Night,1.84,84.4,0.286,91,Valid
+TR-00584,2026-02-24 8:07:00,Akaki,ST-AK-03,HydroSense,Day,2.17,92.6,0.326,97,Valid
+TR-00585,2026-02-24 20:11:00,Akaki,ST-AK-03,HydroSense,Night,1.97,89.6,0.326,98,Valid
+TR-00586,2026-02-24 8:14:00,Kirkos,ST-KI-03,Civic Metering,Day,2.29,97.8,0.366,75,Valid
+TR-00587,2026-02-24 20:18:00,Kirkos,ST-KI-03,Civic Metering,Night,2.09,94.8,0.366,76,Review
+TR-00588,2026-02-24 8:21:00,Lideta,ST-LI-03,Acme Instruments,Day,2.43,103,0.406,82,Valid
+TR-00589,2026-02-24 20:02:00,Lideta,ST-LI-03,Acme Instruments,Night,2.23,100,0.406,83,Valid
+TR-00590,2026-02-24 8:05:00,Merkato,ST-ME-03,HydroSense,Day,2.56,108.2,0.446,89,Valid
+TR-00591,2026-02-24 20:09:00,Merkato,ST-ME-03,HydroSense,Night,2.35,105.2,0.446,90,Valid
+TR-00592,2026-02-24 8:12:00,Gullele,ST-GU-03,Civic Metering,Day,2.69,113.4,0.486,96,Valid
+TR-00593,2026-02-24 20:16:00,Gullele,ST-GU-03,Civic Metering,Night,2.48,110.4,0.486,97,Valid
+TR-00594,2026-02-25 8:00:00,Bole,ST-BS-01,Acme Instruments,Day,2.13,89.8,0.304,95,Valid
+TR-00595,2026-02-25 20:04:00,Bole,ST-BS-01,Acme Instruments,Night,1.93,86.8,0.304,96,Valid
+TR-00596,2026-02-25 8:07:00,Akaki,ST-AK-01,HydroSense,Day,2.26,95,0.344,73,Valid
+TR-00597,2026-02-25 20:11:00,Akaki,ST-AK-01,HydroSense,Night,2.06,92,0.344,74,Valid
+TR-00598,2026-02-25 8:14:00,Kirkos,ST-KI-01,Civic Metering,Day,2.39,100.2,0.384,80,Review
+TR-00599,2026-02-25 8:21:00,Lideta,ST-LI-01,Acme Instruments,Day,2.52,105.4,0.424,87,Valid
+TR-00600,2026-02-25 20:02:00,Lideta,ST-LI-01,Acme Instruments,Night,2.32,102.4,0.424,88,Valid
+TR-00601,2026-02-25 8:05:00,Merkato,ST-ME-01,HydroSense,Day,2.65,110.6,0.464,94,Valid
+TR-00602,2026-02-25 20:09:00,Merkato,ST-ME-01,HydroSense,Night,2.45,107.6,0.464,95,Valid
+TR-00603,2026-02-25 8:12:00,Gullele,ST-GU-01,Civic Metering,Day,2.78,115.8,0.504,72,Valid
+TR-00604,2026-02-25 20:16:00,Gullele,ST-GU-01,Civic Metering,Night,2.58,112.8,0.504,73,Valid
+TR-00605,2026-02-26 8:00:00,Bole,ST-BS-02,Acme Instruments,Day,2.23,61,0.322,100,Valid
+TR-00606,2026-02-26 20:04:00,Bole,ST-BS-02,Acme Instruments,Night,2.02,58,0.322,72,Valid
+TR-00607,2026-02-26 8:07:00,Akaki,ST-AK-02,HydroSense,Day,2.35,66.2,0.362,78,Valid
+TR-00608,2026-02-26 20:11:00,Akaki,ST-AK-02,HydroSense,Night,2.15,63.2,0.362,79,Valid
+TR-00609,2026-02-26 20:18:00,Kirkos,ST-KI-02,Civic Metering,Night,2.29,68.4,0.402,86,Valid
+TR-00610,2026-02-26 8:21:00,Lideta,ST-LI-02,Acme Instruments,Day,2.62,76.6,0.442,92,Valid
+TR-00611,2026-02-26 20:02:00,Lideta,ST-LI-02,Acme Instruments,Night,2.42,73.6,0.442,93,Valid
+TR-00612,2026-02-26 8:05:00,Merkato,ST-ME-02,HydroSense,Day,2.75,81.8,0.482,99,Valid
+TR-00613,2026-02-26 20:09:00,Merkato,ST-ME-02,HydroSense,Night,2.54,78.8,0.482,100,Valid
+TR-00614,2026-02-26 8:12:00,Gullele,ST-GU-02,Civic Metering,Day,2.88,87,0.522,77,Valid
+TR-00615,2026-02-26 20:16:00,Gullele,ST-GU-02,Civic Metering,Night,2.67,84,0.522,78,Valid
+TR-00616,2026-02-27 8:00:00,Bole,ST-BS-03,Acme Instruments,Day,2.32,63.4,0.34,76,Valid
+TR-00617,2026-02-27 20:04:00,Bole,ST-BS-03,Acme Instruments,Night,2.12,60.4,0.34,77,Valid
+TR-00618,2026-02-27 8:07:00,Akaki,ST-AK-03,HydroSense,Day,2.45,68.6,0.38,83,Valid
+TR-00619,2026-02-27 20:11:00,Akaki,ST-AK-03,HydroSense,Night,2.25,65.6,0.38,84,Review
+TR-00620,2026-02-27 8:14:00,Kirkos,ST-KI-03,Civic Metering,Day,2.58,73.8,0.42,90,Valid
+TR-00621,2026-02-27 20:18:00,Kirkos,ST-KI-03,Civic Metering,Night,2.38,70.8,0.42,91,Valid
+TR-00622,2026-02-27 8:21:00,Lideta,ST-LI-03,Acme Instruments,Day,2.71,79,0.46,97,Valid
+TR-00623,2026-02-27 20:02:00,Lideta,ST-LI-03,Acme Instruments,Night,2.51,76,0.46,98,Valid
+TR-00624,2026-02-27 8:05:00,Merkato,ST-ME-03,HydroSense,Day,2.84,84.2,0.5,75,Valid
+TR-00625,2026-02-27 20:09:00,Merkato,ST-ME-03,HydroSense,Night,2.64,81.2,0.5,76,Valid
+TR-00626,2026-02-27 8:12:00,Gullele,ST-GU-03,Civic Metering,Day,2.97,89.4,0.54,82,Valid
+TR-00627,2026-02-27 20:16:00,Gullele,ST-GU-03,Civic Metering,Night,2.77,86.4,0.54,83,Valid
+TR-00628,2026-02-28 8:00:00,Bole,ST-BS-01,Acme Instruments,Day,1.56,65.8,0.358,81,Valid
+TR-00629,2026-02-28 20:04:00,Bole,ST-BS-01,Acme Instruments,Night,1.36,62.8,0.358,82,Valid
+TR-00630,2026-02-28 8:07:00,Akaki,ST-AK-01,HydroSense,Day,1.69,71,0.398,88,Review
+TR-00631,2026-02-28 20:11:00,Akaki,ST-AK-01,HydroSense,Night,1.49,68,0.398,89,Valid
+TR-00632,2026-02-28 8:14:00,Kirkos,ST-KI-01,Civic Metering,Day,1.82,76.2,0.438,95,Valid
+TR-00633,2026-02-28 20:18:00,Kirkos,ST-KI-01,Civic Metering,Night,1.62,73.2,0.438,96,Valid
+TR-00634,2026-02-28 8:21:00,Lideta,ST-LI-01,Acme Instruments,Day,1.95,81.4,0.478,73,Valid
+TR-00635,2026-02-28 20:02:00,Lideta,ST-LI-01,Acme Instruments,Night,1.75,78.4,0.478,74,Valid
+TR-00636,2026-02-28 8:05:00,Merkato,ST-ME-01,HydroSense,Day,2.08,86.6,0.518,80,Valid
+TR-00637,2026-02-28 20:09:00,Merkato,ST-ME-01,HydroSense,Night,1.88,83.6,0.518,81,Valid
+TR-00638,2026-02-28 8:12:00,Gullele,ST-GU-01,Civic Metering,Day,2.21,91.8,0.558,87,Valid
+TR-00639,2026-02-28 20:16:00,Gullele,ST-GU-01,Civic Metering,Night,2.01,88.8,0.558,88,Valid
+TR-00640,2026-03-01 8:00:00,Bole,ST-BS-02,Acme Instruments,Day,1.66,68.2,0.376,86,Valid
+TR-00641,2026-03-01 20:04:00,Bole,ST-BS-02,Acme Instruments,Night,1.46,65.2,0.376,87,Valid
+TR-00642,2026-03-01 8:07:00,Akaki,ST-AK-02,HydroSense,Day,1.78,73.4,0.416,93,Valid
+TR-00643,2026-03-01 20:11:00,Akaki,ST-AK-02,HydroSense,Night,1.58,70.4,0.416,94,Valid
+TR-00644,2026-03-01 8:14:00,Kirkos,ST-KI-02,Civic Metering,Day,1.92,78.6,0.456,100,Valid
+TR-00645,2026-03-01 20:18:00,Kirkos,ST-KI-02,Civic Metering,Night,1.72,75.6,0.456,72,Valid
+TR-00646,2026-03-01 8:21:00,Lideta,ST-LI-02,Acme Instruments,Day,2.05,83.8,0.496,78,Valid
+TR-00647,2026-03-01 20:02:00,Lideta,ST-LI-02,Acme Instruments,Night,1.85,80.8,0.496,79,Valid
+TR-00648,2026-03-01 8:05:00,Merkato,ST-ME-02,HydroSense,Day,2.18,89,0.536,85,Valid
+TR-00649,2026-03-01 20:09:00,Merkato,ST-ME-02,HydroSense,Night,1.98,86,0.536,86,Valid
+TR-00650,2026-03-01 8:12:00,Gullele,ST-GU-02,Civic Metering,Day,2.31,94.2,0.576,92,Valid
+TR-00651,2026-03-01 20:16:00,Gullele,ST-GU-02,Civic Metering,Night,2.1,91.2,0.576,93,Valid
+TR-00652,2026-03-02 8:00:00,Bole,ST-BS-03,Acme Instruments,Day,1.75,70.6,0.25,91,Valid
+TR-00653,2026-03-02 20:04:00,Bole,ST-BS-03,Acme Instruments,Night,1.55,67.6,0.25,92,Review
+TR-00654,2026-03-02 8:07:00,Akaki,ST-AK-03,HydroSense,Day,1.88,75.8,0.29,98,Valid
+TR-00655,2026-03-02 8:14:00,Kirkos,ST-KI-03,Civic Metering,Day,2.01,81,0.33,76,Valid
+TR-00656,2026-03-02 20:18:00,Kirkos,ST-KI-03,Civic Metering,Night,1.81,78,0.33,77,Valid
+TR-00657,2026-03-02 8:21:00,Lideta,ST-LI-03,Acme Instruments,Day,2.14,86.2,0.37,83,Valid
+TR-00658,2026-03-02 20:02:00,Lideta,ST-LI-03,Acme Instruments,Night,1.94,83.2,0.37,84,Valid
+TR-00659,2026-03-02 8:05:00,Merkato,ST-ME-03,HydroSense,Day,2.27,91.4,0.41,90,Valid
+TR-00660,2026-03-02 20:09:00,Merkato,ST-ME-03,HydroSense,Night,2.07,88.4,0.41,91,Valid
+TR-00661,2026-03-02 8:12:00,Gullele,ST-GU-03,Civic Metering,Day,2.4,96.6,0.45,97,Valid
+TR-00662,2026-03-02 20:16:00,Gullele,ST-GU-03,Civic Metering,Night,2.2,93.6,0.45,98,Valid
+TR-00663,2026-03-03 8:00:00,Bole,ST-BS-01,Acme Instruments,Day,1.85,73,0.268,96,Review
+TR-00664,2026-03-03 20:04:00,Bole,ST-BS-01,Acme Instruments,Night,1.65,70,0.268,97,Valid
+TR-00665,2026-03-03 20:11:00,Akaki,ST-AK-01,HydroSense,Night,1.78,75.2,0.308,75,Valid
+TR-00666,2026-03-03 8:14:00,Kirkos,ST-KI-01,Civic Metering,Day,2.1,83.4,0.348,81,Valid
+TR-00667,2026-03-03 20:18:00,Kirkos,ST-KI-01,Civic Metering,Night,1.91,80.4,0.348,82,Valid
+TR-00668,2026-03-03 8:21:00,Lideta,ST-LI-01,Acme Instruments,Day,2.24,88.6,0.388,88,Valid
+TR-00669,2026-03-03 20:02:00,Lideta,ST-LI-01,Acme Instruments,Night,2.04,85.6,0.388,89,Valid
+TR-00670,2026-03-03 8:05:00,Merkato,ST-ME-01,HydroSense,Day,2.37,93.8,0.428,95,Valid
+TR-00671,2026-03-03 20:09:00,Merkato,ST-ME-01,HydroSense,Night,2.17,90.8,0.428,96,Valid
+TR-00672,2026-03-03 8:12:00,Gullele,ST-GU-01,Civic Metering,Day,2.5,99,0.468,73,Valid
+TR-00673,2026-03-03 20:16:00,Gullele,ST-GU-01,Civic Metering,Night,2.29,96,0.468,74,Valid
+TR-00674,2026-03-04 8:00:00,Bole,ST-BS-02,Acme Instruments,Day,1.94,75.4,0.286,72,Valid
+TR-00675,2026-03-04 20:04:00,Bole,ST-BS-02,Acme Instruments,Night,1.74,72.4,0.286,73,Valid
+TR-00676,2026-03-04 8:07:00,Akaki,ST-AK-02,HydroSense,Day,2.07,80.6,0.326,79,Valid
+TR-00677,2026-03-04 20:11:00,Akaki,ST-AK-02,HydroSense,Night,1.87,77.6,0.326,80,Valid
+TR-00678,2026-03-04 8:14:00,Kirkos,ST-KI-02,Civic Metering,Day,2.2,85.8,0.366,86,Valid
+TR-00679,2026-03-04 20:18:00,Kirkos,ST-KI-02,Civic Metering,Night,2,82.8,0.366,87,Valid
+TR-00680,2026-03-04 8:21:00,Lideta,ST-LI-02,Acme Instruments,Day,2.33,91,0.406,93,Valid
+TR-00681,2026-03-04 20:02:00,Lideta,ST-LI-02,Acme Instruments,Night,2.13,88,0.406,94,Valid
+TR-00682,2026-03-04 8:05:00,Merkato,ST-ME-02,HydroSense,Day,2.46,96.2,0.446,100,Valid
+TR-00683,2026-03-04 20:09:00,Merkato,ST-ME-02,HydroSense,Night,2.26,93.2,0.446,72,Valid
+TR-00684,2026-03-04 8:12:00,Gullele,ST-GU-02,Civic Metering,Day,2.59,101.4,0.486,78,Valid
+TR-00685,2026-03-04 20:16:00,Gullele,ST-GU-02,Civic Metering,Night,2.39,98.4,0.486,79,Valid
+TR-00686,2026-03-05 8:00:00,Bole,ST-BS-03,Acme Instruments,Day,2.04,77.8,0.304,77,Valid
+TR-00687,2026-03-05 20:04:00,Bole,ST-BS-03,Acme Instruments,Night,1.84,74.8,0.304,78,Valid
+TR-00688,2026-03-05 8:07:00,Akaki,ST-AK-03,HydroSense,Day,2.17,83,0.344,84,Valid
+TR-00689,2026-03-05 20:11:00,Akaki,ST-AK-03,HydroSense,Night,1.97,80,0.344,85,Valid
+TR-00690,2026-03-05 8:14:00,Kirkos,ST-KI-03,Civic Metering,Day,2.29,88.2,0.384,91,Valid
+TR-00691,2026-03-05 20:18:00,Kirkos,ST-KI-03,Civic Metering,Night,2.09,85.2,0.384,92,Valid
+TR-00692,2026-03-05 8:21:00,Lideta,ST-LI-03,Acme Instruments,Day,2.43,93.4,0.424,98,Valid
+TR-00693,2026-03-05 20:02:00,Lideta,ST-LI-03,Acme Instruments,Night,2.23,90.4,0.424,99,Valid
+TR-00694,2026-03-05 8:05:00,Merkato,ST-ME-03,HydroSense,Day,2.56,98.6,0.464,76,Valid
+TR-00695,2026-03-05 20:09:00,Merkato,ST-ME-03,HydroSense,Night,2.35,95.6,0.464,77,Valid
+TR-00696,2026-03-05 8:12:00,Gullele,ST-GU-03,Civic Metering,Day,2.69,103.8,0.504,83,Valid
+TR-00697,2026-03-05 20:16:00,Gullele,ST-GU-03,Civic Metering,Night,2.48,100.8,0.504,84,Valid
+TR-00698,2026-03-06 8:00:00,Bole,ST-BS-01,Acme Instruments,Day,2.13,80.2,0.322,82,Valid
+TR-00699,2026-03-06 20:04:00,Bole,ST-BS-01,Acme Instruments,Night,1.93,77.2,0.322,83,Valid
+TR-00700,2026-03-06 8:07:00,Akaki,ST-AK-01,HydroSense,Day,2.26,85.4,0.362,89,Valid
+TR-00701,2026-03-06 20:11:00,Akaki,ST-AK-01,HydroSense,Night,2.06,82.4,0.362,90,Valid
+TR-00702,2026-03-06 8:14:00,Kirkos,ST-KI-01,Civic Metering,Day,2.39,90.6,0.402,96,Valid
+TR-00703,2026-03-06 20:18:00,Kirkos,ST-KI-01,Civic Metering,Night,2.19,87.6,0.402,97,Valid
+TR-00704,2026-03-06 8:21:00,Lideta,ST-LI-01,Acme Instruments,Day,2.52,95.8,0.442,74,Valid
+TR-00705,2026-03-06 20:02:00,Lideta,ST-LI-01,Acme Instruments,Night,2.32,92.8,0.442,75,Valid
+TR-00706,2026-03-06 8:05:00,Merkato,ST-ME-01,HydroSense,Day,2.65,101,0.482,81,Valid
+TR-00707,2026-03-06 20:09:00,Merkato,ST-ME-01,HydroSense,Night,2.45,98,0.482,82,Valid
+TR-00708,2026-03-06 8:12:00,Gullele,ST-GU-01,Civic Metering,Day,2.78,106.2,0.522,88,Valid
+TR-00709,2026-03-06 20:16:00,Gullele,ST-GU-01,Civic Metering,Night,2.58,103.2,0.522,89,Review
+TR-00710,2026-03-07 8:00:00,Bole,ST-BS-02,Acme Instruments,Day,2.23,82.6,0.34,87,Valid
+TR-00711,2026-03-07 8:07:00,Akaki,ST-AK-02,HydroSense,Day,2.35,87.8,0.38,94,Valid
+TR-00712,2026-03-07 20:11:00,Akaki,ST-AK-02,HydroSense,Night,2.15,84.8,0.38,95,Valid
+TR-00713,2026-03-07 8:14:00,Kirkos,ST-KI-02,Civic Metering,Day,2.49,93,0.42,72,Valid
+TR-00714,2026-03-07 20:18:00,Kirkos,ST-KI-02,Civic Metering,Night,2.29,90,0.42,73,Valid
+TR-00715,2026-03-07 8:21:00,Lideta,ST-LI-02,Acme Instruments,Day,2.62,98.2,0.46,79,Valid
+TR-00716,2026-03-07 20:02:00,Lideta,ST-LI-02,Acme Instruments,Night,2.42,95.2,0.46,80,Valid
+TR-00717,2026-03-07 8:05:00,Merkato,ST-ME-02,HydroSense,Day,2.75,103.4,0.5,86,Valid
+TR-00718,2026-03-07 20:09:00,Merkato,ST-ME-02,HydroSense,Night,2.54,100.4,0.5,87,Valid
+TR-00719,2026-03-07 8:12:00,Gullele,ST-GU-02,Civic Metering,Day,2.88,108.6,0.54,93,Review
+TR-00720,2026-03-07 20:16:00,Gullele,ST-GU-02,Civic Metering,Night,2.67,105.6,0.54,94,Valid
+TR-00721,2026-03-08 20:04:00,Bole,ST-BS-03,Acme Instruments,Night,2.12,82,0.358,93,Valid
+TR-00722,2026-03-08 8:07:00,Akaki,ST-AK-03,HydroSense,Day,2.45,90.2,0.398,99,Valid
+TR-00723,2026-03-08 20:11:00,Akaki,ST-AK-03,HydroSense,Night,2.25,87.2,0.398,100,Valid
+TR-00724,2026-03-08 8:14:00,Kirkos,ST-KI-03,Civic Metering,Day,2.58,95.4,0.438,77,Valid
+TR-00725,2026-03-08 20:18:00,Kirkos,ST-KI-03,Civic Metering,Night,2.38,92.4,0.438,78,Valid
+TR-00726,2026-03-08 8:21:00,Lideta,ST-LI-03,Acme Instruments,Day,2.71,100.6,0.478,84,Valid
+TR-00727,2026-03-08 20:02:00,Lideta,ST-LI-03,Acme Instruments,Night,2.51,97.6,0.478,85,Valid
+TR-00728,2026-03-08 8:05:00,Merkato,ST-ME-03,HydroSense,Day,2.84,105.8,0.518,91,Valid
+TR-00729,2026-03-08 20:09:00,Merkato,ST-ME-03,HydroSense,Night,2.64,102.8,0.518,92,Valid
+TR-00730,2026-03-08 8:12:00,Gullele,ST-GU-03,Civic Metering,Day,2.97,111,0.558,98,Valid
+TR-00731,2026-03-08 20:16:00,Gullele,ST-GU-03,Civic Metering,Night,2.77,108,0.558,99,Valid
+TR-00732,2026-03-09 8:00:00,Bole,ST-BS-01,Acme Instruments,Day,1.56,87.4,0.376,97,Valid
+TR-00733,2026-03-09 20:04:00,Bole,ST-BS-01,Acme Instruments,Night,1.36,84.4,0.376,98,Valid
+TR-00734,2026-03-09 8:07:00,Akaki,ST-AK-01,HydroSense,Day,1.69,92.6,0.416,75,Valid
+TR-00735,2026-03-09 20:11:00,Akaki,ST-AK-01,HydroSense,Night,1.49,89.6,0.416,76,Valid
+TR-00736,2026-03-09 8:14:00,Kirkos,ST-KI-01,Civic Metering,Day,1.82,97.8,0.456,82,Valid
+TR-00737,2026-03-09 20:18:00,Kirkos,ST-KI-01,Civic Metering,Night,1.62,94.8,0.456,83,Valid
+TR-00738,2026-03-09 8:21:00,Lideta,ST-LI-01,Acme Instruments,Day,1.95,103,0.496,89,Valid
+TR-00739,2026-03-09 20:02:00,Lideta,ST-LI-01,Acme Instruments,Night,1.75,100,0.496,90,Valid
+TR-00740,2026-03-09 8:05:00,Merkato,ST-ME-01,HydroSense,Day,2.08,108.2,0.536,96,Valid
+TR-00741,2026-03-09 20:09:00,Merkato,ST-ME-01,HydroSense,Night,1.88,105.2,0.536,97,Review
+TR-00742,2026-03-09 8:12:00,Gullele,ST-GU-01,Civic Metering,Day,2.21,113.4,0.576,74,Valid
+TR-00743,2026-03-09 20:16:00,Gullele,ST-GU-01,Civic Metering,Night,2.01,110.4,0.576,75,Valid
+TR-00744,2026-03-10 8:00:00,Bole,ST-BS-02,Acme Instruments,Day,1.66,89.8,0.25,73,Valid
+TR-00745,2026-03-10 20:04:00,Bole,ST-BS-02,Acme Instruments,Night,1.46,86.8,0.25,74,Valid
+TR-00746,2026-03-10 8:07:00,Akaki,ST-AK-02,HydroSense,Day,1.78,95,0.29,80,Valid
+TR-00747,2026-03-10 20:11:00,Akaki,ST-AK-02,HydroSense,Night,1.58,92,0.29,81,Valid
+TR-00748,2026-03-10 8:14:00,Kirkos,ST-KI-02,Civic Metering,Day,1.92,100.2,0.33,87,Valid
+TR-00749,2026-03-10 20:18:00,Kirkos,ST-KI-02,Civic Metering,Night,1.72,97.2,0.33,88,Valid
+TR-00750,2026-03-10 8:21:00,Lideta,ST-LI-02,Acme Instruments,Day,2.05,105.4,0.37,94,Valid
+TR-00751,2026-03-10 20:02:00,Lideta,ST-LI-02,Acme Instruments,Night,1.85,102.4,0.37,95,Valid
+TR-00752,2026-03-10 8:05:00,Merkato,ST-ME-02,HydroSense,Day,2.18,110.6,0.41,72,Review
+TR-00753,2026-03-10 20:09:00,Merkato,ST-ME-02,HydroSense,Night,1.98,107.6,0.41,73,Valid
+TR-00754,2026-03-10 8:12:00,Gullele,ST-GU-02,Civic Metering,Day,2.31,115.8,0.45,79,Valid
+TR-00755,2026-03-10 20:16:00,Gullele,ST-GU-02,Civic Metering,Night,2.1,112.8,0.45,80,Valid
+TR-00756,2026-03-11 8:00:00,Bole,ST-BS-03,Acme Instruments,Day,1.75,61,0.268,78,Valid
+TR-00757,2026-03-11 20:04:00,Bole,ST-BS-03,Acme Instruments,Night,1.55,58,0.268,79,Valid
+TR-00758,2026-03-11 8:07:00,Akaki,ST-AK-03,HydroSense,Day,1.88,66.2,0.308,85,Valid
+TR-00759,2026-03-11 20:11:00,Akaki,ST-AK-03,HydroSense,Night,1.68,63.2,0.308,86,Valid
+TR-00760,2026-03-11 8:14:00,Kirkos,ST-KI-03,Civic Metering,Day,2.01,71.4,0.348,92,Valid
+TR-00761,2026-03-11 20:18:00,Kirkos,ST-KI-03,Civic Metering,Night,1.81,68.4,0.348,93,Valid
+TR-00762,2026-03-11 8:21:00,Lideta,ST-LI-03,Acme Instruments,Day,2.14,76.6,0.388,99,Valid
+TR-00763,2026-03-11 20:02:00,Lideta,ST-LI-03,Acme Instruments,Night,1.94,73.6,0.388,100,Valid
+TR-00764,2026-03-11 8:05:00,Merkato,ST-ME-03,HydroSense,Day,2.27,81.8,0.428,77,Valid
+TR-00765,2026-03-11 20:09:00,Merkato,ST-ME-03,HydroSense,Night,2.07,78.8,0.428,78,Valid
+TR-00766,2026-03-11 8:12:00,Gullele,ST-GU-03,Civic Metering,Day,2.4,87,0.468,84,Valid
+TR-00767,2026-03-11 20:16:00,Gullele,ST-GU-03,Civic Metering,Night,2.2,84,0.468,85,Valid
+TR-00768,2026-03-12 8:00:00,Bole,ST-BS-01,Acme Instruments,Day,1.85,63.4,0.286,83,Valid
+TR-00769,2026-03-12 20:04:00,Bole,ST-BS-01,Acme Instruments,Night,1.65,60.4,0.286,84,Valid
+TR-00770,2026-03-12 8:07:00,Akaki,ST-AK-01,HydroSense,Day,1.98,68.6,0.326,90,Valid
+TR-00771,2026-03-12 20:11:00,Akaki,ST-AK-01,HydroSense,Night,1.78,65.6,0.326,91,Valid
+TR-00772,2026-03-12 8:14:00,Kirkos,ST-KI-01,Civic Metering,Day,2.1,73.8,0.366,97,Valid
+TR-00773,2026-03-12 20:18:00,Kirkos,ST-KI-01,Civic Metering,Night,1.91,70.8,0.366,98,Valid
+TR-00774,2026-03-12 8:21:00,Lideta,ST-LI-01,Acme Instruments,Day,2.24,79,0.406,75,Valid
+TR-00775,2026-03-12 20:02:00,Lideta,ST-LI-01,Acme Instruments,Night,2.04,76,0.406,76,Review
+TR-00776,2026-03-12 8:05:00,Merkato,ST-ME-01,HydroSense,Day,2.37,84.2,0.446,82,Valid
+TR-00777,2026-03-12 20:09:00,Merkato,ST-ME-01,HydroSense,Night,2.17,81.2,0.446,83,Valid
+TR-00778,2026-03-12 8:12:00,Gullele,ST-GU-01,Civic Metering,Day,2.5,89.4,0.486,89,Valid
+TR-00779,2026-03-12 20:16:00,Gullele,ST-GU-01,Civic Metering,Night,2.29,86.4,0.486,90,Valid
+TR-00780,2026-03-13 8:00:00,Bole,ST-BS-02,Acme Instruments,Day,1.94,65.8,0.304,88,Valid
+TR-00781,2026-03-13 20:04:00,Bole,ST-BS-02,Acme Instruments,Night,1.74,62.8,0.304,89,Valid
+TR-00782,2026-03-13 8:07:00,Akaki,ST-AK-02,HydroSense,Day,2.07,71,0.344,95,Valid
+TR-00783,2026-03-13 20:11:00,Akaki,ST-AK-02,HydroSense,Night,1.87,68,0.344,96,Valid
+TR-00784,2026-03-13 8:14:00,Kirkos,ST-KI-02,Civic Metering,Day,2.2,76.2,0.384,73,Valid
+TR-00785,2026-03-13 20:18:00,Kirkos,ST-KI-02,Civic Metering,Night,2,73.2,0.384,74,Valid
+TR-00786,2026-03-13 8:21:00,Lideta,ST-LI-02,Acme Instruments,Day,2.33,81.4,0.424,80,Review
+TR-00787,2026-03-13 20:02:00,Lideta,ST-LI-02,Acme Instruments,Night,2.13,78.4,0.424,81,Valid
+TR-00788,2026-03-13 8:05:00,Merkato,ST-ME-02,HydroSense,Day,2.46,86.6,0.464,87,Valid
+TR-00789,2026-03-13 20:09:00,Merkato,ST-ME-02,HydroSense,Night,2.26,83.6,0.464,88,Valid
+TR-00790,2026-03-13 8:12:00,Gullele,ST-GU-02,Civic Metering,Day,2.59,91.8,0.504,94,Valid
+TR-00791,2026-03-14 8:00:00,Bole,ST-BS-03,Acme Instruments,Day,2.04,68.2,0.322,93,Valid
+TR-00792,2026-03-14 20:04:00,Bole,ST-BS-03,Acme Instruments,Night,1.84,65.2,0.322,94,Valid
+TR-00793,2026-03-14 8:07:00,Akaki,ST-AK-03,HydroSense,Day,2.17,73.4,0.362,100,Valid
+TR-00794,2026-03-14 20:11:00,Akaki,ST-AK-03,HydroSense,Night,1.97,70.4,0.362,72,Valid
+TR-00795,2026-03-14 8:14:00,Kirkos,ST-KI-03,Civic Metering,Day,2.29,78.6,0.402,78,Valid
+TR-00796,2026-03-14 20:18:00,Kirkos,ST-KI-03,Civic Metering,Night,2.09,75.6,0.402,79,Valid
+TR-00797,2026-03-14 8:21:00,Lideta,ST-LI-03,Acme Instruments,Day,2.43,83.8,0.442,85,Valid
+TR-00798,2026-03-14 20:02:00,Lideta,ST-LI-03,Acme Instruments,Night,2.23,80.8,0.442,86,Valid
+TR-00799,2026-03-14 8:05:00,Merkato,ST-ME-03,HydroSense,Day,2.56,89,0.482,92,Valid
+TR-00800,2026-03-14 20:09:00,Merkato,ST-ME-03,HydroSense,Night,2.35,86,0.482,93,Valid
+TR-00801,2026-03-14 20:16:00,Gullele,ST-GU-03,Civic Metering,Night,2.48,91.2,0.522,100,Valid
+TR-00802,2026-03-15 8:00:00,Bole,ST-BS-01,Acme Instruments,Day,2.13,70.6,0.34,98,Valid
+TR-00803,2026-03-15 20:04:00,Bole,ST-BS-01,Acme Instruments,Night,1.93,67.6,0.34,99,Valid
+TR-00804,2026-03-15 8:07:00,Akaki,ST-AK-01,HydroSense,Day,2.26,75.8,0.38,76,Valid
+TR-00805,2026-03-15 20:11:00,Akaki,ST-AK-01,HydroSense,Night,2.06,72.8,0.38,77,Valid
+TR-00806,2026-03-15 8:14:00,Kirkos,ST-KI-01,Civic Metering,Day,2.39,81,0.42,83,Valid
+TR-00807,2026-03-15 20:18:00,Kirkos,ST-KI-01,Civic Metering,Night,2.19,78,0.42,84,Review
+TR-00808,2026-03-15 8:21:00,Lideta,ST-LI-01,Acme Instruments,Day,2.52,86.2,0.46,90,Valid
+TR-00809,2026-03-15 20:02:00,Lideta,ST-LI-01,Acme Instruments,Night,2.32,83.2,0.46,91,Valid
+TR-00810,2026-03-15 8:05:00,Merkato,ST-ME-01,HydroSense,Day,2.65,91.4,0.5,97,Valid
+TR-00811,2026-03-15 20:09:00,Merkato,ST-ME-01,HydroSense,Night,2.45,88.4,0.5,98,Valid
+TR-00812,2026-03-15 8:12:00,Gullele,ST-GU-01,Civic Metering,Day,2.78,96.6,0.54,75,Valid
+TR-00813,2026-03-15 20:16:00,Gullele,ST-GU-01,Civic Metering,Night,2.58,93.6,0.54,76,Valid
+TR-00814,2026-03-16 8:00:00,Bole,ST-BS-02,Acme Instruments,Day,2.23,73,0.358,74,Valid
+TR-00815,2026-03-16 20:04:00,Bole,ST-BS-02,Acme Instruments,Night,2.02,70,0.358,75,Valid
+TR-00816,2026-03-16 8:07:00,Akaki,ST-AK-02,HydroSense,Day,2.35,78.2,0.398,81,Valid
+TR-00817,2026-03-16 20:11:00,Akaki,ST-AK-02,HydroSense,Night,2.15,75.2,0.398,82,Valid
+TR-00818,2026-03-16 8:14:00,Kirkos,ST-KI-02,Civic Metering,Day,2.49,83.4,0.438,88,Review
+TR-00819,2026-03-16 20:18:00,Kirkos,ST-KI-02,Civic Metering,Night,2.29,80.4,0.438,89,Valid
+TR-00820,2026-03-16 8:21:00,Lideta,ST-LI-02,Acme Instruments,Day,2.62,88.6,0.478,95,Valid
+TR-00821,2026-03-16 20:02:00,Lideta,ST-LI-02,Acme Instruments,Night,2.42,85.6,0.478,96,Valid
+TR-00822,2026-03-16 8:05:00,Merkato,ST-ME-02,HydroSense,Day,2.75,93.8,0.518,73,Valid
+TR-00823,2026-03-16 20:09:00,Merkato,ST-ME-02,HydroSense,Night,2.54,90.8,0.518,74,Valid
+TR-00824,2026-03-16 8:12:00,Gullele,ST-GU-02,Civic Metering,Day,2.88,99,0.558,80,Valid
+TR-00825,2026-03-16 20:16:00,Gullele,ST-GU-02,Civic Metering,Night,2.67,96,0.558,81,Valid
+TR-00826,2026-03-17 8:00:00,Bole,ST-BS-03,Acme Instruments,Day,2.32,75.4,0.376,79,Valid
+TR-00827,2026-03-17 20:04:00,Bole,ST-BS-03,Acme Instruments,Night,2.12,72.4,0.376,80,Valid
+TR-00828,2026-03-17 8:07:00,Akaki,ST-AK-03,HydroSense,Day,2.45,80.6,0.416,86,Valid
+TR-00829,2026-03-17 20:11:00,Akaki,ST-AK-03,HydroSense,Night,2.25,77.6,0.416,87,Valid
+TR-00830,2026-03-17 8:14:00,Kirkos,ST-KI-03,Civic Metering,Day,2.58,85.8,0.456,93,Valid
+TR-00831,2026-03-17 20:18:00,Kirkos,ST-KI-03,Civic Metering,Night,2.38,82.8,0.456,94,Valid
+TR-00832,2026-03-17 8:21:00,Lideta,ST-LI-03,Acme Instruments,Day,2.71,91,0.496,100,Valid
+TR-00833,2026-03-17 20:02:00,Lideta,ST-LI-03,Acme Instruments,Night,2.51,88,0.496,72,Valid
+TR-00834,2026-03-17 8:05:00,Merkato,ST-ME-03,HydroSense,Day,2.84,96.2,0.536,78,Valid
+TR-00835,2026-03-17 20:09:00,Merkato,ST-ME-03,HydroSense,Night,2.64,93.2,0.536,79,Valid
+TR-00836,2026-03-17 8:12:00,Gullele,ST-GU-03,Civic Metering,Day,2.97,101.4,0.576,85,Valid
+TR-00837,2026-03-17 20:16:00,Gullele,ST-GU-03,Civic Metering,Night,2.77,98.4,0.576,86,Valid
+TR-00838,2026-03-18 8:00:00,Bole,ST-BS-01,Acme Instruments,Day,1.56,77.8,0.25,84,Valid
+TR-00839,2026-03-18 20:04:00,Bole,ST-BS-01,Acme Instruments,Night,1.36,74.8,0.25,85,Valid
+TR-00840,2026-03-18 8:07:00,Akaki,ST-AK-01,HydroSense,Day,1.69,83,0.29,91,Valid
+TR-00841,2026-03-18 20:11:00,Akaki,ST-AK-01,HydroSense,Night,1.49,80,0.29,92,Review
+TR-00842,2026-03-18 8:14:00,Kirkos,ST-KI-01,Civic Metering,Day,1.82,88.2,0.33,98,Valid
+TR-00843,2026-03-18 20:18:00,Kirkos,ST-KI-01,Civic Metering,Night,1.62,85.2,0.33,99,Valid
+TR-00844,2026-03-18 8:21:00,Lideta,ST-LI-01,Acme Instruments,Day,1.95,93.4,0.37,76,Valid
+TR-00845,2026-03-18 20:02:00,Lideta,ST-LI-01,Acme Instruments,Night,1.75,90.4,0.37,77,Valid
+TR-00846,2026-03-18 8:05:00,Merkato,ST-ME-01,HydroSense,Day,2.08,98.6,0.41,83,Valid
+TR-00847,2026-03-18 8:12:00,Gullele,ST-GU-01,Civic Metering,Day,2.21,103.8,0.45,90,Valid
+TR-00848,2026-03-18 20:16:00,Gullele,ST-GU-01,Civic Metering,Night,2.01,100.8,0.45,91,Valid
+TR-00849,2026-03-19 8:00:00,Bole,ST-BS-02,Acme Instruments,Day,1.66,80.2,0.268,89,Valid
+TR-00850,2026-03-19 20:04:00,Bole,ST-BS-02,Acme Instruments,Night,1.46,77.2,0.268,90,Valid
+TR-00851,2026-03-19 8:07:00,Akaki,ST-AK-02,HydroSense,Day,1.78,85.4,0.308,96,Review
+TR-00852,2026-03-19 20:11:00,Akaki,ST-AK-02,HydroSense,Night,1.58,82.4,0.308,97,Valid
+TR-00853,2026-03-19 8:14:00,Kirkos,ST-KI-02,Civic Metering,Day,1.92,90.6,0.348,74,Valid
+TR-00854,2026-03-19 20:18:00,Kirkos,ST-KI-02,Civic Metering,Night,1.72,87.6,0.348,75,Valid
+TR-00855,2026-03-19 8:21:00,Lideta,ST-LI-02,Acme Instruments,Day,2.05,95.8,0.388,81,Valid
+TR-00856,2026-03-19 20:02:00,Lideta,ST-LI-02,Acme Instruments,Night,1.85,92.8,0.388,82,Valid
+TR-00857,2026-03-19 20:09:00,Merkato,ST-ME-02,HydroSense,Night,1.98,98,0.428,89,Valid
+TR-00858,2026-03-19 8:12:00,Gullele,ST-GU-02,Civic Metering,Day,2.31,106.2,0.468,95,Valid
+TR-00859,2026-03-19 20:16:00,Gullele,ST-GU-02,Civic Metering,Night,2.1,103.2,0.468,96,Valid
+TR-00860,2026-03-20 8:00:00,Bole,ST-BS-03,Acme Instruments,Day,1.75,82.6,0.286,94,Valid
+TR-00861,2026-03-20 20:04:00,Bole,ST-BS-03,Acme Instruments,Night,1.55,79.6,0.286,95,Valid
+TR-00862,2026-03-20 8:07:00,Akaki,ST-AK-03,HydroSense,Day,1.88,87.8,0.326,72,Valid
+TR-00863,2026-03-20 20:11:00,Akaki,ST-AK-03,HydroSense,Night,1.68,84.8,0.326,73,Valid
+TR-00864,2026-03-20 8:14:00,Kirkos,ST-KI-03,Civic Metering,Day,2.01,93,0.366,79,Valid
+TR-00865,2026-03-20 20:18:00,Kirkos,ST-KI-03,Civic Metering,Night,1.81,90,0.366,80,Valid
+TR-00866,2026-03-20 8:21:00,Lideta,ST-LI-03,Acme Instruments,Day,2.14,98.2,0.406,86,Valid
+TR-00867,2026-03-20 20:02:00,Lideta,ST-LI-03,Acme Instruments,Night,1.94,95.2,0.406,87,Valid
+TR-00868,2026-03-20 8:05:00,Merkato,ST-ME-03,HydroSense,Day,2.27,103.4,0.446,93,Valid
+TR-00869,2026-03-20 20:09:00,Merkato,ST-ME-03,HydroSense,Night,2.07,100.4,0.446,94,Valid
+TR-00870,2026-03-20 8:12:00,Gullele,ST-GU-03,Civic Metering,Day,2.4,108.6,0.486,100,Valid
+TR-00871,2026-03-20 20:16:00,Gullele,ST-GU-03,Civic Metering,Night,2.2,105.6,0.486,72,Valid
+TR-00872,2026-03-21 8:00:00,Bole,ST-BS-01,Acme Instruments,Day,1.85,85,0.304,99,Valid
+TR-00873,2026-03-21 20:04:00,Bole,ST-BS-01,Acme Instruments,Night,1.65,82,0.304,100,Review
+TR-00874,2026-03-21 8:07:00,Akaki,ST-AK-01,HydroSense,Day,1.98,90.2,0.344,77,Valid
+TR-00875,2026-03-21 20:11:00,Akaki,ST-AK-01,HydroSense,Night,1.78,87.2,0.344,78,Valid
+TR-00876,2026-03-21 8:14:00,Kirkos,ST-KI-01,Civic Metering,Day,2.1,95.4,0.384,84,Valid
+TR-00877,2026-03-21 20:18:00,Kirkos,ST-KI-01,Civic Metering,Night,1.91,92.4,0.384,85,Valid
+TR-00878,2026-03-21 8:21:00,Lideta,ST-LI-01,Acme Instruments,Day,2.24,100.6,0.424,91,Valid
+TR-00879,2026-03-21 20:02:00,Lideta,ST-LI-01,Acme Instruments,Night,2.04,97.6,0.424,92,Valid
+TR-00880,2026-03-21 8:05:00,Merkato,ST-ME-01,HydroSense,Day,2.37,105.8,0.464,98,Valid
+TR-00881,2026-03-21 20:09:00,Merkato,ST-ME-01,HydroSense,Night,2.17,102.8,0.464,99,Valid
+TR-00882,2026-03-21 8:12:00,Gullele,ST-GU-01,Civic Metering,Day,2.5,111,0.504,76,Valid
+TR-00883,2026-03-21 20:16:00,Gullele,ST-GU-01,Civic Metering,Night,2.29,108,0.504,77,Valid
+TR-00884,2026-03-22 8:00:00,Bole,ST-BS-02,Acme Instruments,Day,1.94,87.4,0.322,75,Review
+TR-00885,2026-03-22 20:04:00,Bole,ST-BS-02,Acme Instruments,Night,1.74,84.4,0.322,76,Valid
+TR-00886,2026-03-22 8:07:00,Akaki,ST-AK-02,HydroSense,Day,2.07,92.6,0.362,82,Valid
+TR-00887,2026-03-22 20:11:00,Akaki,ST-AK-02,HydroSense,Night,1.87,89.6,0.362,83,Valid
+TR-00888,2026-03-22 8:14:00,Kirkos,ST-KI-02,Civic Metering,Day,2.2,97.8,0.402,89,Valid
+TR-00889,2026-03-22 20:18:00,Kirkos,ST-KI-02,Civic Metering,Night,2,94.8,0.402,90,Valid
+TR-00890,2026-03-22 8:21:00,Lideta,ST-LI-02,Acme Instruments,Day,2.33,103,0.442,96,Valid
+TR-00891,2026-03-22 20:02:00,Lideta,ST-LI-02,Acme Instruments,Night,2.13,100,0.442,97,Valid
+TR-00892,2026-03-22 8:05:00,Merkato,ST-ME-02,HydroSense,Day,2.46,108.2,0.482,74,Valid
+TR-00893,2026-03-22 20:09:00,Merkato,ST-ME-02,HydroSense,Night,2.26,105.2,0.482,75,Valid
+TR-00894,2026-03-22 8:12:00,Gullele,ST-GU-02,Civic Metering,Day,2.59,113.4,0.522,81,Valid
+TR-00895,2026-03-22 20:16:00,Gullele,ST-GU-02,Civic Metering,Night,2.39,110.4,0.522,82,Valid
+TR-00896,2026-03-23 8:00:00,Bole,ST-BS-03,Acme Instruments,Day,2.04,89.8,0.34,80,Valid
+TR-00897,2026-03-23 20:04:00,Bole,ST-BS-03,Acme Instruments,Night,1.84,86.8,0.34,81,Valid
+TR-00898,2026-03-23 8:07:00,Akaki,ST-AK-03,HydroSense,Day,2.17,95,0.38,87,Valid
+TR-00899,2026-03-23 20:11:00,Akaki,ST-AK-03,HydroSense,Night,1.97,92,0.38,88,Valid
+TR-00900,2026-03-23 8:14:00,Kirkos,ST-KI-03,Civic Metering,Day,2.29,100.2,0.42,94,Valid
+TR-00901,2026-03-23 20:18:00,Kirkos,ST-KI-03,Civic Metering,Night,2.09,97.2,0.42,95,Valid
+TR-00902,2026-03-23 8:21:00,Lideta,ST-LI-03,Acme Instruments,Day,2.43,105.4,0.46,72,Valid
+TR-00903,2026-03-23 8:05:00,Merkato,ST-ME-03,HydroSense,Day,2.56,110.6,0.5,79,Valid
+TR-00904,2026-03-23 20:09:00,Merkato,ST-ME-03,HydroSense,Night,2.35,107.6,0.5,80,Valid
+TR-00905,2026-03-23 8:12:00,Gullele,ST-GU-03,Civic Metering,Day,2.69,115.8,0.54,86,Valid
+TR-00906,2026-03-23 20:16:00,Gullele,ST-GU-03,Civic Metering,Night,2.48,112.8,0.54,87,Valid
+TR-00907,2026-03-24 8:00:00,Bole,ST-BS-01,Acme Instruments,Day,2.13,61,0.358,85,Valid
+TR-00908,2026-03-24 20:04:00,Bole,ST-BS-01,Acme Instruments,Night,1.93,58,0.358,86,Valid
+TR-00909,2026-03-24 8:07:00,Akaki,ST-AK-01,HydroSense,Day,2.26,66.2,0.398,92,Valid
+TR-00910,2026-03-24 20:11:00,Akaki,ST-AK-01,HydroSense,Night,2.06,63.2,0.398,93,Valid
+TR-00911,2026-03-24 8:14:00,Kirkos,ST-KI-01,Civic Metering,Day,2.39,71.4,0.438,99,Valid
+TR-00912,2026-03-24 20:18:00,Kirkos,ST-KI-01,Civic Metering,Night,2.19,68.4,0.438,100,Valid
+TR-00913,2026-03-24 20:02:00,Lideta,ST-LI-01,Acme Instruments,Night,2.32,73.6,0.478,78,Valid
+TR-00914,2026-03-24 8:05:00,Merkato,ST-ME-01,HydroSense,Day,2.65,81.8,0.518,84,Valid
+TR-00915,2026-03-24 20:09:00,Merkato,ST-ME-01,HydroSense,Night,2.45,78.8,0.518,85,Valid
+TR-00916,2026-03-24 8:12:00,Gullele,ST-GU-01,Civic Metering,Day,2.78,87,0.558,91,Valid
+TR-00917,2026-03-24 20:16:00,Gullele,ST-GU-01,Civic Metering,Night,2.58,84,0.558,92,Valid
+TR-00918,2026-03-25 8:00:00,Bole,ST-BS-02,Acme Instruments,Day,2.23,63.4,0.376,90,Valid
+TR-00919,2026-03-25 20:04:00,Bole,ST-BS-02,Acme Instruments,Night,2.02,60.4,0.376,91,Valid
+TR-00920,2026-03-25 8:07:00,Akaki,ST-AK-02,HydroSense,Day,2.35,68.6,0.416,97,Valid
+TR-00921,2026-03-25 20:11:00,Akaki,ST-AK-02,HydroSense,Night,2.15,65.6,0.416,98,Valid
+TR-00922,2026-03-25 8:14:00,Kirkos,ST-KI-02,Civic Metering,Day,2.49,73.8,0.456,75,Valid
+TR-00923,2026-03-25 20:18:00,Kirkos,ST-KI-02,Civic Metering,Night,2.29,70.8,0.456,76,Valid
+TR-00924,2026-03-25 8:21:00,Lideta,ST-LI-02,Acme Instruments,Day,2.62,79,0.496,82,Valid
+TR-00925,2026-03-25 20:02:00,Lideta,ST-LI-02,Acme Instruments,Night,2.42,76,0.496,83,Valid
+TR-00926,2026-03-25 8:05:00,Merkato,ST-ME-02,HydroSense,Day,2.75,84.2,0.536,89,Valid
+TR-00927,2026-03-25 20:09:00,Merkato,ST-ME-02,HydroSense,Night,2.54,81.2,0.536,90,Valid
+TR-00928,2026-03-25 8:12:00,Gullele,ST-GU-02,Civic Metering,Day,2.88,89.4,0.576,96,Valid
+TR-00929,2026-03-25 20:16:00,Gullele,ST-GU-02,Civic Metering,Night,2.67,86.4,0.576,97,Review
+TR-00930,2026-03-26 8:00:00,Bole,ST-BS-03,Acme Instruments,Day,2.32,65.8,0.25,95,Valid
+TR-00931,2026-03-26 20:04:00,Bole,ST-BS-03,Acme Instruments,Night,2.12,62.8,0.25,96,Valid
+TR-00932,2026-03-26 8:07:00,Akaki,ST-AK-03,HydroSense,Day,2.45,71,0.29,73,Valid
+TR-00933,2026-03-26 20:11:00,Akaki,ST-AK-03,HydroSense,Night,2.25,68,0.29,74,Valid
+TR-00934,2026-03-26 8:14:00,Kirkos,ST-KI-03,Civic Metering,Day,2.58,76.2,0.33,80,Valid
+TR-00935,2026-03-26 20:18:00,Kirkos,ST-KI-03,Civic Metering,Night,2.38,73.2,0.33,81,Valid
+TR-00936,2026-03-26 8:21:00,Lideta,ST-LI-03,Acme Instruments,Day,2.71,81.4,0.37,87,Valid
+TR-00937,2026-03-26 20:02:00,Lideta,ST-LI-03,Acme Instruments,Night,2.51,78.4,0.37,88,Valid
+TR-00938,2026-03-26 8:05:00,Merkato,ST-ME-03,HydroSense,Day,2.84,86.6,0.41,94,Valid
+TR-00939,2026-03-26 20:09:00,Merkato,ST-ME-03,HydroSense,Night,2.64,83.6,0.41,95,Valid
+TR-00940,2026-03-26 8:12:00,Gullele,ST-GU-03,Civic Metering,Day,2.97,91.8,0.45,72,Review
+TR-00941,2026-03-26 20:16:00,Gullele,ST-GU-03,Civic Metering,Night,2.77,88.8,0.45,73,Valid
+TR-00942,2026-03-27 8:00:00,Bole,ST-BS-01,Acme Instruments,Day,1.56,68.2,0.268,100,Valid
+TR-00943,2026-03-27 20:04:00,Bole,ST-BS-01,Acme Instruments,Night,1.36,65.2,0.268,72,Valid
+TR-00944,2026-03-27 8:07:00,Akaki,ST-AK-01,HydroSense,Day,1.69,73.4,0.308,78,Valid
+TR-00945,2026-03-27 20:11:00,Akaki,ST-AK-01,HydroSense,Night,1.49,70.4,0.308,79,Valid
+TR-00946,2026-03-27 8:14:00,Kirkos,ST-KI-01,Civic Metering,Day,1.82,78.6,0.348,85,Valid
+TR-00947,2026-03-27 20:18:00,Kirkos,ST-KI-01,Civic Metering,Night,1.62,75.6,0.348,86,Valid
+TR-00948,2026-03-27 8:21:00,Lideta,ST-LI-01,Acme Instruments,Day,1.95,83.8,0.388,92,Valid
+TR-00949,2026-03-27 20:02:00,Lideta,ST-LI-01,Acme Instruments,Night,1.75,80.8,0.388,93,Valid
+TR-00950,2026-03-27 8:05:00,Merkato,ST-ME-01,HydroSense,Day,2.08,89,0.428,99,Valid
+TR-00951,2026-03-27 20:09:00,Merkato,ST-ME-01,HydroSense,Night,1.88,86,0.428,100,Valid
+TR-00952,2026-03-27 8:12:00,Gullele,ST-GU-01,Civic Metering,Day,2.21,94.2,0.468,77,Valid
+TR-00953,2026-03-27 20:16:00,Gullele,ST-GU-01,Civic Metering,Night,2.01,91.2,0.468,78,Valid
+TR-00954,2026-03-28 8:00:00,Bole,ST-BS-02,Acme Instruments,Day,1.66,70.6,0.286,76,Valid
+TR-00955,2026-03-28 20:04:00,Bole,ST-BS-02,Acme Instruments,Night,1.46,67.6,0.286,77,Valid
+TR-00956,2026-03-28 8:07:00,Akaki,ST-AK-02,HydroSense,Day,1.78,75.8,0.326,83,Valid
+TR-00957,2026-03-28 20:11:00,Akaki,ST-AK-02,HydroSense,Night,1.58,72.8,0.326,84,Valid
+TR-00958,2026-03-28 8:14:00,Kirkos,ST-KI-02,Civic Metering,Day,1.92,81,0.366,90,Valid
+TR-00959,2026-03-28 8:21:00,Lideta,ST-LI-02,Acme Instruments,Day,2.05,86.2,0.406,97,Valid
+TR-00960,2026-03-28 20:02:00,Lideta,ST-LI-02,Acme Instruments,Night,1.85,83.2,0.406,98,Valid
+TR-00961,2026-03-28 8:05:00,Merkato,ST-ME-02,HydroSense,Day,2.18,91.4,0.446,75,Valid
+TR-00962,2026-03-28 20:09:00,Merkato,ST-ME-02,HydroSense,Night,1.98,88.4,0.446,76,Review
+TR-00963,2026-03-28 8:12:00,Gullele,ST-GU-02,Civic Metering,Day,2.31,96.6,0.486,82,Valid
+TR-00964,2026-03-28 20:16:00,Gullele,ST-GU-02,Civic Metering,Night,2.1,93.6,0.486,83,Valid
+TR-00965,2026-03-29 8:00:00,Bole,ST-BS-03,Acme Instruments,Day,1.75,73,0.304,81,Valid
+TR-00966,2026-03-29 20:04:00,Bole,ST-BS-03,Acme Instruments,Night,1.55,70,0.304,82,Valid
+TR-00967,2026-03-29 8:07:00,Akaki,ST-AK-03,HydroSense,Day,1.88,78.2,0.344,88,Valid
+TR-00968,2026-03-29 20:11:00,Akaki,ST-AK-03,HydroSense,Night,1.68,75.2,0.344,89,Valid
+TR-00969,2026-03-29 20:18:00,Kirkos,ST-KI-03,Civic Metering,Night,1.81,80.4,0.384,96,Valid
+TR-00970,2026-03-29 8:21:00,Lideta,ST-LI-03,Acme Instruments,Day,2.14,88.6,0.424,73,Valid
+TR-00971,2026-03-29 20:02:00,Lideta,ST-LI-03,Acme Instruments,Night,1.94,85.6,0.424,74,Valid
+TR-00972,2026-03-29 8:05:00,Merkato,ST-ME-03,HydroSense,Day,2.27,93.8,0.464,80,Review
+TR-00973,2026-03-29 20:09:00,Merkato,ST-ME-03,HydroSense,Night,2.07,90.8,0.464,81,Valid
+TR-00974,2026-03-29 8:12:00,Gullele,ST-GU-03,Civic Metering,Day,2.4,99,0.504,87,Valid
+TR-00975,2026-03-29 20:16:00,Gullele,ST-GU-03,Civic Metering,Night,,96,0.504,88,Valid
+TR-00976,2026-03-30 8:00:00,Bole,ST-BS-01,Acme Instruments,Day,1.85,75.4,0.322,86,Valid
+TR-00977,2026-03-30 20:04:00,Bole,ST-BS-01,Acme Instruments,Night,1.65,72.4,0.322,87,Valid
+TR-00978,2026-03-30 8:07:00,Akaki,ST-AK-01,HydroSense,Day,1.98,80.6,0.362,93,Valid
+TR-00979,2026-03-30 20:11:00,Akaki,ST-AK-01,HydroSense,Night,1.78,77.6,0.362,94,Valid
+TR-00980,2026-03-30 8:14:00,Kirkos,ST-KI-01,Civic Metering,Day,2.1,85.8,0.402,100,Valid
+TR-00981,2026-03-30 20:18:00,Kirkos,ST-KI-01,Civic Metering,Night,1.91,82.8,0.402,72,Valid
+TR-00982,2026-03-30 8:21:00,Lideta,ST-LI-01,Acme Instruments,Day,2.24,91,0.442,78,Valid
+TR-00983,2026-03-30 20:02:00,Lideta,ST-LI-01,Acme Instruments,Night,2.04,88,0.442,79,Valid
+TR-00984,2026-03-30 8:05:00,Merkato,ST-ME-01,HydroSense,Day,2.37,96.2,0.482,85,Valid
+TR-00985,2026-03-30 20:09:00,Merkato,ST-ME-01,HydroSense,Night,2.17,93.2,0.482,86,Valid
+TR-00986,2026-03-30 8:12:00,Gullele,ST-GU-01,Civic Metering,Day,,101.4,0.522,92,Valid
+TR-00987,2026-03-30 20:16:00,Gullele,ST-GU-01,Civic Metering,Night,2.29,98.4,0.522,93,Valid
+TR-00988,2026-03-31 8:00:00,Bole,ST-BS-02,Acme Instruments,Day,1.94,77.8,0.34,91,Valid
+TR-00989,2026-03-31 20:04:00,Bole,ST-BS-02,Acme Instruments,Night,1.74,74.8,0.34,92,Valid
+TR-00990,2026-03-31 8:07:00,Akaki,ST-AK-02,HydroSense,Day,2.07,83,0.38,98,Valid
+TR-00991,2026-03-31 20:11:00,Akaki,ST-AK-02,HydroSense,Night,1.87,80,0.38,99,Valid
+TR-00992,2026-03-31 8:14:00,Kirkos,ST-KI-02,Civic Metering,Day,2.2,88.2,0.42,76,Valid
+TR-00993,2026-03-31 20:18:00,Kirkos,ST-KI-02,Civic Metering,Night,2,85.2,0.42,77,Valid
+TR-00994,2026-03-31 8:21:00,Lideta,ST-LI-02,Acme Instruments,Day,2.33,93.4,0.46,83,Valid
+TR-00995,2026-03-31 20:02:00,Lideta,ST-LI-02,Acme Instruments,Night,2.13,90.4,0.46,84,Review
+TR-00996,2026-03-31 8:05:00,Merkato,ST-ME-02,HydroSense,Day,2.46,98.6,0.5,90,Valid
+TR-00997,2026-03-31 20:09:00,Merkato,ST-ME-02,HydroSense,Night,,95.6,0.5,91,Valid
+TR-00998,2026-03-31 8:12:00,Gullele,ST-GU-02,Civic Metering,Day,2.59,103.8,0.54,97,Valid
+TR-00999,2026-03-31 20:16:00,Gullele,ST-GU-02,Civic Metering,Night,2.39,100.8,0.54,98,Valid
+TR-01000,2026-04-01 8:00:00,Bole,ST-BS-03,Acme Instruments,Day,2.04,80.2,0.358,96,Valid
+TR-01001,2026-04-01 20:04:00,Bole,ST-BS-03,Acme Instruments,Night,1.84,77.2,0.358,97,Valid
+TR-01002,2026-04-01 8:07:00,Akaki,ST-AK-03,HydroSense,Day,2.17,85.4,0.398,74,Valid
+TR-01003,2026-04-01 20:11:00,Akaki,ST-AK-03,HydroSense,Night,1.97,82.4,0.398,75,Valid
+TR-01004,2026-04-01 8:14:00,Kirkos,ST-KI-03,Civic Metering,Day,2.29,90.6,0.438,81,Valid
+TR-01005,2026-04-01 20:18:00,Kirkos,ST-KI-03,Civic Metering,Night,2.09,87.6,0.438,82,Valid
+TR-01006,2026-04-01 8:21:00,Lideta,ST-LI-03,Acme Instruments,Day,2.43,95.8,0.478,88,Review
+TR-01007,2026-04-01 20:02:00,Lideta,ST-LI-03,Acme Instruments,Night,2.23,92.8,0.478,89,Valid
+TR-01008,2026-04-01 8:05:00,Merkato,ST-ME-03,HydroSense,Day,,101,0.518,95,Valid
+TR-01009,2026-04-01 20:09:00,Merkato,ST-ME-03,HydroSense,Night,2.35,98,0.518,96,Valid
+TR-01010,2026-04-01 8:12:00,Gullele,ST-GU-03,Civic Metering,Day,2.69,106.2,0.558,73,Valid
+TR-01011,2026-04-01 20:16:00,Gullele,ST-GU-03,Civic Metering,Night,2.48,103.2,0.558,74,Valid
+TR-01012,2026-04-02 8:00:00,Bole,ST-BS-01,Acme Instruments,Day,2.13,82.6,0.376,72,Valid
+TR-01013,2026-04-02 20:04:00,Bole,ST-BS-01,Acme Instruments,Night,1.93,79.6,0.376,73,Valid
+TR-01014,2026-04-02 8:07:00,Akaki,ST-AK-01,HydroSense,Day,2.26,87.8,0.416,79,Valid
+TR-01015,2026-04-02 8:14:00,Kirkos,ST-KI-01,Civic Metering,Day,2.39,93,0.456,86,Valid
+TR-01016,2026-04-02 20:18:00,Kirkos,ST-KI-01,Civic Metering,Night,2.19,90,0.456,87,Valid
+TR-01017,2026-04-02 8:21:00,Lideta,ST-LI-01,Acme Instruments,Day,2.52,98.2,0.496,93,Valid
+TR-01018,2026-04-02 20:02:00,Lideta,ST-LI-01,Acme Instruments,Night,,95.2,0.496,94,Valid
+TR-01019,2026-04-02 8:05:00,Merkato,ST-ME-01,HydroSense,Day,2.65,103.4,0.536,100,Valid
+TR-01020,2026-04-02 20:09:00,Merkato,ST-ME-01,HydroSense,Night,2.45,100.4,0.536,72,Valid
+TR-01021,2026-04-02 8:12:00,Gullele,ST-GU-01,Civic Metering,Day,2.78,108.6,0.576,78,Valid
+TR-01022,2026-04-02 20:16:00,Gullele,ST-GU-01,Civic Metering,Night,2.58,105.6,0.576,79,Valid
+TR-01023,2026-04-03 8:00:00,Bole,ST-BS-02,Acme Instruments,Day,2.23,85,0.25,77,Valid
+TR-01024,2026-04-03 20:04:00,Bole,ST-BS-02,Acme Instruments,Night,2.02,82,0.25,78,Valid
+TR-01025,2026-04-03 20:11:00,Akaki,ST-AK-02,HydroSense,Night,2.15,87.2,0.29,85,Valid
+TR-01026,2026-04-03 8:14:00,Kirkos,ST-KI-02,Civic Metering,Day,2.49,95.4,0.33,91,Valid
+TR-01027,2026-04-03 20:18:00,Kirkos,ST-KI-02,Civic Metering,Night,2.29,92.4,0.33,92,Review
+TR-01028,2026-04-03 8:21:00,Lideta,ST-LI-02,Acme Instruments,Day,,100.6,0.37,98,Valid
+TR-01029,2026-04-03 20:02:00,Lideta,ST-LI-02,Acme Instruments,Night,2.42,97.6,0.37,99,Valid
+TR-01030,2026-04-03 8:05:00,Merkato,ST-ME-02,HydroSense,Day,2.75,105.8,0.41,76,Valid
+TR-01031,2026-04-03 20:09:00,Merkato,ST-ME-02,HydroSense,Night,2.54,102.8,0.41,77,Valid
+TR-01032,2026-04-03 8:12:00,Gullele,ST-GU-02,Civic Metering,Day,2.88,111,0.45,83,Valid
+TR-01033,2026-04-03 20:16:00,Gullele,ST-GU-02,Civic Metering,Night,2.67,108,0.45,84,Valid
+TR-01034,2026-04-04 8:00:00,Bole,ST-BS-03,Acme Instruments,Day,2.32,87.4,0.268,82,Valid
+TR-01035,2026-04-04 20:04:00,Bole,ST-BS-03,Acme Instruments,Night,2.12,84.4,0.268,83,Valid
+TR-01036,2026-04-04 8:07:00,Akaki,ST-AK-03,HydroSense,Day,2.45,92.6,0.308,89,Valid
+TR-01037,2026-04-04 20:11:00,Akaki,ST-AK-03,HydroSense,Night,2.25,89.6,0.308,90,Valid
+TR-01038,2026-04-04 8:14:00,Kirkos,ST-KI-03,Civic Metering,Day,2.58,97.8,0.348,96,Review
+TR-01039,2026-04-04 20:18:00,Kirkos,ST-KI-03,Civic Metering,Night,,94.8,0.348,97,Valid
+TR-01040,2026-04-04 8:21:00,Lideta,ST-LI-03,Acme Instruments,Day,2.71,103,0.388,74,Valid
+TR-01041,2026-04-04 20:02:00,Lideta,ST-LI-03,Acme Instruments,Night,2.51,100,0.388,75,Valid
+TR-01042,2026-04-04 8:05:00,Merkato,ST-ME-03,HydroSense,Day,2.84,108.2,0.428,81,Valid
+TR-01043,2026-04-04 20:09:00,Merkato,ST-ME-03,HydroSense,Night,2.64,105.2,0.428,82,Valid
+TR-01044,2026-04-04 8:12:00,Gullele,ST-GU-03,Civic Metering,Day,2.97,113.4,0.468,88,Valid
+TR-01045,2026-04-04 20:16:00,Gullele,ST-GU-03,Civic Metering,Night,2.77,110.4,0.468,89,Valid

@@ -1,0 +1,55 @@
+asset_id,zone,asset_type,material,installation_year,inspection_grade,capacity_rating
+S7-BS-001,Bole,Pump,Steel,2012,Good,140
+S7-BS-002,Bole,Pressure Sensor,Ductile Iron,2013,Fair,165
+S7-BS-003,Bole,Valve,HDPE,2014,Needs Review,190
+S7-BS-004,Bole,Storage Tank,Steel,2015,Good,215
+S7-BS-005,Bole,Pump,Ductile Iron,2016,Good,240
+S7-BS-006,Bole,Pressure Sensor,HDPE,2017,Fair,265
+S7-BS-007,Bole,Valve,Steel,2018,Needs Review,290
+S7-BS-008,Bole,Storage Tank,Ductile Iron,2019,Good,315
+S7-BS-009,Bole,Pump,HDPE,2020,Good,340
+S7-AK-001,Akaki,Pump,Steel,2014,Good,146
+S7-AK-002,Akaki,Pressure Sensor,Ductile Iron,2015,Fair,171
+S7-AK-003,Akaki,Valve,HDPE,2016,Needs Review,196
+S7-AK-004,Akaki,Storage Tank,Steel,2017,Good,221
+S7-AK-005,Akaki,Pump,Ductile Iron,2018,Good,246
+S7-AK-006,Akaki,Pressure Sensor,HDPE,2019,Fair,271
+S7-AK-007,Akaki,Valve,Steel,2020,Needs Review,296
+S7-AK-008,Akaki,Storage Tank,Ductile Iron,2021,Good,321
+S7-AK-009,Akaki,Pump,HDPE,2022,Good,346
+S7-KI-001,Kirkos,Pump,Steel,2016,Good,152
+S7-KI-002,Kirkos,Pressure Sensor,Ductile Iron,2017,Fair,177
+S7-KI-003,Kirkos,Valve,HDPE,2018,Needs Review,202
+S7-KI-004,Kirkos,Storage Tank,Steel,2019,Good,227
+S7-KI-005,Kirkos,Pump,Ductile Iron,2020,Good,252
+S7-KI-006,Kirkos,Pressure Sensor,HDPE,2021,Fair,277
+S7-KI-007,Kirkos,Valve,Steel,2022,Needs Review,302
+S7-KI-008,Kirkos,Storage Tank,Ductile Iron,2023,Good,327
+S7-KI-009,Kirkos,Pump,HDPE,2012,Good,352
+S7-LI-001,Lideta,Pump,Steel,2018,Good,158
+S7-LI-002,Lideta,Pressure Sensor,Ductile Iron,2019,Fair,183
+S7-LI-003,Lideta,Valve,HDPE,2020,Needs Review,208
+S7-LI-004,Lideta,Storage Tank,Steel,2021,Good,233
+S7-LI-005,Lideta,Pump,Ductile Iron,2022,Good,258
+S7-LI-006,Lideta,Pressure Sensor,HDPE,2023,Fair,283
+S7-LI-007,Lideta,Valve,Steel,2012,Needs Review,308
+S7-LI-008,Lideta,Storage Tank,Ductile Iron,2013,Good,333
+S7-LI-009,Lideta,Pump,HDPE,2014,Good,358
+S7-ME-001,Merkato,Pump,Steel,2020,Good,164
+S7-ME-002,Merkato,Pressure Sensor,Ductile Iron,2021,Fair,189
+S7-ME-003,Merkato,Valve,HDPE,2022,Needs Review,214
+S7-ME-004,Merkato,Storage Tank,Steel,2023,Good,239
+S7-ME-005,Merkato,Pump,Ductile Iron,2012,Good,264
+S7-ME-006,Merkato,Pressure Sensor,HDPE,2013,Fair,289
+S7-ME-007,Merkato,Valve,Steel,2014,Needs Review,314
+S7-ME-008,Merkato,Storage Tank,Ductile Iron,2015,Good,339
+S7-ME-009,Merkato,Pump,HDPE,2016,Good,364
+S7-GU-001,Gullele,Pump,Steel,2022,Good,170
+S7-GU-002,Gullele,Pressure Sensor,Ductile Iron,2023,Fair,195
+S7-GU-003,Gullele,Valve,HDPE,2012,Needs Review,220
+S7-GU-004,Gullele,Storage Tank,Steel,2013,Good,245
+S7-GU-005,Gullele,Pump,Ductile Iron,2014,Good,270
+S7-GU-006,Gullele,Pressure Sensor,HDPE,2015,Fair,295
+S7-GU-007,Gullele,Valve,Steel,2016,Needs Review,320
+S7-GU-008,Gullele,Storage Tank,Ductile Iron,2017,Good,345
+S7-GU-009,Gullele,Pump,HDPE,2018,Good,370
