@@ -1,0 +1,301 @@
+site_id,survey_date,district,point_type,management_type,operational_status,walking_distance_m,daily_users,queue_minutes,accessibility_rating,survey_team
+WP-7001,2026-01-15,Bole,Public Tap,Public,Operational,116,176,7.6,1,Team A
+WP-7002,2026-01-18,Akaki,Public Tap,Community,Operational,227,259,7.5,2,Team B
+WP-7003,2026-01-21,Kirkos,Public Tap,Institution,Operational,322,322,13.9,3,Team C
+WP-7004,2026-01-24,Lideta,Public Tap,Public,Repair Needed,381,379,17.2,4,Team A
+WP-7005,2026-01-27,Gullele,Public Tap,Community,Operational,515,410,20.3,5,Team B
+WP-7006,2026-01-30,Yeka,Community Kiosk,Institution,Operational,550,495,24.4,1,Team C
+WP-7007,2026-02-02,Bole,Community Kiosk,Public,Operational,343,314,19.1,2,Team A
+WP-7008,2026-02-05,Akaki,Community Kiosk,Community,Repair Needed,474,372,22.8,3,Team B
+WP-7009,2026-02-08,Kirkos,Community Kiosk,Institution,Operational,543,464,31.4,4,Team C
+WP-7010,2026-02-11,Lideta,Community Kiosk,Public,Operational,599,485,28.6,5,Team A
+WP-7011,2026-02-14,Gullele,Institutional Tap,Community,Operational,645,506,33.9,1,Team B
+WP-7012,2026-02-17,Yeka,Institutional Tap,Institution,Repair Needed,829,588,8.3,2,Team C
+WP-7013,2026-02-20,Bole,Institutional Tap,Public,Operational,603,422,7.8,3,Team A
+WP-7014,2026-02-23,Akaki,Institutional Tap,Community,Operational,128,492,9.7,4,Team B
+WP-7015,2026-02-26,Kirkos,Institutional Tap,Institution,Operational,284,614,12.4,5,Team C
+WP-7016,2026-03-01,Lideta,Standpipe,Public,Repair Needed,351,571,21.1,1,Team A
+WP-7017,2026-03-04,Gullele,Standpipe,Community,Operational,413,627,20.5,2,Team B
+WP-7018,2026-03-07,Yeka,Standpipe,Institution,Operational,592,381,28.2,3,Team C
+WP-7019,2026-03-10,Bole,Standpipe,Public,Operational,332,249,24.4,4,Team A
+WP-7020,2026-03-13,Akaki,Standpipe,Community,Repair Needed,416,268,25.6,5,Team B
+WP-7021,2026-03-16,Kirkos,Public Tap,Institution,Operational,462,310,31.8,1,Team C
+WP-7022,2026-03-19,Lideta,Public Tap,Public,Operational,591,402,32.4,2,Team A
+WP-7023,2026-03-22,Gullele,Public Tap,Community,Operational,480,438,9.1,3,Team B
+WP-7024,2026-03-25,Yeka,Public Tap,Institution,Repair Needed,723,474,13.6,4,Team C
+WP-7025,2026-03-28,Bole,Public Tap,Public,Operational,511,331,10.5,5,Team A
+WP-7026,2026-03-31,Akaki,Community Kiosk,Community,Operational,584,404,10.7,1,Team B
+WP-7027,2026-04-03,Kirkos,Community Kiosk,Institution,Operational,306,479,16.4,2,Team C
+WP-7028,2026-04-06,Lideta,Community Kiosk,Public,Repair Needed,388,483,22.6,3,Team A
+WP-7029,2026-04-09,Gullele,Community Kiosk,Community,Operational,451,561,23.6,4,Team B
+WP-7030,2026-04-12,Yeka,Community Kiosk,Institution,Operational,491,606,23,5,Team C
+WP-7031,2026-04-15,Bole,Institutional Tap,Public,Operational,305,438,24.9,1,Team A
+WP-7032,2026-04-18,Akaki,Institutional Tap,Community,Repair Needed,456,531,27.7,2,Team B
+WP-7033,2026-04-21,Kirkos,Institutional Tap,Institution,Operational,438,558,29.2,3,Team C
+WP-7034,2026-04-24,Lideta,Institutional Tap,Public,Operational,563,658,10.2,4,Team A
+WP-7035,2026-04-27,Gullele,Institutional Tap,Community,Operational,646,369,13.8,5,Team B
+WP-7036,2026-04-30,Yeka,Standpipe,Institution,Repair Needed,743,391,17.7,1,Team C
+WP-7037,2026-05-03,Bole,Standpipe,Public,Operational,502,285,15.5,2,Team A
+WP-7038,2026-05-06,Akaki,Standpipe,Community,Operational,586,309,11.9,3,Team B
+WP-7039,2026-05-09,Kirkos,Standpipe,Institution,Operational,671,387,19.3,4,Team C
+WP-7040,2026-05-12,Lideta,Standpipe,Public,Repair Needed,304,398,25.6,5,Team A
+WP-7041,2026-05-15,Gullele,Public Tap,Community,Operational,380,491,22.3,1,Team B
+WP-7042,2026-05-18,Yeka,Public Tap,Institution,Operational,433,459,30.3,2,Team C
+WP-7043,2026-05-21,Bole,Public Tap,Public,Operational,257,360,26.9,3,Team A
+WP-7044,2026-05-24,Akaki,Public Tap,Community,Repair Needed,301,400,29.2,4,Team B
+WP-7045,2026-05-27,Kirkos,Public Tap,Institution,Operational,400,485,12.7,5,Team C
+WP-7046,2026-05-30,Lideta,Community Kiosk,Public,Operational,493,474,8.6,1,Team A
+WP-7047,2026-06-02,Gullele,Community Kiosk,Community,Operational,595,609,18,2,Team B
+WP-7048,2026-06-05,Yeka,Community Kiosk,Institution,Repair Needed,721,627,15.3,3,Team C
+WP-7049,2026-06-08,Bole,Community Kiosk,Public,Operational,441,450,19,4,Team A
+WP-7050,2026-06-11,Akaki,Community Kiosk,Community,Operational,578,544,22.7,5,Team B
+WP-7051,2026-06-14,Kirkos,Institutional Tap,Institution,Operational,642,584,21,1,Team C
+WP-7052,2026-06-17,Lideta,Institutional Tap,Public,Repair Needed,656,279,24.3,2,Team A
+WP-7053,2026-06-20,Gullele,Institutional Tap,Community,Operational,323,331,27.8,3,Team B
+WP-7054,2026-06-23,Yeka,Institutional Tap,Institution,Operational,407,420,31.1,4,Team C
+WP-7055,2026-06-26,Bole,Institutional Tap,Public,Operational,221,324,29,5,Team A
+WP-7056,2026-06-29,Akaki,Standpipe,Community,Repair Needed,281,320,8.1,1,Team B
+WP-7057,2026-07-02,Kirkos,Standpipe,Institution,Operational,438,419,7.4,2,Team C
+WP-7058,2026-07-05,Lideta,Standpipe,Public,Operational,483,434,12.9,3,Team A
+WP-7059,2026-07-08,Gullele,Standpipe,Community,Operational,480,462,14,4,Team B
+WP-7060,2026-07-11,Yeka,Standpipe,Institution,Repair Needed,593,504,18.3,5,Team C
+WP-7061,2026-07-14,Bole,Public Tap,Public,Operational,483,378,21.7,1,Team A
+WP-7062,2026-07-17,Akaki,Public Tap,Community,Operational,507,440,21.6,2,Team B
+WP-7063,2026-07-20,Kirkos,Public Tap,Institution,Operational,614,480,25.3,3,Team C
+WP-7064,2026-07-23,Lideta,Public Tap,Public,Repair Needed,640,488,26.2,4,Team A
+WP-7065,2026-07-26,Gullele,Public Tap,Community,Operational,728,550,31.3,5,Team B
+WP-7066,2026-07-29,Yeka,Community Kiosk,Institution,Operational,368,671,30.1,1,Team C
+WP-7067,2026-08-01,Bole,Community Kiosk,Public,Operational,157,490,7.2,2,Team A
+WP-7068,2026-08-04,Akaki,Community Kiosk,Community,Repair Needed,282,548,10,3,Team B
+WP-7069,2026-08-07,Kirkos,Community Kiosk,Institution,Operational,364,283,8.6,4,Team C
+WP-7070,2026-08-10,Lideta,Community Kiosk,Public,Operational,375,319,15.1,5,Team A
+WP-7071,2026-08-13,Gullele,Institutional Tap,Community,Operational,507,383,22.4,1,Team B
+WP-7072,2026-08-16,Yeka,Institutional Tap,Institution,Repair Needed,588,465,15.9,2,Team C
+WP-7073,2026-08-19,Bole,Institutional Tap,Public,Operational,399,304,20.8,3,Team A
+WP-7074,2026-08-22,Akaki,Institutional Tap,Community,Operational,472,290,22.6,4,Team B
+WP-7075,2026-08-25,Kirkos,Institutional Tap,Institution,Operational,589,395,27.3,5,Team C
+WP-7076,2026-08-28,Lideta,Standpipe,Public,Repair Needed,657,430,30.7,1,Team A
+WP-7077,2026-08-31,Gullele,Standpipe,Community,Operational,755,477,29.5,2,Team B
+WP-7078,2026-09-03,Yeka,Standpipe,Institution,Operational,810,559,7.4,3,Team C
+WP-7079,2026-09-06,Bole,Standpipe,Public,Operational,173,396,7,4,Team A
+WP-7080,2026-09-09,Akaki,Standpipe,Community,Repair Needed,271,475,15.9,5,Team B
+WP-7081,2026-09-12,Kirkos,Public Tap,Institution,Operational,329,521,9.8,1,Team C
+WP-7082,2026-09-15,Lideta,Public Tap,Public,Operational,349,542,14.8,2,Team A
+WP-7083,2026-09-18,Gullele,Public Tap,Community,Operational,451,600,25.5,3,Team B
+WP-7084,2026-09-21,Yeka,Public Tap,Institution,Repair Needed,567,648,26.2,4,Team C
+WP-7085,2026-09-24,Bole,Public Tap,Public,Operational,397,541,21.5,5,Team A
+WP-7086,2026-09-27,Akaki,Community Kiosk,Community,Operational,407,278,25.3,1,Team B
+WP-7087,2026-09-30,Kirkos,Community Kiosk,Institution,Operational,552,332,26.2,2,Team C
+WP-7088,2026-01-16,Lideta,Community Kiosk,Public,Repair Needed,609,314,29,3,Team A
+WP-7089,2026-01-19,Gullele,Community Kiosk,Community,Operational,645,382,12.1,4,Team B
+WP-7090,2026-01-22,Yeka,Community Kiosk,Institution,Operational,720,418,12.4,5,Team C
+WP-7091,2026-01-25,Bole,Institutional Tap,Public,Operational,627,319,9.7,1,Team A
+WP-7092,2026-01-28,Akaki,Institutional Tap,Community,Repair Needed,133,368,19.7,2,Team B
+WP-7093,2026-01-31,Kirkos,Institutional Tap,Institution,Operational,294,454,18.4,3,Team C
+WP-7094,2026-02-03,Lideta,Institutional Tap,Public,Operational,375,458,23.2,4,Team A
+WP-7095,2026-02-06,Gullele,Institutional Tap,Community,Operational,425,554,20.6,5,Team B
+WP-7096,2026-02-09,Yeka,Standpipe,Institution,Repair Needed,463,522,29,1,Team C
+WP-7097,2026-02-12,Bole,Standpipe,Public,Operational,340,406,22.8,2,Team A
+WP-7098,2026-02-15,Akaki,Standpipe,Community,Operational,427,457,29,3,Team B
+WP-7099,2026-02-18,Kirkos,Standpipe,Institution,Operational,507,521,31.6,4,Team C
+WP-7100,2026-02-21,Lideta,Standpipe,Public,Repair Needed,602,621,11.3,5,Team A
+WP-7101,2026-02-24,Gullele,Public Tap,Community,Operational,713,642,11.2,1,Team B
+WP-7102,2026-02-27,Yeka,Public Tap,Institution,Operational,719,658,12,2,Team C
+WP-7103,2026-03-02,Bole,Public Tap,Public,Operational,526,211,15.8,3,Team A
+WP-7104,2026-03-05,Akaki,Public Tap,Community,Repair Needed,610,322,15.6,4,Team B
+WP-7105,2026-03-08,Kirkos,Public Tap,Institution,Operational,241,360,17.3,5,Team C
+WP-7106,2026-03-11,Lideta,Community Kiosk,Public,Operational,391,349,24.8,1,Team A
+WP-7107,2026-03-14,Gullele,Community Kiosk,Community,Operational,373,384,22.4,2,Team B
+WP-7108,2026-03-17,Yeka,Community Kiosk,Institution,Repair Needed,481,481,28.7,3,Team C
+WP-7109,2026-03-20,Bole,Community Kiosk,Public,Operational,244,366,31,4,Team A
+WP-7110,2026-03-23,Akaki,Community Kiosk,Community,Operational,343,378,33.4,5,Team B
+WP-7111,2026-03-26,Kirkos,Institutional Tap,Institution,Operational,456,442,8.6,1,Team C
+WP-7112,2026-03-29,Lideta,Institutional Tap,Public,Repair Needed,532,481,11,2,Team A
+WP-7113,2026-04-01,Gullele,Institutional Tap,Community,Operational,677,530,17.5,3,Team B
+WP-7114,2026-04-04,Yeka,Institutional Tap,Institution,Operational,759,616,16.2,4,Team C
+WP-7115,2026-04-07,Bole,Institutional Tap,Public,Operational,505,451,16.7,5,Team A
+WP-7116,2026-04-10,Akaki,Standpipe,Community,Repair Needed,538,512,19.7,1,Team B
+WP-7117,2026-04-13,Kirkos,Standpipe,Institution,Operational,672,569,22,2,Team C
+WP-7118,2026-04-16,Lideta,Standpipe,Public,Operational,308,576,27.6,3,Team A
+WP-7119,2026-04-19,Gullele,Standpipe,Community,Operational,381,661,29.8,4,Team B
+WP-7120,2026-04-22,Yeka,Standpipe,Institution,Repair Needed,469,383,32.1,5,Team C
+WP-7121,2026-04-25,Bole,Public Tap,Public,Operational,265,239,28,1,Team A
+WP-7122,2026-04-28,Akaki,Public Tap,Community,Operational,359,231,3.7,2,Team B
+WP-7123,2026-05-01,Kirkos,Public Tap,Institution,Operational,454,316,13.6,3,Team C
+WP-7124,2026-05-04,Lideta,Public Tap,Public,Repair Needed,551,425,7.4,4,Team A
+WP-7125,2026-05-07,Gullele,Public Tap,Community,Operational,648,428,15.4,5,Team B
+WP-7126,2026-05-10,Yeka,Community Kiosk,Institution,Operational,660,516,18.2,1,Team C
+WP-7127,2026-05-13,Bole,Community Kiosk,Public,Operational,385,356,19.7,2,Team A
+WP-7128,2026-05-16,Akaki,Community Kiosk,Community,Repair Needed,598,375,18.3,3,Team B
+WP-7129,2026-05-19,Kirkos,Community Kiosk,Institution,Operational,603,453,23.4,4,Team C
+WP-7130,2026-05-22,Lideta,Community Kiosk,Public,Operational,717,547,26.9,5,Team A
+WP-7131,2026-05-25,Gullele,Institutional Tap,Community,Operational,396,511,33.1,1,Team B
+WP-7132,2026-05-28,Yeka,Institutional Tap,Institution,Repair Needed,421,635,36.3,2,Team C
+WP-7133,2026-05-31,Bole,Institutional Tap,Public,Operational,264,468,5.8,3,Team A
+WP-7134,2026-06-03,Akaki,Institutional Tap,Community,Operational,247,479,10,4,Team B
+WP-7135,2026-06-06,Kirkos,Institutional Tap,Institution,Operational,409,551,8.5,5,Team C
+WP-7136,2026-06-09,Lideta,Standpipe,Public,Repair Needed,554,616,15.6,1,Team A
+WP-7137,2026-06-12,Gullele,Standpipe,Community,Operational,589,366,16.3,2,Team B
+WP-7138,2026-06-15,Yeka,Standpipe,Institution,Operational,679,407,21.2,3,Team C
+WP-7139,2026-06-18,Bole,Standpipe,Public,Operational,474,210,24.3,4,Team A
+WP-7140,2026-06-21,Akaki,Standpipe,Community,Repair Needed,460,311,23.4,5,Team B
+WP-7141,2026-06-24,Kirkos,Public Tap,Institution,Operational,576,381,25.1,1,Team C
+WP-7142,2026-06-27,Lideta,Public Tap,Public,Operational,676,402,27.7,2,Team A
+WP-7143,2026-06-30,Gullele,Public Tap,Community,Operational,765,436,28.8,3,Team B
+WP-7144,2026-07-03,Yeka,Public Tap,Institution,Repair Needed,423,583,12,4,Team C
+WP-7145,2026-07-06,Bole,Public Tap,Public,Operational,169,402,12.4,5,Team A
+WP-7146,2026-07-09,Akaki,Community Kiosk,Community,Operational,248,342,12.3,1,Team B
+WP-7147,2026-07-12,Kirkos,Community Kiosk,Institution,Operational,296,443,14.2,2,Team C
+WP-7148,2026-07-15,Lideta,Community Kiosk,Public,Repair Needed,439,499,19.6,3,Team A
+WP-7149,2026-07-18,Gullele,Community Kiosk,Community,Operational,557,578,18,4,Team B
+WP-7150,2026-07-21,Yeka,Community Kiosk,Institution,Operational,589,633,27.7,5,Team C
+WP-7151,2026-07-24,Bole,Institutional Tap,Public,Operational,398,434,16.1,1,Team A
+WP-7152,2026-07-27,Akaki,Institutional Tap,Community,Repair Needed,460,462,26,2,Team B
+WP-7153,2026-07-30,Kirkos,Institutional Tap,Institution,Operational,518,596,31.2,3,Team C
+WP-7154,2026-08-02,Lideta,Institutional Tap,Public,Operational,651,294,36.3,4,Team A
+WP-7155,2026-08-05,Gullele,Institutional Tap,Community,Operational,786,360,5,5,Team B
+WP-7156,2026-08-08,Yeka,Standpipe,Institution,Repair Needed,810,407,14.4,1,Team C
+WP-7157,2026-08-11,Bole,Standpipe,Public,Operational,223,250,14.8,2,Team A
+WP-7158,2026-08-14,Akaki,Standpipe,Community,Operational,213,321,15.1,3,Team B
+WP-7159,2026-08-17,Kirkos,Standpipe,Institution,Operational,334,385,16.1,4,Team C
+WP-7160,2026-08-20,Lideta,Standpipe,Public,Repair Needed,373,412,18.5,5,Team A
+WP-7161,2026-08-23,Gullele,Public Tap,Community,Operational,488,514,26.8,1,Team B
+WP-7162,2026-08-26,Yeka,Public Tap,Institution,Operational,553,533,28.2,2,Team C
+WP-7163,2026-08-29,Bole,Public Tap,Public,Operational,432,416,26.5,3,Team A
+WP-7164,2026-09-01,Akaki,Public Tap,Community,Repair Needed,442,463,31,4,Team B
+WP-7165,2026-09-04,Kirkos,Public Tap,Institution,Operational,590,455,34.8,5,Team C
+WP-7166,2026-09-07,Lideta,Community Kiosk,Public,Operational,581,527,10.6,1,Team A
+WP-7167,2026-09-10,Gullele,Community Kiosk,Community,Operational,678,601,12.9,2,Team B
+WP-7168,2026-09-13,Yeka,Community Kiosk,Institution,Repair Needed,703,630,12,3,Team C
+WP-7169,2026-09-16,Bole,Community Kiosk,Public,Operational,525,445,15.9,4,Team A
+WP-7170,2026-09-19,Akaki,Community Kiosk,Community,Operational,234,572,17.3,5,Team B
+WP-7171,2026-09-22,Kirkos,Institutional Tap,Institution,Operational,283,272,18.6,1,Team C
+WP-7172,2026-09-25,Lideta,Institutional Tap,Public,Repair Needed,459,334,26.9,2,Team A
+WP-7173,2026-09-28,Gullele,Institutional Tap,Community,Operational,482,379,24.4,3,Team B
+WP-7174,2026-10-01,Yeka,Institutional Tap,Institution,Operational,507,386,29.6,4,Team C
+WP-7175,2026-01-17,Bole,Institutional Tap,Public,Operational,333,273,27.6,5,Team A
+WP-7176,2026-01-20,Akaki,Standpipe,Community,Repair Needed,311,343,31.3,1,Team B
+WP-7177,2026-01-23,Kirkos,Standpipe,Institution,Operational,476,380,7.9,2,Team C
+WP-7178,2026-01-26,Lideta,Standpipe,Public,Operational,594,436,7.3,3,Team A
+WP-7179,2026-01-29,Gullele,Standpipe,Community,Operational,697,507,13.4,4,Team B
+WP-7180,2026-02-01,Yeka,Standpipe,Institution,Repair Needed,707,539,20.6,5,Team C
+WP-7181,2026-02-04,Bole,Public Tap,Public,Operational,603,418,14.4,1,Team A
+WP-7182,2026-02-07,Akaki,Public Tap,Community,Operational,594,487,16.9,2,Team B
+WP-7183,2026-02-10,Kirkos,Public Tap,Institution,Operational,274,524,21.9,3,Team C
+WP-7184,2026-02-13,Lideta,Public Tap,Public,Repair Needed,365,497,27.4,4,Team A
+WP-7185,2026-02-16,Gullele,Public Tap,Community,Operational,444,570,27.2,5,Team B
+WP-7186,2026-02-19,Yeka,Community Kiosk,Institution,Operational,452,638,32.7,1,Team C
+WP-7187,2026-02-22,Bole,Community Kiosk,Public,Operational,283,505,32.3,2,Team A
+WP-7188,2026-02-25,Akaki,Community Kiosk,Community,Repair Needed,392,226,6.1,3,Team B
+WP-7189,2026-02-28,Kirkos,Community Kiosk,Institution,Operational,476,319,9.3,4,Team C
+WP-7190,2026-03-03,Lideta,Community Kiosk,Public,Operational,462,342,11.1,5,Team A
+WP-7191,2026-03-06,Gullele,Institutional Tap,Community,Operational,671,368,17.5,1,Team B
+WP-7192,2026-03-09,Yeka,Institutional Tap,Institution,Repair Needed,656,476,17.2,2,Team C
+WP-7193,2026-03-12,Bole,Institutional Tap,Public,Operational,526,304,17,3,Team A
+WP-7194,2026-03-15,Akaki,Institutional Tap,Community,Operational,541,343,24.5,4,Team B
+WP-7195,2026-03-18,Kirkos,Institutional Tap,Institution,Operational,692,389,22.6,5,Team C
+WP-7196,2026-03-21,Lideta,Standpipe,Public,Repair Needed,309,427,23.5,1,Team A
+WP-7197,2026-03-24,Gullele,Standpipe,Community,Operational,442,531,29.1,2,Team B
+WP-7198,2026-03-27,Yeka,Standpipe,Institution,Operational,410,555,32.2,3,Team C
+WP-7199,2026-03-30,Bole,Standpipe,Public,Operational,290,420,8,4,Team A
+WP-7200,2026-04-02,Akaki,Standpipe,Community,Repair Needed,312,442,12.2,5,Team B
+WP-7201,2026-04-05,Kirkos,Public Tap,Institution,Operational,451,505,15.3,1,Team C
+WP-7202,2026-04-08,Lideta,Public Tap,Public,Operational,497,573,17.4,2,Team A
+WP-7203,2026-04-11,Gullele,Public Tap,Community,Operational,606,609,22.6,3,Team B
+WP-7204,2026-04-14,Yeka,Public Tap,Institution,Repair Needed,727,611,21.2,4,Team C
+WP-7205,2026-04-17,Bole,Public Tap,Public,Operational,500,199,19.8,5,Team A
+WP-7206,2026-04-20,Akaki,Community Kiosk,Community,Operational,582,295,23.8,1,Team B
+WP-7207,2026-04-23,Kirkos,Community Kiosk,Institution,Operational,611,341,29,2,Team C
+WP-7208,2026-04-26,Lideta,Community Kiosk,Public,Repair Needed,741,351,29.3,3,Team A
+WP-7209,2026-04-29,Gullele,Community Kiosk,Community,Operational,392,428,36,4,Team B
+WP-7210,2026-05-02,Yeka,Community Kiosk,Institution,Operational,509,503,11.8,5,Team C
+WP-7211,2026-05-05,Bole,Institutional Tap,Public,Operational,263,303,6.7,1,Team A
+WP-7212,2026-05-08,Akaki,Institutional Tap,Community,Repair Needed,268,360,13,2,Team B
+WP-7213,2026-05-11,Kirkos,Institutional Tap,Institution,Operational,322,433,12.7,3,Team C
+WP-7214,2026-05-14,Lideta,Institutional Tap,Public,Operational,450,487,17.5,4,Team A
+WP-7215,2026-05-17,Gullele,Institutional Tap,Community,Operational,531,548,22.9,5,Team B
+WP-7216,2026-05-20,Yeka,Standpipe,Institution,Repair Needed,599,618,23.2,1,Team C
+WP-7217,2026-05-23,Bole,Standpipe,Public,Operational,424,410,22.3,2,Team A
+WP-7218,2026-05-26,Akaki,Standpipe,Community,Operational,529,492,29.7,3,Team B
+WP-7219,2026-05-29,Kirkos,Standpipe,Institution,Operational,587,547,25.3,4,Team C
+WP-7220,2026-06-01,Lideta,Standpipe,Public,Repair Needed,623,609,27.8,5,Team A
+WP-7221,2026-06-04,Gullele,Public Tap,Community,Operational,765,616,8,1,Team B
+WP-7222,2026-06-07,Yeka,Public Tap,Institution,Operational,449,361,18.7,2,Team C
+WP-7223,2026-06-10,Bole,Public Tap,Public,Operational,148,228,14.5,3,Team A
+WP-7224,2026-06-13,Akaki,Public Tap,Community,Repair Needed,259,311,14.3,4,Team B
+WP-7225,2026-06-16,Kirkos,Public Tap,Institution,Operational,463,380,15.4,5,Team C
+WP-7226,2026-06-19,Lideta,Community Kiosk,Public,Operational,397,406,21,1,Team A
+WP-7227,2026-06-22,Gullele,Community Kiosk,Community,Operational,511,423,26.5,2,Team B
+WP-7228,2026-06-25,Yeka,Community Kiosk,Institution,Repair Needed,617,508,27.8,3,Team C
+WP-7229,2026-06-28,Bole,Community Kiosk,Public,Operational,395,333,26.7,4,Team A
+WP-7230,2026-07-01,Akaki,Community Kiosk,Community,Operational,456,394,31.9,5,Team B
+WP-7231,2026-07-04,Kirkos,Institutional Tap,Institution,Operational,543,410,33,1,Team C
+WP-7232,2026-07-07,Lideta,Institutional Tap,Public,Repair Needed,604,497,8.4,2,Team A
+WP-7233,2026-07-10,Gullele,Institutional Tap,Community,Operational,720,538,9.5,3,Team B
+WP-7234,2026-07-13,Yeka,Institutional Tap,Institution,Operational,810,589,13.6,4,Team C
+WP-7235,2026-07-16,Bole,Institutional Tap,Public,Operational,176,438,13.5,5,Team A
+WP-7236,2026-07-19,Akaki,Standpipe,Community,Repair Needed,209,527,17.5,1,Team B
+WP-7237,2026-07-22,Kirkos,Standpipe,Institution,Operational,324,584,16,2,Team C
+WP-7238,2026-07-25,Lideta,Standpipe,Public,Operational,383,563,25,3,Team A
+WP-7239,2026-07-28,Gullele,Standpipe,Community,Operational,502,360,28.7,4,Team B
+WP-7240,2026-07-31,Yeka,Standpipe,Institution,Repair Needed,522,369,32.8,5,Team C
+WP-7241,2026-08-03,Bole,Public Tap,Public,Operational,421,275,22,1,Team A
+WP-7242,2026-08-06,Akaki,Public Tap,Community,Operational,534,306,29.7,2,Team B
+WP-7243,2026-08-09,Kirkos,Public Tap,Institution,Operational,521,341,4.3,3,Team C
+WP-7244,2026-08-12,Lideta,Public Tap,Public,Repair Needed,576,373,5.8,4,Team A
+WP-7245,2026-08-15,Gullele,Public Tap,Community,Operational,679,460,17,5,Team B
+WP-7246,2026-08-18,Yeka,Community Kiosk,Institution,Operational,781,493,19,1,Team C
+WP-7247,2026-08-21,Bole,Community Kiosk,Public,Operational,555,392,13.7,2,Team A
+WP-7248,2026-08-24,Akaki,Community Kiosk,Community,Repair Needed,202,417,22.2,3,Team B
+WP-7249,2026-08-27,Kirkos,Community Kiosk,Institution,Operational,343,502,25.7,4,Team C
+WP-7250,2026-08-30,Lideta,Community Kiosk,Public,Operational,326,493,26,5,Team A
+WP-7251,2026-09-02,Gullele,Institutional Tap,Community,Operational,466,573,29.9,1,Team B
+WP-7252,2026-09-05,Yeka,Institutional Tap,Institution,Repair Needed,506,624,30.4,2,Team C
+WP-7253,2026-09-08,Bole,Institutional Tap,Public,Operational,279,464,27.9,3,Team A
+WP-7254,2026-09-11,Akaki,Institutional Tap,Community,Operational,449,517,8.2,4,Team B
+WP-7255,2026-09-14,Kirkos,Institutional Tap,Institution,Operational,499,555,9.8,5,Team C
+WP-7256,2026-09-17,Lideta,Standpipe,Public,Repair Needed,553,322,16.5,1,Team A
+WP-7257,2026-09-20,Gullele,Standpipe,Community,Operational,735,398,17,2,Team B
+WP-7258,2026-09-23,Yeka,Standpipe,Institution,Operational,717,433,19.8,3,Team C
+WP-7259,2026-09-26,Bole,Standpipe,Public,Operational,548,314,20.8,4,Team A
+WP-7260,2026-09-29,Akaki,Standpipe,Community,Repair Needed,643,349,18.8,5,Team B
+WP-7261,2026-01-15,Kirkos,Public Tap,Institution,Operational,208,375,23,1,Team C
+WP-7262,2026-01-18,Lideta,Public Tap,Public,Operational,337,399,27.6,2,Team A
+WP-7263,2026-01-21,Gullele,Public Tap,Community,Operational,358,464,32.6,3,Team B
+WP-7264,2026-01-24,Yeka,Public Tap,Institution,Repair Needed,548,517,33.9,4,Team C
+WP-7265,2026-01-27,Bole,Public Tap,Public,Operational,271,399,9.8,5,Team A
+WP-7266,2026-01-30,Akaki,Community Kiosk,Community,Operational,403,447,8.9,1,Team B
+WP-7267,2026-02-02,Kirkos,Community Kiosk,Institution,Operational,440,464,9.8,2,Team C
+WP-7268,2026-02-05,Lideta,Community Kiosk,Public,Repair Needed,524,492,17.6,3,Team A
+WP-7269,2026-02-08,Gullele,Community Kiosk,Community,Operational,686,610,21.3,4,Team B
+WP-7270,2026-02-11,Yeka,Community Kiosk,Institution,Operational,732,609,17.2,5,Team C
+WP-7271,2026-02-14,Bole,Institutional Tap,Public,Operational,441,510,25.3,1,Team A
+WP-7272,2026-02-17,Akaki,Institutional Tap,Community,Repair Needed,567,490,21.2,2,Team B
+WP-7273,2026-02-20,Kirkos,Institutional Tap,Institution,Operational,682,242,26.9,3,Team C
+WP-7274,2026-02-23,Lideta,Institutional Tap,Public,Operational,301,312,26.7,4,Team A
+WP-7275,2026-02-26,Gullele,Institutional Tap,Community,Operational,397,382,31,5,Team B
+WP-7276,2026-03-01,Yeka,Standpipe,Institution,Repair Needed,441,504,9.7,1,Team C
+WP-7277,2026-03-04,Bole,Standpipe,Public,Operational,244,275,6.8,2,Team A
+WP-7278,2026-03-07,Akaki,Standpipe,Community,Operational,356,286,10.1,3,Team B
+WP-7279,2026-03-10,Kirkos,Standpipe,Institution,Operational,414,370,9.8,4,Team C
+WP-7280,2026-03-13,Lideta,Standpipe,Public,Repair Needed,515,397,19.5,5,Team A
+WP-7281,2026-03-16,Gullele,Public Tap,Community,Operational,588,501,18.9,1,Team B
+WP-7282,2026-03-19,Yeka,Public Tap,Institution,Operational,650,583,24.3,2,Team C
+WP-7283,2026-03-22,Bole,Public Tap,Public,Operational,433,344,19.9,3,Team A
+WP-7284,2026-03-25,Akaki,Public Tap,Community,Repair Needed,542,488,26.9,4,Team B
+WP-7285,2026-03-28,Kirkos,Public Tap,Institution,Operational,560,518,32.8,5,Team C
+WP-7286,2026-03-31,Lideta,Community Kiosk,Public,Operational,751,509,34.5,1,Team A
+WP-7287,2026-04-03,Gullele,Community Kiosk,Community,Operational,397,602,9.1,2,Team B
+WP-7288,2026-04-06,Yeka,Community Kiosk,Institution,Repair Needed,421,641,11.9,3,Team C
+WP-7289,2026-04-09,Bole,Community Kiosk,Public,Operational,250,510,9.5,4,Team A
+WP-7290,2026-04-12,Akaki,Community Kiosk,Community,Operational,354,282,15.5,5,Team B
+WP-7291,2026-04-15,Kirkos,Institutional Tap,Institution,Operational,463,327,16.4,1,Team C
+WP-7292,2026-04-18,Lideta,Institutional Tap,Public,Repair Needed,499,346,20.9,2,Team A
+WP-7293,2026-04-21,Gullele,Institutional Tap,Community,Operational,545,440,26,3,Team B
+WP-7294,2026-04-24,Yeka,Institutional Tap,Institution,Operational,693,401,26.6,4,Team C
+WP-7295,2026-04-27,Bole,Institutional Tap,Public,Operational,423,334,23.3,5,Team A
+WP-7296,2026-04-30,Akaki,Standpipe,Community,Repair Needed,487,359,26.5,1,Team B
+WP-7297,2026-05-03,Kirkos,Standpipe,Institution,Operational,626,445,31,2,Team C
+WP-7298,2026-05-06,Lideta,Standpipe,Public,Operational,724,473,7.3,3,Team A
+WP-7299,2026-05-09,Gullele,Standpipe,Community,Operational,758,473,9.9,4,Team B
+WP-7300,2026-05-12,Yeka,Standpipe,Institution,Repair Needed,370,580,16.4,5,Team C

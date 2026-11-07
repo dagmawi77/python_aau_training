@@ -1,0 +1,73 @@
+month,district,service_class,customer_band,requested_m3,delivered_m3,interruption_hours,coverage_target_pct,staff_shift
+2026-01-01,Bole,Urban Core,Low,47483,44893,3.8,95,Day
+2026-01-01,Akaki,Mixed Residential,Medium,51252,48462,4.2,95,Night
+2026-01-01,Kirkos,Peri-Urban,High,55620,52898,4.9,95,Day
+2026-01-01,Lideta,Urban Core,Low,59729,56945,5.6,95,Night
+2026-01-01,Gullele,Mixed Residential,Medium,64722,62176,6,95,Day
+2026-01-01,Yeka,Peri-Urban,High,69115,66226,7.4,95,Night
+2026-02-01,Bole,Urban Core,Low,48892,45880,4.4,95,Day
+2026-02-01,Akaki,Mixed Residential,Medium,53190,50670,5,95,Night
+2026-02-01,Kirkos,Peri-Urban,High,57690,54164,5,95,Day
+2026-02-01,Lideta,Urban Core,Low,61343,59258,5.7,95,Night
+2026-02-01,Gullele,Mixed Residential,Medium,65637,63153,6.7,95,Day
+2026-02-01,Yeka,Peri-Urban,High,70789,67623,6.6,95,Night
+2026-03-01,Bole,Urban Core,Low,50401,48259,5.2,95,Day
+2026-03-01,Akaki,Mixed Residential,Medium,55072,52142,5,95,Night
+2026-03-01,Kirkos,Peri-Urban,High,58646,54981,5.6,95,Day
+2026-03-01,Lideta,Urban Core,Low,63547,60821,6.1,95,Night
+2026-03-01,Gullele,Mixed Residential,Medium,66992,64013,6.4,95,Day
+2026-03-01,Yeka,Peri-Urban,High,70723,67027,7.1,95,Night
+2026-04-01,Bole,Urban Core,Low,52552,51057,3.7,95,Day
+2026-04-01,Akaki,Mixed Residential,Medium,56274,53818,4.1,95,Night
+2026-04-01,Kirkos,Peri-Urban,High,60151,57205,4.4,95,Day
+2026-04-01,Lideta,Urban Core,Low,65659,63800,5.1,95,Night
+2026-04-01,Gullele,Mixed Residential,Medium,69536,67427,5.6,95,Day
+2026-04-01,Yeka,Peri-Urban,High,71840,68174,6.1,95,Night
+2026-05-01,Bole,Urban Core,Low,52388,50071,3.7,95,Day
+2026-05-01,Akaki,Mixed Residential,Medium,57203,54370,4.1,95,Night
+2026-05-01,Kirkos,Peri-Urban,High,60586,56999,5.1,95,Day
+2026-05-01,Lideta,Urban Core,Low,65105,63046,6,95,Night
+2026-05-01,Gullele,Mixed Residential,Medium,69792,67370,6.8,95,Day
+2026-05-01,Yeka,Peri-Urban,High,72609,69421,6.8,95,Night
+2026-06-01,Bole,Urban Core,Low,52034,49941,3.8,95,Day
+2026-06-01,Akaki,Mixed Residential,Medium,57143,53941,4.6,95,Night
+2026-06-01,Kirkos,Peri-Urban,High,60360,56899,5.2,95,Day
+2026-06-01,Lideta,Urban Core,Low,65647,63521,5.6,95,Night
+2026-06-01,Gullele,Mixed Residential,Medium,69582,67117,6.2,95,Day
+2026-06-01,Yeka,Peri-Urban,High,73167,69972,7.2,95,Night
+2026-07-01,Bole,Urban Core,Low,51534,49076,4.1,95,Day
+2026-07-01,Akaki,Mixed Residential,Medium,55642,52584,4.9,95,Night
+2026-07-01,Kirkos,Peri-Urban,High,59974,55996,6.1,95,Day
+2026-07-01,Lideta,Urban Core,Low,64037,61225,6.4,95,Night
+2026-07-01,Gullele,Mixed Residential,Medium,68917,65580,6.5,95,Day
+2026-07-01,Yeka,Peri-Urban,High,72814,69205,7.2,95,Night
+2026-08-01,Bole,Urban Core,Low,51302,48929,3.5,95,Day
+2026-08-01,Akaki,Mixed Residential,Medium,55318,52920,3.8,95,Night
+2026-08-01,Kirkos,Peri-Urban,High,59851,57659,4.9,95,Day
+2026-08-01,Lideta,Urban Core,Low,64048,62212,5,95,Night
+2026-08-01,Gullele,Mixed Residential,Medium,67033,64604,6.1,95,Day
+2026-08-01,Yeka,Peri-Urban,High,71518,68558,7.7,95,Night
+2026-09-01,Bole,Urban Core,Low,50526,48687,3.7,95,Day
+2026-09-01,Akaki,Mixed Residential,Medium,54801,51853,4.9,95,Night
+2026-09-01,Kirkos,Peri-Urban,High,59021,55411,4.9,95,Day
+2026-09-01,Lideta,Urban Core,Low,62776,61180,5.7,95,Night
+2026-09-01,Gullele,Mixed Residential,Medium,67834,64883,6.6,95,Day
+2026-09-01,Yeka,Peri-Urban,High,72321,68797,6.7,95,Night
+2026-10-01,Bole,Urban Core,Low,49725,47519,4.1,95,Day
+2026-10-01,Akaki,Mixed Residential,Medium,54365,51551,4.7,95,Night
+2026-10-01,Kirkos,Peri-Urban,High,58670,55195,5.1,95,Day
+2026-10-01,Lideta,Urban Core,Low,63285,61085,6.6,95,Night
+2026-10-01,Gullele,Mixed Residential,Medium,66674,64136,6.4,95,Day
+2026-10-01,Yeka,Peri-Urban,High,71728,68600,7.3,95,Night
+2026-11-01,Bole,Urban Core,Low,49937,47703,4.3,95,Day
+2026-11-01,Akaki,Mixed Residential,Medium,54785,51848,4.8,95,Night
+2026-11-01,Kirkos,Peri-Urban,High,58758,55179,5.6,95,Day
+2026-11-01,Lideta,Urban Core,Low,63993,61230,6.2,95,Night
+2026-11-01,Gullele,Mixed Residential,Medium,67646,64442,6.9,95,Day
+2026-11-01,Yeka,Peri-Urban,High,71389,68376,8.2,95,Night
+2026-12-01,Bole,Urban Core,Low,51550,49565,3.1,95,Day
+2026-12-01,Akaki,Mixed Residential,Medium,55433,52803,4.2,95,Night
+2026-12-01,Kirkos,Peri-Urban,High,59784,57183,4.5,95,Day
+2026-12-01,Lideta,Urban Core,Low,64215,62406,5.4,95,Night
+2026-12-01,Gullele,Mixed Residential,Medium,67940,65871,5.5,95,Day
+2026-12-01,Yeka,Peri-Urban,High,72324,69143,6.5,95,Night

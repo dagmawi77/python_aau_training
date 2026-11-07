@@ -1,0 +1,433 @@
+observation_id,test_date,district,segment_class,pipe_material,nominal_diameter_mm,elevation_m,pressure_bar,target_pressure_bar,inspection_team
+PT-9001,2026-02-02,Bole,Main,HDPE,100,2114.8,5.72,3.5,Hydraulic A
+PT-9002,2026-02-04,Akaki,Distribution,HDPE,150,2156.8,5.65,3.5,Hydraulic B
+PT-9003,2026-02-06,Kirkos,Service,HDPE,200,2188.5,5.32,3.5,Hydraulic C
+PT-9004,2026-02-08,Lideta,Main,HDPE,250,2240.3,5.43,3.5,Hydraulic A
+PT-9005,2026-02-10,Gullele,Distribution,HDPE,300,2261.3,4.74,3.5,Hydraulic B
+PT-9006,2026-02-12,Yeka,Service,HDPE,100,2269.2,4.78,3.5,Hydraulic C
+PT-9007,2026-02-14,Bole,Main,Ductile Iron,150,2189,5.9,3.5,Hydraulic A
+PT-9008,2026-02-16,Akaki,Distribution,Ductile Iron,200,2219.2,5.5,3.5,Hydraulic B
+PT-9009,2026-02-18,Kirkos,Service,Ductile Iron,250,2242.2,5.48,3.5,Hydraulic C
+PT-9010,2026-02-20,Lideta,Main,Ductile Iron,300,2270.1,5.08,3.5,Hydraulic A
+PT-9011,2026-02-22,Gullele,Distribution,Ductile Iron,100,2320.4,4.45,3.5,Hydraulic B
+PT-9012,2026-02-24,Yeka,Service,Ductile Iron,150,2338.2,4.19,3.5,Hydraulic C
+PT-9013,2026-02-26,Bole,Main,PVC,200,2226.4,5.1,3.5,Hydraulic A
+PT-9014,2026-02-28,Akaki,Distribution,PVC,250,2259.8,4.77,3.5,Hydraulic B
+PT-9015,2026-03-02,Kirkos,Service,PVC,300,2294.7,4.71,3.5,Hydraulic C
+PT-9016,2026-03-04,Lideta,Main,PVC,100,2313.3,5.04,3.5,Hydraulic A
+PT-9017,2026-03-06,Gullele,Distribution,PVC,150,2350.1,4.2,3.5,Hydraulic B
+PT-9018,2026-03-08,Yeka,Service,PVC,200,2390.1,4,3.5,Hydraulic C
+PT-9019,2026-03-10,Bole,Main,Steel,250,2272.5,5.1,3.5,Hydraulic A
+PT-9020,2026-03-12,Akaki,Distribution,Steel,300,2302.8,4.57,3.5,Hydraulic B
+PT-9021,2026-03-14,Kirkos,Service,Steel,100,2337,4.6,3.5,Hydraulic C
+PT-9022,2026-03-16,Lideta,Main,Steel,150,2376,3.92,3.5,Hydraulic A
+PT-9023,2026-03-18,Gullele,Distribution,Steel,200,2228.9,5.29,3.5,Hydraulic B
+PT-9024,2026-03-20,Yeka,Service,Steel,250,2245.7,4.84,3.5,Hydraulic C
+PT-9025,2026-03-22,Bole,Main,HDPE,300,2148.6,5.62,3.5,Hydraulic A
+PT-9026,2026-03-24,Akaki,Distribution,HDPE,100,2173.1,6.27,3.5,Hydraulic B
+PT-9027,2026-03-26,Kirkos,Service,HDPE,150,2202.1,5.02,3.5,Hydraulic C
+PT-9028,2026-03-28,Lideta,Main,HDPE,200,2246.7,5.48,3.5,Hydraulic A
+PT-9029,2026-03-30,Gullele,Distribution,HDPE,250,2256.1,5.99,3.5,Hydraulic B
+PT-9030,2026-04-01,Yeka,Service,HDPE,300,2309.4,5.08,3.5,Hydraulic C
+PT-9031,2026-04-03,Bole,Main,Ductile Iron,100,2207.7,5.36,3.5,Hydraulic A
+PT-9032,2026-04-05,Akaki,Distribution,Ductile Iron,150,2231,4.81,3.5,Hydraulic B
+PT-9033,2026-04-07,Kirkos,Service,Ductile Iron,200,2272.1,4.95,3.5,Hydraulic C
+PT-9034,2026-04-09,Lideta,Main,Ductile Iron,250,2288.7,4.35,3.5,Hydraulic A
+PT-9035,2026-04-11,Gullele,Distribution,Ductile Iron,300,2325,4.16,3.5,Hydraulic B
+PT-9036,2026-04-13,Yeka,Service,Ductile Iron,100,2351.9,4.5,3.5,Hydraulic C
+PT-9037,2026-04-15,Bole,Main,PVC,150,2236.6,4.99,3.5,Hydraulic A
+PT-9038,2026-04-17,Akaki,Distribution,PVC,200,2274.4,4.98,3.5,Hydraulic B
+PT-9039,2026-04-19,Kirkos,Service,PVC,250,2301.6,4.37,3.5,Hydraulic C
+PT-9040,2026-04-21,Lideta,Main,PVC,300,2339.4,4.58,3.5,Hydraulic A
+PT-9041,2026-04-23,Gullele,Distribution,PVC,100,2369.1,3.96,3.5,Hydraulic B
+PT-9042,2026-04-25,Yeka,Service,PVC,150,2408.3,1.74,3.5,Hydraulic C
+PT-9043,2026-04-27,Bole,Main,Steel,200,2297.9,5.01,3.5,Hydraulic A
+PT-9044,2026-04-29,Akaki,Distribution,Steel,250,2314.8,4.7,3.5,Hydraulic B
+PT-9045,2026-05-01,Kirkos,Service,Steel,300,2177.1,5.27,3.5,Hydraulic C
+PT-9046,2026-05-03,Lideta,Main,Steel,100,2214,4.86,3.5,Hydraulic A
+PT-9047,2026-05-05,Gullele,Distribution,Steel,150,2239.1,4.58,3.5,Hydraulic B
+PT-9048,2026-05-07,Yeka,Service,Steel,200,2283.4,4.72,3.5,Hydraulic C
+PT-9049,2026-05-09,Bole,Main,HDPE,250,2156.9,5.47,3.5,Hydraulic A
+PT-9050,2026-05-11,Akaki,Distribution,HDPE,300,2193.4,6.03,3.5,Hydraulic B
+PT-9051,2026-05-13,Kirkos,Service,HDPE,100,2223.4,4.65,3.5,Hydraulic C
+PT-9052,2026-05-15,Lideta,Main,HDPE,150,2249.5,5.53,3.5,Hydraulic A
+PT-9053,2026-05-17,Gullele,Distribution,HDPE,200,2292.3,4.81,3.5,Hydraulic B
+PT-9054,2026-05-19,Yeka,Service,HDPE,250,2330.4,4.81,3.5,Hydraulic C
+PT-9055,2026-05-21,Bole,Main,Ductile Iron,300,2203.6,5.11,3.5,Hydraulic A
+PT-9056,2026-05-23,Akaki,Distribution,Ductile Iron,100,2247.1,5.39,3.5,Hydraulic B
+PT-9057,2026-05-25,Kirkos,Service,Ductile Iron,150,2267.2,5.35,3.5,Hydraulic C
+PT-9058,2026-05-27,Lideta,Main,Ductile Iron,200,2304.4,4.64,3.5,Hydraulic A
+PT-9059,2026-05-29,Gullele,Distribution,Ductile Iron,250,2335.9,4.29,3.5,Hydraulic B
+PT-9060,2026-05-31,Yeka,Service,Ductile Iron,300,2378.1,3.99,3.5,Hydraulic C
+PT-9061,2026-06-02,Bole,Main,PVC,100,2248.2,5.11,3.5,Hydraulic A
+PT-9062,2026-06-04,Akaki,Distribution,PVC,150,2287.3,4.73,3.5,Hydraulic B
+PT-9063,2026-06-06,Kirkos,Service,PVC,200,2314.3,4.44,3.5,Hydraulic C
+PT-9064,2026-06-08,Lideta,Main,PVC,250,2360.9,4.41,3.5,Hydraulic A
+PT-9065,2026-06-10,Gullele,Distribution,PVC,300,2394.1,4.21,3.5,Hydraulic B
+PT-9066,2026-06-12,Yeka,Service,PVC,100,2423.2,4.25,3.5,Hydraulic C
+PT-9067,2026-06-14,Bole,Main,Steel,150,2137.7,5.78,3.5,Hydraulic A
+PT-9068,2026-06-16,Akaki,Distribution,Steel,200,2164,5.39,3.5,Hydraulic B
+PT-9069,2026-06-18,Kirkos,Service,Steel,250,2181.2,5.51,3.5,Hydraulic C
+PT-9070,2026-06-20,Lideta,Main,Steel,300,2224.8,5.18,3.5,Hydraulic A
+PT-9071,2026-06-22,Gullele,Distribution,Steel,100,2254.3,4.75,3.5,Hydraulic B
+PT-9072,2026-06-24,Yeka,Service,Steel,150,2301,5.05,3.5,Hydraulic C
+PT-9073,2026-06-26,Bole,Main,HDPE,200,2170.2,5.56,3.5,Hydraulic A
+PT-9074,2026-06-28,Akaki,Distribution,HDPE,250,2215.8,5.54,3.5,Hydraulic B
+PT-9075,2026-06-30,Kirkos,Service,HDPE,300,2232.4,5.49,3.5,Hydraulic C
+PT-9076,2026-07-02,Lideta,Main,HDPE,100,2279.2,5.39,3.5,Hydraulic A
+PT-9077,2026-07-04,Gullele,Distribution,HDPE,150,2305.5,4.59,3.5,Hydraulic B
+PT-9078,2026-07-06,Yeka,Service,HDPE,200,2338.9,4.45,3.5,Hydraulic C
+PT-9079,2026-07-08,Bole,Main,Ductile Iron,250,2227.3,5.51,3.5,Hydraulic A
+PT-9080,2026-07-10,Akaki,Distribution,Ductile Iron,300,2251.2,5.66,3.5,Hydraulic B
+PT-9081,2026-07-12,Kirkos,Service,Ductile Iron,100,2291,4.77,3.5,Hydraulic C
+PT-9082,2026-07-14,Lideta,Main,Ductile Iron,150,2318.5,5.02,3.5,Hydraulic A
+PT-9083,2026-07-16,Gullele,Distribution,Ductile Iron,200,2356.7,4.43,3.5,Hydraulic B
+PT-9084,2026-07-18,Yeka,Service,Ductile Iron,250,2378.8,4.39,3.5,Hydraulic C
+PT-9085,2026-07-20,Bole,Main,PVC,300,2276.9,4.67,3.5,Hydraulic A
+PT-9086,2026-07-22,Akaki,Distribution,PVC,100,2306.9,4.17,3.5,Hydraulic B
+PT-9087,2026-07-24,Kirkos,Service,PVC,150,2331.6,4.98,3.5,Hydraulic C
+PT-9088,2026-07-26,Lideta,Main,PVC,200,2379.4,4.01,3.5,Hydraulic A
+PT-9089,2026-07-28,Gullele,Distribution,PVC,250,2219.7,5.38,3.5,Hydraulic B
+PT-9090,2026-07-30,Yeka,Service,PVC,300,2263.7,4.98,3.5,Hydraulic C
+PT-9091,2026-08-01,Bole,Main,Steel,100,2159.9,5.55,3.5,Hydraulic A
+PT-9092,2026-08-03,Akaki,Distribution,Steel,150,2182.8,5.31,3.5,Hydraulic B
+PT-9093,2026-08-05,Kirkos,Service,Steel,200,2212.4,4.74,3.5,Hydraulic C
+PT-9094,2026-08-07,Lideta,Main,Steel,250,2246.8,4.95,3.5,Hydraulic A
+PT-9095,2026-08-09,Gullele,Distribution,Steel,300,2268.6,4.31,3.5,Hydraulic B
+PT-9096,2026-08-11,Yeka,Service,Steel,100,2306.6,4.8,3.5,Hydraulic C
+PT-9097,2026-08-13,Bole,Main,HDPE,150,2183.8,5.55,3.5,Hydraulic A
+PT-9098,2026-08-15,Akaki,Distribution,HDPE,200,2228.3,6.15,3.5,Hydraulic B
+PT-9099,2026-08-17,Kirkos,Service,HDPE,250,2261.7,4.9,3.5,Hydraulic C
+PT-9100,2026-08-19,Lideta,Main,HDPE,300,2289.5,4.94,3.5,Hydraulic A
+PT-9101,2026-08-21,Gullele,Distribution,HDPE,100,2333.2,4.66,3.5,Hydraulic B
+PT-9102,2026-08-23,Yeka,Service,HDPE,150,2353.5,4.44,3.5,Hydraulic C
+PT-9103,2026-08-25,Bole,Main,Ductile Iron,200,2244.7,5.27,3.5,Hydraulic A
+PT-9104,2026-08-27,Akaki,Distribution,Ductile Iron,250,2275.2,5.47,3.5,Hydraulic B
+PT-9105,2026-08-29,Kirkos,Service,Ductile Iron,300,2311.2,5.08,3.5,Hydraulic C
+PT-9106,2026-08-31,Lideta,Main,Ductile Iron,100,2348,4.23,3.5,Hydraulic A
+PT-9107,2026-09-02,Gullele,Distribution,Ductile Iron,150,2373.3,4.45,3.5,Hydraulic B
+PT-9108,2026-09-04,Yeka,Service,Ductile Iron,200,2406.8,4.53,3.5,Hydraulic C
+PT-9109,2026-09-06,Bole,Main,PVC,250,2274,4.7,3.5,Hydraulic A
+PT-9110,2026-09-08,Akaki,Distribution,PVC,300,2314.8,5.2,3.5,Hydraulic B
+PT-9111,2026-09-10,Kirkos,Service,PVC,100,2189.6,5.31,3.5,Hydraulic C
+PT-9112,2026-09-12,Lideta,Main,PVC,150,2216.8,5.24,3.5,Hydraulic A
+PT-9113,2026-09-14,Gullele,Distribution,PVC,200,2246.7,4.97,3.5,Hydraulic B
+PT-9114,2026-09-16,Yeka,Service,PVC,250,2284.8,4.45,3.5,Hydraulic C
+PT-9115,2026-09-18,Bole,Main,Steel,300,2152,5.98,3.5,Hydraulic A
+PT-9116,2026-09-20,Akaki,Distribution,Steel,100,2191.5,5.08,3.5,Hydraulic B
+PT-9117,2026-09-22,Kirkos,Service,Steel,150,2226.1,5.8,3.5,Hydraulic C
+PT-9118,2026-09-24,Lideta,Main,Steel,200,2266.9,5.33,3.5,Hydraulic A
+PT-9119,2026-09-26,Gullele,Distribution,Steel,250,2293.4,4.19,3.5,Hydraulic B
+PT-9120,2026-09-28,Yeka,Service,Steel,300,2317,5,3.5,Hydraulic C
+PT-9121,2026-09-30,Bole,Main,HDPE,100,2202.8,5.65,3.5,Hydraulic A
+PT-9122,2026-10-02,Akaki,Distribution,HDPE,150,2250.4,4.91,3.5,Hydraulic B
+PT-9123,2026-10-04,Kirkos,Service,HDPE,200,2276.3,5.03,3.5,Hydraulic C
+PT-9124,2026-02-03,Lideta,Main,HDPE,250,2296.1,5.36,3.5,Hydraulic A
+PT-9125,2026-02-05,Gullele,Distribution,HDPE,300,2330.3,3.74,3.5,Hydraulic B
+PT-9126,2026-02-07,Yeka,Service,HDPE,100,2376.7,4.73,3.5,Hydraulic C
+PT-9127,2026-02-09,Bole,Main,Ductile Iron,150,2253.5,5.13,3.5,Hydraulic A
+PT-9128,2026-02-11,Akaki,Distribution,Ductile Iron,200,2297.5,4.75,3.5,Hydraulic B
+PT-9129,2026-02-13,Kirkos,Service,Ductile Iron,250,2316.1,4.63,3.5,Hydraulic C
+PT-9130,2026-02-15,Lideta,Main,Ductile Iron,300,2360.7,4.38,3.5,Hydraulic A
+PT-9131,2026-02-17,Gullele,Distribution,Ductile Iron,100,2382.8,3.72,3.5,Hydraulic B
+PT-9132,2026-02-19,Yeka,Service,Ductile Iron,150,2420.7,3.71,3.5,Hydraulic C
+PT-9133,2026-02-21,Bole,Main,PVC,200,2133,6.04,3.5,Hydraulic A
+PT-9134,2026-02-23,Akaki,Distribution,PVC,250,2153.8,5.96,3.5,Hydraulic B
+PT-9135,2026-02-25,Kirkos,Service,PVC,300,2204,5.11,3.5,Hydraulic C
+PT-9136,2026-02-27,Lideta,Main,PVC,100,2208.4,5.22,3.5,Hydraulic A
+PT-9137,2026-03-01,Gullele,Distribution,PVC,150,2264.6,4.67,3.5,Hydraulic B
+PT-9138,2026-03-03,Yeka,Service,PVC,200,2303.1,4.93,3.5,Hydraulic C
+PT-9139,2026-03-05,Bole,Main,Steel,250,2179,6.06,3.5,Hydraulic A
+PT-9140,2026-03-07,Akaki,Distribution,Steel,300,2210.8,5.59,3.5,Hydraulic B
+PT-9141,2026-03-09,Kirkos,Service,Steel,100,2242.9,5.25,3.5,Hydraulic C
+PT-9142,2026-03-11,Lideta,Main,Steel,150,2268.8,4.49,3.5,Hydraulic A
+PT-9143,2026-03-13,Gullele,Distribution,Steel,200,2304.7,4.48,3.5,Hydraulic B
+PT-9144,2026-03-15,Yeka,Service,Steel,250,2344.7,3.97,3.5,Hydraulic C
+PT-9145,2026-03-17,Bole,Main,HDPE,300,2230.4,5.15,3.5,Hydraulic A
+PT-9146,2026-03-19,Akaki,Distribution,HDPE,100,2263.1,5.38,3.5,Hydraulic B
+PT-9147,2026-03-21,Kirkos,Service,HDPE,150,2297.9,5.28,3.5,Hydraulic C
+PT-9148,2026-03-23,Lideta,Main,HDPE,200,2336.1,4.68,3.5,Hydraulic A
+PT-9149,2026-03-25,Gullele,Distribution,HDPE,250,2354.8,4.49,3.5,Hydraulic B
+PT-9150,2026-03-27,Yeka,Service,HDPE,300,2389.4,4.4,3.5,Hydraulic C
+PT-9151,2026-03-29,Bole,Main,Ductile Iron,100,2276.9,4.87,3.5,Hydraulic A
+PT-9152,2026-03-31,Akaki,Distribution,Ductile Iron,150,2320.4,4.53,3.5,Hydraulic B
+PT-9153,2026-04-02,Kirkos,Service,Ductile Iron,200,2336.7,4.25,3.5,Hydraulic C
+PT-9154,2026-04-04,Lideta,Main,Ductile Iron,250,2367.2,4.14,3.5,Hydraulic A
+PT-9155,2026-04-06,Gullele,Distribution,Ductile Iron,300,2223.8,5.6,3.5,Hydraulic B
+PT-9156,2026-04-08,Yeka,Service,Ductile Iron,100,2257.5,4.82,3.5,Hydraulic C
+PT-9157,2026-04-10,Bole,Main,PVC,150,2145.2,5.56,3.5,Hydraulic A
+PT-9158,2026-04-12,Akaki,Distribution,PVC,200,2174.9,5.82,3.5,Hydraulic B
+PT-9159,2026-04-14,Kirkos,Service,PVC,250,2208.2,5.52,3.5,Hydraulic C
+PT-9160,2026-04-16,Lideta,Main,PVC,300,2249.3,4.45,3.5,Hydraulic A
+PT-9161,2026-04-18,Gullele,Distribution,PVC,100,2274.2,4.47,3.5,Hydraulic B
+PT-9162,2026-04-20,Yeka,Service,PVC,150,2302.2,4.87,3.5,Hydraulic C
+PT-9163,2026-04-22,Bole,Main,Steel,200,2193,5.43,3.5,Hydraulic A
+PT-9164,2026-04-24,Akaki,Distribution,Steel,250,2221.4,5.34,3.5,Hydraulic B
+PT-9165,2026-04-26,Kirkos,Service,Steel,300,2248.6,4.56,3.5,Hydraulic C
+PT-9166,2026-04-28,Lideta,Main,Steel,100,2294.3,4.93,3.5,Hydraulic A
+PT-9167,2026-04-30,Gullele,Distribution,Steel,150,2324.1,4.34,3.5,Hydraulic B
+PT-9168,2026-05-02,Yeka,Service,Steel,200,2346.4,3.99,3.5,Hydraulic C
+PT-9169,2026-05-04,Bole,Main,HDPE,250,2246.5,4.78,3.5,Hydraulic A
+PT-9170,2026-05-06,Akaki,Distribution,HDPE,300,2281.4,4.65,3.5,Hydraulic B
+PT-9171,2026-05-08,Kirkos,Service,HDPE,100,2302.4,4.35,3.5,Hydraulic C
+PT-9172,2026-05-10,Lideta,Main,HDPE,150,2328.7,4.78,3.5,Hydraulic A
+PT-9173,2026-05-12,Gullele,Distribution,HDPE,200,2373.6,3.95,3.5,Hydraulic B
+PT-9174,2026-05-14,Yeka,Service,HDPE,250,2402.6,3.55,3.5,Hydraulic C
+PT-9175,2026-05-16,Bole,Main,Ductile Iron,300,2290.3,5.16,3.5,Hydraulic A
+PT-9176,2026-05-18,Akaki,Distribution,Ductile Iron,100,2300.1,4.26,3.5,Hydraulic B
+PT-9177,2026-05-20,Kirkos,Service,Ductile Iron,150,2178.3,5.15,3.5,Hydraulic C
+PT-9178,2026-05-22,Lideta,Main,Ductile Iron,200,2217.3,5.37,3.5,Hydraulic A
+PT-9179,2026-05-24,Gullele,Distribution,Ductile Iron,250,2248.4,5.38,3.5,Hydraulic B
+PT-9180,2026-05-26,Yeka,Service,Ductile Iron,300,2270.5,4.76,3.5,Hydraulic C
+PT-9181,2026-05-28,Bole,Main,PVC,100,2165,6.19,3.5,Hydraulic A
+PT-9182,2026-05-30,Akaki,Distribution,PVC,150,2195.5,5.46,3.5,Hydraulic B
+PT-9183,2026-06-01,Kirkos,Service,PVC,200,2231.5,4.95,3.5,Hydraulic C
+PT-9184,2026-06-03,Lideta,Main,PVC,250,2261.5,4.98,3.5,Hydraulic A
+PT-9185,2026-06-05,Gullele,Distribution,PVC,300,2270.8,5.26,3.5,Hydraulic B
+PT-9186,2026-06-07,Yeka,Service,PVC,100,2329.4,4.52,3.5,Hydraulic C
+PT-9187,2026-06-09,Bole,Main,Steel,150,2217.2,5.46,3.5,Hydraulic A
+PT-9188,2026-06-11,Akaki,Distribution,Steel,200,2261.5,5.1,3.5,Hydraulic B
+PT-9189,2026-06-13,Kirkos,Service,Steel,250,2255.6,4.91,3.5,Hydraulic C
+PT-9190,2026-06-15,Lideta,Main,Steel,300,2316.4,5.22,3.5,Hydraulic A
+PT-9191,2026-06-17,Gullele,Distribution,Steel,100,2341.5,4.48,3.5,Hydraulic B
+PT-9192,2026-06-19,Yeka,Service,Steel,150,2373,4.02,3.5,Hydraulic C
+PT-9193,2026-06-21,Bole,Main,HDPE,200,2252.3,4.98,3.5,Hydraulic A
+PT-9194,2026-06-23,Akaki,Distribution,HDPE,250,2289.7,4.74,3.5,Hydraulic B
+PT-9195,2026-06-25,Kirkos,Service,HDPE,300,2334,4.21,3.5,Hydraulic C
+PT-9196,2026-06-27,Lideta,Main,HDPE,100,2363.5,4.48,3.5,Hydraulic A
+PT-9197,2026-06-29,Gullele,Distribution,HDPE,150,2380.7,4.74,3.5,Hydraulic B
+PT-9198,2026-07-01,Yeka,Service,HDPE,200,2417.6,2.24,3.5,Hydraulic C
+PT-9199,2026-07-03,Bole,Main,Ductile Iron,250,2122.3,6.51,3.5,Hydraulic A
+PT-9200,2026-07-05,Akaki,Distribution,Ductile Iron,300,2168.1,5.76,3.5,Hydraulic B
+PT-9201,2026-07-07,Kirkos,Service,Ductile Iron,100,2187.9,5.61,3.5,Hydraulic C
+PT-9202,2026-07-09,Lideta,Main,Ductile Iron,150,2224.3,5.52,3.5,Hydraulic A
+PT-9203,2026-07-11,Gullele,Distribution,Ductile Iron,200,2252.7,5.21,3.5,Hydraulic B
+PT-9204,2026-07-13,Yeka,Service,Ductile Iron,250,2286.7,5.3,3.5,Hydraulic C
+PT-9205,2026-07-15,Bole,Main,PVC,300,2187.8,5.4,3.5,Hydraulic A
+PT-9206,2026-07-17,Akaki,Distribution,PVC,100,2222.1,4.57,3.5,Hydraulic B
+PT-9207,2026-07-19,Kirkos,Service,PVC,150,2241.8,5.72,3.5,Hydraulic C
+PT-9208,2026-07-21,Lideta,Main,PVC,200,2276.6,5.39,3.5,Hydraulic A
+PT-9209,2026-07-23,Gullele,Distribution,PVC,250,2296.8,5.13,3.5,Hydraulic B
+PT-9210,2026-07-25,Yeka,Service,PVC,300,2337.7,5.12,3.5,Hydraulic C
+PT-9211,2026-07-27,Bole,Main,Steel,100,2223,4.92,3.5,Hydraulic A
+PT-9212,2026-07-29,Akaki,Distribution,Steel,150,2264.7,5.05,3.5,Hydraulic B
+PT-9213,2026-07-31,Kirkos,Service,Steel,200,2291.6,4.37,3.5,Hydraulic C
+PT-9214,2026-08-02,Lideta,Main,Steel,250,2327.6,4.11,3.5,Hydraulic A
+PT-9215,2026-08-04,Gullele,Distribution,Steel,300,2348.3,4.03,3.5,Hydraulic B
+PT-9216,2026-08-06,Yeka,Service,Steel,100,2382.8,4.78,3.5,Hydraulic C
+PT-9217,2026-08-08,Bole,Main,HDPE,150,2271.3,4.95,3.5,Hydraulic A
+PT-9218,2026-08-10,Akaki,Distribution,HDPE,200,2300.9,4.67,3.5,Hydraulic B
+PT-9219,2026-08-12,Kirkos,Service,HDPE,250,2346.5,4.37,3.5,Hydraulic C
+PT-9220,2026-08-14,Lideta,Main,HDPE,300,2371.3,4.37,3.5,Hydraulic A
+PT-9221,2026-08-16,Gullele,Distribution,HDPE,100,2240.6,4.73,3.5,Hydraulic B
+PT-9222,2026-08-18,Yeka,Service,HDPE,150,2252.2,4.99,3.5,Hydraulic C
+PT-9223,2026-08-20,Bole,Main,Ductile Iron,200,2155.9,5.98,3.5,Hydraulic A
+PT-9224,2026-08-22,Akaki,Distribution,Ductile Iron,250,2176.4,5.33,3.5,Hydraulic B
+PT-9225,2026-08-24,Kirkos,Service,Ductile Iron,300,2209.6,5.32,3.5,Hydraulic C
+PT-9226,2026-08-26,Lideta,Main,Ductile Iron,100,2235.4,5.19,3.5,Hydraulic A
+PT-9227,2026-08-28,Gullele,Distribution,Ductile Iron,150,2262.4,5.35,3.5,Hydraulic B
+PT-9228,2026-08-30,Yeka,Service,Ductile Iron,200,2314.2,4.5,3.5,Hydraulic C
+PT-9229,2026-09-01,Bole,Main,PVC,250,2201.9,4.62,3.5,Hydraulic A
+PT-9230,2026-09-03,Akaki,Distribution,PVC,300,2221.7,5.43,3.5,Hydraulic B
+PT-9231,2026-09-05,Kirkos,Service,PVC,100,2257.6,5.26,3.5,Hydraulic C
+PT-9232,2026-09-07,Lideta,Main,PVC,150,2291,4.92,3.5,Hydraulic A
+PT-9233,2026-09-09,Gullele,Distribution,PVC,200,2324.3,4.31,3.5,Hydraulic B
+PT-9234,2026-09-11,Yeka,Service,PVC,250,2360.5,4.6,3.5,Hydraulic C
+PT-9235,2026-09-13,Bole,Main,Steel,300,2238.9,4.82,3.5,Hydraulic A
+PT-9236,2026-09-15,Akaki,Distribution,Steel,100,2272.1,4.88,3.5,Hydraulic B
+PT-9237,2026-09-17,Kirkos,Service,Steel,150,2304.7,5.59,3.5,Hydraulic C
+PT-9238,2026-09-19,Lideta,Main,Steel,200,2338.3,4.87,3.5,Hydraulic A
+PT-9239,2026-09-21,Gullele,Distribution,Steel,250,2368.4,4.34,3.5,Hydraulic B
+PT-9240,2026-09-23,Yeka,Service,Steel,300,2408.8,3.83,3.5,Hydraulic C
+PT-9241,2026-09-25,Bole,Main,HDPE,100,2291.1,4.94,3.5,Hydraulic A
+PT-9242,2026-09-27,Akaki,Distribution,HDPE,150,2318.4,4.61,3.5,Hydraulic B
+PT-9243,2026-09-29,Kirkos,Service,HDPE,200,2186.3,5.47,3.5,Hydraulic C
+PT-9244,2026-10-01,Lideta,Main,HDPE,250,2208.2,5.11,3.5,Hydraulic A
+PT-9245,2026-10-03,Gullele,Distribution,HDPE,300,2230.3,5.4,3.5,Hydraulic B
+PT-9246,2026-02-02,Yeka,Service,HDPE,100,2279,5.31,3.5,Hydraulic C
+PT-9247,2026-02-04,Bole,Main,Ductile Iron,150,2141.5,5.41,3.5,Hydraulic A
+PT-9248,2026-02-06,Akaki,Distribution,Ductile Iron,200,2192.7,6.09,3.5,Hydraulic B
+PT-9249,2026-02-08,Kirkos,Service,Ductile Iron,250,2227.5,4.83,3.5,Hydraulic C
+PT-9250,2026-02-10,Lideta,Main,Ductile Iron,300,2253,5.29,3.5,Hydraulic A
+PT-9251,2026-02-12,Gullele,Distribution,Ductile Iron,100,2288.3,4.98,3.5,Hydraulic B
+PT-9252,2026-02-14,Yeka,Service,Ductile Iron,150,2330.3,4.84,3.5,Hydraulic C
+PT-9253,2026-02-16,Bole,Main,PVC,200,2216.1,5.57,3.5,Hydraulic A
+PT-9254,2026-02-18,Akaki,Distribution,PVC,250,2235.2,4.91,3.5,Hydraulic B
+PT-9255,2026-02-20,Kirkos,Service,PVC,300,2289.9,4.61,3.5,Hydraulic C
+PT-9256,2026-02-22,Lideta,Main,PVC,100,2302.2,4.73,3.5,Hydraulic A
+PT-9257,2026-02-24,Gullele,Distribution,PVC,150,2340.9,4.08,3.5,Hydraulic B
+PT-9258,2026-02-26,Yeka,Service,PVC,200,2359.9,3.62,3.5,Hydraulic C
+PT-9259,2026-02-28,Bole,Main,Steel,250,2259.1,5.71,3.5,Hydraulic A
+PT-9260,2026-03-02,Akaki,Distribution,Steel,300,2283.8,4.65,3.5,Hydraulic B
+PT-9261,2026-03-04,Kirkos,Service,Steel,100,2308.5,4.77,3.5,Hydraulic C
+PT-9262,2026-03-06,Lideta,Main,Steel,150,2357.6,4.72,3.5,Hydraulic A
+PT-9263,2026-03-08,Gullele,Distribution,Steel,200,2378.9,3.72,3.5,Hydraulic B
+PT-9264,2026-03-10,Yeka,Service,Steel,250,2412.1,4.25,3.5,Hydraulic C
+PT-9265,2026-03-12,Bole,Main,HDPE,300,2125.3,5.69,3.5,Hydraulic A
+PT-9266,2026-03-14,Akaki,Distribution,HDPE,100,2155.5,5.26,3.5,Hydraulic B
+PT-9267,2026-03-16,Kirkos,Service,HDPE,150,2198.8,5.17,3.5,Hydraulic C
+PT-9268,2026-03-18,Lideta,Main,HDPE,200,2224.7,5.23,3.5,Hydraulic A
+PT-9269,2026-03-20,Gullele,Distribution,HDPE,250,2248.8,4.8,3.5,Hydraulic B
+PT-9270,2026-03-22,Yeka,Service,HDPE,300,2289,4.44,3.5,Hydraulic C
+PT-9271,2026-03-24,Bole,Main,Ductile Iron,100,2170.7,5.6,3.5,Hydraulic A
+PT-9272,2026-03-26,Akaki,Distribution,Ductile Iron,150,2228.5,5.12,3.5,Hydraulic B
+PT-9273,2026-03-28,Kirkos,Service,Ductile Iron,200,2242.7,5.59,3.5,Hydraulic C
+PT-9274,2026-03-30,Lideta,Main,Ductile Iron,250,2280,4.54,3.5,Hydraulic A
+PT-9275,2026-04-01,Gullele,Distribution,Ductile Iron,300,2303.1,4.6,3.5,Hydraulic B
+PT-9276,2026-04-03,Yeka,Service,Ductile Iron,100,2336.8,4.84,3.5,Hydraulic C
+PT-9277,2026-04-05,Bole,Main,PVC,150,2227.8,5.14,3.5,Hydraulic A
+PT-9278,2026-04-07,Akaki,Distribution,PVC,200,2262,4.68,3.5,Hydraulic B
+PT-9279,2026-04-09,Kirkos,Service,PVC,250,2303.4,4.69,3.5,Hydraulic C
+PT-9280,2026-04-11,Lideta,Main,PVC,300,2326.3,4.94,3.5,Hydraulic A
+PT-9281,2026-04-13,Gullele,Distribution,PVC,100,2348.1,4.9,3.5,Hydraulic B
+PT-9282,2026-04-15,Yeka,Service,PVC,150,2385.5,3.78,3.5,Hydraulic C
+PT-9283,2026-04-17,Bole,Main,Steel,200,2291,4.49,3.5,Hydraulic A
+PT-9284,2026-04-19,Akaki,Distribution,Steel,250,2310.5,4.51,3.5,Hydraulic B
+PT-9285,2026-04-21,Kirkos,Service,Steel,300,2334.6,4.06,3.5,Hydraulic C
+PT-9286,2026-04-23,Lideta,Main,Steel,100,2370.1,4.22,3.5,Hydraulic A
+PT-9287,2026-04-25,Gullele,Distribution,Steel,150,2223.8,5.3,3.5,Hydraulic B
+PT-9288,2026-04-27,Yeka,Service,Steel,200,2262.4,5.14,3.5,Hydraulic C
+PT-9289,2026-04-29,Bole,Main,HDPE,250,2154,5.3,3.5,Hydraulic A
+PT-9290,2026-05-01,Akaki,Distribution,HDPE,300,2186.8,5.68,3.5,Hydraulic B
+PT-9291,2026-05-03,Kirkos,Service,HDPE,100,2206.8,4.52,3.5,Hydraulic C
+PT-9292,2026-05-05,Lideta,Main,HDPE,150,2237.7,5.53,3.5,Hydraulic A
+PT-9293,2026-05-07,Gullele,Distribution,HDPE,200,2276.5,4.87,3.5,Hydraulic B
+PT-9294,2026-05-09,Yeka,Service,HDPE,250,2306.4,5.08,3.5,Hydraulic C
+PT-9295,2026-05-11,Bole,Main,Ductile Iron,300,2191.2,6.01,3.5,Hydraulic A
+PT-9296,2026-05-13,Akaki,Distribution,Ductile Iron,100,2231.7,5.34,3.5,Hydraulic B
+PT-9297,2026-05-15,Kirkos,Service,Ductile Iron,150,2271.2,5.47,3.5,Hydraulic C
+PT-9298,2026-05-17,Lideta,Main,Ductile Iron,200,2297.6,4.65,3.5,Hydraulic A
+PT-9299,2026-05-19,Gullele,Distribution,Ductile Iron,250,2323.1,4.49,3.5,Hydraulic B
+PT-9300,2026-05-21,Yeka,Service,Ductile Iron,300,2338.2,4.16,3.5,Hydraulic C
+PT-9301,2026-05-23,Bole,Main,PVC,100,2243.2,5.12,3.5,Hydraulic A
+PT-9302,2026-05-25,Akaki,Distribution,PVC,150,2274.4,4.99,3.5,Hydraulic B
+PT-9303,2026-05-27,Kirkos,Service,PVC,200,2303.5,4.46,3.5,Hydraulic C
+PT-9304,2026-05-29,Lideta,Main,PVC,250,2341.8,4.1,3.5,Hydraulic A
+PT-9305,2026-05-31,Gullele,Distribution,PVC,300,2365.3,4.2,3.5,Hydraulic B
+PT-9306,2026-06-02,Yeka,Service,PVC,100,2397.7,3.73,3.5,Hydraulic C
+PT-9307,2026-06-04,Bole,Main,Steel,150,2289,5.08,3.5,Hydraulic A
+PT-9308,2026-06-06,Akaki,Distribution,Steel,200,2316.3,4.59,3.5,Hydraulic B
+PT-9309,2026-06-08,Kirkos,Service,Steel,250,2188.9,6.01,3.5,Hydraulic C
+PT-9310,2026-06-10,Lideta,Main,Steel,300,2209.9,4.88,3.5,Hydraulic A
+PT-9311,2026-06-12,Gullele,Distribution,Steel,100,2234.9,4.95,3.5,Hydraulic B
+PT-9312,2026-06-14,Yeka,Service,Steel,150,2280.6,4.91,3.5,Hydraulic C
+PT-9313,2026-06-16,Bole,Main,HDPE,200,2162.5,5.67,3.5,Hydraulic A
+PT-9314,2026-06-18,Akaki,Distribution,HDPE,250,2188.8,6,3.5,Hydraulic B
+PT-9315,2026-06-20,Kirkos,Service,HDPE,300,2242.7,5.67,3.5,Hydraulic C
+PT-9316,2026-06-22,Lideta,Main,HDPE,100,2246.3,4.84,3.5,Hydraulic A
+PT-9317,2026-06-24,Gullele,Distribution,HDPE,150,2286.9,4.81,3.5,Hydraulic B
+PT-9318,2026-06-26,Yeka,Service,HDPE,200,2325.8,4.58,3.5,Hydraulic C
+PT-9319,2026-06-28,Bole,Main,Ductile Iron,250,2204.1,4.85,3.5,Hydraulic A
+PT-9320,2026-06-30,Akaki,Distribution,Ductile Iron,300,2243.4,3.01,3.5,Hydraulic B
+PT-9321,2026-07-02,Kirkos,Service,Ductile Iron,100,2264.5,4.65,3.5,Hydraulic C
+PT-9322,2026-07-04,Lideta,Main,Ductile Iron,150,2310.4,4.98,3.5,Hydraulic A
+PT-9323,2026-07-06,Gullele,Distribution,Ductile Iron,200,2332.4,4.7,3.5,Hydraulic B
+PT-9324,2026-07-08,Yeka,Service,Ductile Iron,250,2368.8,4.33,3.5,Hydraulic C
+PT-9325,2026-07-10,Bole,Main,PVC,300,2253,5.36,3.5,Hydraulic A
+PT-9326,2026-07-12,Akaki,Distribution,PVC,100,2281.8,4.98,3.5,Hydraulic B
+PT-9327,2026-07-14,Kirkos,Service,PVC,150,2317.2,4.65,3.5,Hydraulic C
+PT-9328,2026-07-16,Lideta,Main,PVC,200,2366.1,4.01,3.5,Hydraulic A
+PT-9329,2026-07-18,Gullele,Distribution,PVC,250,2402,4.06,3.5,Hydraulic B
+PT-9330,2026-07-20,Yeka,Service,PVC,300,2426.8,4.12,3.5,Hydraulic C
+PT-9331,2026-07-22,Bole,Main,Steel,100,2142.6,5.83,3.5,Hydraulic A
+PT-9332,2026-07-24,Akaki,Distribution,Steel,150,2176.7,5.59,3.5,Hydraulic B
+PT-9333,2026-07-26,Kirkos,Service,Steel,200,2196.3,5.58,3.5,Hydraulic C
+PT-9334,2026-07-28,Lideta,Main,Steel,250,2212.5,5.17,3.5,Hydraulic A
+PT-9335,2026-07-30,Gullele,Distribution,Steel,300,2270,5.7,3.5,Hydraulic B
+PT-9336,2026-08-01,Yeka,Service,Steel,100,2291.6,5.41,3.5,Hydraulic C
+PT-9337,2026-08-03,Bole,Main,HDPE,150,2193.2,5.07,3.5,Hydraulic A
+PT-9338,2026-08-05,Akaki,Distribution,HDPE,200,2204.8,4.98,3.5,Hydraulic B
+PT-9339,2026-08-07,Kirkos,Service,HDPE,250,2230.2,5.03,3.5,Hydraulic C
+PT-9340,2026-08-09,Lideta,Main,HDPE,300,2281.3,4.78,3.5,Hydraulic A
+PT-9341,2026-08-11,Gullele,Distribution,HDPE,100,2302.4,5,3.5,Hydraulic B
+PT-9342,2026-08-13,Yeka,Service,HDPE,150,2330.3,4.35,3.5,Hydraulic C
+PT-9343,2026-08-15,Bole,Main,Ductile Iron,200,2233.3,5.15,3.5,Hydraulic A
+PT-9344,2026-08-17,Akaki,Distribution,Ductile Iron,250,2253.4,5.01,3.5,Hydraulic B
+PT-9345,2026-08-19,Kirkos,Service,Ductile Iron,300,2288.6,5.17,3.5,Hydraulic C
+PT-9346,2026-08-21,Lideta,Main,Ductile Iron,100,2333.6,4.7,3.5,Hydraulic A
+PT-9347,2026-08-23,Gullele,Distribution,Ductile Iron,150,2353.7,4.75,3.5,Hydraulic B
+PT-9348,2026-08-25,Yeka,Service,Ductile Iron,200,2391.1,3.67,3.5,Hydraulic C
+PT-9349,2026-08-27,Bole,Main,PVC,250,2266.3,4.72,3.5,Hydraulic A
+PT-9350,2026-08-29,Akaki,Distribution,PVC,300,2310.2,5.02,3.5,Hydraulic B
+PT-9351,2026-08-31,Kirkos,Service,PVC,100,2340.5,4.23,3.5,Hydraulic C
+PT-9352,2026-09-02,Lideta,Main,PVC,150,2370.9,4.25,3.5,Hydraulic A
+PT-9353,2026-09-04,Gullele,Distribution,PVC,200,2228.6,5.52,3.5,Hydraulic B
+PT-9354,2026-09-06,Yeka,Service,PVC,250,2247.4,5.72,3.5,Hydraulic C
+PT-9355,2026-09-08,Bole,Main,Steel,300,2146.4,5.91,3.5,Hydraulic A
+PT-9356,2026-09-10,Akaki,Distribution,Steel,100,2177.9,5.29,3.5,Hydraulic B
+PT-9357,2026-09-12,Kirkos,Service,Steel,150,2189.3,5.43,3.5,Hydraulic C
+PT-9358,2026-09-14,Lideta,Main,Steel,200,2249.3,5.37,3.5,Hydraulic A
+PT-9359,2026-09-16,Gullele,Distribution,Steel,250,2276.2,4.83,3.5,Hydraulic B
+PT-9360,2026-09-18,Yeka,Service,Steel,300,2305,4.33,3.5,Hydraulic C
+PT-9361,2026-09-20,Bole,Main,HDPE,100,2188.7,5.94,3.5,Hydraulic A
+PT-9362,2026-09-22,Akaki,Distribution,HDPE,150,2237,5.43,3.5,Hydraulic B
+PT-9363,2026-09-24,Kirkos,Service,HDPE,200,2263.2,5.01,3.5,Hydraulic C
+PT-9364,2026-09-26,Lideta,Main,HDPE,250,2290.6,4.63,3.5,Hydraulic A
+PT-9365,2026-09-28,Gullele,Distribution,HDPE,300,2327.1,4.84,3.5,Hydraulic B
+PT-9366,2026-09-30,Yeka,Service,HDPE,100,2360.6,4.09,3.5,Hydraulic C
+PT-9367,2026-10-02,Bole,Main,Ductile Iron,150,2255.2,5.33,3.5,Hydraulic A
+PT-9368,2026-10-04,Akaki,Distribution,Ductile Iron,200,2279.6,4.75,3.5,Hydraulic B
+PT-9369,2026-02-03,Kirkos,Service,Ductile Iron,250,2307.5,4.48,3.5,Hydraulic C
+PT-9370,2026-02-05,Lideta,Main,Ductile Iron,300,2341,4.03,3.5,Hydraulic A
+PT-9371,2026-02-07,Gullele,Distribution,Ductile Iron,100,2359.3,4.03,3.5,Hydraulic B
+PT-9372,2026-02-09,Yeka,Service,Ductile Iron,150,2405.7,3.43,3.5,Hydraulic C
+PT-9373,2026-02-11,Bole,Main,PVC,200,2290.5,5.05,3.5,Hydraulic A
+PT-9374,2026-02-13,Akaki,Distribution,PVC,250,2313,4.27,3.5,Hydraulic B
+PT-9375,2026-02-15,Kirkos,Service,PVC,300,2174.8,5.93,3.5,Hydraulic C
+PT-9376,2026-02-17,Lideta,Main,PVC,100,2214.8,5.49,3.5,Hydraulic A
+PT-9377,2026-02-19,Gullele,Distribution,PVC,150,2237,5.07,3.5,Hydraulic B
+PT-9378,2026-02-21,Yeka,Service,PVC,200,2271.3,4.51,3.5,Hydraulic C
+PT-9379,2026-02-23,Bole,Main,Steel,250,2170.7,5.54,3.5,Hydraulic A
+PT-9380,2026-02-25,Akaki,Distribution,Steel,300,2194,5.33,3.5,Hydraulic B
+PT-9381,2026-02-27,Kirkos,Service,Steel,100,2231.6,5.77,3.5,Hydraulic C
+PT-9382,2026-03-01,Lideta,Main,Steel,150,2248.1,5.38,3.5,Hydraulic A
+PT-9383,2026-03-03,Gullele,Distribution,Steel,200,2292.7,4.9,3.5,Hydraulic B
+PT-9384,2026-03-05,Yeka,Service,Steel,250,2320.8,4.95,3.5,Hydraulic C
+PT-9385,2026-03-07,Bole,Main,HDPE,300,2210.3,5.02,3.5,Hydraulic A
+PT-9386,2026-03-09,Akaki,Distribution,HDPE,100,2251.7,5.2,3.5,Hydraulic B
+PT-9387,2026-03-11,Kirkos,Service,HDPE,150,2276.6,4.59,3.5,Hydraulic C
+PT-9388,2026-03-13,Lideta,Main,HDPE,200,2303.1,4.69,3.5,Hydraulic A
+PT-9389,2026-03-15,Gullele,Distribution,HDPE,250,2337.3,4.74,3.5,Hydraulic B
+PT-9390,2026-03-17,Yeka,Service,HDPE,300,2369.9,4.34,3.5,Hydraulic C
+PT-9391,2026-03-19,Bole,Main,Ductile Iron,100,2261.7,4.6,3.5,Hydraulic A
+PT-9392,2026-03-21,Akaki,Distribution,Ductile Iron,150,2285.8,4.29,3.5,Hydraulic B
+PT-9393,2026-03-23,Kirkos,Service,Ductile Iron,200,2326.8,4.64,3.5,Hydraulic C
+PT-9394,2026-03-25,Lideta,Main,Ductile Iron,250,2351,4.19,3.5,Hydraulic A
+PT-9395,2026-03-27,Gullele,Distribution,Ductile Iron,300,2384.8,3.97,3.5,Hydraulic B
+PT-9396,2026-03-29,Yeka,Service,Ductile Iron,100,2422,4.18,3.5,Hydraulic C
+PT-9397,2026-03-31,Bole,Main,PVC,150,2125.9,5.77,3.5,Hydraulic A
+PT-9398,2026-04-02,Akaki,Distribution,PVC,200,2162.1,5.8,3.5,Hydraulic B
+PT-9399,2026-04-04,Kirkos,Service,PVC,250,2194.9,5.64,3.5,Hydraulic C
+PT-9400,2026-04-06,Lideta,Main,PVC,300,2231.4,5.64,3.5,Hydraulic A
+PT-9401,2026-04-08,Gullele,Distribution,PVC,100,2256.4,5,3.5,Hydraulic B
+PT-9402,2026-04-10,Yeka,Service,PVC,150,2279.3,4.87,3.5,Hydraulic C
+PT-9403,2026-04-12,Bole,Main,Steel,200,2172.6,5.39,3.5,Hydraulic A
+PT-9404,2026-04-14,Akaki,Distribution,Steel,250,2219.6,5.73,3.5,Hydraulic B
+PT-9405,2026-04-16,Kirkos,Service,Steel,300,2242.5,5.12,3.5,Hydraulic C
+PT-9406,2026-04-18,Lideta,Main,Steel,100,2267.7,4.86,3.5,Hydraulic A
+PT-9407,2026-04-20,Gullele,Distribution,Steel,150,2306.1,4.33,3.5,Hydraulic B
+PT-9408,2026-04-22,Yeka,Service,Steel,200,2341.3,4.91,3.5,Hydraulic C
+PT-9409,2026-04-24,Bole,Main,HDPE,250,2221.5,5.47,3.5,Hydraulic A
+PT-9410,2026-04-26,Akaki,Distribution,HDPE,300,2244.1,5.08,3.5,Hydraulic B
+PT-9411,2026-04-28,Kirkos,Service,HDPE,100,2289.4,4.93,3.5,Hydraulic C
+PT-9412,2026-04-30,Lideta,Main,HDPE,150,2319.4,4.37,3.5,Hydraulic A
+PT-9413,2026-05-02,Gullele,Distribution,HDPE,200,2349.1,4.57,3.5,Hydraulic B
+PT-9414,2026-05-04,Yeka,Service,HDPE,250,2400.6,4.65,3.5,Hydraulic C
+PT-9415,2026-05-06,Bole,Main,Ductile Iron,300,2284.7,4.59,3.5,Hydraulic A
+PT-9416,2026-05-08,Akaki,Distribution,Ductile Iron,100,2307.5,4.64,3.5,Hydraulic B
+PT-9417,2026-05-10,Kirkos,Service,Ductile Iron,150,2327.2,4.91,3.5,Hydraulic C
+PT-9418,2026-05-12,Lideta,Main,Ductile Iron,200,2371.9,4.05,3.5,Hydraulic A
+PT-9419,2026-05-14,Gullele,Distribution,Ductile Iron,250,2219.4,4.91,3.5,Hydraulic B
+PT-9420,2026-05-16,Yeka,Service,Ductile Iron,300,2255.3,5.72,3.5,Hydraulic C
+PT-9421,2026-05-18,Bole,Main,PVC,100,2157.5,5.71,3.5,Hydraulic A
+PT-9422,2026-05-20,Akaki,Distribution,PVC,150,2182.1,5.26,3.5,Hydraulic B
+PT-9423,2026-05-22,Kirkos,Service,PVC,200,2208.3,5.19,3.5,Hydraulic C
+PT-9424,2026-05-24,Lideta,Main,PVC,250,2249.7,5.41,3.5,Hydraulic A
+PT-9425,2026-05-26,Gullele,Distribution,PVC,300,2270.2,4.84,3.5,Hydraulic B
+PT-9426,2026-05-28,Yeka,Service,PVC,100,2290.2,5.12,3.5,Hydraulic C
+PT-9427,2026-05-30,Bole,Main,Steel,150,2183.1,5.65,3.5,Hydraulic A
+PT-9428,2026-06-01,Akaki,Distribution,Steel,200,2223.5,5.98,3.5,Hydraulic B
+PT-9429,2026-06-03,Kirkos,Service,Steel,250,2242.8,5.65,3.5,Hydraulic C
+PT-9430,2026-06-05,Lideta,Main,Steel,300,2294.4,4.51,3.5,Hydraulic A
+PT-9431,2026-06-07,Gullele,Distribution,Steel,100,2321.6,4.44,3.5,Hydraulic B
+PT-9432,2026-06-09,Yeka,Service,Steel,150,2365,4.09,3.5,Hydraulic C
