@@ -1,0 +1,625 @@
+case_id,received_date,zone,service_channel,case_type,priority,handling_team,response_hours,resolution_hours,follow_up_count,satisfaction_score,escalated,closed
+CT-41001,2026-02-01,Akaki,Phone,Billing Question,Routine,Front Desk,,30.58,0,5,Yes,No
+CT-41002,2026-02-02,Yeka,Web Portal,Billing Question,High,Rapid Response,9.97,34.68,0,3,No,Yes
+CT-41003,2026-02-03,Lideta,Walk-in,Billing Question,Urgent,Billing Unit,8.72,23.73,5,4,No,Yes
+CT-41004,2026-02-04,Kirkos,Mobile App,Supply Alert,Routine,Front Desk,10.5,32.42,2,4,No,Yes
+CT-41005,2026-02-05,Gullele,Phone,Supply Alert,High,Rapid Response,5,11.77,1,5,No,Yes
+CT-41006,2026-02-06,Bole,Web Portal,Supply Alert,Urgent,Billing Unit,15.44,61.1,2,4,Yes,Yes
+CT-41007,2026-02-07,Akaki,Walk-in,New Connection,Routine,Front Desk,5.07,27.61,2,3,No,Yes
+CT-41008,2026-02-08,Yeka,Mobile App,New Connection,High,Rapid Response,3.65,25.35,1,5,No,Yes
+CT-41009,2026-02-09,Lideta,Phone,New Connection,Urgent,Billing Unit,10.61,24.93,2,5,No,Yes
+CT-41010,2026-02-10,Kirkos,Walk-in,Water Quality,Routine,Front Desk,4.77,25.13,0,4,No,Yes
+CT-41011,2026-02-11,Gullele,Mobile App,Water Quality,High,Rapid Response,3.64,17.75,2,4,No,Yes
+CT-41012,2026-02-12,Bole,Phone,Water Quality,Urgent,Billing Unit,10.06,38.6,3,5,No,Yes
+CT-41013,2026-02-13,Akaki,Web Portal,Billing Question,Routine,Front Desk,2.14,14.01,0,5,No,Yes
+CT-41014,2026-02-14,Yeka,Walk-in,Billing Question,High,Rapid Response,4.53,32.83,1,4,No,Yes
+CT-41015,2026-02-15,Lideta,Mobile App,Billing Question,Urgent,Billing Unit,8.78,21.18,1,4,No,Yes
+CT-41016,2026-02-16,Kirkos,Phone,Supply Alert,Routine,Front Desk,3.75,11.89,1,5,No,Yes
+CT-41017,2026-02-17,Kirkos,Web Portal,Supply Alert,High,Rapid Response,18.23,38.84,1,3,No,Yes
+CT-41018,2026-02-18,Gullele,Walk-in,Supply Alert,Urgent,Billing Unit,13.92,33.59,3,5,Yes,Yes
+CT-41019,2026-02-19,Bole,Phone,New Connection,Routine,Front Desk,2.97,16.21,1,5,No,Yes
+CT-41020,2026-02-20,Akaki,Web Portal,New Connection,High,Rapid Response,15.93,42.26,0,4,No,Yes
+CT-41021,2026-02-21,Yeka,Walk-in,New Connection,Urgent,Billing Unit,8.76,19.5,2,5,No,Yes
+CT-41022,2026-02-22,Lideta,Mobile App,Water Quality,Routine,Front Desk,4.71,27,0,5,No,Yes
+CT-41023,2026-02-23,Kirkos,Phone,Water Quality,High,Rapid Response,8.41,39.81,1,4,No,Yes
+CT-41024,2026-02-24,Gullele,Web Portal,Water Quality,Urgent,Billing Unit,19.12,39.87,2,4,No,No
+CT-41025,2026-02-25,Bole,Walk-in,Billing Question,Routine,Front Desk,2.52,13.66,1,5,No,Yes
+CT-41026,2026-02-26,Akaki,Mobile App,Billing Question,High,Rapid Response,3.4,11.44,0,5,No,Yes
+CT-41027,2026-02-27,Yeka,Phone,Billing Question,Urgent,Billing Unit,13.28,28.65,3,5,No,Yes
+CT-41028,2026-02-28,Lideta,Walk-in,Supply Alert,Urgent,Front Desk,12,32.42,2,4,No,Yes
+CT-41029,2026-03-01,Kirkos,Mobile App,Supply Alert,Routine,Rapid Response,5.32,26.14,2,5,No,Yes
+CT-41030,2026-03-02,Gullele,Phone,Supply Alert,High,Billing Unit,4.75,18.07,1,5,No,Yes
+CT-41031,2026-03-03,Bole,Web Portal,New Connection,Urgent,Front Desk,21.38,49.77,2,4,No,Yes
+CT-41032,2026-03-04,Akaki,Walk-in,Water Quality,Routine,Rapid Response,2.8,27.76,3,5,No,Yes
+CT-41033,2026-03-05,Akaki,Mobile App,Water Quality,High,Billing Unit,14.53,44.11,3,4,No,Yes
+CT-41034,2026-03-06,Yeka,Phone,Billing Question,Urgent,Front Desk,13.08,55.39,2,3,Yes,Yes
+CT-41035,2026-03-07,Lideta,Web Portal,Billing Question,Routine,Rapid Response,3.08,26.16,3,4,Yes,Yes
+CT-41036,2026-03-08,Kirkos,Walk-in,Billing Question,High,Billing Unit,4.47,15.13,1,4,No,Yes
+CT-41037,2026-03-09,Gullele,Phone,Supply Alert,Urgent,Front Desk,14.84,55.94,2,4,Yes,Yes
+CT-41038,2026-03-10,Bole,Web Portal,Supply Alert,Routine,Rapid Response,7.48,48.9,0,4,No,Yes
+CT-41039,2026-03-11,Akaki,Walk-in,Supply Alert,High,Billing Unit,2,19.1,1,5,No,Yes
+CT-41040,2026-03-12,Yeka,Mobile App,New Connection,Urgent,Front Desk,9.57,22.73,1,4,No,Yes
+CT-41041,2026-03-13,Lideta,Phone,New Connection,Routine,Rapid Response,6.68,18.88,1,4,No,Yes
+CT-41042,2026-03-14,Kirkos,Web Portal,New Connection,High,Billing Unit,12.48,32.22,0,4,No,Yes
+CT-41043,2026-03-15,Gullele,Walk-in,Water Quality,Urgent,Front Desk,10.84,41.78,1,4,No,Yes
+CT-41044,2026-03-16,Bole,Mobile App,Water Quality,Routine,Rapid Response,7.7,18.57,0,4,No,Yes
+CT-41045,2026-03-17,Akaki,Phone,Water Quality,High,Billing Unit,9.4,32.07,0,3,No,Yes
+CT-41046,2026-03-18,Yeka,Walk-in,Billing Question,Urgent,Front Desk,11.98,34.07,1,4,No,Yes
+CT-41047,2026-03-19,Lideta,Mobile App,Billing Question,Routine,Rapid Response,2.32,11.67,1,5,No,No
+CT-41048,2026-03-20,Kirkos,Phone,Billing Question,High,Billing Unit,5.66,20.59,0,5,No,Yes
+CT-41049,2026-03-21,Kirkos,Web Portal,Supply Alert,Urgent,Front Desk,17.37,34.93,3,4,No,Yes
+CT-41050,2026-03-22,Gullele,Walk-in,Supply Alert,Routine,Rapid Response,2.38,12.32,0,4,No,Yes
+CT-41051,2026-03-23,Bole,Mobile App,Supply Alert,High,Billing Unit,13.73,47.9,1,4,No,Yes
+CT-41052,2026-03-24,Akaki,Phone,New Connection,Urgent,Front Desk,7.41,20.31,1,4,Yes,Yes
+CT-41053,2026-03-25,Yeka,Web Portal,New Connection,Routine,Rapid Response,8.31,28.54,3,3,No,Yes
+CT-41054,2026-03-26,Lideta,Walk-in,New Connection,High,Billing Unit,7.29,18.43,0,5,No,Yes
+CT-41055,2026-03-27,Kirkos,Phone,Water Quality,High,Front Desk,6.81,57.33,3,4,Yes,Yes
+CT-41056,2026-03-28,Gullele,Web Portal,Water Quality,Urgent,Rapid Response,13.33,30.94,2,4,No,Yes
+CT-41057,2026-03-29,Bole,Walk-in,Water Quality,Routine,Billing Unit,3.4,29.56,1,5,No,Yes
+CT-41058,2026-03-30,Akaki,Mobile App,Billing Question,High,Front Desk,12.54,55.03,1,3,Yes,Yes
+CT-41059,2026-03-31,Yeka,Phone,Billing Question,Urgent,Rapid Response,15.48,45.45,1,4,No,Yes
+CT-41060,2026-04-01,Lideta,Web Portal,Billing Question,Routine,Billing Unit,78.37,154.87,1,1,Yes,Yes
+CT-41061,2026-04-02,Kirkos,Walk-in,Supply Alert,High,Front Desk,5.9,12.63,0,5,No,Yes
+CT-41062,2026-04-03,Gullele,Mobile App,Supply Alert,Urgent,Rapid Response,16.62,51.06,1,5,No,Yes
+CT-41063,2026-04-04,Bole,Phone,New Connection,Routine,Billing Unit,3.57,22.65,1,5,No,Yes
+CT-41064,2026-04-05,Akaki,Walk-in,Water Quality,High,Front Desk,4.31,11.46,0,5,No,Yes
+CT-41065,2026-04-06,Akaki,Mobile App,Water Quality,Urgent,Rapid Response,7.3,23.98,2,5,No,Yes
+CT-41066,2026-04-07,Yeka,Phone,Water Quality,Routine,Billing Unit,8.93,19.02,3,4,No,Yes
+CT-41067,2026-04-08,Lideta,Web Portal,Billing Question,High,Front Desk,24.29,59.84,2,3,Yes,Yes
+CT-41068,2026-04-09,Kirkos,Walk-in,Billing Question,Urgent,Rapid Response,11.29,33.32,3,5,No,Yes
+CT-41069,2026-04-10,Gullele,Mobile App,Billing Question,Routine,Billing Unit,4.15,40.37,0,4,Yes,Yes
+CT-41070,2026-04-11,Bole,Phone,Supply Alert,High,Front Desk,10.41,30.26,2,4,No,No
+CT-41071,2026-04-12,Akaki,Web Portal,Supply Alert,Urgent,Rapid Response,17.05,53.98,2,3,No,Yes
+CT-41072,2026-04-13,Yeka,Walk-in,Supply Alert,Routine,Billing Unit,7.51,26.14,1,4,No,Yes
+CT-41073,2026-04-14,Lideta,Phone,New Connection,High,Front Desk,10.32,27.37,0,4,No,Yes
+CT-41074,2026-04-15,Kirkos,Web Portal,New Connection,Urgent,Rapid Response,5,24.19,1,4,No,Yes
+CT-41075,2026-04-16,Gullele,Walk-in,New Connection,Routine,Billing Unit,6.73,19.55,2,5,No,Yes
+CT-41076,2026-04-17,Bole,Mobile App,Water Quality,High,Front Desk,12.92,26.95,0,5,No,Yes
+CT-41077,2026-04-18,Akaki,Phone,Water Quality,Urgent,Rapid Response,5.92,31.71,1,4,No,Yes
+CT-41078,2026-04-19,Yeka,Web Portal,Water Quality,Routine,Billing Unit,9.52,40.18,3,3,No,Yes
+CT-41079,2026-04-20,Lideta,Walk-in,Billing Question,High,Front Desk,6.89,18.7,0,5,No,Yes
+CT-41080,2026-04-21,Kirkos,Mobile App,Billing Question,Urgent,Rapid Response,15.52,31.14,3,4,No,Yes
+CT-41081,2026-04-22,Kirkos,Phone,Billing Question,Routine,Billing Unit,5.14,14.98,0,5,No,Yes
+CT-41082,2026-04-23,Gullele,Walk-in,Supply Alert,Routine,Front Desk,4.04,18.42,2,4,No,Yes
+CT-41083,2026-04-24,Bole,Mobile App,Supply Alert,High,Rapid Response,8.18,30.46,4,4,No,Yes
+CT-41084,2026-04-25,Akaki,Phone,Supply Alert,Urgent,Billing Unit,6.2,18.36,2,5,No,Yes
+CT-41085,2026-04-26,Yeka,Web Portal,New Connection,Routine,Front Desk,22.37,69.58,2,4,Yes,Yes
+CT-41086,2026-04-27,Lideta,Walk-in,New Connection,High,Rapid Response,16.54,47.46,0,3,Yes,Yes
+CT-41087,2026-04-28,Kirkos,Mobile App,New Connection,Urgent,Billing Unit,11.62,28.19,1,5,No,Yes
+CT-41088,2026-04-29,Gullele,Phone,Water Quality,Routine,Front Desk,4.87,25.35,2,5,No,Yes
+CT-41089,2026-04-30,Bole,Web Portal,Water Quality,High,Rapid Response,17.42,41.09,1,4,No,Yes
+CT-41090,2026-05-01,Akaki,Walk-in,Water Quality,Urgent,Billing Unit,9.62,23.56,2,5,No,Yes
+CT-41091,2026-05-02,Yeka,Phone,Billing Question,Routine,Front Desk,6.25,29.57,0,4,No,Yes
+CT-41092,2026-05-03,Lideta,Web Portal,Billing Question,High,Rapid Response,4.09,14.79,1,5,No,Yes
+CT-41093,2026-05-04,Kirkos,Walk-in,Billing Question,Urgent,Billing Unit,12.21,28.36,4,3,No,No
+CT-41094,2026-05-05,Gullele,Mobile App,New Connection,Routine,Front Desk,10.44,37.65,0,4,No,Yes
+CT-41095,2026-05-06,Bole,Phone,New Connection,High,Rapid Response,2.29,8.2,2,5,No,Yes
+CT-41096,2026-05-07,Akaki,Web Portal,New Connection,Urgent,Billing Unit,10.45,24.19,2,4,No,Yes
+CT-41097,2026-05-08,Akaki,Walk-in,Water Quality,Routine,Front Desk,1.8,19.67,1,4,No,Yes
+CT-41098,2026-05-09,Yeka,Mobile App,Water Quality,High,Rapid Response,4.93,15.45,1,5,No,Yes
+CT-41099,2026-05-10,Lideta,Phone,Water Quality,Urgent,Billing Unit,7.65,25.06,1,5,No,Yes
+CT-41100,2026-05-11,Kirkos,Walk-in,Billing Question,Routine,Front Desk,8.87,23.2,2,5,No,Yes
+CT-41101,2026-05-12,Gullele,Mobile App,Billing Question,High,Rapid Response,8.78,25.29,2,5,No,Yes
+CT-41102,2026-05-13,Bole,Phone,Billing Question,Urgent,Billing Unit,,24.32,4,5,No,Yes
+CT-41103,2026-05-14,Akaki,Web Portal,Supply Alert,Routine,Front Desk,7.5,26.18,2,4,Yes,Yes
+CT-41104,2026-05-15,Yeka,Walk-in,Supply Alert,High,Rapid Response,3.65,14.97,1,5,No,Yes
+CT-41105,2026-05-16,Lideta,Mobile App,Supply Alert,Urgent,Billing Unit,13.08,39.26,2,4,No,Yes
+CT-41106,2026-05-17,Kirkos,Phone,New Connection,Routine,Front Desk,7.61,17.34,3,4,No,Yes
+CT-41107,2026-05-18,Gullele,Web Portal,New Connection,High,Rapid Response,8.53,18.4,1,5,No,Yes
+CT-41108,2026-05-19,Bole,Walk-in,New Connection,Urgent,Billing Unit,7.67,21.35,3,4,No,Yes
+CT-41109,2026-05-20,Akaki,Phone,Water Quality,Urgent,Front Desk,11.07,47.98,1,2,No,Yes
+CT-41110,2026-05-21,Yeka,Web Portal,Water Quality,Routine,Rapid Response,15.83,54.37,0,2,No,Yes
+CT-41111,2026-05-22,Lideta,Walk-in,Water Quality,High,Billing Unit,1.32,5.51,0,5,No,Yes
+CT-41112,2026-05-23,Kirkos,Mobile App,Billing Question,Urgent,Front Desk,8.35,21.32,1,4,No,Yes
+CT-41113,2026-05-24,Kirkos,Phone,Billing Question,Routine,Rapid Response,8.17,25.48,1,5,No,Yes
+CT-41114,2026-05-25,Gullele,Web Portal,Billing Question,High,Billing Unit,4.92,18.08,1,5,No,Yes
+CT-41115,2026-05-26,Bole,Walk-in,Supply Alert,Urgent,Front Desk,11.03,26.36,4,5,No,Yes
+CT-41116,2026-05-27,Akaki,Mobile App,Supply Alert,Routine,Rapid Response,2.76,27.35,2,4,No,No
+CT-41117,2026-05-28,Yeka,Phone,Supply Alert,High,Billing Unit,7.45,16.87,4,5,No,Yes
+CT-41118,2026-05-29,Lideta,Walk-in,New Connection,Urgent,Front Desk,8.23,18.86,2,4,No,Yes
+CT-41119,2026-05-30,Kirkos,Mobile App,New Connection,Routine,Rapid Response,80.94,159.31,0,1,Yes,Yes
+CT-41120,2026-05-31,Gullele,Phone,New Connection,High,Billing Unit,14.08,39.7,1,4,Yes,Yes
+CT-41121,2026-06-01,Bole,Web Portal,Water Quality,Urgent,Front Desk,12.74,40.53,2,4,No,Yes
+CT-41122,2026-06-02,Akaki,Walk-in,Water Quality,Routine,Rapid Response,1.71,7.22,3,5,No,Yes
+CT-41123,2026-06-03,Yeka,Mobile App,Water Quality,High,Billing Unit,7.39,29.85,0,3,No,Yes
+CT-41124,2026-06-04,Lideta,Phone,Billing Question,Urgent,Front Desk,10.56,23.98,3,4,No,Yes
+CT-41125,2026-06-05,Kirkos,Web Portal,Supply Alert,Routine,Rapid Response,5.83,18.56,1,4,No,Yes
+CT-41126,2026-06-06,Gullele,Walk-in,Supply Alert,High,Billing Unit,3.2,32.3,0,4,No,Yes
+CT-41127,2026-06-07,Bole,Phone,New Connection,Urgent,Front Desk,6.58,18.92,1,5,No,Yes
+CT-41128,2026-06-08,Akaki,Web Portal,New Connection,Routine,Rapid Response,4.71,15.7,1,5,No,Yes
+CT-41129,2026-06-09,Akaki,Walk-in,New Connection,High,Billing Unit,4.95,23.11,2,5,No,Yes
+CT-41130,2026-06-10,Yeka,Mobile App,Water Quality,Urgent,Front Desk,23.04,53.57,2,3,No,Yes
+CT-41131,2026-06-11,Lideta,Phone,Water Quality,Routine,Rapid Response,5.36,19.8,2,5,No,Yes
+CT-41132,2026-06-12,Kirkos,Web Portal,Water Quality,High,Billing Unit,6.94,19.9,1,5,No,Yes
+CT-41133,2026-06-13,Gullele,Walk-in,Billing Question,Urgent,Front Desk,9.8,25.66,2,5,No,Yes
+CT-41134,2026-06-14,Bole,Mobile App,Billing Question,Routine,Rapid Response,8.88,34.2,2,3,No,Yes
+CT-41135,2026-06-15,Akaki,Phone,Billing Question,High,Billing Unit,5.06,10.45,0,5,No,Yes
+CT-41136,2026-06-16,Yeka,Walk-in,Supply Alert,High,Front Desk,5.68,41.5,0,4,No,Yes
+CT-41137,2026-06-17,Lideta,Mobile App,Supply Alert,Urgent,Rapid Response,13.97,39.13,4,5,Yes,Yes
+CT-41138,2026-06-18,Kirkos,Phone,Supply Alert,Routine,Billing Unit,3.98,11.56,3,5,No,Yes
+CT-41139,2026-06-19,Gullele,Web Portal,New Connection,High,Front Desk,2.23,21.06,0,5,No,No
+CT-41140,2026-06-20,Bole,Walk-in,New Connection,Urgent,Rapid Response,6.66,31.72,3,4,No,Yes
+CT-41141,2026-06-21,Akaki,Mobile App,New Connection,Routine,Billing Unit,8.51,74.03,0,4,Yes,Yes
+CT-41142,2026-06-22,Yeka,Phone,Water Quality,High,Front Desk,3.31,7.59,2,5,No,Yes
+CT-41143,2026-06-23,Lideta,Web Portal,Water Quality,Urgent,Rapid Response,18.32,54.96,2,3,No,Yes
+CT-41144,2026-06-24,Kirkos,Walk-in,Water Quality,Routine,Billing Unit,7.08,24.79,3,5,No,Yes
+CT-41145,2026-06-25,Kirkos,Phone,Billing Question,High,Front Desk,11.55,24.85,1,3,No,Yes
+CT-41146,2026-06-26,Gullele,Web Portal,Billing Question,Urgent,Rapid Response,14.27,45.43,3,4,No,Yes
+CT-41147,2026-06-27,Bole,Walk-in,Billing Question,Routine,Billing Unit,5.37,23.65,3,3,No,Yes
+CT-41148,2026-06-28,Akaki,Mobile App,Supply Alert,High,Front Desk,4.4,14.69,0,5,No,Yes
+CT-41149,2026-06-29,Yeka,Phone,Supply Alert,Urgent,Rapid Response,14.69,31.27,1,4,No,Yes
+CT-41150,2026-06-30,Lideta,Web Portal,Supply Alert,Routine,Billing Unit,7.7,19.77,2,4,No,Yes
+CT-41151,2026-07-01,Kirkos,Walk-in,New Connection,High,Front Desk,3.17,7.04,0,4,No,Yes
+CT-41152,2026-07-02,Gullele,Mobile App,New Connection,Urgent,Rapid Response,6.64,41.36,2,4,No,Yes
+CT-41153,2026-07-03,Bole,Phone,New Connection,Routine,Billing Unit,7.86,31.85,3,3,No,Yes
+CT-41154,2026-07-04,Akaki,Walk-in,Water Quality,High,Front Desk,2.97,17.83,0,5,Yes,Yes
+CT-41155,2026-07-05,Yeka,Mobile App,Water Quality,Urgent,Rapid Response,13.04,36.6,4,5,No,Yes
+CT-41156,2026-07-06,Lideta,Phone,Billing Question,Routine,Billing Unit,15.31,29.38,1,4,No,Yes
+CT-41157,2026-07-07,Kirkos,Web Portal,Supply Alert,High,Front Desk,2.77,15.72,0,5,No,Yes
+CT-41158,2026-07-08,Gullele,Walk-in,Supply Alert,Urgent,Rapid Response,6.79,27.92,2,3,No,Yes
+CT-41159,2026-07-09,Bole,Mobile App,Supply Alert,Routine,Billing Unit,2.62,25.49,2,5,No,Yes
+CT-41160,2026-07-10,Akaki,Phone,New Connection,High,Front Desk,12.84,34.33,1,4,No,Yes
+CT-41161,2026-07-11,Akaki,Web Portal,New Connection,Urgent,Rapid Response,21.14,62.31,1,2,Yes,Yes
+CT-41162,2026-07-12,Yeka,Walk-in,New Connection,Routine,Billing Unit,8.15,21.55,1,4,No,No
+CT-41163,2026-07-13,Lideta,Phone,Water Quality,Routine,Front Desk,17.89,49.83,2,4,No,Yes
+CT-41164,2026-07-14,Kirkos,Web Portal,Water Quality,High,Rapid Response,11.71,43.95,3,4,No,Yes
+CT-41165,2026-07-15,Gullele,Walk-in,Water Quality,Urgent,Billing Unit,5.2,20.95,4,4,No,Yes
+CT-41166,2026-07-16,Bole,Mobile App,Billing Question,Routine,Front Desk,4.38,15.65,2,4,No,Yes
+CT-41167,2026-07-17,Akaki,Phone,Billing Question,High,Rapid Response,10.28,38.55,1,4,No,Yes
+CT-41168,2026-07-18,Yeka,Web Portal,Billing Question,Urgent,Billing Unit,16.31,31.23,2,5,No,Yes
+CT-41169,2026-07-19,Lideta,Walk-in,Supply Alert,Routine,Front Desk,11.61,42.08,3,3,No,Yes
+CT-41170,2026-07-20,Kirkos,Mobile App,Supply Alert,High,Rapid Response,19.39,40.01,0,3,No,Yes
+CT-41171,2026-07-21,Gullele,Phone,Supply Alert,Urgent,Billing Unit,8.44,29.67,1,4,Yes,Yes
+CT-41172,2026-07-22,Bole,Walk-in,New Connection,Routine,Front Desk,0.9,4.73,2,5,No,Yes
+CT-41173,2026-07-23,Akaki,Mobile App,New Connection,High,Rapid Response,6.31,19.3,2,5,No,Yes
+CT-41174,2026-07-24,Yeka,Phone,New Connection,Urgent,Billing Unit,14.56,36.26,3,4,No,Yes
+CT-41175,2026-07-25,Lideta,Web Portal,Water Quality,Routine,Front Desk,9.42,26.11,3,4,No,Yes
+CT-41176,2026-07-26,Kirkos,Walk-in,Water Quality,High,Rapid Response,1.01,11.21,1,5,No,Yes
+CT-41177,2026-07-27,Kirkos,Mobile App,Water Quality,Urgent,Billing Unit,8.22,30.2,3,4,No,Yes
+CT-41178,2026-07-28,Gullele,Phone,Billing Question,Routine,Front Desk,68.69,143.06,1,1,Yes,Yes
+CT-41179,2026-07-29,Bole,Web Portal,Billing Question,High,Rapid Response,23.92,50.63,2,4,No,Yes
+CT-41180,2026-07-30,Akaki,Walk-in,Billing Question,Urgent,Billing Unit,10.62,35.73,2,4,No,Yes
+CT-41181,2026-07-31,Yeka,Phone,Supply Alert,Routine,Front Desk,8.31,26.14,2,5,No,Yes
+CT-41182,2026-08-01,Lideta,Web Portal,Supply Alert,High,Rapid Response,17.75,40.12,1,5,No,Yes
+CT-41183,2026-08-02,Kirkos,Walk-in,Supply Alert,Urgent,Billing Unit,9.18,30.56,3,4,No,Yes
+CT-41184,2026-08-03,Gullele,Mobile App,New Connection,Routine,Front Desk,3.72,18.56,3,2,No,Yes
+CT-41185,2026-08-04,Bole,Phone,New Connection,High,Rapid Response,5.13,12.77,0,4,No,No
+CT-41186,2026-08-05,Akaki,Web Portal,New Connection,Urgent,Billing Unit,13.05,37.88,1,4,No,Yes
+CT-41187,2026-08-06,Yeka,Walk-in,Billing Question,Routine,Front Desk,8.95,18.56,1,4,No,Yes
+CT-41188,2026-08-07,Lideta,Mobile App,Billing Question,High,Rapid Response,8.18,32.69,1,4,Yes,Yes
+CT-41189,2026-08-08,Kirkos,Phone,Billing Question,Urgent,Billing Unit,8.29,24.34,2,5,No,Yes
+CT-41190,2026-08-09,Gullele,Walk-in,Supply Alert,Urgent,Front Desk,5.14,18.92,1,5,No,Yes
+CT-41191,2026-08-10,Bole,Mobile App,Supply Alert,Routine,Rapid Response,2.48,10.44,3,5,No,Yes
+CT-41192,2026-08-11,Akaki,Phone,Supply Alert,High,Billing Unit,4.81,14.17,2,5,No,Yes
+CT-41193,2026-08-12,Akaki,Web Portal,New Connection,Urgent,Front Desk,30.77,63.33,3,3,Yes,Yes
+CT-41194,2026-08-13,Yeka,Walk-in,New Connection,Routine,Rapid Response,2.29,16.42,2,4,No,Yes
+CT-41195,2026-08-14,Lideta,Mobile App,New Connection,High,Billing Unit,10.54,21.69,0,5,No,Yes
+CT-41196,2026-08-15,Kirkos,Phone,Water Quality,Urgent,Front Desk,8.84,32.47,2,3,No,Yes
+CT-41197,2026-08-16,Gullele,Web Portal,Water Quality,Routine,Rapid Response,15.61,35.59,3,5,No,Yes
+CT-41198,2026-08-17,Bole,Walk-in,Water Quality,High,Billing Unit,2.74,27.15,1,4,No,Yes
+CT-41199,2026-08-18,Akaki,Phone,Billing Question,Urgent,Front Desk,13.65,36.75,2,4,No,Yes
+CT-41200,2026-08-19,Yeka,Web Portal,Billing Question,Routine,Rapid Response,8.25,19.47,1,5,No,Yes
+CT-41201,2026-08-20,Lideta,Walk-in,Billing Question,High,Billing Unit,9.33,26.91,5,5,No,Yes
+CT-41202,2026-08-21,Kirkos,Mobile App,Supply Alert,Urgent,Front Desk,15.2,64.7,3,3,Yes,Yes
+CT-41203,2026-08-22,Gullele,Phone,Supply Alert,Routine,Rapid Response,,30.77,1,5,No,Yes
+CT-41204,2026-08-23,Bole,Web Portal,Supply Alert,High,Billing Unit,10.01,23.45,1,5,No,Yes
+CT-41205,2026-08-24,Akaki,Walk-in,New Connection,Urgent,Front Desk,9.37,32.72,3,5,Yes,Yes
+CT-41206,2026-08-25,Yeka,Mobile App,New Connection,Routine,Rapid Response,7.43,15.35,1,5,No,Yes
+CT-41207,2026-08-26,Lideta,Phone,New Connection,High,Billing Unit,2.6,7.41,1,5,No,Yes
+CT-41208,2026-08-27,Kirkos,Walk-in,Water Quality,Urgent,Front Desk,7.31,21.52,1,5,No,No
+CT-41209,2026-08-28,Kirkos,Mobile App,Water Quality,Routine,Rapid Response,11.39,30.75,0,4,No,Yes
+CT-41210,2026-08-29,Gullele,Phone,Water Quality,High,Billing Unit,5.3,20.58,0,4,No,Yes
+CT-41211,2026-08-30,Bole,Web Portal,Billing Question,Urgent,Front Desk,25.43,71.98,1,3,Yes,Yes
+CT-41212,2026-08-31,Akaki,Walk-in,Billing Question,Routine,Rapid Response,10.17,23.7,1,5,No,Yes
+CT-41213,2026-09-01,Yeka,Mobile App,Billing Question,High,Billing Unit,2.05,5.15,1,5,No,Yes
+CT-41214,2026-09-02,Lideta,Phone,Supply Alert,Urgent,Front Desk,10.88,28.93,2,4,No,Yes
+CT-41215,2026-09-03,Kirkos,Web Portal,Supply Alert,Routine,Rapid Response,7.54,17.29,0,5,No,Yes
+CT-41216,2026-09-04,Gullele,Walk-in,Supply Alert,High,Billing Unit,3.04,30.32,1,4,No,Yes
+CT-41217,2026-09-05,Bole,Phone,New Connection,High,Front Desk,4.45,16.03,1,5,No,Yes
+CT-41218,2026-09-06,Akaki,Web Portal,Water Quality,Urgent,Rapid Response,12.16,29.61,1,5,No,Yes
+CT-41219,2026-09-07,Yeka,Walk-in,Water Quality,Routine,Billing Unit,0.45,17.3,2,5,No,Yes
+CT-41220,2026-09-08,Lideta,Mobile App,Billing Question,High,Front Desk,12.85,32.42,1,4,No,Yes
+CT-41221,2026-09-09,Kirkos,Phone,Billing Question,Urgent,Rapid Response,8.55,20.32,3,5,No,Yes
+CT-41222,2026-09-10,Gullele,Web Portal,Billing Question,Routine,Billing Unit,1.27,12.97,0,5,Yes,Yes
+CT-41223,2026-09-11,Bole,Walk-in,Supply Alert,High,Front Desk,3.08,25.42,0,4,No,Yes
+CT-41224,2026-09-12,Akaki,Mobile App,Supply Alert,Urgent,Rapid Response,8.07,24.42,3,4,No,Yes
+CT-41225,2026-09-13,Akaki,Phone,Supply Alert,Routine,Billing Unit,4.47,14.55,1,5,No,Yes
+CT-41226,2026-09-14,Yeka,Walk-in,New Connection,High,Front Desk,3.22,19.46,1,4,No,Yes
+CT-41227,2026-09-15,Lideta,Mobile App,New Connection,Urgent,Rapid Response,17.54,36.65,3,4,No,Yes
+CT-41228,2026-09-16,Kirkos,Phone,New Connection,Routine,Billing Unit,2.71,25.93,3,5,No,Yes
+CT-41229,2026-09-17,Gullele,Web Portal,Water Quality,High,Front Desk,4.77,22,1,5,No,Yes
+CT-41230,2026-09-18,Bole,Walk-in,Water Quality,Urgent,Rapid Response,7.07,21.03,2,5,No,Yes
+CT-41231,2026-09-19,Akaki,Mobile App,Water Quality,Routine,Billing Unit,8.13,22.56,2,4,No,No
+CT-41232,2026-09-20,Yeka,Phone,Billing Question,High,Front Desk,6.61,16.22,5,5,No,Yes
+CT-41233,2026-09-21,Lideta,Web Portal,Billing Question,Urgent,Rapid Response,24.09,48.75,2,4,No,Yes
+CT-41234,2026-09-22,Kirkos,Walk-in,Billing Question,Routine,Billing Unit,0.85,28.07,1,4,No,Yes
+CT-41235,2026-09-23,Gullele,Phone,Supply Alert,High,Front Desk,15.72,52.23,3,4,No,Yes
+CT-41236,2026-09-24,Bole,Web Portal,Supply Alert,Urgent,Rapid Response,11.78,25,3,4,No,Yes
+CT-41237,2026-09-25,Akaki,Walk-in,Supply Alert,Routine,Billing Unit,71.55,136.73,1,1,Yes,Yes
+CT-41238,2026-09-26,Yeka,Mobile App,New Connection,High,Front Desk,9.85,25.59,1,4,No,Yes
+CT-41239,2026-09-27,Lideta,Phone,New Connection,Urgent,Rapid Response,11.98,34.23,2,4,Yes,Yes
+CT-41240,2026-09-28,Kirkos,Web Portal,New Connection,Routine,Billing Unit,26.86,54.7,0,5,No,Yes
+CT-41241,2026-09-29,Kirkos,Walk-in,Water Quality,High,Front Desk,4.4,19.73,3,4,No,Yes
+CT-41242,2026-09-30,Gullele,Mobile App,Water Quality,Urgent,Rapid Response,16.88,45.07,1,4,No,Yes
+CT-41243,2026-10-01,Bole,Phone,Water Quality,Routine,Billing Unit,4,25.52,0,5,No,Yes
+CT-41244,2026-10-02,Akaki,Walk-in,Billing Question,Routine,Front Desk,4.18,19.53,1,5,No,Yes
+CT-41245,2026-10-03,Yeka,Mobile App,Billing Question,High,Rapid Response,7.94,20.96,2,5,No,Yes
+CT-41246,2026-10-04,Lideta,Phone,Billing Question,Urgent,Billing Unit,11.62,32.65,1,5,No,Yes
+CT-41247,2026-10-05,Kirkos,Web Portal,Supply Alert,Routine,Front Desk,4.64,35.55,0,4,No,Yes
+CT-41248,2026-10-06,Gullele,Walk-in,Supply Alert,High,Rapid Response,1.73,16.53,1,5,No,Yes
+CT-41249,2026-10-07,Bole,Mobile App,New Connection,Urgent,Billing Unit,8.53,32.24,2,4,No,Yes
+CT-41250,2026-10-08,Akaki,Phone,Water Quality,Routine,Front Desk,9.32,25.06,1,5,No,Yes
+CT-41251,2026-02-01,Yeka,Web Portal,Water Quality,High,Rapid Response,10.71,30.86,0,3,No,Yes
+CT-41252,2026-02-02,Lideta,Walk-in,Water Quality,Urgent,Billing Unit,7.05,41.45,3,4,No,Yes
+CT-41253,2026-02-03,Kirkos,Phone,Billing Question,Routine,Front Desk,8.47,22.01,0,4,No,Yes
+CT-41254,2026-02-04,Gullele,Web Portal,Billing Question,High,Rapid Response,9.51,18.07,1,5,No,No
+CT-41255,2026-02-05,Bole,Walk-in,Billing Question,Urgent,Billing Unit,14.7,49.11,3,3,No,Yes
+CT-41256,2026-02-06,Akaki,Mobile App,Supply Alert,Routine,Front Desk,5.7,14.82,1,5,Yes,Yes
+CT-41257,2026-02-07,Akaki,Phone,Supply Alert,High,Rapid Response,4.09,40.05,0,3,No,Yes
+CT-41258,2026-02-08,Yeka,Web Portal,Supply Alert,Urgent,Billing Unit,7.3,38.6,2,4,No,Yes
+CT-41259,2026-02-09,Lideta,Walk-in,New Connection,Routine,Front Desk,5.17,10.72,2,4,No,Yes
+CT-41260,2026-02-10,Kirkos,Mobile App,New Connection,High,Rapid Response,24.24,45.94,1,3,No,Yes
+CT-41261,2026-02-11,Gullele,Phone,New Connection,Urgent,Billing Unit,6.28,38.44,1,5,No,Yes
+CT-41262,2026-02-12,Bole,Walk-in,Water Quality,Routine,Front Desk,2.99,10.6,1,5,No,Yes
+CT-41263,2026-02-13,Akaki,Mobile App,Water Quality,High,Rapid Response,12.51,27.15,2,4,No,Yes
+CT-41264,2026-02-14,Yeka,Phone,Water Quality,Urgent,Billing Unit,11,51.75,2,4,No,Yes
+CT-41265,2026-02-15,Lideta,Web Portal,Billing Question,Routine,Front Desk,10.19,28.95,2,5,No,Yes
+CT-41266,2026-02-16,Kirkos,Walk-in,Billing Question,High,Rapid Response,10.89,21.12,4,5,No,Yes
+CT-41267,2026-02-17,Gullele,Mobile App,Billing Question,Urgent,Billing Unit,9.97,24.98,2,4,No,Yes
+CT-41268,2026-02-18,Bole,Phone,Supply Alert,Routine,Front Desk,7.31,21.03,1,5,No,Yes
+CT-41269,2026-02-19,Akaki,Web Portal,Supply Alert,High,Rapid Response,7.32,14.79,0,5,No,Yes
+CT-41270,2026-02-20,Yeka,Walk-in,Supply Alert,Urgent,Billing Unit,10.47,26.68,2,4,No,Yes
+CT-41271,2026-02-21,Lideta,Phone,New Connection,Urgent,Front Desk,8.14,16.4,3,5,No,Yes
+CT-41272,2026-02-22,Kirkos,Web Portal,New Connection,Routine,Rapid Response,4.27,24.79,3,5,No,Yes
+CT-41273,2026-02-23,Kirkos,Walk-in,New Connection,High,Billing Unit,2.54,11.44,2,4,Yes,Yes
+CT-41274,2026-02-24,Gullele,Mobile App,Water Quality,Urgent,Front Desk,6.7,22.42,1,4,No,Yes
+CT-41275,2026-02-25,Bole,Phone,Water Quality,Routine,Rapid Response,3.43,21.96,2,5,No,Yes
+CT-41276,2026-02-26,Akaki,Web Portal,Water Quality,High,Billing Unit,5.95,31.87,0,4,No,Yes
+CT-41277,2026-02-27,Yeka,Walk-in,Billing Question,Urgent,Front Desk,7.6,44.18,1,3,No,No
+CT-41278,2026-02-28,Lideta,Mobile App,Billing Question,Routine,Rapid Response,2.79,10.33,0,5,No,Yes
+CT-41279,2026-03-01,Kirkos,Phone,Billing Question,High,Billing Unit,3.41,9.76,3,5,No,Yes
+CT-41280,2026-03-02,Gullele,Walk-in,New Connection,Urgent,Front Desk,5.8,18.67,4,5,No,Yes
+CT-41281,2026-03-03,Bole,Mobile App,New Connection,Routine,Rapid Response,10.7,44.71,2,3,No,Yes
+CT-41282,2026-03-04,Akaki,Phone,New Connection,High,Billing Unit,4.77,20.02,1,3,No,Yes
+CT-41283,2026-03-05,Yeka,Web Portal,Water Quality,Urgent,Front Desk,11.48,22.29,2,3,No,Yes
+CT-41284,2026-03-06,Lideta,Walk-in,Water Quality,Routine,Rapid Response,6.54,27.06,0,5,No,Yes
+CT-41285,2026-03-07,Kirkos,Mobile App,Water Quality,High,Billing Unit,4.91,27.8,2,4,No,Yes
+CT-41286,2026-03-08,Gullele,Phone,Billing Question,Urgent,Front Desk,6.41,20.93,4,4,No,Yes
+CT-41287,2026-03-09,Bole,Web Portal,Billing Question,Routine,Rapid Response,9.81,46.84,2,4,No,Yes
+CT-41288,2026-03-10,Akaki,Walk-in,Billing Question,High,Billing Unit,3.16,8.15,0,5,No,Yes
+CT-41289,2026-03-11,Akaki,Phone,Supply Alert,Urgent,Front Desk,9.52,26.3,3,4,No,Yes
+CT-41290,2026-03-12,Yeka,Web Portal,Supply Alert,Routine,Rapid Response,5.62,21.11,1,5,Yes,Yes
+CT-41291,2026-03-13,Lideta,Walk-in,Supply Alert,High,Billing Unit,13.23,27.6,0,3,No,Yes
+CT-41292,2026-03-14,Kirkos,Mobile App,New Connection,Urgent,Front Desk,12.1,40.02,2,4,No,Yes
+CT-41293,2026-03-15,Gullele,Phone,New Connection,Routine,Rapid Response,6.67,26.65,0,4,No,Yes
+CT-41294,2026-03-16,Bole,Web Portal,New Connection,High,Billing Unit,16.31,31.77,2,5,No,Yes
+CT-41295,2026-03-17,Akaki,Walk-in,Water Quality,Urgent,Front Desk,7.32,23.06,3,4,No,Yes
+CT-41296,2026-03-18,Yeka,Mobile App,Water Quality,Routine,Rapid Response,78.7,152.24,1,1,Yes,Yes
+CT-41297,2026-03-19,Lideta,Phone,Water Quality,High,Billing Unit,4.62,30.11,2,5,No,Yes
+CT-41298,2026-03-20,Kirkos,Walk-in,Billing Question,High,Front Desk,3.05,18.75,1,5,No,Yes
+CT-41299,2026-03-21,Gullele,Mobile App,Billing Question,Urgent,Rapid Response,9.13,25.13,2,4,No,Yes
+CT-41300,2026-03-22,Bole,Phone,Billing Question,Routine,Billing Unit,5.32,19.74,1,4,No,No
+CT-41301,2026-03-23,Akaki,Web Portal,Supply Alert,High,Front Desk,0.73,19.04,1,4,No,Yes
+CT-41302,2026-03-24,Yeka,Walk-in,Supply Alert,Urgent,Rapid Response,7.14,30.06,1,4,No,Yes
+CT-41303,2026-03-25,Lideta,Mobile App,Supply Alert,Routine,Billing Unit,6.15,26.7,1,5,No,Yes
+CT-41304,2026-03-26,Kirkos,Phone,New Connection,High,Front Desk,,30.69,4,5,No,Yes
+CT-41305,2026-03-27,Kirkos,Web Portal,New Connection,Urgent,Rapid Response,19.89,51.18,4,4,No,Yes
+CT-41306,2026-03-28,Gullele,Walk-in,New Connection,Routine,Billing Unit,6.22,26.97,1,5,No,Yes
+CT-41307,2026-03-29,Bole,Phone,Water Quality,High,Front Desk,1.52,14.59,1,5,Yes,Yes
+CT-41308,2026-03-30,Akaki,Web Portal,Water Quality,Urgent,Rapid Response,14.98,28.34,1,4,No,Yes
+CT-41309,2026-03-31,Yeka,Walk-in,Water Quality,Routine,Billing Unit,4.47,12.77,1,4,No,Yes
+CT-41310,2026-04-01,Lideta,Mobile App,Billing Question,High,Front Desk,6.26,17.36,0,5,No,Yes
+CT-41311,2026-04-02,Kirkos,Phone,Supply Alert,Urgent,Rapid Response,18.87,41.39,2,3,No,Yes
+CT-41312,2026-04-03,Gullele,Web Portal,Supply Alert,Routine,Billing Unit,3.32,13.53,0,4,No,Yes
+CT-41313,2026-04-04,Bole,Walk-in,New Connection,High,Front Desk,4.32,26.1,0,5,No,Yes
+CT-41314,2026-04-05,Akaki,Mobile App,New Connection,Urgent,Rapid Response,8.99,35.03,3,5,No,Yes
+CT-41315,2026-04-06,Yeka,Phone,New Connection,Routine,Billing Unit,6.19,22.95,2,5,No,Yes
+CT-41316,2026-04-07,Lideta,Walk-in,Water Quality,High,Front Desk,5.64,18.81,1,5,No,Yes
+CT-41317,2026-04-08,Kirkos,Mobile App,Water Quality,Urgent,Rapid Response,12.27,58.25,1,2,Yes,Yes
+CT-41318,2026-04-09,Gullele,Phone,Water Quality,Routine,Billing Unit,7.97,23.34,2,5,No,Yes
+CT-41319,2026-04-10,Bole,Web Portal,Billing Question,High,Front Desk,3.89,22.45,1,3,No,Yes
+CT-41320,2026-04-11,Akaki,Walk-in,Billing Question,Urgent,Rapid Response,8.94,22.47,3,5,No,Yes
+CT-41321,2026-04-12,Akaki,Mobile App,Billing Question,Routine,Billing Unit,8.32,18.68,1,4,No,Yes
+CT-41322,2026-04-13,Yeka,Phone,Supply Alert,High,Front Desk,6.66,22.14,2,4,No,Yes
+CT-41323,2026-04-14,Lideta,Web Portal,Supply Alert,Urgent,Rapid Response,7.78,17.85,1,5,No,No
+CT-41324,2026-04-15,Kirkos,Walk-in,Supply Alert,Routine,Billing Unit,6.93,52.32,2,4,Yes,Yes
+CT-41325,2026-04-16,Gullele,Phone,New Connection,Routine,Front Desk,2.09,11.29,0,5,No,Yes
+CT-41326,2026-04-17,Bole,Web Portal,New Connection,High,Rapid Response,9.98,55.59,1,3,Yes,Yes
+CT-41327,2026-04-18,Akaki,Walk-in,New Connection,Urgent,Billing Unit,14.98,45.48,3,3,No,Yes
+CT-41328,2026-04-19,Yeka,Mobile App,Water Quality,Routine,Front Desk,12.54,29.48,3,5,No,Yes
+CT-41329,2026-04-20,Lideta,Phone,Water Quality,High,Rapid Response,6.26,20.61,2,5,No,Yes
+CT-41330,2026-04-21,Kirkos,Web Portal,Water Quality,Urgent,Billing Unit,8.23,18.34,3,4,No,Yes
+CT-41331,2026-04-22,Gullele,Walk-in,Billing Question,Routine,Front Desk,3.33,22.83,0,4,No,Yes
+CT-41332,2026-04-23,Bole,Mobile App,Billing Question,High,Rapid Response,3.07,23.65,0,5,No,Yes
+CT-41333,2026-04-24,Akaki,Phone,Billing Question,Urgent,Billing Unit,8.22,22.86,4,3,No,Yes
+CT-41334,2026-04-25,Yeka,Walk-in,Supply Alert,Routine,Front Desk,3.84,12.54,0,5,No,Yes
+CT-41335,2026-04-26,Lideta,Mobile App,Supply Alert,High,Rapid Response,5.5,20.67,4,5,No,Yes
+CT-41336,2026-04-27,Kirkos,Phone,Supply Alert,Urgent,Billing Unit,10.83,31.63,1,4,No,Yes
+CT-41337,2026-04-28,Kirkos,Web Portal,New Connection,Routine,Front Desk,15.75,40.96,2,4,No,Yes
+CT-41338,2026-04-29,Gullele,Walk-in,New Connection,High,Rapid Response,4.32,12.22,3,4,No,Yes
+CT-41339,2026-04-30,Bole,Mobile App,New Connection,Urgent,Billing Unit,11.79,25.96,2,5,No,Yes
+CT-41340,2026-05-01,Akaki,Phone,Water Quality,Routine,Front Desk,7.74,16.51,3,5,No,Yes
+CT-41341,2026-05-02,Yeka,Web Portal,Water Quality,High,Rapid Response,3.99,29.29,2,5,Yes,Yes
+CT-41342,2026-05-03,Lideta,Walk-in,Billing Question,Urgent,Billing Unit,8.82,27.65,1,4,No,Yes
+CT-41343,2026-05-04,Kirkos,Phone,Supply Alert,Routine,Front Desk,8.13,23.04,1,5,No,Yes
+CT-41344,2026-05-05,Gullele,Web Portal,Supply Alert,High,Rapid Response,12.57,32.75,3,4,No,Yes
+CT-41345,2026-05-06,Bole,Walk-in,Supply Alert,Urgent,Billing Unit,8.33,18.62,2,5,No,Yes
+CT-41346,2026-05-07,Akaki,Mobile App,New Connection,Routine,Front Desk,7.32,19.44,0,3,No,No
+CT-41347,2026-05-08,Yeka,Phone,New Connection,High,Rapid Response,6.47,18.26,2,4,No,Yes
+CT-41348,2026-05-09,Lideta,Web Portal,New Connection,Urgent,Billing Unit,8.64,46.88,1,3,No,Yes
+CT-41349,2026-05-10,Kirkos,Walk-in,Water Quality,Routine,Front Desk,2.26,12.51,2,5,No,Yes
+CT-41350,2026-05-11,Gullele,Mobile App,Water Quality,High,Rapid Response,7.7,31.15,1,5,No,Yes
+CT-41351,2026-05-12,Bole,Phone,Water Quality,Urgent,Billing Unit,14.01,29.18,2,5,No,Yes
+CT-41352,2026-05-13,Akaki,Walk-in,Billing Question,Urgent,Front Desk,14.64,42.62,3,5,No,Yes
+CT-41353,2026-05-14,Akaki,Mobile App,Billing Question,Routine,Rapid Response,7.93,46.34,1,3,No,Yes
+CT-41354,2026-05-15,Yeka,Phone,Billing Question,High,Billing Unit,13.92,37.03,1,4,No,Yes
+CT-41355,2026-05-16,Lideta,Web Portal,Supply Alert,Urgent,Front Desk,78.79,165.92,1,1,Yes,Yes
+CT-41356,2026-05-17,Kirkos,Walk-in,Supply Alert,Routine,Rapid Response,6.45,30.1,2,4,No,Yes
+CT-41357,2026-05-18,Gullele,Mobile App,Supply Alert,High,Billing Unit,9.33,46.95,2,4,No,Yes
+CT-41358,2026-05-19,Bole,Phone,New Connection,Urgent,Front Desk,7.8,21.4,1,5,Yes,Yes
+CT-41359,2026-05-20,Akaki,Web Portal,New Connection,Routine,Rapid Response,7.87,25.26,1,4,No,Yes
+CT-41360,2026-05-21,Yeka,Walk-in,New Connection,High,Billing Unit,1.97,20.81,0,5,No,Yes
+CT-41361,2026-05-22,Lideta,Phone,Water Quality,Urgent,Front Desk,21.9,52.1,3,2,No,Yes
+CT-41362,2026-05-23,Kirkos,Web Portal,Water Quality,Routine,Rapid Response,7.81,28.43,2,4,No,Yes
+CT-41363,2026-05-24,Gullele,Walk-in,Water Quality,High,Billing Unit,8.45,28.25,1,4,No,Yes
+CT-41364,2026-05-25,Bole,Mobile App,Billing Question,Urgent,Front Desk,17.26,38.78,1,4,No,Yes
+CT-41365,2026-05-26,Akaki,Phone,Billing Question,Routine,Rapid Response,9.42,44.97,3,5,No,Yes
+CT-41366,2026-05-27,Yeka,Web Portal,Billing Question,High,Billing Unit,6.76,16.72,0,5,No,Yes
+CT-41367,2026-05-28,Lideta,Walk-in,Supply Alert,Urgent,Front Desk,6.69,27.04,1,5,No,Yes
+CT-41368,2026-05-29,Kirkos,Mobile App,Supply Alert,Routine,Rapid Response,17.29,44.14,0,3,No,Yes
+CT-41369,2026-05-30,Kirkos,Phone,Supply Alert,High,Billing Unit,5.91,25.22,0,4,No,No
+CT-41370,2026-05-31,Gullele,Walk-in,New Connection,Urgent,Front Desk,9.94,23.9,1,3,No,Yes
+CT-41371,2026-06-01,Bole,Mobile App,New Connection,Routine,Rapid Response,13.83,40,1,5,No,Yes
+CT-41372,2026-06-02,Akaki,Phone,New Connection,High,Billing Unit,6.66,16.77,1,5,No,Yes
+CT-41373,2026-06-03,Yeka,Web Portal,Billing Question,Urgent,Front Desk,23.95,65.38,1,3,Yes,Yes
+CT-41374,2026-06-04,Lideta,Walk-in,Billing Question,Routine,Rapid Response,8.83,38.42,2,4,No,Yes
+CT-41375,2026-06-05,Kirkos,Mobile App,Billing Question,High,Billing Unit,5.21,25.11,1,5,Yes,Yes
+CT-41376,2026-06-06,Gullele,Phone,Supply Alert,Urgent,Front Desk,13.44,29.73,1,4,No,Yes
+CT-41377,2026-06-07,Bole,Web Portal,Supply Alert,Routine,Rapid Response,1.62,7.09,2,5,No,Yes
+CT-41378,2026-06-08,Akaki,Walk-in,Supply Alert,High,Billing Unit,6.35,14.15,1,5,No,Yes
+CT-41379,2026-06-09,Yeka,Phone,New Connection,High,Front Desk,2.72,26.32,1,4,No,Yes
+CT-41380,2026-06-10,Lideta,Web Portal,New Connection,Urgent,Rapid Response,10.68,42.18,8,3,No,Yes
+CT-41381,2026-06-11,Kirkos,Walk-in,New Connection,Routine,Billing Unit,7.64,33.89,2,5,No,Yes
+CT-41382,2026-06-12,Gullele,Mobile App,Water Quality,High,Front Desk,6.49,16.52,5,4,No,Yes
+CT-41383,2026-06-13,Bole,Phone,Water Quality,Urgent,Rapid Response,13.41,45.43,1,3,No,Yes
+CT-41384,2026-06-14,Akaki,Web Portal,Water Quality,Routine,Billing Unit,10.55,28.79,1,4,No,Yes
+CT-41385,2026-06-15,Akaki,Walk-in,Billing Question,High,Front Desk,4.72,19.33,1,4,No,Yes
+CT-41386,2026-06-16,Yeka,Mobile App,Billing Question,Urgent,Rapid Response,16.44,41.93,3,4,No,Yes
+CT-41387,2026-06-17,Lideta,Phone,Billing Question,Routine,Billing Unit,7.42,23.62,0,5,No,Yes
+CT-41388,2026-06-18,Kirkos,Walk-in,Supply Alert,High,Front Desk,1.17,8.47,1,5,No,Yes
+CT-41389,2026-06-19,Gullele,Mobile App,Supply Alert,Urgent,Rapid Response,9.48,37.86,3,4,No,Yes
+CT-41390,2026-06-20,Bole,Phone,Supply Alert,Routine,Billing Unit,14.08,26.67,0,5,No,Yes
+CT-41391,2026-06-21,Akaki,Web Portal,New Connection,High,Front Desk,18.29,48.96,2,4,No,Yes
+CT-41392,2026-06-22,Yeka,Walk-in,New Connection,Urgent,Rapid Response,6.59,18.94,3,5,Yes,No
+CT-41393,2026-06-23,Lideta,Mobile App,New Connection,Routine,Billing Unit,4.14,31.55,2,4,No,Yes
+CT-41394,2026-06-24,Kirkos,Phone,Water Quality,High,Front Desk,6.42,31.13,1,4,No,Yes
+CT-41395,2026-06-25,Gullele,Web Portal,Water Quality,Urgent,Rapid Response,13.83,44.46,2,3,No,Yes
+CT-41396,2026-06-26,Bole,Walk-in,Water Quality,Routine,Billing Unit,6.96,48.33,4,3,No,Yes
+CT-41397,2026-06-27,Akaki,Phone,Billing Question,High,Front Desk,3.02,9.91,0,5,No,Yes
+CT-41398,2026-06-28,Yeka,Web Portal,Billing Question,Urgent,Rapid Response,13.61,52.54,3,2,No,Yes
+CT-41399,2026-06-29,Lideta,Walk-in,Billing Question,Routine,Billing Unit,5.42,15.98,1,5,No,Yes
+CT-41400,2026-06-30,Kirkos,Mobile App,Supply Alert,High,Front Desk,10.7,24.81,0,3,No,Yes
+CT-41401,2026-07-01,Kirkos,Phone,Supply Alert,Urgent,Rapid Response,11.26,33.41,3,4,No,Yes
+CT-41402,2026-07-02,Gullele,Web Portal,Supply Alert,Routine,Billing Unit,6.84,18.46,1,5,No,Yes
+CT-41403,2026-07-03,Bole,Walk-in,New Connection,High,Front Desk,1.38,8.18,0,4,No,Yes
+CT-41404,2026-07-04,Akaki,Mobile App,Water Quality,Urgent,Rapid Response,23.27,56.03,3,4,Yes,Yes
+CT-41405,2026-07-05,Yeka,Phone,Water Quality,Routine,Billing Unit,,23.39,1,5,No,Yes
+CT-41406,2026-07-06,Lideta,Walk-in,Billing Question,Routine,Front Desk,1.42,7.75,3,5,No,Yes
+CT-41407,2026-07-07,Kirkos,Mobile App,Billing Question,High,Rapid Response,4.83,19.77,3,5,No,Yes
+CT-41408,2026-07-08,Gullele,Phone,Billing Question,Urgent,Billing Unit,8,20.33,2,5,No,Yes
+CT-41409,2026-07-09,Bole,Web Portal,Supply Alert,Routine,Front Desk,5.19,19.26,0,4,Yes,Yes
+CT-41410,2026-07-10,Akaki,Walk-in,Supply Alert,High,Rapid Response,3.94,13.25,0,3,No,Yes
+CT-41411,2026-07-11,Yeka,Mobile App,Supply Alert,Urgent,Billing Unit,6.52,35.68,2,4,No,Yes
+CT-41412,2026-07-12,Lideta,Phone,New Connection,Routine,Front Desk,7.26,21.13,0,5,No,Yes
+CT-41413,2026-07-13,Kirkos,Web Portal,New Connection,High,Rapid Response,19.77,51.15,3,4,No,Yes
+CT-41414,2026-07-14,Gullele,Walk-in,New Connection,Urgent,Billing Unit,82.88,155.31,1,1,Yes,Yes
+CT-41415,2026-07-15,Bole,Phone,Water Quality,Routine,Front Desk,9.04,21.47,1,5,No,No
+CT-41416,2026-07-16,Akaki,Web Portal,Water Quality,High,Rapid Response,15.7,39.64,2,4,No,Yes
+CT-41417,2026-07-17,Akaki,Walk-in,Water Quality,Urgent,Billing Unit,5.55,29.68,2,5,No,Yes
+CT-41418,2026-07-18,Yeka,Mobile App,Billing Question,Routine,Front Desk,3.93,15.19,1,5,No,Yes
+CT-41419,2026-07-19,Lideta,Phone,Billing Question,High,Rapid Response,1.87,50.74,3,3,No,Yes
+CT-41420,2026-07-20,Kirkos,Web Portal,Billing Question,Urgent,Billing Unit,10.39,36.47,1,4,No,Yes
+CT-41421,2026-07-21,Gullele,Walk-in,Supply Alert,Routine,Front Desk,2.21,7.76,1,5,No,Yes
+CT-41422,2026-07-22,Bole,Mobile App,Supply Alert,High,Rapid Response,2.11,21.12,4,5,No,Yes
+CT-41423,2026-07-23,Akaki,Phone,Supply Alert,Urgent,Billing Unit,10.88,33.24,4,4,No,Yes
+CT-41424,2026-07-24,Yeka,Walk-in,New Connection,Routine,Front Desk,3.92,17.36,1,5,No,Yes
+CT-41425,2026-07-25,Lideta,Mobile App,New Connection,High,Rapid Response,10.97,24.2,2,4,No,Yes
+CT-41426,2026-07-26,Kirkos,Phone,New Connection,Urgent,Billing Unit,6.6,23.85,1,5,Yes,Yes
+CT-41427,2026-07-27,Gullele,Web Portal,Water Quality,Routine,Front Desk,2.26,17.84,1,5,No,Yes
+CT-41428,2026-07-28,Bole,Walk-in,Water Quality,High,Rapid Response,4.14,16.03,1,4,No,Yes
+CT-41429,2026-07-29,Akaki,Mobile App,Water Quality,Urgent,Billing Unit,12.39,45.42,3,4,No,Yes
+CT-41430,2026-07-30,Yeka,Phone,Billing Question,Routine,Front Desk,3.35,11.39,2,5,No,Yes
+CT-41431,2026-07-31,Lideta,Web Portal,Billing Question,High,Rapid Response,8.67,53.12,1,4,No,Yes
+CT-41432,2026-08-01,Kirkos,Walk-in,Billing Question,Urgent,Billing Unit,11.88,31.05,2,5,No,Yes
+CT-41433,2026-08-02,Kirkos,Phone,Supply Alert,Urgent,Front Desk,12.68,31.73,2,4,No,Yes
+CT-41434,2026-08-03,Gullele,Web Portal,Supply Alert,Routine,Rapid Response,21.78,55.37,1,4,Yes,Yes
+CT-41435,2026-08-04,Bole,Walk-in,New Connection,High,Billing Unit,1.69,5.5,1,5,No,Yes
+CT-41436,2026-08-05,Akaki,Mobile App,Water Quality,Urgent,Front Desk,7.6,26.65,4,4,No,Yes
+CT-41437,2026-08-06,Yeka,Phone,Water Quality,Routine,Rapid Response,1.2,3.39,0,5,No,Yes
+CT-41438,2026-08-07,Lideta,Web Portal,Water Quality,High,Billing Unit,16.41,35.91,1,4,No,No
+CT-41439,2026-08-08,Kirkos,Walk-in,Billing Question,Urgent,Front Desk,7.18,39.69,1,4,No,Yes
+CT-41440,2026-08-09,Gullele,Mobile App,Billing Question,Routine,Rapid Response,14.3,36.78,0,4,No,Yes
+CT-41441,2026-08-10,Bole,Phone,Billing Question,High,Billing Unit,6.22,32.82,1,4,No,Yes
+CT-41442,2026-08-11,Akaki,Walk-in,Supply Alert,Urgent,Front Desk,9.48,21.53,1,5,No,Yes
+CT-41443,2026-08-12,Yeka,Mobile App,Supply Alert,Routine,Rapid Response,6.87,18.45,2,4,Yes,Yes
+CT-41444,2026-08-13,Lideta,Phone,Supply Alert,High,Billing Unit,12.38,31.31,1,4,No,Yes
+CT-41445,2026-08-14,Kirkos,Web Portal,New Connection,Urgent,Front Desk,21.8,58.01,2,3,Yes,Yes
+CT-41446,2026-08-15,Gullele,Walk-in,New Connection,Routine,Rapid Response,5.93,17.75,2,5,No,Yes
+CT-41447,2026-08-16,Bole,Mobile App,New Connection,High,Billing Unit,16.98,42.43,4,4,No,Yes
+CT-41448,2026-08-17,Akaki,Phone,Water Quality,Urgent,Front Desk,9.49,23.94,2,5,No,Yes
+CT-41449,2026-08-18,Akaki,Web Portal,Water Quality,Routine,Rapid Response,7.99,21.1,3,5,No,Yes
+CT-41450,2026-08-19,Yeka,Walk-in,Water Quality,High,Billing Unit,3.08,15.62,0,5,No,Yes
+CT-41451,2026-08-20,Lideta,Phone,Billing Question,Urgent,Front Desk,18.02,40.82,4,4,No,Yes
+CT-41452,2026-08-21,Kirkos,Web Portal,Billing Question,Routine,Rapid Response,10.62,49.79,1,3,No,Yes
+CT-41453,2026-08-22,Gullele,Walk-in,Billing Question,High,Billing Unit,4.95,16.08,2,4,No,Yes
+CT-41454,2026-08-23,Bole,Mobile App,Supply Alert,Urgent,Front Desk,11.48,31.47,2,3,No,Yes
+CT-41455,2026-08-24,Akaki,Phone,Supply Alert,Routine,Rapid Response,2.12,28.41,1,5,No,Yes
+CT-41456,2026-08-25,Yeka,Web Portal,Supply Alert,High,Billing Unit,31.72,79.85,0,2,Yes,Yes
+CT-41457,2026-08-26,Lideta,Walk-in,New Connection,Urgent,Front Desk,7,24.23,2,4,No,Yes
+CT-41458,2026-08-27,Kirkos,Mobile App,New Connection,Routine,Rapid Response,3.65,12.72,3,5,No,Yes
+CT-41459,2026-08-28,Gullele,Phone,New Connection,High,Billing Unit,3.38,21.57,2,4,No,Yes
+CT-41460,2026-08-29,Bole,Walk-in,Water Quality,High,Front Desk,2.09,14.98,1,4,Yes,Yes
+CT-41461,2026-08-30,Akaki,Mobile App,Water Quality,Urgent,Rapid Response,16.1,57.53,1,3,Yes,No
+CT-41462,2026-08-31,Yeka,Phone,Water Quality,Routine,Billing Unit,3.88,18.91,1,4,No,Yes
+CT-41463,2026-09-01,Lideta,Web Portal,Billing Question,High,Front Desk,15.23,56.79,1,3,Yes,Yes
+CT-41464,2026-09-02,Kirkos,Walk-in,Billing Question,Urgent,Rapid Response,13.2,32.31,2,5,No,Yes
+CT-41465,2026-09-03,Kirkos,Mobile App,Billing Question,Routine,Billing Unit,4.29,16.95,0,5,No,Yes
+CT-41466,2026-09-04,Gullele,Phone,New Connection,High,Front Desk,2.25,8.88,2,5,No,Yes
+CT-41467,2026-09-05,Bole,Web Portal,New Connection,Urgent,Rapid Response,10.08,27.57,1,4,No,Yes
+CT-41468,2026-09-06,Akaki,Walk-in,New Connection,Routine,Billing Unit,5.06,29.95,1,5,No,Yes
+CT-41469,2026-09-07,Yeka,Phone,Water Quality,High,Front Desk,7.38,15.22,3,5,No,Yes
+CT-41470,2026-09-08,Lideta,Web Portal,Water Quality,Urgent,Rapid Response,11.93,38.99,1,4,No,Yes
+CT-41471,2026-09-09,Kirkos,Walk-in,Water Quality,Routine,Billing Unit,5.53,13.21,1,5,No,Yes
+CT-41472,2026-09-10,Gullele,Mobile App,Billing Question,High,Front Desk,8.9,54.81,3,3,No,Yes
+CT-41473,2026-09-11,Bole,Phone,Billing Question,Urgent,Rapid Response,78.42,145.29,2,1,Yes,Yes
+CT-41474,2026-09-12,Akaki,Web Portal,Billing Question,Routine,Billing Unit,7.05,17.25,2,5,No,Yes
+CT-41475,2026-09-13,Yeka,Walk-in,Supply Alert,High,Front Desk,4.59,33.37,1,4,No,Yes
+CT-41476,2026-09-14,Lideta,Mobile App,Supply Alert,Urgent,Rapid Response,10.94,29.67,4,5,No,Yes
+CT-41477,2026-09-15,Kirkos,Phone,Supply Alert,Routine,Billing Unit,4.24,16.42,2,5,Yes,Yes
+CT-41478,2026-09-16,Gullele,Walk-in,New Connection,High,Front Desk,2.04,12.81,0,5,No,Yes
+CT-41479,2026-09-17,Bole,Mobile App,New Connection,Urgent,Rapid Response,18.06,41.03,1,4,No,Yes
+CT-41480,2026-09-18,Akaki,Phone,New Connection,Routine,Billing Unit,4.96,16.98,1,5,No,Yes
+CT-41481,2026-09-19,Akaki,Web Portal,Water Quality,High,Front Desk,9.07,34.93,2,4,No,Yes
+CT-41482,2026-09-20,Yeka,Walk-in,Water Quality,Urgent,Rapid Response,9.69,32.67,2,3,No,Yes
+CT-41483,2026-09-21,Lideta,Mobile App,Water Quality,Routine,Billing Unit,7.8,44.57,1,3,No,Yes
+CT-41484,2026-09-22,Kirkos,Phone,Billing Question,High,Front Desk,7.92,18.19,0,5,No,No
+CT-41485,2026-09-23,Gullele,Web Portal,Billing Question,Urgent,Rapid Response,12.76,32.59,3,4,No,Yes
+CT-41486,2026-09-24,Bole,Walk-in,Billing Question,Routine,Billing Unit,2.57,22.84,2,5,No,Yes
+CT-41487,2026-09-25,Akaki,Phone,Supply Alert,Routine,Front Desk,14.86,45.28,3,4,No,Yes
+CT-41488,2026-09-26,Yeka,Web Portal,Supply Alert,High,Rapid Response,5.77,33.97,3,4,No,Yes
+CT-41489,2026-09-27,Lideta,Walk-in,Supply Alert,Urgent,Billing Unit,8.35,22.63,2,5,No,Yes
+CT-41490,2026-09-28,Kirkos,Mobile App,New Connection,Routine,Front Desk,7.83,20.87,1,4,No,Yes
+CT-41491,2026-09-29,Gullele,Phone,New Connection,High,Rapid Response,20.36,57,3,3,Yes,Yes
+CT-41492,2026-09-30,Bole,Web Portal,New Connection,Urgent,Billing Unit,12.09,23.47,1,5,No,Yes
+CT-41493,2026-10-01,Akaki,Walk-in,Water Quality,Routine,Front Desk,4.43,12.71,0,4,No,Yes
+CT-41494,2026-10-02,Yeka,Mobile App,Water Quality,High,Rapid Response,12.47,27.98,1,4,Yes,Yes
+CT-41495,2026-10-03,Lideta,Phone,Water Quality,Urgent,Billing Unit,6.7,14.53,2,5,No,Yes
+CT-41496,2026-10-04,Kirkos,Walk-in,Billing Question,Routine,Front Desk,1.8,23.32,2,4,No,Yes
+CT-41497,2026-10-05,Kirkos,Mobile App,Supply Alert,High,Rapid Response,6.22,20.58,3,4,No,Yes
+CT-41498,2026-10-06,Gullele,Phone,Supply Alert,Urgent,Billing Unit,9.85,24.77,2,4,No,Yes
+CT-41499,2026-10-07,Bole,Web Portal,New Connection,Routine,Front Desk,12.67,40.61,1,5,No,Yes
+CT-41500,2026-10-08,Akaki,Walk-in,New Connection,High,Rapid Response,0.84,19.39,1,4,No,Yes
+CT-41501,2026-02-01,Yeka,Mobile App,New Connection,Urgent,Billing Unit,18.02,48.11,2,4,No,Yes
+CT-41502,2026-02-02,Lideta,Phone,Water Quality,Routine,Front Desk,7.4,23.47,3,5,No,Yes
+CT-41503,2026-02-03,Kirkos,Web Portal,Water Quality,High,Rapid Response,12.9,27.5,0,5,No,Yes
+CT-41504,2026-02-04,Gullele,Walk-in,Water Quality,Urgent,Billing Unit,8.3,19.05,2,5,No,Yes
+CT-41505,2026-02-05,Bole,Phone,Billing Question,Routine,Front Desk,3.92,15.96,2,4,No,Yes
+CT-41506,2026-02-06,Akaki,Web Portal,Billing Question,High,Rapid Response,,40.12,1,3,No,Yes
+CT-41507,2026-02-07,Yeka,Walk-in,Billing Question,Urgent,Billing Unit,8.82,25.09,2,5,No,No
+CT-41508,2026-02-08,Lideta,Mobile App,Supply Alert,Routine,Front Desk,6.36,27.62,1,5,No,Yes
+CT-41509,2026-02-09,Kirkos,Phone,Supply Alert,High,Rapid Response,2.78,20.84,1,5,No,Yes
+CT-41510,2026-02-10,Gullele,Web Portal,Supply Alert,Urgent,Billing Unit,17.73,44.67,1,3,No,Yes
+CT-41511,2026-02-11,Bole,Walk-in,New Connection,Routine,Front Desk,5.48,30.01,0,4,Yes,Yes
+CT-41512,2026-02-12,Akaki,Mobile App,New Connection,High,Rapid Response,6.69,20.06,0,5,No,Yes
+CT-41513,2026-02-13,Akaki,Phone,New Connection,Urgent,Billing Unit,17.68,32.02,2,4,No,Yes
+CT-41514,2026-02-14,Yeka,Walk-in,Water Quality,Urgent,Front Desk,9.51,36.54,5,5,No,Yes
+CT-41515,2026-02-15,Lideta,Mobile App,Water Quality,Routine,Rapid Response,9.02,25.01,0,4,No,Yes
+CT-41516,2026-02-16,Kirkos,Phone,Water Quality,High,Billing Unit,8.02,31.27,1,3,No,Yes
+CT-41517,2026-02-17,Gullele,Web Portal,Billing Question,Urgent,Front Desk,5.35,17.01,2,4,No,Yes
+CT-41518,2026-02-18,Bole,Walk-in,Billing Question,Routine,Rapid Response,3.63,14.59,0,5,No,Yes
+CT-41519,2026-02-19,Akaki,Mobile App,Billing Question,High,Billing Unit,3.62,22.68,0,5,No,Yes
+CT-41520,2026-02-20,Yeka,Phone,Supply Alert,Urgent,Front Desk,19.37,44.5,2,3,No,Yes
+CT-41521,2026-02-21,Lideta,Web Portal,Supply Alert,Routine,Rapid Response,10.96,26.74,2,5,No,Yes
+CT-41522,2026-02-22,Kirkos,Walk-in,Supply Alert,High,Billing Unit,1.1,21.25,1,5,No,Yes
+CT-41523,2026-02-23,Gullele,Phone,New Connection,Urgent,Front Desk,8.54,29.16,1,4,No,Yes
+CT-41524,2026-02-24,Bole,Web Portal,New Connection,Routine,Rapid Response,9.3,27.1,0,4,No,Yes
+CT-41525,2026-02-25,Akaki,Walk-in,New Connection,High,Billing Unit,5,20.06,0,5,No,Yes
+CT-41526,2026-02-26,Yeka,Mobile App,Water Quality,Urgent,Front Desk,15.19,43.69,3,4,No,Yes
+CT-41527,2026-02-27,Lideta,Phone,Water Quality,Routine,Rapid Response,5.38,12.7,1,5,No,Yes
+CT-41528,2026-02-28,Kirkos,Web Portal,Billing Question,High,Billing Unit,7.52,20.56,1,5,Yes,Yes
+CT-41529,2026-03-01,Kirkos,Walk-in,Supply Alert,Urgent,Front Desk,6.8,22.84,1,5,No,Yes
+CT-41530,2026-03-02,Gullele,Mobile App,Supply Alert,Routine,Rapid Response,17.42,37.62,0,5,No,No
+CT-41531,2026-03-03,Bole,Phone,Supply Alert,High,Billing Unit,0.53,12.46,2,5,No,Yes
+CT-41532,2026-03-04,Akaki,Walk-in,New Connection,Urgent,Front Desk,73.62,153.47,2,1,Yes,Yes
+CT-41533,2026-03-05,Yeka,Mobile App,New Connection,Routine,Rapid Response,5.22,11.36,1,5,No,Yes
+CT-41534,2026-03-06,Lideta,Phone,New Connection,High,Billing Unit,8.8,19.46,2,5,No,Yes
+CT-41535,2026-03-07,Kirkos,Web Portal,Water Quality,Urgent,Front Desk,20.13,45.47,1,4,No,Yes
+CT-41536,2026-03-08,Gullele,Walk-in,Water Quality,Routine,Rapid Response,7.68,29.85,2,5,No,Yes
+CT-41537,2026-03-09,Bole,Mobile App,Water Quality,High,Billing Unit,6.32,26.55,1,5,No,Yes
+CT-41538,2026-03-10,Akaki,Phone,Billing Question,Urgent,Front Desk,7.03,27.88,2,4,No,Yes
+CT-41539,2026-03-11,Yeka,Web Portal,Billing Question,Routine,Rapid Response,7.48,26.39,0,5,No,Yes
+CT-41540,2026-03-12,Lideta,Walk-in,Billing Question,High,Billing Unit,4.12,41.18,0,4,No,Yes
+CT-41541,2026-03-13,Kirkos,Phone,Supply Alert,High,Front Desk,5.93,23.78,2,5,No,Yes
+CT-41542,2026-03-14,Gullele,Web Portal,Supply Alert,Urgent,Rapid Response,18.83,70.69,3,3,Yes,Yes
+CT-41543,2026-03-15,Bole,Walk-in,Supply Alert,Routine,Billing Unit,3.04,12.6,0,5,No,Yes
+CT-41544,2026-03-16,Akaki,Mobile App,New Connection,High,Front Desk,1.33,11.13,3,5,No,Yes
+CT-41545,2026-03-17,Akaki,Phone,New Connection,Urgent,Rapid Response,5.42,22.94,5,4,Yes,Yes
+CT-41546,2026-03-18,Yeka,Web Portal,New Connection,Routine,Billing Unit,7.83,36.86,0,5,No,Yes
+CT-41547,2026-03-19,Lideta,Walk-in,Water Quality,High,Front Desk,9.81,35.01,1,3,No,Yes
+CT-41548,2026-03-20,Kirkos,Mobile App,Water Quality,Urgent,Rapid Response,9.14,33.22,2,4,No,Yes
+CT-41549,2026-03-21,Gullele,Phone,Water Quality,Routine,Billing Unit,12.02,27.45,4,3,No,Yes
+CT-41550,2026-03-22,Bole,Walk-in,Billing Question,High,Front Desk,5.58,16.69,0,5,No,Yes
+CT-41551,2026-03-23,Akaki,Mobile App,Billing Question,Urgent,Rapid Response,19.08,48.64,2,3,No,Yes
+CT-41552,2026-03-24,Yeka,Phone,Billing Question,Routine,Billing Unit,7.45,16.23,0,5,No,Yes
+CT-41553,2026-03-25,Lideta,Web Portal,Supply Alert,High,Front Desk,16.17,34.52,2,4,No,No
+CT-41554,2026-03-26,Kirkos,Walk-in,Supply Alert,Urgent,Rapid Response,6.86,19.32,1,5,No,Yes
+CT-41555,2026-03-27,Gullele,Mobile App,Supply Alert,Routine,Billing Unit,10.87,32.78,2,5,No,Yes
+CT-41556,2026-03-28,Bole,Phone,New Connection,High,Front Desk,9.58,26.5,2,3,No,Yes
+CT-41557,2026-03-29,Akaki,Web Portal,New Connection,Urgent,Rapid Response,11.98,29.32,3,4,No,Yes
+CT-41558,2026-03-30,Yeka,Walk-in,New Connection,Routine,Billing Unit,2.43,8.1,1,4,No,Yes
+CT-41559,2026-03-31,Lideta,Phone,Billing Question,High,Front Desk,2.23,10.76,0,5,No,Yes
+CT-41560,2026-04-01,Kirkos,Web Portal,Billing Question,Urgent,Rapid Response,7.78,15.65,6,4,No,Yes
+CT-41561,2026-04-02,Kirkos,Walk-in,Billing Question,Routine,Billing Unit,1.54,54.7,3,4,No,Yes
+CT-41562,2026-04-03,Gullele,Mobile App,Supply Alert,High,Front Desk,13.49,37.85,0,4,Yes,Yes
+CT-41563,2026-04-04,Bole,Phone,Supply Alert,Urgent,Rapid Response,9.56,30.57,2,4,No,Yes
+CT-41564,2026-04-05,Akaki,Web Portal,Supply Alert,Routine,Billing Unit,5.97,16.64,1,5,No,Yes
+CT-41565,2026-04-06,Yeka,Walk-in,New Connection,High,Front Desk,6.92,16.71,1,4,No,Yes
+CT-41566,2026-04-07,Lideta,Mobile App,New Connection,Urgent,Rapid Response,12.06,38.57,2,3,No,Yes
+CT-41567,2026-04-08,Kirkos,Phone,New Connection,Routine,Billing Unit,4.6,25.24,0,4,No,Yes
+CT-41568,2026-04-09,Gullele,Walk-in,Water Quality,Routine,Front Desk,5.94,26.9,1,4,No,Yes
+CT-41569,2026-04-10,Bole,Mobile App,Water Quality,High,Rapid Response,12.55,35.38,1,5,No,Yes
+CT-41570,2026-04-11,Akaki,Phone,Water Quality,Urgent,Billing Unit,7.58,17.51,1,5,No,Yes
+CT-41571,2026-04-12,Yeka,Web Portal,Billing Question,Routine,Front Desk,21.95,61.91,1,3,Yes,Yes
+CT-41572,2026-04-13,Lideta,Walk-in,Billing Question,High,Rapid Response,4.46,25.84,0,5,No,Yes
+CT-41573,2026-04-14,Kirkos,Mobile App,Billing Question,Urgent,Billing Unit,22.28,48.2,2,4,No,Yes
+CT-41574,2026-04-15,Gullele,Phone,Supply Alert,Routine,Front Desk,4.13,17.41,0,5,No,Yes
+CT-41575,2026-04-16,Bole,Web Portal,Supply Alert,High,Rapid Response,33.77,90.32,1,2,Yes,Yes
+CT-41576,2026-04-17,Akaki,Walk-in,Supply Alert,Urgent,Billing Unit,7.05,14.92,2,4,No,No
+CT-41577,2026-04-18,Akaki,Phone,New Connection,Routine,Front Desk,9.41,48.9,2,3,No,Yes
+CT-41578,2026-04-19,Yeka,Web Portal,New Connection,High,Rapid Response,7.92,24.1,3,5,No,Yes
+CT-41579,2026-04-20,Lideta,Walk-in,New Connection,Urgent,Billing Unit,7.11,36.52,4,5,Yes,Yes
+CT-41580,2026-04-21,Kirkos,Mobile App,Water Quality,Routine,Front Desk,7.61,28.75,1,4,No,Yes
+CT-41581,2026-04-22,Gullele,Phone,Water Quality,High,Rapid Response,1.35,15.31,1,3,No,Yes
+CT-41582,2026-04-23,Bole,Web Portal,Water Quality,Urgent,Billing Unit,12.46,26.01,2,4,No,Yes
+CT-41583,2026-04-24,Akaki,Walk-in,Billing Question,Routine,Front Desk,4.32,27.83,0,5,No,Yes
+CT-41584,2026-04-25,Yeka,Mobile App,Billing Question,High,Rapid Response,9.04,22.51,0,5,No,Yes
+CT-41585,2026-04-26,Lideta,Phone,Billing Question,Urgent,Billing Unit,11.52,27.09,1,5,No,Yes
+CT-41586,2026-04-27,Kirkos,Walk-in,Supply Alert,Routine,Front Desk,1.9,14.47,3,5,No,Yes
+CT-41587,2026-04-28,Gullele,Mobile App,Supply Alert,High,Rapid Response,13.81,46,1,5,No,Yes
+CT-41588,2026-04-29,Bole,Phone,Supply Alert,Urgent,Billing Unit,6.55,28.51,1,5,No,Yes
+CT-41589,2026-04-30,Akaki,Web Portal,New Connection,Routine,Front Desk,12.55,39.87,0,3,No,Yes
+CT-41590,2026-05-01,Yeka,Walk-in,Water Quality,High,Rapid Response,3.81,13.65,2,5,No,Yes
+CT-41591,2026-05-02,Lideta,Mobile App,Water Quality,Urgent,Billing Unit,80.12,149.54,2,1,Yes,Yes
+CT-41592,2026-05-03,Kirkos,Phone,Billing Question,Routine,Front Desk,5.91,48.81,2,3,No,Yes
+CT-41593,2026-05-04,Kirkos,Web Portal,Billing Question,High,Rapid Response,5.67,14.07,1,5,No,Yes
+CT-41594,2026-05-05,Gullele,Walk-in,Billing Question,Urgent,Billing Unit,9.98,36.43,1,5,No,Yes
+CT-41595,2026-05-06,Bole,Phone,Supply Alert,Urgent,Front Desk,12.15,25.97,2,4,No,Yes
+CT-41596,2026-05-07,Akaki,Web Portal,Supply Alert,Routine,Rapid Response,1.5,11.52,2,5,Yes,Yes
+CT-41597,2026-05-08,Yeka,Walk-in,Supply Alert,High,Billing Unit,3.46,12.57,1,5,No,Yes
+CT-41598,2026-05-09,Lideta,Mobile App,New Connection,Urgent,Front Desk,11.53,39.19,3,3,No,Yes
+CT-41599,2026-05-10,Kirkos,Phone,New Connection,Routine,Rapid Response,17.16,37.35,0,4,No,No
+CT-41600,2026-05-11,Gullele,Web Portal,New Connection,High,Billing Unit,20.07,52.49,0,4,No,Yes
+CT-41601,2026-05-12,Bole,Walk-in,Water Quality,Urgent,Front Desk,16.57,40.22,3,4,No,Yes
+CT-41602,2026-05-13,Akaki,Mobile App,Water Quality,Routine,Rapid Response,4.51,20.27,5,5,No,Yes
+CT-41603,2026-05-14,Yeka,Phone,Water Quality,High,Billing Unit,6.74,20.38,2,5,No,Yes
+CT-41604,2026-05-15,Lideta,Walk-in,Billing Question,Urgent,Front Desk,12.62,39.89,2,4,No,Yes
+CT-41605,2026-05-16,Kirkos,Mobile App,Billing Question,Routine,Rapid Response,8,25.29,1,4,No,Yes
+CT-41606,2026-05-17,Gullele,Phone,Billing Question,High,Billing Unit,7.15,33.47,2,5,No,Yes
+CT-41607,2026-05-18,Bole,Web Portal,Supply Alert,Urgent,Front Desk,,38.92,3,4,No,Yes
+CT-41608,2026-05-19,Akaki,Walk-in,Supply Alert,Routine,Rapid Response,6.67,23.77,1,4,No,Yes
+CT-41609,2026-05-20,Akaki,Mobile App,Supply Alert,High,Billing Unit,5.58,23.51,0,4,No,Yes
+CT-41610,2026-05-21,Yeka,Phone,New Connection,Urgent,Front Desk,11.6,27.57,2,4,No,Yes
+CT-41611,2026-05-22,Lideta,Web Portal,New Connection,Routine,Rapid Response,25.35,48.6,2,4,No,Yes
+CT-41612,2026-05-23,Kirkos,Walk-in,New Connection,High,Billing Unit,1.75,7.16,1,4,No,Yes
+CT-41613,2026-05-24,Gullele,Phone,Water Quality,Urgent,Front Desk,9.53,55.26,3,3,Yes,Yes
+CT-41614,2026-05-25,Bole,Web Portal,Water Quality,Routine,Rapid Response,33.12,96.83,1,2,Yes,Yes
+CT-41615,2026-05-26,Akaki,Walk-in,Water Quality,High,Billing Unit,6.05,13.96,4,5,No,Yes
+CT-41616,2026-05-27,Yeka,Mobile App,Billing Question,Urgent,Front Desk,9.38,43.84,2,4,No,Yes
+CT-41617,2026-05-28,Lideta,Phone,Billing Question,Routine,Rapid Response,7.18,18.24,3,5,No,Yes
+CT-41618,2026-05-29,Kirkos,Web Portal,Billing Question,High,Billing Unit,9.25,32.58,1,4,No,Yes
+CT-41619,2026-05-30,Gullele,Walk-in,Supply Alert,Urgent,Front Desk,5.67,23.77,1,4,No,Yes
+CT-41620,2026-05-31,Bole,Mobile App,Supply Alert,Routine,Rapid Response,4.92,24.16,0,5,No,Yes
+CT-41621,2026-06-01,Akaki,Phone,New Connection,High,Billing Unit,17.36,54.89,1,4,No,Yes
+CT-41622,2026-06-02,Yeka,Walk-in,Water Quality,High,Front Desk,2.93,44.35,1,3,No,No
+CT-41623,2026-06-03,Lideta,Mobile App,Water Quality,Urgent,Rapid Response,15.8,41.26,2,3,No,Yes
+CT-41624,2026-06-04,Kirkos,Phone,Water Quality,Routine,Billing Unit,7.72,21.27,0,4,No,Yes
