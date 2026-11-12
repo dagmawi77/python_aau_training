@@ -1,0 +1,181 @@
+point_id,zone,facility_type,latitude,longitude,status,daily_users,service_hours,quality_grade,operator,inspection_month
+WP-7001,Bole,Kiosk,8.9934,38.7686,Operational,90,24,A,Public,2026-01
+WP-7002,Akaki,Community Tap,8.9111,38.7598,Operational,107,24,B,Cooperative,2026-02
+WP-7003,Kirkos,Standpipe,9.0009,38.76,Intermittent,124,8,C,Contracted,2026-03
+WP-7004,Lideta,Kiosk,9.0346,38.7358,Offline,141,0,A,Public,2026-04
+WP-7005,Gullele,Community Tap,9.0904,38.755,Operational,158,24,B,Cooperative,2026-05
+WP-7006,Nifas Silk,Standpipe,8.9492,38.7122,Operational,175,24,C,Contracted,2026-06
+WP-7007,Bole,Kiosk,9.0189,38.775,Operational,192,24,A,Public,2026-07
+WP-7008,Akaki,Community Tap,8.9077,38.7662,Intermittent,209,8,B,Cooperative,2026-08
+WP-7009,Kirkos,Standpipe,8.9975,38.7664,Offline,226,0,C,Contracted,2026-09
+WP-7010,Lideta,Kiosk,9.0312,38.7422,Operational,243,24,A,Public,2026-01
+WP-7011,Gullele,Community Tap,9.087,38.7614,Operational,260,24,B,Cooperative,2026-02
+WP-7012,Nifas Silk,Standpipe,8.9458,38.6882,Intermittent,277,8,C,Contracted,2026-03
+WP-7013,Bole,Kiosk,9.0155,38.7814,Intermittent,294,8,A,Public,2026-04
+WP-7014,Akaki,Community Tap,8.9043,38.7726,Offline,311,0,B,Cooperative,2026-05
+WP-7015,Kirkos,Standpipe,8.9941,38.7424,Operational,328,24,C,Contracted,2026-06
+WP-7016,Lideta,Kiosk,9.0278,38.7486,Operational,345,24,A,Public,2026-07
+WP-7017,Gullele,Community Tap,9.0836,38.7678,Intermittent,362,8,B,Cooperative,2026-08
+WP-7018,Nifas Silk,Standpipe,8.9424,38.6946,Offline,379,0,C,Contracted,2026-09
+WP-7019,Bole,Kiosk,9.0121,38.7878,Offline,396,0,A,Public,2026-01
+WP-7020,Akaki,Community Tap,8.9009,38.7486,Operational,413,24,B,Cooperative,2026-02
+WP-7021,Kirkos,Standpipe,9.0196,38.7488,Operational,430,24,C,Contracted,2026-03
+WP-7022,Lideta,Kiosk,9.0244,38.755,Intermittent,447,8,A,Public,2026-04
+WP-7023,Gullele,Community Tap,9.0802,38.7438,Offline,94,0,B,Cooperative,2026-05
+WP-7024,Nifas Silk,Standpipe,8.9679,38.701,Operational,111,24,C,Contracted,2026-06
+WP-7025,Bole,Kiosk,9.0087,38.7942,Operational,128,24,A,Public,2026-07
+WP-7026,Akaki,Community Tap,8.8975,38.755,Operational,145,24,B,Cooperative,2026-08
+WP-7027,Kirkos,Standpipe,9.0162,38.7552,Intermittent,162,8,C,Contracted,2026-09
+WP-7028,Lideta,Kiosk,9.021,38.7614,Offline,179,0,A,Public,2026-01
+WP-7029,Gullele,Community Tap,9.0768,38.7502,Operational,196,24,B,Cooperative,2026-02
+WP-7030,Nifas Silk,Standpipe,8.9645,38.7074,Operational,213,24,C,Contracted,2026-03
+WP-7031,Bole,Kiosk,9.0053,38.7702,Operational,230,24,A,Public,2026-04
+WP-7032,Akaki,Community Tap,8.8941,38.7614,Intermittent,247,8,B,Cooperative,2026-05
+WP-7033,Kirkos,Standpipe,9.0128,38.7616,Offline,264,0,C,Contracted,2026-06
+WP-7034,Lideta,Kiosk,9.0176,38.7374,Operational,281,24,A,Public,2026-07
+WP-7035,Gullele,Community Tap,9.0734,38.7566,Operational,298,24,B,Cooperative,2026-08
+WP-7036,Nifas Silk,Standpipe,8.9611,38.7138,Intermittent,315,8,C,Contracted,2026-09
+WP-7037,Bole,Kiosk,9.0019,38.7766,Intermittent,332,8,A,Public,2026-01
+WP-7038,Akaki,Community Tap,8.9196,38.7678,Offline,349,0,B,Cooperative,2026-02
+WP-7039,Kirkos,Standpipe,9.0094,38.7376,Operational,366,24,C,Contracted,2026-03
+WP-7040,Lideta,Kiosk,9.0142,38.7438,Operational,383,24,A,Public,2026-04
+WP-7041,Gullele,Community Tap,9.0989,38.763,Intermittent,400,8,B,Cooperative,2026-05
+WP-7042,Nifas Silk,Standpipe,8.9577,38.6898,Offline,417,0,C,Contracted,2026-06
+WP-7043,Bole,Kiosk,8.9985,38.783,Offline,434,0,A,Public,2026-07
+WP-7044,Akaki,Community Tap,8.9162,38.7742,Operational,451,24,B,Cooperative,2026-08
+WP-7045,Kirkos,Standpipe,9.006,38.744,Operational,98,24,C,Contracted,2026-09
+WP-7046,Lideta,Kiosk,9.0108,38.7502,Intermittent,115,8,A,Public,2026-01
+WP-7047,Gullele,Community Tap,9.0955,38.7694,Offline,132,0,B,Cooperative,2026-02
+WP-7048,Nifas Silk,Standpipe,8.9543,38.6962,Operational,149,24,C,Contracted,2026-03
+WP-7049,Bole,Kiosk,8.9951,38.7894,Operational,166,24,A,Public,2026-04
+WP-7050,Akaki,Community Tap,8.9128,38.7502,Operational,183,24,B,Cooperative,2026-05
+WP-7051,Kirkos,Standpipe,9.0026,38.7504,Intermittent,200,8,C,Contracted,2026-06
+WP-7052,Lideta,Kiosk,9.0074,38.7566,Offline,217,0,A,Public,2026-07
+WP-7053,Gullele,Community Tap,9.0921,38.7454,Operational,234,24,B,Cooperative,2026-08
+WP-7054,Nifas Silk,Standpipe,8.9509,38.7026,Operational,251,24,C,Contracted,2026-09
+WP-7055,Bole,Kiosk,9.0206,38.7958,Operational,268,24,A,Public,2026-01
+WP-7056,Akaki,Community Tap,8.9094,38.7566,Intermittent,285,8,B,Cooperative,2026-02
+WP-7057,Kirkos,Standpipe,8.9992,38.7568,Offline,302,0,C,Contracted,2026-03
+WP-7058,Lideta,Kiosk,9.0329,38.7326,Operational,319,24,A,Public,2026-04
+WP-7059,Gullele,Community Tap,9.0887,38.7518,Operational,336,24,B,Cooperative,2026-05
+WP-7060,Nifas Silk,Standpipe,8.9475,38.709,Intermittent,353,8,C,Contracted,2026-06
+WP-7061,Bole,Kiosk,9.0172,38.7718,Intermittent,370,8,A,Public,2026-07
+WP-7062,Akaki,Community Tap,8.906,38.763,Offline,387,0,B,Cooperative,2026-08
+WP-7063,Kirkos,Standpipe,8.9958,38.7632,Operational,404,24,C,Contracted,2026-09
+WP-7064,Lideta,Kiosk,9.0295,38.739,Operational,421,24,A,Public,2026-01
+WP-7065,Gullele,Community Tap,9.0853,38.7582,Intermittent,438,8,B,Cooperative,2026-02
+WP-7066,Nifas Silk,Standpipe,8.9441,38.7154,Offline,455,0,C,Contracted,2026-03
+WP-7067,Bole,Kiosk,9.0138,38.7782,Offline,102,0,A,Public,2026-04
+WP-7068,Akaki,Community Tap,8.9026,38.7694,Operational,119,24,B,Cooperative,2026-05
+WP-7069,Kirkos,Standpipe,8.9924,38.7392,Operational,136,24,C,Contracted,2026-06
+WP-7070,Lideta,Kiosk,9.0261,38.7454,Intermittent,153,8,A,Public,2026-07
+WP-7071,Gullele,Community Tap,9.0819,38.7646,Offline,170,0,B,Cooperative,2026-08
+WP-7072,Nifas Silk,Standpipe,8.9696,38.6914,Operational,187,24,C,Contracted,2026-09
+WP-7073,Bole,Kiosk,9.0104,38.7846,Operational,204,24,A,Public,2026-01
+WP-7074,Akaki,Community Tap,8.8992,38.7758,Operational,221,24,B,Cooperative,2026-02
+WP-7075,Kirkos,Standpipe,9.0179,38.7456,Intermittent,238,8,C,Contracted,2026-03
+WP-7076,Lideta,Kiosk,9.0227,38.7518,Offline,255,0,A,Public,2026-04
+WP-7077,Gullele,Community Tap,9.0785,38.7406,Operational,272,24,B,Cooperative,2026-05
+WP-7078,Nifas Silk,Standpipe,8.9662,38.6978,Operational,289,24,C,Contracted,2026-06
+WP-7079,Bole,Kiosk,9.007,38.791,Operational,306,24,A,Public,2026-07
+WP-7080,Akaki,Community Tap,8.8958,38.7518,Intermittent,323,8,B,Cooperative,2026-08
+WP-7081,Kirkos,Standpipe,9.0145,38.752,Offline,340,0,C,Contracted,2026-09
+WP-7082,Lideta,Kiosk,9.0193,38.7582,Operational,357,24,A,Public,2026-01
+WP-7083,Gullele,Community Tap,9.0751,38.747,Operational,374,24,B,Cooperative,2026-02
+WP-7084,Nifas Silk,Standpipe,8.9628,38.7042,Intermittent,391,8,C,Contracted,2026-03
+WP-7085,Bole,Kiosk,9.0036,38.7974,Intermittent,408,8,A,Public,2026-04
+WP-7086,Akaki,Community Tap,8.8924,38.7582,Offline,425,0,B,Cooperative,2026-05
+WP-7087,Kirkos,Standpipe,9.0111,38.7584,Operational,442,24,C,Contracted,2026-06
+WP-7088,Lideta,Kiosk,9.0159,38.7342,Operational,459,24,A,Public,2026-07
+WP-7089,Gullele,Community Tap,9.1006,38.7534,Intermittent,106,8,B,Cooperative,2026-08
+WP-7090,Nifas Silk,Standpipe,8.9594,38.7106,Offline,123,0,C,Contracted,2026-09
+WP-7091,Bole,Kiosk,9.0002,38.7734,Offline,140,0,A,Public,2026-01
+WP-7092,Akaki,Community Tap,8.9179,38.7646,Operational,157,24,B,Cooperative,2026-02
+WP-7093,Kirkos,Standpipe,9.0077,38.7648,Operational,174,24,C,Contracted,2026-03
+WP-7094,Lideta,Kiosk,9.0125,38.7406,Intermittent,191,8,A,Public,2026-04
+WP-7095,Gullele,Community Tap,9.0972,38.7598,Offline,208,0,B,Cooperative,2026-05
+WP-7096,Nifas Silk,Standpipe,8.956,38.6866,Operational,225,24,C,Contracted,2026-06
+WP-7097,Bole,Kiosk,8.9968,38.7798,Operational,242,24,A,Public,2026-07
+WP-7098,Akaki,Community Tap,8.9145,38.771,Operational,259,24,B,Cooperative,2026-08
+WP-7099,Kirkos,Standpipe,9.0043,38.7408,Intermittent,276,8,C,Contracted,2026-09
+WP-7100,Lideta,Kiosk,9.0091,38.747,Offline,293,0,A,Public,2026-01
+WP-7101,Gullele,Community Tap,9.0938,38.7662,Operational,310,24,B,Cooperative,2026-02
+WP-7102,Nifas Silk,Standpipe,8.9526,38.693,Operational,327,24,C,Contracted,2026-03
+WP-7103,Bole,Kiosk,8.9934,38.7862,Operational,344,24,A,Public,2026-04
+WP-7104,Akaki,Community Tap,8.9111,38.7774,Intermittent,361,8,B,Cooperative,2026-05
+WP-7105,Kirkos,Standpipe,9.0009,38.7472,Offline,378,0,C,Contracted,2026-06
+WP-7106,Lideta,Kiosk,9.0346,38.7534,Operational,395,24,A,Public,2026-07
+WP-7107,Gullele,Community Tap,9.0904,38.7422,Operational,412,24,B,Cooperative,2026-08
+WP-7108,Nifas Silk,Standpipe,8.9492,38.6994,Intermittent,429,8,C,Contracted,2026-09
+WP-7109,Bole,Kiosk,9.0189,38.7926,Intermittent,446,8,A,Public,2026-01
+WP-7110,Akaki,Community Tap,8.9077,38.7534,Offline,93,0,B,Cooperative,2026-02
+WP-7111,Kirkos,Standpipe,8.9975,38.7536,Operational,110,24,C,Contracted,2026-03
+WP-7112,Lideta,Kiosk,9.0312,38.7598,Operational,127,24,A,Public,2026-04
+WP-7113,Gullele,Community Tap,9.087,38.7486,Intermittent,144,8,B,Cooperative,2026-05
+WP-7114,Nifas Silk,Standpipe,8.9458,38.7058,Offline,161,0,C,Contracted,2026-06
+WP-7115,Bole,Kiosk,9.0155,38.7686,Offline,178,0,A,Public,2026-07
+WP-7116,Akaki,Community Tap,8.9043,38.7598,Operational,195,24,B,Cooperative,2026-08
+WP-7117,Kirkos,Standpipe,8.9941,38.76,Operational,212,24,C,Contracted,2026-09
+WP-7118,Lideta,Kiosk,9.0278,38.7358,Intermittent,229,8,A,Public,2026-01
+WP-7119,Gullele,Community Tap,9.0836,38.755,Offline,246,0,B,Cooperative,2026-02
+WP-7120,Nifas Silk,Standpipe,8.9424,38.7122,Operational,263,24,C,Contracted,2026-03
+WP-7121,Bole,Kiosk,9.0121,38.775,Operational,280,24,A,Public,2026-04
+WP-7122,Akaki,Community Tap,8.9009,38.7662,Operational,297,24,B,Cooperative,2026-05
+WP-7123,Kirkos,Standpipe,9.0196,38.7664,Intermittent,314,8,C,Contracted,2026-06
+WP-7124,Lideta,Kiosk,9.0244,38.7422,Offline,331,0,A,Public,2026-07
+WP-7125,Gullele,Community Tap,9.0802,38.7614,Operational,348,24,B,Cooperative,2026-08
+WP-7126,Nifas Silk,Standpipe,8.9679,38.6882,Operational,365,24,C,Contracted,2026-09
+WP-7127,Bole,Kiosk,9.0087,38.7814,Operational,382,24,A,Public,2026-01
+WP-7128,Akaki,Community Tap,8.8975,38.7726,Intermittent,399,8,B,Cooperative,2026-02
+WP-7129,Kirkos,Standpipe,9.0162,38.7424,Offline,416,0,C,Contracted,2026-03
+WP-7130,Lideta,Kiosk,9.021,38.7486,Operational,433,24,A,Public,2026-04
+WP-7131,Gullele,Community Tap,9.0768,38.7678,Operational,450,24,B,Cooperative,2026-05
+WP-7132,Nifas Silk,Standpipe,8.9645,38.6946,Intermittent,97,8,C,Contracted,2026-06
+WP-7133,Bole,Kiosk,9.0053,38.7878,Intermittent,114,8,A,Public,2026-07
+WP-7134,Akaki,Community Tap,8.8941,38.7486,Offline,131,0,B,Cooperative,2026-08
+WP-7135,Kirkos,Standpipe,9.0128,38.7488,Operational,148,24,C,Contracted,2026-09
+WP-7136,Lideta,Kiosk,9.0176,38.755,Operational,165,24,A,Public,2026-01
+WP-7137,Gullele,Community Tap,9.0734,38.7438,Intermittent,182,8,B,Cooperative,2026-02
+WP-7138,Nifas Silk,Standpipe,8.9611,38.701,Offline,199,0,C,Contracted,2026-03
+WP-7139,Bole,Kiosk,9.0019,38.7942,Offline,216,0,A,Public,2026-04
+WP-7140,Akaki,Community Tap,8.9196,38.755,Operational,233,24,B,Cooperative,2026-05
+WP-7141,Kirkos,Standpipe,9.0094,38.7552,Operational,250,24,C,Contracted,2026-06
+WP-7142,Lideta,Kiosk,9.0142,38.7614,Intermittent,267,8,A,Public,2026-07
+WP-7143,Gullele,Community Tap,9.0989,38.7502,Offline,284,0,B,Cooperative,2026-08
+WP-7144,Nifas Silk,Standpipe,8.9577,38.7074,Operational,301,24,C,Contracted,2026-09
+WP-7145,Bole,Kiosk,8.9985,38.7702,Operational,318,24,A,Public,2026-01
+WP-7146,Akaki,Community Tap,8.9162,38.7614,Operational,335,24,B,Cooperative,2026-02
+WP-7147,Kirkos,Standpipe,9.006,38.7616,Intermittent,352,8,C,Contracted,2026-03
+WP-7148,Lideta,Kiosk,9.0108,38.7374,Offline,369,0,A,Public,2026-04
+WP-7149,Gullele,Community Tap,9.0955,38.7566,Operational,386,24,B,Cooperative,2026-05
+WP-7150,Nifas Silk,Standpipe,8.9543,38.7138,Operational,403,24,C,Contracted,2026-06
+WP-7151,Bole,Kiosk,8.9951,38.7766,Operational,420,24,A,Public,2026-07
+WP-7152,Akaki,Community Tap,8.9128,38.7678,Intermittent,437,8,B,Cooperative,2026-08
+WP-7153,Kirkos,Standpipe,9.0026,38.7376,Offline,454,0,C,Contracted,2026-09
+WP-7154,Lideta,Kiosk,9.0074,38.7438,Operational,101,24,A,Public,2026-01
+WP-7155,Gullele,Community Tap,9.0921,38.763,Operational,118,24,B,Cooperative,2026-02
+WP-7156,Nifas Silk,Standpipe,8.9509,38.6898,Intermittent,135,8,C,Contracted,2026-03
+WP-7157,Bole,Kiosk,9.0206,38.783,Intermittent,152,8,A,Public,2026-04
+WP-7158,Akaki,Community Tap,8.9094,38.7742,Offline,169,0,B,Cooperative,2026-05
+WP-7159,Kirkos,Standpipe,8.9992,38.744,Operational,186,24,C,Contracted,2026-06
+WP-7160,Lideta,Kiosk,9.0329,38.7502,Operational,203,24,A,Public,2026-07
+WP-7161,Gullele,Community Tap,9.0887,38.7694,Intermittent,220,8,B,Cooperative,2026-08
+WP-7162,Nifas Silk,Standpipe,8.9475,38.6962,Offline,237,0,C,Contracted,2026-09
+WP-7163,Bole,Kiosk,9.0172,38.7894,Offline,254,0,A,Public,2026-01
+WP-7164,Akaki,Community Tap,8.906,38.7502,Operational,271,24,B,Cooperative,2026-02
+WP-7165,Kirkos,Standpipe,8.9958,38.7504,Operational,288,24,C,Contracted,2026-03
+WP-7166,Lideta,Kiosk,9.0295,38.7566,Intermittent,305,8,A,Public,2026-04
+WP-7167,Gullele,Community Tap,9.0853,38.7454,Offline,322,0,B,Cooperative,2026-05
+WP-7168,Nifas Silk,Standpipe,8.9441,38.7026,Operational,339,24,C,Contracted,2026-06
+WP-7169,Bole,Kiosk,9.0138,38.7958,Operational,356,24,A,Public,2026-07
+WP-7170,Akaki,Community Tap,8.9026,38.7566,Operational,373,24,B,Cooperative,2026-08
+WP-7171,Kirkos,Standpipe,8.9924,38.7568,Intermittent,390,8,C,Contracted,2026-09
+WP-7172,Lideta,Kiosk,9.0261,38.7326,Offline,407,0,A,Public,2026-01
+WP-7173,Gullele,Community Tap,9.0819,38.7518,Operational,424,24,B,Cooperative,2026-02
+WP-7174,Nifas Silk,Standpipe,8.9696,38.709,Operational,441,24,C,Contracted,2026-03
+WP-7175,Bole,Kiosk,9.0104,38.7718,Operational,458,24,A,Public,2026-04
+WP-7176,Akaki,Community Tap,8.8992,38.763,Intermittent,105,8,B,Cooperative,2026-05
+WP-7177,Kirkos,Standpipe,9.0179,38.7632,Offline,122,0,C,Contracted,2026-06
+WP-7178,Lideta,Kiosk,9.0227,38.739,Operational,139,24,A,Public,2026-07
+WP-7179,Gullele,Community Tap,9.0785,38.7582,Operational,156,24,B,Cooperative,2026-08
+WP-7180,Nifas Silk,Standpipe,8.9662,38.7154,Intermittent,173,8,C,Contracted,2026-09

@@ -1,0 +1,145 @@
+project_id,zone,program,contractor_type,phase,budget_etb,spent_etb,progress_pct,risk_level,target_month
+CP-4001,Bole,Water Network,Domestic,Planning,500000,140000,10,Low,2026-01
+CP-4002,Akaki,Reservoir Upgrade,Joint Venture,Procurement,590017,200606,23,Medium,2026-02
+CP-4003,Kirkos,Access Expansion,Municipal,Construction,680034,272014,36,High,2026-03
+CP-4004,Lideta,Water Network,Domestic,Testing,770051,354223,49,Low,2026-04
+CP-4005,Gullele,Reservoir Upgrade,Joint Venture,Planning,860068,447235,62,High,2026-05
+CP-4006,Nifas Silk,Access Expansion,Municipal,Procurement,950085,551049,75,Low,2026-06
+CP-4007,Bole,Water Network,Domestic,Testing,1040102,665665,88,Medium,2026-07
+CP-4008,Akaki,Reservoir Upgrade,Joint Venture,Planning,1130119,791083,15,High,2026-08
+CP-4009,Kirkos,Access Expansion,Municipal,Procurement,1220136,927303,28,Medium,2026-09
+CP-4010,Lideta,Water Network,Domestic,Construction,1310153,1074325,41,High,2026-01
+CP-4011,Gullele,Reservoir Upgrade,Joint Venture,Testing,1400170,1232150,54,Low,2026-02
+CP-4012,Nifas Silk,Access Expansion,Municipal,Planning,1490187,417252,67,Medium,2026-03
+CP-4013,Bole,Water Network,Domestic,Construction,1580204,537269,80,Low,2026-04
+CP-4014,Akaki,Reservoir Upgrade,Joint Venture,Testing,1670221,668088,93,Medium,2026-05
+CP-4015,Kirkos,Access Expansion,Municipal,Planning,1760238,809709,20,High,2026-06
+CP-4016,Lideta,Water Network,Domestic,Procurement,1850255,962133,33,Low,2026-07
+CP-4017,Gullele,Reservoir Upgrade,Joint Venture,Construction,1940272,1125358,46,High,2026-08
+CP-4018,Nifas Silk,Access Expansion,Municipal,Testing,2030289,1299385,59,Low,2026-09
+CP-4019,Bole,Water Network,Domestic,Procurement,2120306,1484214,72,Medium,2026-01
+CP-4020,Akaki,Reservoir Upgrade,Joint Venture,Construction,2210323,1679845,85,High,2026-02
+CP-4021,Kirkos,Access Expansion,Municipal,Testing,2300340,1886279,12,Medium,2026-03
+CP-4022,Lideta,Water Network,Domestic,Planning,2390357,2103514,25,High,2026-04
+CP-4023,Gullele,Reservoir Upgrade,Joint Venture,Procurement,2480374,694505,38,Low,2026-05
+CP-4024,Nifas Silk,Access Expansion,Municipal,Construction,2570391,873933,51,Medium,2026-06
+CP-4025,Bole,Water Network,Domestic,Planning,2660408,1064163,64,Low,2026-07
+CP-4026,Akaki,Reservoir Upgrade,Joint Venture,Procurement,2750425,1265196,77,Medium,2026-08
+CP-4027,Kirkos,Access Expansion,Municipal,Construction,2840442,1477030,90,High,2026-09
+CP-4028,Lideta,Water Network,Domestic,Testing,2930459,1699666,17,Low,2026-01
+CP-4029,Gullele,Reservoir Upgrade,Joint Venture,Planning,3020476,1933105,30,High,2026-02
+CP-4030,Nifas Silk,Access Expansion,Municipal,Procurement,3110493,2177345,43,Low,2026-03
+CP-4031,Bole,Water Network,Domestic,Testing,3200510,2432388,56,Medium,2026-04
+CP-4032,Akaki,Reservoir Upgrade,Joint Venture,Planning,3290527,2698232,69,High,2026-05
+CP-4033,Kirkos,Access Expansion,Municipal,Procurement,3380544,2974879,82,Medium,2026-06
+CP-4034,Lideta,Water Network,Domestic,Construction,3470561,971757,95,High,2026-07
+CP-4035,Gullele,Reservoir Upgrade,Joint Venture,Testing,3560578,1210597,22,Low,2026-08
+CP-4036,Nifas Silk,Access Expansion,Municipal,Planning,3650595,1460238,35,Medium,2026-09
+CP-4037,Bole,Water Network,Domestic,Construction,540612,248682,48,Low,2026-01
+CP-4038,Akaki,Reservoir Upgrade,Joint Venture,Testing,630629,327927,61,Medium,2026-02
+CP-4039,Kirkos,Access Expansion,Municipal,Planning,720646,417975,74,High,2026-03
+CP-4040,Lideta,Water Network,Domestic,Procurement,810663,518824,87,Low,2026-04
+CP-4041,Gullele,Reservoir Upgrade,Joint Venture,Construction,900680,630476,14,High,2026-05
+CP-4042,Nifas Silk,Access Expansion,Municipal,Testing,990697,752930,27,Low,2026-06
+CP-4043,Bole,Water Network,Domestic,Procurement,1080714,886185,40,Medium,2026-07
+CP-4044,Akaki,Reservoir Upgrade,Joint Venture,Construction,1170731,1030243,53,High,2026-08
+CP-4045,Kirkos,Access Expansion,Municipal,Testing,1260748,353009,66,Medium,2026-09
+CP-4046,Lideta,Water Network,Domestic,Planning,1350765,459260,79,High,2026-01
+CP-4047,Gullele,Reservoir Upgrade,Joint Venture,Procurement,1440782,576313,92,Low,2026-02
+CP-4048,Nifas Silk,Access Expansion,Municipal,Construction,1530799,704168,19,Medium,2026-03
+CP-4049,Bole,Water Network,Domestic,Planning,1620816,842824,32,Low,2026-04
+CP-4050,Akaki,Reservoir Upgrade,Joint Venture,Procurement,1710833,992283,45,Medium,2026-05
+CP-4051,Kirkos,Access Expansion,Municipal,Construction,1800850,1152544,58,High,2026-06
+CP-4052,Lideta,Water Network,Domestic,Testing,1890867,1323607,71,Low,2026-07
+CP-4053,Gullele,Reservoir Upgrade,Joint Venture,Planning,1980884,1505472,84,High,2026-08
+CP-4054,Nifas Silk,Access Expansion,Municipal,Procurement,2070901,1698139,11,Low,2026-09
+CP-4055,Bole,Water Network,Domestic,Testing,2160918,1901608,24,Medium,2026-01
+CP-4056,Akaki,Reservoir Upgrade,Joint Venture,Planning,2250935,630262,37,High,2026-02
+CP-4057,Kirkos,Access Expansion,Municipal,Procurement,2340952,795924,50,Medium,2026-03
+CP-4058,Lideta,Water Network,Domestic,Construction,2430969,972388,63,High,2026-04
+CP-4059,Gullele,Reservoir Upgrade,Joint Venture,Testing,2520986,1159654,76,Low,2026-05
+CP-4060,Nifas Silk,Access Expansion,Municipal,Planning,2611003,1357722,89,Medium,2026-06
+CP-4061,Bole,Water Network,Domestic,Construction,2701020,1566592,16,Low,2026-07
+CP-4062,Akaki,Reservoir Upgrade,Joint Venture,Testing,2791037,1786264,29,Medium,2026-08
+CP-4063,Kirkos,Access Expansion,Municipal,Planning,2881054,2016738,42,High,2026-09
+CP-4064,Lideta,Water Network,Domestic,Procurement,2971071,2258014,55,Low,2026-01
+CP-4065,Gullele,Reservoir Upgrade,Joint Venture,Construction,3061088,2510092,68,High,2026-02
+CP-4066,Nifas Silk,Access Expansion,Municipal,Testing,3151105,2772972,81,Low,2026-03
+CP-4067,Bole,Water Network,Domestic,Procurement,3241122,907514,94,Medium,2026-04
+CP-4068,Akaki,Reservoir Upgrade,Joint Venture,Construction,3331139,1132587,21,High,2026-05
+CP-4069,Kirkos,Access Expansion,Municipal,Testing,3421156,1368462,34,Medium,2026-06
+CP-4070,Lideta,Water Network,Domestic,Planning,3511173,1615140,47,High,2026-07
+CP-4071,Gullele,Reservoir Upgrade,Joint Venture,Procurement,3601190,1872619,60,Low,2026-08
+CP-4072,Nifas Silk,Access Expansion,Municipal,Construction,3691207,2140900,73,Medium,2026-09
+CP-4073,Bole,Water Network,Domestic,Planning,581224,371983,86,Low,2026-01
+CP-4074,Akaki,Reservoir Upgrade,Joint Venture,Procurement,671241,469869,13,Medium,2026-02
+CP-4075,Kirkos,Access Expansion,Municipal,Construction,761258,578556,26,High,2026-03
+CP-4076,Lideta,Water Network,Domestic,Testing,851275,698046,39,Low,2026-04
+CP-4077,Gullele,Reservoir Upgrade,Joint Venture,Planning,941292,828337,52,High,2026-05
+CP-4078,Nifas Silk,Access Expansion,Municipal,Procurement,1031309,288767,65,Low,2026-06
+CP-4079,Bole,Water Network,Domestic,Testing,1121326,381251,78,Medium,2026-07
+CP-4080,Akaki,Reservoir Upgrade,Joint Venture,Planning,1211343,484537,91,High,2026-08
+CP-4081,Kirkos,Access Expansion,Municipal,Procurement,1301360,598626,18,Medium,2026-09
+CP-4082,Lideta,Water Network,Domestic,Construction,1391377,723516,31,High,2026-01
+CP-4083,Gullele,Reservoir Upgrade,Joint Venture,Testing,1481394,859209,44,Low,2026-02
+CP-4084,Nifas Silk,Access Expansion,Municipal,Planning,1571411,1005703,57,Medium,2026-03
+CP-4085,Bole,Water Network,Domestic,Construction,1661428,1163000,70,Low,2026-04
+CP-4086,Akaki,Reservoir Upgrade,Joint Venture,Testing,1751445,1331098,83,Medium,2026-05
+CP-4087,Kirkos,Access Expansion,Municipal,Planning,1841462,1509999,10,High,2026-06
+CP-4088,Lideta,Water Network,Domestic,Procurement,1931479,1699702,23,Low,2026-07
+CP-4089,Gullele,Reservoir Upgrade,Joint Venture,Construction,2021496,566019,36,High,2026-08
+CP-4090,Nifas Silk,Access Expansion,Municipal,Testing,2111513,717914,49,Low,2026-09
+CP-4091,Bole,Water Network,Domestic,Procurement,2201530,880612,62,Medium,2026-01
+CP-4092,Akaki,Reservoir Upgrade,Joint Venture,Construction,2291547,1054112,75,High,2026-02
+CP-4093,Kirkos,Access Expansion,Municipal,Testing,2381564,1238413,88,Medium,2026-03
+CP-4094,Lideta,Water Network,Domestic,Planning,2471581,1433517,15,High,2026-04
+CP-4095,Gullele,Reservoir Upgrade,Joint Venture,Procurement,2561598,1639423,28,Low,2026-05
+CP-4096,Nifas Silk,Access Expansion,Municipal,Construction,2651615,1856130,41,Medium,2026-06
+CP-4097,Bole,Water Network,Domestic,Planning,2741632,2083640,54,Low,2026-07
+CP-4098,Akaki,Reservoir Upgrade,Joint Venture,Procurement,2831649,2321952,67,Medium,2026-08
+CP-4099,Kirkos,Access Expansion,Municipal,Construction,2921666,2571066,80,High,2026-09
+CP-4100,Lideta,Water Network,Domestic,Testing,3011683,843271,93,Low,2026-01
+CP-4101,Gullele,Reservoir Upgrade,Joint Venture,Planning,3101700,1054578,20,High,2026-02
+CP-4102,Nifas Silk,Access Expansion,Municipal,Procurement,3191717,1276687,33,Low,2026-03
+CP-4103,Bole,Water Network,Domestic,Testing,3281734,1509598,46,Medium,2026-04
+CP-4104,Akaki,Reservoir Upgrade,Joint Venture,Planning,3371751,1753311,59,High,2026-05
+CP-4105,Kirkos,Access Expansion,Municipal,Procurement,3461768,2007825,72,Medium,2026-06
+CP-4106,Lideta,Water Network,Domestic,Construction,3551785,2273142,85,High,2026-07
+CP-4107,Gullele,Reservoir Upgrade,Joint Venture,Testing,3641802,2549261,12,Low,2026-08
+CP-4108,Nifas Silk,Access Expansion,Municipal,Planning,531819,404182,25,Medium,2026-09
+CP-4109,Bole,Water Network,Domestic,Construction,621836,509906,38,Low,2026-01
+CP-4110,Akaki,Reservoir Upgrade,Joint Venture,Testing,711853,626431,51,Medium,2026-02
+CP-4111,Kirkos,Access Expansion,Municipal,Planning,801870,224524,64,High,2026-03
+CP-4112,Lideta,Water Network,Domestic,Procurement,891887,303242,77,Low,2026-04
+CP-4113,Gullele,Reservoir Upgrade,Joint Venture,Construction,981904,392762,90,High,2026-05
+CP-4114,Nifas Silk,Access Expansion,Municipal,Testing,1071921,493084,17,Low,2026-06
+CP-4115,Bole,Water Network,Domestic,Procurement,1161938,604208,30,Medium,2026-07
+CP-4116,Akaki,Reservoir Upgrade,Joint Venture,Construction,1251955,726134,43,High,2026-08
+CP-4117,Kirkos,Access Expansion,Municipal,Testing,1341972,858862,56,Medium,2026-09
+CP-4118,Lideta,Water Network,Domestic,Planning,1431989,1002392,69,High,2026-01
+CP-4119,Gullele,Reservoir Upgrade,Joint Venture,Procurement,1522006,1156725,82,Low,2026-02
+CP-4120,Nifas Silk,Access Expansion,Municipal,Construction,1612023,1321859,95,Medium,2026-03
+CP-4121,Bole,Water Network,Domestic,Planning,1702040,1497795,22,Low,2026-04
+CP-4122,Akaki,Reservoir Upgrade,Joint Venture,Procurement,1792057,501776,35,Medium,2026-05
+CP-4123,Kirkos,Access Expansion,Municipal,Construction,1882074,639905,48,High,2026-06
+CP-4124,Lideta,Water Network,Domestic,Testing,1972091,788836,61,Low,2026-07
+CP-4125,Gullele,Reservoir Upgrade,Joint Venture,Planning,2062108,948570,74,High,2026-08
+CP-4126,Nifas Silk,Access Expansion,Municipal,Procurement,2152125,1119105,87,Low,2026-09
+CP-4127,Bole,Water Network,Domestic,Testing,2242142,1300442,14,Medium,2026-01
+CP-4128,Akaki,Reservoir Upgrade,Joint Venture,Planning,2332159,1492582,27,High,2026-02
+CP-4129,Kirkos,Access Expansion,Municipal,Procurement,2422176,1695523,40,Medium,2026-03
+CP-4130,Lideta,Water Network,Domestic,Construction,2512193,1909267,53,High,2026-04
+CP-4131,Gullele,Reservoir Upgrade,Joint Venture,Testing,2602210,2133812,66,Low,2026-05
+CP-4132,Nifas Silk,Access Expansion,Municipal,Planning,2692227,2369160,79,Medium,2026-06
+CP-4133,Bole,Water Network,Domestic,Construction,2782244,779028,92,Low,2026-07
+CP-4134,Akaki,Reservoir Upgrade,Joint Venture,Testing,2872261,976569,19,Medium,2026-08
+CP-4135,Kirkos,Access Expansion,Municipal,Planning,2962278,1184911,32,High,2026-09
+CP-4136,Lideta,Water Network,Domestic,Procurement,3052295,1404056,45,Low,2026-01
+CP-4137,Gullele,Reservoir Upgrade,Joint Venture,Construction,3142312,1634002,58,High,2026-02
+CP-4138,Nifas Silk,Access Expansion,Municipal,Testing,3232329,1874751,71,Low,2026-03
+CP-4139,Bole,Water Network,Domestic,Procurement,3322346,2126301,84,Medium,2026-04
+CP-4140,Akaki,Reservoir Upgrade,Joint Venture,Construction,3412363,2388654,11,High,2026-05
+CP-4141,Kirkos,Access Expansion,Municipal,Testing,3502380,2661809,24,Medium,2026-06
+CP-4142,Lideta,Water Network,Domestic,Planning,3592397,2945766,37,High,2026-07
+CP-4143,Gullele,Reservoir Upgrade,Joint Venture,Procurement,3682414,3240524,50,Low,2026-08
+CP-4144,Nifas Silk,Access Expansion,Municipal,Construction,572431,160281,63,Medium,2026-09
