@@ -1,0 +1,161 @@
+project_id,zone,project_type,budget_etb,actual_spend_etb,planned_progress_pct,actual_progress_pct,risk_level,contractor_type,reporting_period,schedule_gap_pp
+S4-PR-001,Arada,Pipe replacement,4462313,30890877,39,31,High,Contracted,2026-Q3,-8
+S4-PR-002,Addis Ketema,Reservoir maintenance,37258789,28267959,58,47,Medium,Contracted,2026-Q3,-11
+S4-PR-003,Bole,Reservoir maintenance,12933547,15162146,44,15,Low,In-house,2026-Q3,-29
+S4-PR-004,Gullele,Pump upgrade,24790107,13217636,93,68,High,Contracted,2026-Q3,-25
+S4-PR-005,Arada,Reservoir maintenance,34982430,1378808,82,18,Low,In-house,2026-Q3,-64
+S4-PR-006,Kirkos,Network extension,17926241,25071630,94,64,High,In-house,2026-Q3,-30
+S4-PR-007,Bole,Pump upgrade,15750857,14620727,53,65,High,Contracted,2026-Q3,12
+S4-PR-008,Arada,Pipe replacement,5474311,14262696,82,12,High,In-house,2026-Q3,-70
+S4-PR-009,Kirkos,Pipe replacement,31525891,23709840,37,50,Medium,Contracted,2026-Q3,13
+S4-PR-010,Kolfe Keranio,Pipe replacement,9379519,4144521,38,55,Medium,In-house,2026-Q3,17
+S4-PR-011,Gullele,Network extension,31471853,1449258,55,71,High,Contracted,2026-Q3,16
+S4-PR-012,Kolfe Keranio,Network extension,1117491,17767134,77,43,Medium,In-house,2026-Q3,-34
+S4-PR-013,Arada,Pump upgrade,7832320,7184598,49,39,Medium,In-house,2026-Q3,-10
+S4-PR-014,Nifas Silk-Lafto,Network extension,28777372,20711555,81,23,Medium,In-house,2026-Q3,-58
+S4-PR-015,Addis Ketema,Reservoir maintenance,9762987,17928489,36,52,Low,In-house,2026-Q3,16
+S4-PR-016,Arada,Reservoir maintenance,22732742,30308128,34,28,Low,In-house,2026-Q3,-6
+S4-PR-017,Nifas Silk-Lafto,Reservoir maintenance,33289902,14054011,98,92,Medium,Contracted,2026-Q3,-6
+S4-PR-018,Addis Ketema,Network extension,14578867,6345662,27,65,High,Contracted,2026-Q3,38
+S4-PR-019,Kolfe Keranio,Network extension,28666926,8628238,50,83,Medium,Contracted,2026-Q3,33
+S4-PR-020,Gullele,Reservoir maintenance,26463703,9276008,83,97,Medium,Contracted,2026-Q3,14
+S4-PR-021,Arada,Network extension,10122828,13990650,47,13,High,In-house,2026-Q3,-34
+S4-PR-022,Gullele,Reservoir maintenance,30066660,24988743,91,83,Medium,Contracted,2026-Q3,-8
+S4-PR-023,Kolfe Keranio,Pipe replacement,26107229,17121847,55,18,Medium,Contracted,2026-Q3,-37
+S4-PR-024,Kolfe Keranio,Pump upgrade,20655452,11800290,33,24,Medium,Contracted,2026-Q3,-9
+S4-PR-025,Arada,Pump upgrade,19810973,12262902,69,81,Low,Contracted,2026-Q3,12
+S4-PR-026,Gullele,Pipe replacement,7998873,18381119,59,68,Medium,Contracted,2026-Q3,9
+S4-PR-027,Bole,Reservoir maintenance,3173852,24392655,28,68,Low,Contracted,2026-Q3,40
+S4-PR-028,Arada,Reservoir maintenance,21166975,15931136,73,83,Medium,Contracted,2026-Q3,10
+S4-PR-029,Addis Ketema,Reservoir maintenance,14795273,7273324,89,82,Medium,Contracted,2026-Q3,-7
+S4-PR-030,Kirkos,Reservoir maintenance,19351357,23831229,64,24,Low,In-house,2026-Q3,-40
+S4-PR-031,Akaki Kality,Pump upgrade,17150439,22516439,75,59,Medium,Contracted,2026-Q3,-16
+S4-PR-032,Nifas Silk-Lafto,Reservoir maintenance,23785296,17566413,27,57,Low,Contracted,2026-Q3,30
+S4-PR-033,Kolfe Keranio,Reservoir maintenance,32868971,8171217,34,17,Low,In-house,2026-Q3,-17
+S4-PR-034,Kolfe Keranio,Pump upgrade,15497980,30151281,45,19,Medium,In-house,2026-Q3,-26
+S4-PR-035,Kolfe Keranio,Pipe replacement,9036125,29728743,90,31,Low,In-house,2026-Q3,-59
+S4-PR-036,Kolfe Keranio,Pump upgrade,15666735,21947245,37,22,Medium,Contracted,2026-Q3,-15
+S4-PR-037,Kolfe Keranio,Pump upgrade,37138290,8837830,53,69,Low,Contracted,2026-Q3,16
+S4-PR-038,Nifas Silk-Lafto,Pipe replacement,26258159,23371177,51,45,Medium,Contracted,2026-Q3,-6
+S4-PR-039,Arada,Pipe replacement,14258507,16417067,70,53,Medium,Contracted,2026-Q3,-17
+S4-PR-040,Arada,Network extension,9898187,22177291,91,10,Medium,Contracted,2026-Q3,-81
+S4-PR-041,Arada,Pump upgrade,23249223,27564125,65,30,Medium,Contracted,2026-Q3,-35
+S4-PR-042,Kolfe Keranio,Network extension,26331245,1257650,29,53,Medium,Contracted,2026-Q3,24
+S4-PR-043,Kirkos,Reservoir maintenance,9798326,14257707,40,49,Medium,Contracted,2026-Q3,9
+S4-PR-044,Nifas Silk-Lafto,Network extension,16289947,16279139,26,54,Low,In-house,2026-Q3,28
+S4-PR-045,Addis Ketema,Pipe replacement,19181218,20244858,29,79,High,Contracted,2026-Q3,50
+S4-PR-046,Akaki Kality,Reservoir maintenance,14824216,18393439,83,10,Low,Contracted,2026-Q3,-73
+S4-PR-047,Nifas Silk-Lafto,Network extension,14427122,7854648,41,96,Low,In-house,2026-Q3,55
+S4-PR-048,Gullele,Pipe replacement,36171891,8434503,75,26,Low,In-house,2026-Q3,-49
+S4-PR-049,Gullele,Network extension,33163156,24283522,70,31,Low,Contracted,2026-Q3,-39
+S4-PR-050,Kirkos,Pipe replacement,22005099,7792465,90,19,Low,Contracted,2026-Q3,-71
+S4-PR-051,Bole,Network extension,22499181,31391151,27,28,Medium,Contracted,2026-Q3,1
+S4-PR-052,Nifas Silk-Lafto,Pump upgrade,15303630,21204180,71,66,Low,In-house,2026-Q3,-5
+S4-PR-053,Bole,Network extension,27285266,32943276,42,77,Medium,Contracted,2026-Q3,35
+S4-PR-054,Bole,Network extension,31184414,3793104,94,26,High,In-house,2026-Q3,-68
+S4-PR-055,Gullele,Pipe replacement,7470865,18788790,51,97,Low,Contracted,2026-Q3,46
+S4-PR-056,Kolfe Keranio,Pipe replacement,2433567,4764075,97,65,Medium,Contracted,2026-Q3,-32
+S4-PR-057,Addis Ketema,Pump upgrade,28954078,11353565,67,90,Low,Contracted,2026-Q3,23
+S4-PR-058,Nifas Silk-Lafto,Pipe replacement,28617616,11797831,84,66,Medium,In-house,2026-Q3,-18
+S4-PR-059,Gullele,Reservoir maintenance,29192784,20469833,84,39,Medium,Contracted,2026-Q3,-45
+S4-PR-060,Arada,Reservoir maintenance,8998336,1791900,44,51,Medium,Contracted,2026-Q3,7
+S4-PR-061,Bole,Pipe replacement,16783166,2420232,42,81,Medium,Contracted,2026-Q3,39
+S4-PR-062,Addis Ketema,Pipe replacement,6744365,21786620,62,85,Low,Contracted,2026-Q3,23
+S4-PR-063,Gullele,Reservoir maintenance,6861643,4296649,70,96,Low,Contracted,2026-Q3,26
+S4-PR-064,Addis Ketema,Network extension,24784251,10822280,88,19,Medium,Contracted,2026-Q3,-69
+S4-PR-065,Kolfe Keranio,Pump upgrade,17040233,1156561,64,62,High,Contracted,2026-Q3,-2
+S4-PR-066,Akaki Kality,Reservoir maintenance,22061080,9169514,68,71,High,Contracted,2026-Q3,3
+S4-PR-067,Arada,Pump upgrade,27204596,30080607,34,44,Low,Contracted,2026-Q3,10
+S4-PR-068,Bole,Pump upgrade,6623012,10736042,69,33,Medium,In-house,2026-Q3,-36
+S4-PR-069,Kirkos,Pipe replacement,35803587,20750435,30,44,Medium,Contracted,2026-Q3,14
+S4-PR-070,Addis Ketema,Network extension,15015173,32955670,61,46,Medium,Contracted,2026-Q3,-15
+S4-PR-071,Nifas Silk-Lafto,Network extension,18830082,31045551,90,22,Medium,Contracted,2026-Q3,-68
+S4-PR-072,Addis Ketema,Pipe replacement,35086704,8010416,82,89,Medium,Contracted,2026-Q3,7
+S4-PR-073,Nifas Silk-Lafto,Pump upgrade,33427632,27415756,81,28,Low,Contracted,2026-Q3,-53
+S4-PR-074,Akaki Kality,Pump upgrade,30339760,29903306,98,62,Low,Contracted,2026-Q3,-36
+S4-PR-075,Addis Ketema,Reservoir maintenance,17094434,24245568,46,57,High,Contracted,2026-Q3,11
+S4-PR-076,Arada,Pump upgrade,32357419,598697,81,88,Medium,Contracted,2026-Q3,7
+S4-PR-077,Arada,Network extension,26921205,16936260,32,52,Medium,Contracted,2026-Q3,20
+S4-PR-078,Gullele,Pump upgrade,34830974,7801193,81,38,Medium,Contracted,2026-Q3,-43
+S4-PR-079,Akaki Kality,Pump upgrade,17936524,13129044,46,54,Low,In-house,2026-Q3,8
+S4-PR-080,Bole,Network extension,26678426,30141076,54,30,Medium,Contracted,2026-Q3,-24
+S4-PR-081,Gullele,Reservoir maintenance,11604001,4008541,79,15,Medium,Contracted,2026-Q3,-64
+S4-PR-082,Gullele,Reservoir maintenance,27850403,23859333,43,21,Medium,In-house,2026-Q3,-22
+S4-PR-083,Arada,Pump upgrade,35960612,23658835,71,39,High,Contracted,2026-Q3,-32
+S4-PR-084,Arada,Network extension,11182928,6009504,70,20,Medium,Contracted,2026-Q3,-50
+S4-PR-085,Bole,Pipe replacement,37571431,7111146,69,20,Medium,Contracted,2026-Q3,-49
+S4-PR-086,Kolfe Keranio,Network extension,29407685,6794977,41,57,High,Contracted,2026-Q3,16
+S4-PR-087,Kolfe Keranio,Network extension,5522612,19205707,92,85,Medium,Contracted,2026-Q3,-7
+S4-PR-088,Arada,Pipe replacement,27122799,8474355,49,100,Medium,Contracted,2026-Q3,51
+S4-PR-089,Addis Ketema,Pump upgrade,19127385,10759679,74,57,Medium,In-house,2026-Q3,-17
+S4-PR-090,Addis Ketema,Pump upgrade,5051821,20922705,84,29,Low,Contracted,2026-Q3,-55
+S4-PR-091,Addis Ketema,Pump upgrade,37981364,6919170,48,77,Medium,Contracted,2026-Q3,29
+S4-PR-092,Bole,Pipe replacement,30483468,22737437,43,45,Low,In-house,2026-Q3,2
+S4-PR-093,Bole,Network extension,22764964,30443591,35,89,Medium,Contracted,2026-Q3,54
+S4-PR-094,Nifas Silk-Lafto,Pipe replacement,30904652,25450764,80,37,Low,In-house,2026-Q3,-43
+S4-PR-095,Kolfe Keranio,Pump upgrade,20048497,11470341,75,38,Low,In-house,2026-Q3,-37
+S4-PR-096,Arada,Pipe replacement,5302427,10115673,73,80,Low,In-house,2026-Q3,7
+S4-PR-097,Arada,Pump upgrade,2151239,20348444,89,80,Low,In-house,2026-Q3,-9
+S4-PR-098,Nifas Silk-Lafto,Network extension,4071852,23203361,91,49,Low,Contracted,2026-Q3,-42
+S4-PR-099,Arada,Network extension,30891758,7367538,35,73,High,Contracted,2026-Q3,38
+S4-PR-100,Addis Ketema,Reservoir maintenance,33358624,1645579,94,17,Medium,Contracted,2026-Q3,-77
+S4-PR-101,Nifas Silk-Lafto,Pump upgrade,9270692,12537004,47,60,Medium,Contracted,2026-Q3,13
+S4-PR-102,Arada,Pump upgrade,6501835,19350242,64,53,Medium,Contracted,2026-Q3,-11
+S4-PR-103,Arada,Reservoir maintenance,9602990,7868292,49,63,Low,Contracted,2026-Q3,14
+S4-PR-104,Kirkos,Reservoir maintenance,11884006,18698642,53,23,Medium,Contracted,2026-Q3,-30
+S4-PR-105,Akaki Kality,Pipe replacement,18632012,28196187,70,44,High,Contracted,2026-Q3,-26
+S4-PR-106,Bole,Reservoir maintenance,36780240,5892678,64,64,High,Contracted,2026-Q3,0
+S4-PR-107,Akaki Kality,Pump upgrade,18659440,9824690,77,65,Low,Contracted,2026-Q3,-12
+S4-PR-108,Kirkos,Pipe replacement,35079772,7467865,85,58,Low,Contracted,2026-Q3,-27
+S4-PR-109,Bole,Pump upgrade,25403382,5834301,98,79,Low,Contracted,2026-Q3,-19
+S4-PR-110,Addis Ketema,Network extension,14700320,23507409,39,53,Low,In-house,2026-Q3,14
+S4-PR-111,Nifas Silk-Lafto,Pipe replacement,4341479,7447881,54,72,Medium,Contracted,2026-Q3,18
+S4-PR-112,Kolfe Keranio,Pump upgrade,32540414,7064109,76,32,Low,In-house,2026-Q3,-44
+S4-PR-113,Kirkos,Pump upgrade,9730457,17064572,25,98,High,In-house,2026-Q3,73
+S4-PR-114,Gullele,Pump upgrade,35928205,23822593,60,96,Low,In-house,2026-Q3,36
+S4-PR-115,Bole,Pipe replacement,29750003,20544426,92,98,High,In-house,2026-Q3,6
+S4-PR-116,Gullele,Reservoir maintenance,2925437,1247773,100,43,Low,Contracted,2026-Q3,-57
+S4-PR-117,Bole,Network extension,15238427,10269254,43,13,Medium,In-house,2026-Q3,-30
+S4-PR-118,Addis Ketema,Pipe replacement,37502912,30420138,50,23,High,Contracted,2026-Q3,-27
+S4-PR-119,Kolfe Keranio,Pump upgrade,4381320,16641437,99,59,Medium,Contracted,2026-Q3,-40
+S4-PR-120,Gullele,Pipe replacement,30806056,3012484,59,88,Low,Contracted,2026-Q3,29
+S4-PR-121,Nifas Silk-Lafto,Pump upgrade,9558651,25110779,65,72,High,Contracted,2026-Q3,7
+S4-PR-122,Addis Ketema,Reservoir maintenance,9352461,5516014,78,40,Medium,Contracted,2026-Q3,-38
+S4-PR-123,Nifas Silk-Lafto,Network extension,32211115,2127059,96,23,High,In-house,2026-Q3,-73
+S4-PR-124,Gullele,Reservoir maintenance,33453476,9302946,26,76,High,Contracted,2026-Q3,50
+S4-PR-125,Kirkos,Pipe replacement,2438688,26631513,75,25,Medium,In-house,2026-Q3,-50
+S4-PR-126,Akaki Kality,Reservoir maintenance,16641588,13038356,47,88,Low,Contracted,2026-Q3,41
+S4-PR-127,Kirkos,Network extension,8677275,11825732,27,66,Medium,Contracted,2026-Q3,39
+S4-PR-128,Arada,Network extension,24123462,30821931,30,15,Low,Contracted,2026-Q3,-15
+S4-PR-129,Bole,Pipe replacement,25898329,28381925,30,95,Medium,In-house,2026-Q3,65
+S4-PR-130,Kirkos,Network extension,32822051,24928825,87,85,Medium,Contracted,2026-Q3,-2
+S4-PR-131,Kolfe Keranio,Network extension,23298092,21434702,65,98,High,In-house,2026-Q3,33
+S4-PR-132,Nifas Silk-Lafto,Pump upgrade,24898529,13784556,41,86,High,Contracted,2026-Q3,45
+S4-PR-133,Kolfe Keranio,Reservoir maintenance,28353850,32112159,97,70,Low,Contracted,2026-Q3,-27
+S4-PR-134,Nifas Silk-Lafto,Pipe replacement,13547686,25884072,50,44,Low,Contracted,2026-Q3,-6
+S4-PR-135,Gullele,Pump upgrade,13108457,17893826,39,93,High,In-house,2026-Q3,54
+S4-PR-136,Gullele,Reservoir maintenance,35935243,31496155,94,55,Low,In-house,2026-Q3,-39
+S4-PR-137,Nifas Silk-Lafto,Pump upgrade,20178972,9218172,61,18,Low,In-house,2026-Q3,-43
+S4-PR-138,Akaki Kality,Pipe replacement,27977194,31357323,52,53,High,Contracted,2026-Q3,1
+S4-PR-139,Nifas Silk-Lafto,Network extension,11849968,21737539,53,23,Low,Contracted,2026-Q3,-30
+S4-PR-140,Gullele,Pipe replacement,22947983,9111310,65,55,Low,In-house,2026-Q3,-10
+S4-PR-141,Gullele,Network extension,4436175,2636387,38,77,Low,In-house,2026-Q3,39
+S4-PR-142,Arada,Pipe replacement,6873561,15067788,36,61,Low,Contracted,2026-Q3,25
+S4-PR-143,Nifas Silk-Lafto,Network extension,25476926,11035605,34,12,High,In-house,2026-Q3,-22
+S4-PR-144,Nifas Silk-Lafto,Reservoir maintenance,24423776,17538180,73,73,Low,Contracted,2026-Q3,0
+S4-PR-145,Kirkos,Network extension,7197951,13979282,98,91,Medium,Contracted,2026-Q3,-7
+S4-PR-146,Addis Ketema,Pipe replacement,8139821,19466909,38,68,Low,In-house,2026-Q3,30
+S4-PR-147,Kolfe Keranio,Pipe replacement,12672401,10103296,91,85,Medium,Contracted,2026-Q3,-6
+S4-PR-148,Bole,Pump upgrade,27750728,15641698,63,42,Medium,Contracted,2026-Q3,-21
+S4-PR-149,Kirkos,Reservoir maintenance,12764435,3659770,30,76,Low,In-house,2026-Q3,46
+S4-PR-150,Nifas Silk-Lafto,Pump upgrade,26587187,6102791,30,22,Low,In-house,2026-Q3,-8
+S4-PR-151,Arada,Pump upgrade,4072891,20828066,27,27,High,Contracted,2026-Q3,0
+S4-PR-152,Nifas Silk-Lafto,Pump upgrade,30419404,8792108,37,33,Medium,In-house,2026-Q3,-4
+S4-PR-153,Kolfe Keranio,Reservoir maintenance,34811363,16618973,44,80,Low,Contracted,2026-Q3,36
+S4-PR-154,Kirkos,Reservoir maintenance,15338034,1564705,53,66,High,Contracted,2026-Q3,13
+S4-PR-155,Bole,Reservoir maintenance,28616491,21238224,92,45,Low,In-house,2026-Q3,-47
+S4-PR-156,Gullele,Reservoir maintenance,27946048,30141262,86,71,High,Contracted,2026-Q3,-15
+S4-PR-157,Addis Ketema,Pipe replacement,36644073,20019368,39,53,Low,Contracted,2026-Q3,14
+S4-PR-158,Kirkos,Pipe replacement,6306424,20544763,52,64,Low,In-house,2026-Q3,12
+S4-PR-159,Bole,Reservoir maintenance,31205671,32719591,53,23,High,Contracted,2026-Q3,-30
+S4-PR-160,Arada,Network extension,16316478,31563062,75,42,Low,In-house,2026-Q3,-33

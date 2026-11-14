@@ -1,0 +1,1801 @@
+ticket_id,opened_date,month,zone,service_type,priority,status,channel,resolution_hours,crew_type,customer_type
+S4-TK-00001,2026-09-11,2026-09,Kolfe Keranio,Low pressure,Medium,Closed,Call center,12.7,Repair crew,Residential
+S4-TK-00002,2026-07-02,2026-07,Nifas Silk-Lafto,Pipe leak,Low,Open,Walk-in,,Network team,Commercial
+S4-TK-00003,2026-07-30,2026-07,Addis Ketema,Pipe leak,Medium,Closed,Field report,33.6,Repair crew,Residential
+S4-TK-00004,2026-04-25,2026-04,Gullele,Valve failure,High,Closed,Mobile app,33.1,Customer service,Commercial
+S4-TK-00005,2026-06-18,2026-06,Kirkos,Low pressure,Low,Closed,Call center,63.2,Customer service,Residential
+S4-TK-00006,2026-01-16,2026-01,Gullele,Valve failure,Medium,Closed,Call center,33.4,Repair crew,Residential
+S4-TK-00007,2026-04-04,2026-04,Bole,Pipe leak,Low,Closed,Walk-in,28.6,Repair crew,Residential
+S4-TK-00008,2026-09-18,2026-09,Akaki Kality,Meter issue,Medium,Open,Call center,,Network team,Institutional
+S4-TK-00009,2026-01-28,2026-01,Nifas Silk-Lafto,Burst main,Urgent,Closed,Call center,1.6,Repair crew,Residential
+S4-TK-00010,2026-06-28,2026-06,Arada,Low pressure,High,Open,Walk-in,,Repair crew,Residential
+S4-TK-00011,2026-08-28,2026-08,Arada,Pipe leak,Medium,Closed,Field report,16,Repair crew,Institutional
+S4-TK-00012,2026-09-19,2026-09,Arada,Pipe leak,Medium,Closed,Call center,9.6,Network team,Residential
+S4-TK-00013,2026-07-13,2026-07,Bole,Pipe leak,Medium,Closed,Call center,18.9,Network team,Residential
+S4-TK-00014,2026-05-30,2026-05,Kolfe Keranio,Low pressure,Medium,Closed,Field report,58.7,Repair crew,Commercial
+S4-TK-00015,2026-05-08,2026-05,Addis Ketema,Meter issue,Medium,Closed,Call center,27.7,Repair crew,Residential
+S4-TK-00016,2026-08-06,2026-08,Bole,Pipe leak,Medium,Closed,Walk-in,22.4,Repair crew,Residential
+S4-TK-00017,2026-03-19,2026-03,Kirkos,Valve failure,Low,Closed,Mobile app,8.7,Repair crew,Residential
+S4-TK-00018,2026-05-07,2026-05,Akaki Kality,Water quality,High,Closed,Field report,16.2,Network team,Residential
+S4-TK-00019,2026-06-28,2026-06,Kolfe Keranio,Low pressure,Medium,Closed,Call center,32.2,Network team,Commercial
+S4-TK-00020,2026-09-28,2026-09,Arada,Low pressure,High,Closed,Mobile app,31.8,Repair crew,Residential
+S4-TK-00021,2026-01-31,2026-01,Gullele,Burst main,Urgent,Closed,Walk-in,16.5,Repair crew,Residential
+S4-TK-00022,2026-07-17,2026-07,Akaki Kality,Pipe leak,High,Closed,Call center,14.9,Network team,Residential
+S4-TK-00023,2026-08-04,2026-08,Akaki Kality,Valve failure,Low,Closed,Field report,35,Repair crew,Commercial
+S4-TK-00024,2026-08-26,2026-08,Kirkos,Valve failure,Medium,Escalated,Mobile app,,Network team,Commercial
+S4-TK-00025,2026-07-13,2026-07,Arada,Low pressure,Medium,Closed,Mobile app,33.1,Repair crew,Residential
+S4-TK-00026,2026-05-17,2026-05,Nifas Silk-Lafto,Pipe leak,High,Closed,Walk-in,13.9,Network team,Residential
+S4-TK-00027,2026-01-28,2026-01,Arada,Pipe leak,Medium,Open,Walk-in,,Repair crew,Residential
+S4-TK-00028,2026-09-05,2026-09,Nifas Silk-Lafto,Pipe leak,Medium,Closed,Field report,48.3,Customer service,Residential
+S4-TK-00029,2026-08-30,2026-08,Arada,Valve failure,Low,Closed,Call center,60.4,Repair crew,Residential
+S4-TK-00030,2026-01-14,2026-01,Kolfe Keranio,Pipe leak,High,Closed,Mobile app,21.3,Repair crew,Residential
+S4-TK-00031,2026-09-09,2026-09,Kirkos,Pipe leak,Medium,Closed,Call center,66.4,Customer service,Residential
+S4-TK-00032,2026-04-20,2026-04,Nifas Silk-Lafto,Valve failure,Medium,Open,Field report,,Network team,Institutional
+S4-TK-00033,2026-06-11,2026-06,Arada,Meter issue,Medium,Closed,Mobile app,32.3,Network team,Residential
+S4-TK-00034,2026-06-11,2026-06,Kirkos,Pipe leak,Medium,Closed,Walk-in,25.4,Repair crew,Commercial
+S4-TK-00035,2026-04-08,2026-04,Bole,Pipe leak,Medium,Closed,Walk-in,36.2,Network team,Residential
+S4-TK-00036,2026-01-14,2026-01,Bole,Water quality,High,Open,Walk-in,,Repair crew,Residential
+S4-TK-00037,2026-06-21,2026-06,Addis Ketema,Valve failure,Medium,Escalated,Walk-in,,Repair crew,Residential
+S4-TK-00038,2026-03-28,2026-03,Addis Ketema,Pipe leak,Medium,Closed,Walk-in,53.3,Network team,Residential
+S4-TK-00039,2026-06-06,2026-06,Gullele,Pipe leak,Medium,Closed,Mobile app,7.1,Repair crew,Residential
+S4-TK-00040,2026-05-19,2026-05,Akaki Kality,Meter issue,Medium,Closed,Mobile app,24.5,Network team,Residential
+S4-TK-00041,2026-06-07,2026-06,Addis Ketema,Low pressure,Medium,Closed,Field report,27.1,Network team,Commercial
+S4-TK-00042,2026-07-30,2026-07,Addis Ketema,Low pressure,Medium,Closed,Call center,5.7,Customer service,Commercial
+S4-TK-00043,2026-06-26,2026-06,Akaki Kality,Low pressure,High,Open,Call center,,Repair crew,Residential
+S4-TK-00044,2026-06-07,2026-06,Akaki Kality,Burst main,High,Open,Mobile app,,Network team,Residential
+S4-TK-00045,2026-01-17,2026-01,Arada,Meter issue,Low,Open,Field report,,Network team,Residential
+S4-TK-00046,2026-09-29,2026-09,Arada,Pipe leak,Medium,Escalated,Field report,,Repair crew,Commercial
+S4-TK-00047,2026-05-10,2026-05,Kirkos,Pipe leak,Low,Closed,Walk-in,25.2,Repair crew,Residential
+S4-TK-00048,2026-08-07,2026-08,Arada,Pipe leak,High,Closed,Mobile app,8.5,Repair crew,Commercial
+S4-TK-00049,2026-03-21,2026-03,Bole,Pipe leak,High,Closed,Field report,43.1,Repair crew,Residential
+S4-TK-00050,2026-07-27,2026-07,Kolfe Keranio,Pipe leak,Medium,Closed,Field report,31,Repair crew,Residential
+S4-TK-00051,2026-02-04,2026-02,Gullele,Valve failure,Medium,Open,Call center,,Network team,Residential
+S4-TK-00052,2026-03-04,2026-03,Addis Ketema,Pipe leak,Medium,Closed,Field report,32.1,Repair crew,Residential
+S4-TK-00053,2026-02-25,2026-02,Kirkos,Pipe leak,Low,Closed,Call center,44.2,Customer service,Institutional
+S4-TK-00054,2026-04-06,2026-04,Addis Ketema,Pipe leak,Medium,Closed,Mobile app,14.9,Repair crew,Commercial
+S4-TK-00055,2026-05-24,2026-05,Bole,Low pressure,High,Closed,Field report,9.6,Customer service,Residential
+S4-TK-00056,2026-06-26,2026-06,Bole,Meter issue,Medium,Escalated,Mobile app,,Repair crew,Residential
+S4-TK-00057,2026-06-05,2026-06,Gullele,Pipe leak,High,Open,Mobile app,,Repair crew,Institutional
+S4-TK-00058,2026-01-10,2026-01,Gullele,Meter issue,Low,Closed,Mobile app,36.5,Repair crew,Residential
+S4-TK-00059,2026-01-22,2026-01,Nifas Silk-Lafto,Meter issue,Medium,Closed,Field report,34.4,Repair crew,Commercial
+S4-TK-00060,2026-07-03,2026-07,Nifas Silk-Lafto,Burst main,High,Closed,Field report,44.5,Customer service,Residential
+S4-TK-00061,2026-01-30,2026-01,Kolfe Keranio,Low pressure,Medium,Open,Call center,,Repair crew,Institutional
+S4-TK-00062,2026-01-09,2026-01,Arada,Pipe leak,Low,Escalated,Walk-in,,Network team,Institutional
+S4-TK-00063,2026-09-13,2026-09,Addis Ketema,Burst main,High,Closed,Walk-in,35.8,Repair crew,Commercial
+S4-TK-00064,2026-09-15,2026-09,Arada,Water quality,High,Open,Call center,,Network team,Institutional
+S4-TK-00065,2026-07-03,2026-07,Addis Ketema,Meter issue,High,Open,Mobile app,,Customer service,Commercial
+S4-TK-00066,2026-07-03,2026-07,Akaki Kality,Burst main,High,Closed,Call center,47.6,Network team,Residential
+S4-TK-00067,2026-03-25,2026-03,Arada,Pipe leak,Medium,Closed,Mobile app,9.1,Repair crew,Commercial
+S4-TK-00068,2026-01-05,2026-01,Nifas Silk-Lafto,Valve failure,Medium,Closed,Mobile app,29.7,Repair crew,Residential
+S4-TK-00069,2026-01-08,2026-01,Addis Ketema,Meter issue,Medium,Closed,Call center,37.3,Network team,Residential
+S4-TK-00070,2026-08-09,2026-08,Addis Ketema,Burst main,Urgent,Closed,Mobile app,32.1,Repair crew,Residential
+S4-TK-00071,2026-02-16,2026-02,Kolfe Keranio,Pipe leak,High,Open,Call center,,Repair crew,Residential
+S4-TK-00072,2026-08-04,2026-08,Kolfe Keranio,Pipe leak,Medium,Open,Field report,,Network team,Residential
+S4-TK-00073,2026-01-08,2026-01,Bole,Valve failure,Low,Closed,Mobile app,31,Repair crew,Institutional
+S4-TK-00074,2026-09-13,2026-09,Nifas Silk-Lafto,Meter issue,High,Closed,Mobile app,35.3,Network team,Residential
+S4-TK-00075,2026-05-05,2026-05,Nifas Silk-Lafto,Meter issue,Medium,Open,Mobile app,,Customer service,Residential
+S4-TK-00076,2026-08-08,2026-08,Arada,Pipe leak,High,Closed,Mobile app,17.6,Repair crew,Commercial
+S4-TK-00077,2026-01-30,2026-01,Nifas Silk-Lafto,Valve failure,High,Closed,Call center,50.9,Repair crew,Residential
+S4-TK-00078,2026-02-08,2026-02,Kolfe Keranio,Valve failure,Medium,Closed,Call center,28.2,Network team,Residential
+S4-TK-00079,2026-03-27,2026-03,Kolfe Keranio,Pipe leak,Low,Closed,Call center,87.5,Network team,Residential
+S4-TK-00080,2026-05-16,2026-05,Kirkos,Water quality,High,Closed,Call center,24.2,Repair crew,Residential
+S4-TK-00081,2026-03-02,2026-03,Nifas Silk-Lafto,Low pressure,Medium,Closed,Walk-in,53.9,Repair crew,Residential
+S4-TK-00082,2026-05-25,2026-05,Kirkos,Valve failure,Medium,Open,Call center,,Repair crew,Institutional
+S4-TK-00083,2026-02-02,2026-02,Addis Ketema,Water quality,Urgent,Closed,Call center,13.1,Network team,Residential
+S4-TK-00084,2026-07-04,2026-07,Akaki Kality,Pipe leak,High,Closed,Walk-in,32.4,Repair crew,Commercial
+S4-TK-00085,2026-07-22,2026-07,Gullele,Meter issue,Medium,Closed,Mobile app,25,Repair crew,Residential
+S4-TK-00086,2026-06-27,2026-06,Nifas Silk-Lafto,Low pressure,Medium,Closed,Walk-in,12.3,Repair crew,Institutional
+S4-TK-00087,2026-09-20,2026-09,Kolfe Keranio,Low pressure,Low,Closed,Call center,11.5,Repair crew,Residential
+S4-TK-00088,2026-09-25,2026-09,Akaki Kality,Pipe leak,High,Closed,Mobile app,6.2,Repair crew,Residential
+S4-TK-00089,2026-03-16,2026-03,Akaki Kality,Low pressure,Medium,Closed,Call center,58.7,Repair crew,Commercial
+S4-TK-00090,2026-03-24,2026-03,Nifas Silk-Lafto,Valve failure,Medium,Closed,Mobile app,11.9,Network team,Residential
+S4-TK-00091,2026-09-06,2026-09,Bole,Water quality,High,Open,Call center,,Customer service,Residential
+S4-TK-00092,2026-09-17,2026-09,Bole,Pipe leak,Low,Closed,Mobile app,32.2,Network team,Commercial
+S4-TK-00093,2026-07-14,2026-07,Bole,Pipe leak,Low,Closed,Field report,58,Repair crew,Institutional
+S4-TK-00094,2026-08-10,2026-08,Kolfe Keranio,Pipe leak,Medium,Escalated,Walk-in,,Repair crew,Residential
+S4-TK-00095,2026-07-22,2026-07,Akaki Kality,Low pressure,High,Closed,Mobile app,12.1,Network team,Residential
+S4-TK-00096,2026-05-09,2026-05,Addis Ketema,Pipe leak,Low,Closed,Call center,62.5,Repair crew,Residential
+S4-TK-00097,2026-09-01,2026-09,Bole,Meter issue,Low,Escalated,Walk-in,,Network team,Commercial
+S4-TK-00098,2026-06-24,2026-06,Kolfe Keranio,Valve failure,Medium,Closed,Call center,18.1,Customer service,Residential
+S4-TK-00099,2026-02-01,2026-02,Gullele,Valve failure,High,Closed,Mobile app,17.6,Customer service,Residential
+S4-TK-00100,2026-03-29,2026-03,Gullele,Low pressure,Medium,Closed,Mobile app,77.4,Customer service,Residential
+S4-TK-00101,2026-04-30,2026-04,Gullele,Valve failure,Low,Closed,Call center,41.9,Repair crew,Residential
+S4-TK-00102,2026-06-12,2026-06,Nifas Silk-Lafto,Low pressure,Medium,Closed,Field report,30.4,Repair crew,Residential
+S4-TK-00103,2026-09-30,2026-09,Arada,Pipe leak,Medium,Closed,Mobile app,5.6,Network team,Residential
+S4-TK-00104,2026-01-05,2026-01,Addis Ketema,Meter issue,Low,Escalated,Field report,,Network team,Institutional
+S4-TK-00105,2026-09-08,2026-09,Kirkos,Low pressure,High,Closed,Mobile app,37.8,Repair crew,Residential
+S4-TK-00106,2026-05-21,2026-05,Akaki Kality,Meter issue,Medium,Escalated,Walk-in,,Network team,Residential
+S4-TK-00107,2026-01-30,2026-01,Addis Ketema,Valve failure,High,Open,Mobile app,,Customer service,Residential
+S4-TK-00108,2026-08-12,2026-08,Bole,Meter issue,Low,Closed,Mobile app,25.4,Customer service,Residential
+S4-TK-00109,2026-05-29,2026-05,Arada,Meter issue,Medium,Closed,Call center,8.8,Network team,Residential
+S4-TK-00110,2026-03-15,2026-03,Arada,Meter issue,Medium,Closed,Walk-in,21.1,Customer service,Residential
+S4-TK-00111,2026-02-06,2026-02,Gullele,Low pressure,Low,Closed,Walk-in,4.2,Network team,Residential
+S4-TK-00112,2026-08-31,2026-08,Gullele,Low pressure,Medium,Closed,Mobile app,26.5,Network team,Residential
+S4-TK-00113,2026-09-15,2026-09,Bole,Low pressure,Medium,Closed,Walk-in,25.5,Customer service,Residential
+S4-TK-00114,2026-07-04,2026-07,Arada,Valve failure,High,Closed,Walk-in,6.2,Network team,Residential
+S4-TK-00115,2026-05-05,2026-05,Nifas Silk-Lafto,Pipe leak,Medium,Closed,Field report,12.9,Network team,Residential
+S4-TK-00116,2026-01-03,2026-01,Gullele,Meter issue,Medium,Open,Call center,,Repair crew,Institutional
+S4-TK-00117,2026-01-20,2026-01,Arada,Low pressure,High,Closed,Walk-in,53.5,Repair crew,Residential
+S4-TK-00118,2026-08-21,2026-08,Nifas Silk-Lafto,Pipe leak,High,Closed,Walk-in,6.2,Network team,Residential
+S4-TK-00119,2026-08-02,2026-08,Arada,Pipe leak,Low,Closed,Mobile app,1.9,Customer service,Commercial
+S4-TK-00120,2026-02-16,2026-02,Kirkos,Pipe leak,Low,Closed,Call center,8.7,Network team,Residential
+S4-TK-00121,2026-08-20,2026-08,Kolfe Keranio,Low pressure,Medium,Closed,Call center,24.4,Network team,Residential
+S4-TK-00122,2026-08-09,2026-08,Kirkos,Low pressure,High,Closed,Call center,21.7,Network team,Commercial
+S4-TK-00123,2026-02-19,2026-02,Bole,Pipe leak,Medium,Closed,Mobile app,12.8,Customer service,Residential
+S4-TK-00124,2026-08-30,2026-08,Bole,Burst main,High,Closed,Call center,44.4,Repair crew,Residential
+S4-TK-00125,2026-01-29,2026-01,Gullele,Pipe leak,Medium,Closed,Call center,31.9,Repair crew,Institutional
+S4-TK-00126,2026-02-07,2026-02,Addis Ketema,Meter issue,Low,Closed,Call center,17,Repair crew,Residential
+S4-TK-00127,2026-03-05,2026-03,Bole,Valve failure,Medium,Open,Call center,,Repair crew,Residential
+S4-TK-00128,2026-07-06,2026-07,Bole,Meter issue,Medium,Escalated,Call center,,Network team,Residential
+S4-TK-00129,2026-02-27,2026-02,Akaki Kality,Pipe leak,Medium,Closed,Mobile app,16.2,Repair crew,Institutional
+S4-TK-00130,2026-05-05,2026-05,Akaki Kality,Meter issue,Low,Open,Call center,,Repair crew,Residential
+S4-TK-00131,2026-07-20,2026-07,Kolfe Keranio,Pipe leak,Medium,Closed,Mobile app,31.3,Repair crew,Residential
+S4-TK-00132,2026-04-01,2026-04,Gullele,Valve failure,Medium,Closed,Call center,8.6,Customer service,Residential
+S4-TK-00133,2026-06-26,2026-06,Arada,Pipe leak,Medium,Closed,Call center,16.1,Repair crew,Commercial
+S4-TK-00134,2026-06-09,2026-06,Kolfe Keranio,Low pressure,Medium,Closed,Call center,28.3,Repair crew,Residential
+S4-TK-00135,2026-07-24,2026-07,Arada,Valve failure,High,Closed,Mobile app,38.9,Network team,Residential
+S4-TK-00136,2026-07-12,2026-07,Kirkos,Burst main,Urgent,Closed,Walk-in,24.2,Network team,Residential
+S4-TK-00137,2026-06-13,2026-06,Kolfe Keranio,Pipe leak,High,Closed,Walk-in,9.7,Network team,Residential
+S4-TK-00138,2026-05-29,2026-05,Kolfe Keranio,Meter issue,Medium,Closed,Call center,14.9,Network team,Residential
+S4-TK-00139,2026-04-05,2026-04,Bole,Pipe leak,Medium,Closed,Call center,17,Customer service,Residential
+S4-TK-00140,2026-03-22,2026-03,Akaki Kality,Pipe leak,Medium,Closed,Mobile app,11.6,Network team,Residential
+S4-TK-00141,2026-08-02,2026-08,Nifas Silk-Lafto,Valve failure,Medium,Closed,Walk-in,6.4,Repair crew,Institutional
+S4-TK-00142,2026-07-07,2026-07,Kirkos,Pipe leak,Medium,Closed,Call center,38.8,Repair crew,Residential
+S4-TK-00143,2026-03-27,2026-03,Arada,Low pressure,Low,Escalated,Walk-in,,Repair crew,Residential
+S4-TK-00144,2026-05-25,2026-05,Kolfe Keranio,Burst main,Urgent,Closed,Mobile app,5,Repair crew,Residential
+S4-TK-00145,2026-04-17,2026-04,Nifas Silk-Lafto,Meter issue,High,Closed,Field report,30.8,Customer service,Residential
+S4-TK-00146,2026-04-22,2026-04,Bole,Valve failure,Low,Closed,Call center,34.5,Repair crew,Residential
+S4-TK-00147,2026-08-24,2026-08,Addis Ketema,Low pressure,Medium,Open,Call center,,Repair crew,Institutional
+S4-TK-00148,2026-06-03,2026-06,Bole,Valve failure,Medium,Closed,Field report,47.2,Repair crew,Commercial
+S4-TK-00149,2026-02-02,2026-02,Arada,Pipe leak,Medium,Closed,Mobile app,20.8,Repair crew,Residential
+S4-TK-00150,2026-06-16,2026-06,Kolfe Keranio,Valve failure,Medium,Open,Call center,,Customer service,Residential
+S4-TK-00151,2026-05-16,2026-05,Akaki Kality,Low pressure,High,Closed,Field report,6.7,Customer service,Residential
+S4-TK-00152,2026-04-19,2026-04,Kolfe Keranio,Pipe leak,Medium,Closed,Call center,24.4,Repair crew,Residential
+S4-TK-00153,2026-07-16,2026-07,Akaki Kality,Low pressure,High,Closed,Call center,29.8,Repair crew,Residential
+S4-TK-00154,2026-05-17,2026-05,Arada,Pipe leak,Medium,Open,Call center,,Repair crew,Residential
+S4-TK-00155,2026-07-31,2026-07,Nifas Silk-Lafto,Valve failure,High,Escalated,Call center,,Repair crew,Residential
+S4-TK-00156,2026-04-11,2026-04,Kolfe Keranio,Meter issue,Low,Escalated,Mobile app,,Repair crew,Residential
+S4-TK-00157,2026-08-14,2026-08,Addis Ketema,Valve failure,Medium,Closed,Walk-in,26.3,Repair crew,Commercial
+S4-TK-00158,2026-03-27,2026-03,Arada,Water quality,High,Closed,Walk-in,52.6,Network team,Residential
+S4-TK-00159,2026-06-22,2026-06,Kolfe Keranio,Valve failure,High,Closed,Call center,25.1,Repair crew,Commercial
+S4-TK-00160,2026-08-26,2026-08,Kirkos,Pipe leak,Low,Closed,Walk-in,45,Repair crew,Commercial
+S4-TK-00161,2026-03-26,2026-03,Nifas Silk-Lafto,Valve failure,Medium,Closed,Call center,25.8,Repair crew,Residential
+S4-TK-00162,2026-06-20,2026-06,Addis Ketema,Low pressure,Medium,Closed,Walk-in,30.1,Repair crew,Residential
+S4-TK-00163,2026-06-30,2026-06,Addis Ketema,Meter issue,Low,Escalated,Call center,,Repair crew,Commercial
+S4-TK-00164,2026-02-12,2026-02,Nifas Silk-Lafto,Low pressure,Medium,Open,Call center,,Repair crew,Residential
+S4-TK-00165,2026-02-10,2026-02,Arada,Pipe leak,High,Closed,Mobile app,22.2,Repair crew,Residential
+S4-TK-00166,2026-07-20,2026-07,Arada,Low pressure,High,Closed,Mobile app,12.7,Repair crew,Residential
+S4-TK-00167,2026-08-20,2026-08,Nifas Silk-Lafto,Meter issue,High,Open,Mobile app,,Network team,Institutional
+S4-TK-00168,2026-07-18,2026-07,Kirkos,Pipe leak,Medium,Open,Walk-in,,Customer service,Commercial
+S4-TK-00169,2026-01-21,2026-01,Gullele,Valve failure,Medium,Escalated,Field report,,Customer service,Commercial
+S4-TK-00170,2026-08-28,2026-08,Addis Ketema,Low pressure,Medium,Escalated,Mobile app,,Customer service,Residential
+S4-TK-00171,2026-09-03,2026-09,Gullele,Pipe leak,High,Closed,Call center,12.1,Network team,Institutional
+S4-TK-00172,2026-07-07,2026-07,Arada,Water quality,Urgent,Open,Call center,,Repair crew,Institutional
+S4-TK-00173,2026-04-28,2026-04,Akaki Kality,Meter issue,Medium,Closed,Mobile app,15.4,Customer service,Residential
+S4-TK-00174,2026-01-17,2026-01,Addis Ketema,Valve failure,Medium,Open,Field report,,Network team,Residential
+S4-TK-00175,2026-07-01,2026-07,Nifas Silk-Lafto,Valve failure,Medium,Closed,Field report,64.4,Customer service,Residential
+S4-TK-00176,2026-04-17,2026-04,Gullele,Low pressure,Medium,Open,Walk-in,,Repair crew,Residential
+S4-TK-00177,2026-09-21,2026-09,Akaki Kality,Pipe leak,Medium,Closed,Call center,15.1,Customer service,Commercial
+S4-TK-00178,2026-06-29,2026-06,Addis Ketema,Pipe leak,High,Closed,Field report,21.3,Repair crew,Commercial
+S4-TK-00179,2026-09-15,2026-09,Nifas Silk-Lafto,Pipe leak,High,Closed,Mobile app,10.4,Customer service,Residential
+S4-TK-00180,2026-07-28,2026-07,Kirkos,Pipe leak,Low,Open,Mobile app,,Network team,Commercial
+S4-TK-00181,2026-09-20,2026-09,Arada,Pipe leak,Medium,Closed,Mobile app,20.5,Repair crew,Institutional
+S4-TK-00182,2026-07-23,2026-07,Arada,Meter issue,Low,Closed,Call center,11.7,Network team,Residential
+S4-TK-00183,2026-07-18,2026-07,Kolfe Keranio,Water quality,Urgent,Closed,Call center,14.5,Customer service,Residential
+S4-TK-00184,2026-09-21,2026-09,Gullele,Valve failure,Medium,Closed,Field report,20.4,Repair crew,Residential
+S4-TK-00185,2026-09-16,2026-09,Arada,Pipe leak,High,Closed,Call center,19.8,Network team,Residential
+S4-TK-00186,2026-02-27,2026-02,Arada,Water quality,High,Closed,Mobile app,4.9,Repair crew,Residential
+S4-TK-00187,2026-01-12,2026-01,Akaki Kality,Pipe leak,High,Closed,Call center,71.5,Repair crew,Commercial
+S4-TK-00188,2026-02-03,2026-02,Addis Ketema,Low pressure,Medium,Closed,Call center,20.1,Network team,Commercial
+S4-TK-00189,2026-09-27,2026-09,Arada,Valve failure,Medium,Open,Call center,,Network team,Residential
+S4-TK-00190,2026-05-07,2026-05,Kolfe Keranio,Pipe leak,High,Closed,Call center,25,Customer service,Residential
+S4-TK-00191,2026-08-05,2026-08,Bole,Pipe leak,Medium,Closed,Call center,15.5,Network team,Residential
+S4-TK-00192,2026-06-07,2026-06,Kirkos,Low pressure,High,Closed,Walk-in,23.3,Network team,Residential
+S4-TK-00193,2026-07-11,2026-07,Arada,Valve failure,Medium,Closed,Call center,16.7,Repair crew,Commercial
+S4-TK-00194,2026-05-31,2026-05,Addis Ketema,Low pressure,Medium,Closed,Call center,25.1,Repair crew,Residential
+S4-TK-00195,2026-07-17,2026-07,Addis Ketema,Valve failure,Medium,Closed,Mobile app,27.9,Repair crew,Institutional
+S4-TK-00196,2026-05-17,2026-05,Nifas Silk-Lafto,Pipe leak,Medium,Closed,Call center,25.1,Repair crew,Commercial
+S4-TK-00197,2026-05-28,2026-05,Bole,Burst main,High,Closed,Call center,6.6,Repair crew,Residential
+S4-TK-00198,2026-02-18,2026-02,Nifas Silk-Lafto,Pipe leak,High,Closed,Call center,35.4,Network team,Commercial
+S4-TK-00199,2026-02-06,2026-02,Addis Ketema,Pipe leak,Medium,Escalated,Call center,,Repair crew,Residential
+S4-TK-00200,2026-07-28,2026-07,Kolfe Keranio,Pipe leak,Medium,Open,Walk-in,,Repair crew,Residential
+S4-TK-00201,2026-07-02,2026-07,Arada,Meter issue,Medium,Escalated,Field report,,Repair crew,Residential
+S4-TK-00202,2026-03-15,2026-03,Akaki Kality,Burst main,High,Open,Call center,,Customer service,Residential
+S4-TK-00203,2026-07-14,2026-07,Kirkos,Valve failure,High,Closed,Call center,31.8,Repair crew,Residential
+S4-TK-00204,2026-06-23,2026-06,Addis Ketema,Low pressure,Medium,Closed,Call center,9.1,Customer service,Commercial
+S4-TK-00205,2026-08-07,2026-08,Kirkos,Meter issue,Medium,Closed,Call center,49,Network team,Institutional
+S4-TK-00206,2026-02-24,2026-02,Arada,Pipe leak,Medium,Closed,Call center,12.6,Network team,Residential
+S4-TK-00207,2026-05-18,2026-05,Kirkos,Low pressure,Medium,Closed,Walk-in,42.4,Repair crew,Residential
+S4-TK-00208,2026-01-22,2026-01,Nifas Silk-Lafto,Valve failure,Medium,Closed,Field report,14.8,Repair crew,Residential
+S4-TK-00209,2026-02-03,2026-02,Arada,Low pressure,Medium,Closed,Call center,34.7,Repair crew,Residential
+S4-TK-00210,2026-05-05,2026-05,Akaki Kality,Valve failure,Medium,Closed,Mobile app,43.4,Repair crew,Residential
+S4-TK-00211,2026-01-10,2026-01,Kolfe Keranio,Meter issue,Medium,Closed,Call center,26.4,Repair crew,Residential
+S4-TK-00212,2026-05-01,2026-05,Addis Ketema,Low pressure,Low,Closed,Walk-in,51.6,Network team,Residential
+S4-TK-00213,2026-09-30,2026-09,Arada,Meter issue,Medium,Closed,Walk-in,59,Customer service,Residential
+S4-TK-00214,2026-01-08,2026-01,Kirkos,Pipe leak,Low,Closed,Field report,63.6,Network team,Residential
+S4-TK-00215,2026-09-08,2026-09,Bole,Pipe leak,Medium,Closed,Call center,33,Repair crew,Residential
+S4-TK-00216,2026-03-06,2026-03,Kolfe Keranio,Meter issue,Medium,Closed,Walk-in,14.8,Repair crew,Institutional
+S4-TK-00217,2026-09-08,2026-09,Kolfe Keranio,Low pressure,Low,Closed,Field report,46.6,Repair crew,Residential
+S4-TK-00218,2026-07-07,2026-07,Gullele,Pipe leak,Medium,Closed,Mobile app,11.8,Repair crew,Residential
+S4-TK-00219,2026-01-22,2026-01,Kirkos,Meter issue,Medium,Closed,Mobile app,4.9,Network team,Commercial
+S4-TK-00220,2026-04-16,2026-04,Bole,Burst main,High,Closed,Walk-in,52.9,Repair crew,Residential
+S4-TK-00221,2026-02-13,2026-02,Gullele,Low pressure,Medium,Closed,Mobile app,11.9,Network team,Commercial
+S4-TK-00222,2026-07-06,2026-07,Akaki Kality,Valve failure,High,Closed,Field report,26,Repair crew,Institutional
+S4-TK-00223,2026-03-14,2026-03,Gullele,Low pressure,Low,Open,Mobile app,,Repair crew,Residential
+S4-TK-00224,2026-02-20,2026-02,Kolfe Keranio,Pipe leak,Medium,Closed,Field report,12.6,Network team,Residential
+S4-TK-00225,2026-06-30,2026-06,Arada,Pipe leak,Medium,Closed,Call center,9.1,Network team,Residential
+S4-TK-00226,2026-01-13,2026-01,Akaki Kality,Low pressure,High,Closed,Call center,44.3,Repair crew,Residential
+S4-TK-00227,2026-03-22,2026-03,Bole,Meter issue,Medium,Closed,Field report,16.1,Customer service,Commercial
+S4-TK-00228,2026-05-20,2026-05,Kolfe Keranio,Pipe leak,Medium,Closed,Call center,15.6,Network team,Residential
+S4-TK-00229,2026-06-08,2026-06,Akaki Kality,Low pressure,Medium,Closed,Mobile app,23.1,Customer service,Residential
+S4-TK-00230,2026-01-26,2026-01,Arada,Pipe leak,Medium,Closed,Mobile app,53.7,Network team,Residential
+S4-TK-00231,2026-02-22,2026-02,Gullele,Burst main,Urgent,Closed,Call center,3,Repair crew,Institutional
+S4-TK-00232,2026-07-18,2026-07,Addis Ketema,Pipe leak,Medium,Closed,Call center,17,Customer service,Residential
+S4-TK-00233,2026-09-12,2026-09,Kolfe Keranio,Low pressure,Medium,Closed,Field report,17.3,Repair crew,Residential
+S4-TK-00234,2026-02-26,2026-02,Nifas Silk-Lafto,Meter issue,Medium,Closed,Call center,10.5,Repair crew,Commercial
+S4-TK-00235,2026-05-08,2026-05,Bole,Meter issue,Low,Closed,Call center,15,Repair crew,Residential
+S4-TK-00236,2026-04-01,2026-04,Addis Ketema,Burst main,High,Escalated,Mobile app,,Repair crew,Commercial
+S4-TK-00237,2026-09-20,2026-09,Gullele,Pipe leak,High,Closed,Call center,38.9,Customer service,Commercial
+S4-TK-00238,2026-06-29,2026-06,Bole,Low pressure,High,Closed,Field report,20.6,Repair crew,Residential
+S4-TK-00239,2026-05-08,2026-05,Bole,Pipe leak,Medium,Closed,Call center,50.3,Repair crew,Commercial
+S4-TK-00240,2026-09-30,2026-09,Addis Ketema,Low pressure,Low,Closed,Mobile app,18.7,Network team,Residential
+S4-TK-00241,2026-01-22,2026-01,Addis Ketema,Pipe leak,Medium,Closed,Call center,45.8,Repair crew,Institutional
+S4-TK-00242,2026-08-11,2026-08,Akaki Kality,Pipe leak,Low,Closed,Walk-in,62.2,Network team,Residential
+S4-TK-00243,2026-01-21,2026-01,Addis Ketema,Low pressure,Medium,Closed,Walk-in,38.4,Repair crew,Commercial
+S4-TK-00244,2026-02-25,2026-02,Addis Ketema,Valve failure,Low,Closed,Mobile app,35,Customer service,Residential
+S4-TK-00245,2026-01-04,2026-01,Kirkos,Pipe leak,Medium,Closed,Walk-in,11.8,Repair crew,Residential
+S4-TK-00246,2026-06-25,2026-06,Kirkos,Pipe leak,Low,Closed,Call center,24.6,Network team,Institutional
+S4-TK-00247,2026-06-22,2026-06,Addis Ketema,Meter issue,Medium,Escalated,Walk-in,,Repair crew,Residential
+S4-TK-00248,2026-03-29,2026-03,Gullele,Pipe leak,Medium,Closed,Call center,90.7,Repair crew,Residential
+S4-TK-00249,2026-04-16,2026-04,Kolfe Keranio,Pipe leak,Low,Closed,Field report,70.5,Customer service,Residential
+S4-TK-00250,2026-03-08,2026-03,Arada,Low pressure,Low,Closed,Field report,39.6,Network team,Commercial
+S4-TK-00251,2026-06-30,2026-06,Kolfe Keranio,Meter issue,Medium,Closed,Call center,30.5,Network team,Residential
+S4-TK-00252,2026-02-27,2026-02,Addis Ketema,Pipe leak,Medium,Closed,Mobile app,48.3,Network team,Residential
+S4-TK-00253,2026-03-26,2026-03,Arada,Meter issue,High,Closed,Call center,12.6,Network team,Institutional
+S4-TK-00254,2026-09-17,2026-09,Addis Ketema,Water quality,Urgent,Closed,Walk-in,11.2,Repair crew,Residential
+S4-TK-00255,2026-02-27,2026-02,Bole,Meter issue,Medium,Closed,Call center,23,Repair crew,Residential
+S4-TK-00256,2026-08-29,2026-08,Akaki Kality,Meter issue,High,Closed,Walk-in,32,Network team,Residential
+S4-TK-00257,2026-07-16,2026-07,Addis Ketema,Low pressure,High,Closed,Call center,36,Repair crew,Institutional
+S4-TK-00258,2026-08-12,2026-08,Akaki Kality,Meter issue,Medium,Closed,Call center,20.8,Repair crew,Residential
+S4-TK-00259,2026-07-21,2026-07,Nifas Silk-Lafto,Water quality,High,Closed,Field report,59.6,Repair crew,Residential
+S4-TK-00260,2026-05-29,2026-05,Addis Ketema,Meter issue,High,Open,Walk-in,,Repair crew,Residential
+S4-TK-00261,2026-05-07,2026-05,Bole,Pipe leak,Medium,Closed,Walk-in,33.8,Repair crew,Residential
+S4-TK-00262,2026-09-17,2026-09,Kolfe Keranio,Pipe leak,Medium,Closed,Call center,24.6,Repair crew,Institutional
+S4-TK-00263,2026-08-11,2026-08,Addis Ketema,Pipe leak,Medium,Closed,Mobile app,22.2,Repair crew,Residential
+S4-TK-00264,2026-06-28,2026-06,Bole,Low pressure,High,Closed,Walk-in,45,Network team,Residential
+S4-TK-00265,2026-02-18,2026-02,Kirkos,Pipe leak,Low,Closed,Field report,5.5,Repair crew,Residential
+S4-TK-00266,2026-05-20,2026-05,Gullele,Pipe leak,High,Closed,Walk-in,30,Network team,Residential
+S4-TK-00267,2026-05-25,2026-05,Kirkos,Valve failure,Low,Closed,Field report,25,Repair crew,Residential
+S4-TK-00268,2026-04-02,2026-04,Arada,Burst main,Urgent,Closed,Field report,0.5,Customer service,Institutional
+S4-TK-00269,2026-09-18,2026-09,Nifas Silk-Lafto,Pipe leak,Low,Closed,Walk-in,20.7,Repair crew,Residential
+S4-TK-00270,2026-05-19,2026-05,Akaki Kality,Meter issue,Medium,Closed,Walk-in,48.3,Network team,Residential
+S4-TK-00271,2026-05-22,2026-05,Akaki Kality,Valve failure,Medium,Closed,Mobile app,27,Repair crew,Residential
+S4-TK-00272,2026-01-20,2026-01,Gullele,Pipe leak,High,Closed,Call center,20.5,Network team,Residential
+S4-TK-00273,2026-06-21,2026-06,Addis Ketema,Pipe leak,Medium,Closed,Call center,23.8,Network team,Residential
+S4-TK-00274,2026-05-22,2026-05,Kolfe Keranio,Valve failure,Low,Closed,Call center,57.4,Repair crew,Residential
+S4-TK-00275,2026-08-14,2026-08,Gullele,Pipe leak,High,Closed,Mobile app,8.3,Customer service,Residential
+S4-TK-00276,2026-07-04,2026-07,Nifas Silk-Lafto,Low pressure,High,Closed,Call center,7.1,Network team,Residential
+S4-TK-00277,2026-02-26,2026-02,Kolfe Keranio,Meter issue,Medium,Closed,Call center,9.6,Customer service,Residential
+S4-TK-00278,2026-03-04,2026-03,Nifas Silk-Lafto,Pipe leak,Low,Closed,Field report,8.9,Network team,Residential
+S4-TK-00279,2026-09-13,2026-09,Kirkos,Pipe leak,High,Closed,Mobile app,19.3,Repair crew,Commercial
+S4-TK-00280,2026-04-07,2026-04,Bole,Burst main,High,Open,Call center,,Repair crew,Residential
+S4-TK-00281,2026-04-28,2026-04,Bole,Pipe leak,High,Closed,Call center,13.5,Repair crew,Residential
+S4-TK-00282,2026-06-09,2026-06,Addis Ketema,Pipe leak,High,Closed,Call center,24,Repair crew,Residential
+S4-TK-00283,2026-08-01,2026-08,Akaki Kality,Pipe leak,Low,Closed,Call center,46.6,Repair crew,Residential
+S4-TK-00284,2026-02-15,2026-02,Kolfe Keranio,Burst main,High,Open,Call center,,Network team,Residential
+S4-TK-00285,2026-05-23,2026-05,Bole,Pipe leak,High,Closed,Walk-in,21.7,Network team,Residential
+S4-TK-00286,2026-06-17,2026-06,Kolfe Keranio,Valve failure,High,Closed,Mobile app,42.9,Repair crew,Residential
+S4-TK-00287,2026-03-19,2026-03,Akaki Kality,Low pressure,Medium,Closed,Call center,25.7,Repair crew,Residential
+S4-TK-00288,2026-09-15,2026-09,Addis Ketema,Pipe leak,Medium,Closed,Call center,34.4,Network team,Residential
+S4-TK-00289,2026-07-10,2026-07,Addis Ketema,Low pressure,Medium,Closed,Mobile app,31.2,Network team,Residential
+S4-TK-00290,2026-09-18,2026-09,Arada,Low pressure,Medium,Open,Field report,,Repair crew,Residential
+S4-TK-00291,2026-06-09,2026-06,Akaki Kality,Burst main,High,Closed,Call center,17.5,Network team,Institutional
+S4-TK-00292,2026-06-02,2026-06,Arada,Low pressure,High,Closed,Walk-in,50.5,Customer service,Residential
+S4-TK-00293,2026-01-24,2026-01,Akaki Kality,Meter issue,Medium,Closed,Field report,9,Network team,Institutional
+S4-TK-00294,2026-08-29,2026-08,Arada,Burst main,High,Closed,Call center,5.2,Customer service,Residential
+S4-TK-00295,2026-01-31,2026-01,Kirkos,Low pressure,High,Closed,Mobile app,42.5,Repair crew,Residential
+S4-TK-00296,2026-01-19,2026-01,Akaki Kality,Low pressure,Medium,Closed,Call center,17.5,Network team,Residential
+S4-TK-00297,2026-06-16,2026-06,Akaki Kality,Meter issue,Medium,Closed,Mobile app,34.4,Repair crew,Residential
+S4-TK-00298,2026-05-28,2026-05,Kirkos,Burst main,High,Open,Field report,,Repair crew,Residential
+S4-TK-00299,2026-04-20,2026-04,Kirkos,Low pressure,Medium,Closed,Call center,20.4,Repair crew,Commercial
+S4-TK-00300,2026-06-23,2026-06,Bole,Pipe leak,High,Closed,Mobile app,20.3,Customer service,Residential
+S4-TK-00301,2026-05-20,2026-05,Nifas Silk-Lafto,Pipe leak,High,Open,Call center,,Customer service,Institutional
+S4-TK-00302,2026-09-05,2026-09,Akaki Kality,Meter issue,Low,Closed,Field report,34.9,Repair crew,Residential
+S4-TK-00303,2026-09-04,2026-09,Kirkos,Pipe leak,Medium,Closed,Walk-in,31.6,Repair crew,Residential
+S4-TK-00304,2026-09-24,2026-09,Nifas Silk-Lafto,Low pressure,Medium,Closed,Call center,51.8,Network team,Commercial
+S4-TK-00305,2026-04-16,2026-04,Bole,Meter issue,Medium,Open,Mobile app,,Repair crew,Residential
+S4-TK-00306,2026-08-20,2026-08,Kolfe Keranio,Pipe leak,High,Closed,Mobile app,32.3,Customer service,Commercial
+S4-TK-00307,2026-03-07,2026-03,Akaki Kality,Pipe leak,High,Open,Field report,,Customer service,Residential
+S4-TK-00308,2026-08-20,2026-08,Arada,Pipe leak,Medium,Closed,Call center,10.8,Repair crew,Residential
+S4-TK-00309,2026-02-18,2026-02,Nifas Silk-Lafto,Pipe leak,High,Closed,Field report,41.5,Repair crew,Residential
+S4-TK-00310,2026-03-14,2026-03,Arada,Meter issue,Medium,Closed,Mobile app,17.8,Repair crew,Institutional
+S4-TK-00311,2026-07-12,2026-07,Gullele,Low pressure,Low,Closed,Mobile app,49.9,Repair crew,Residential
+S4-TK-00312,2026-04-27,2026-04,Arada,Water quality,High,Open,Mobile app,,Repair crew,Residential
+S4-TK-00313,2026-05-04,2026-05,Akaki Kality,Low pressure,Medium,Closed,Call center,23.8,Repair crew,Residential
+S4-TK-00314,2026-09-22,2026-09,Gullele,Water quality,High,Open,Call center,,Repair crew,Residential
+S4-TK-00315,2026-02-27,2026-02,Kolfe Keranio,Low pressure,Medium,Closed,Mobile app,41.3,Network team,Residential
+S4-TK-00316,2026-03-14,2026-03,Gullele,Pipe leak,Medium,Closed,Call center,4.8,Network team,Residential
+S4-TK-00317,2026-02-26,2026-02,Gullele,Valve failure,Medium,Open,Call center,,Repair crew,Institutional
+S4-TK-00318,2026-01-29,2026-01,Gullele,Pipe leak,Medium,Closed,Walk-in,34.9,Customer service,Commercial
+S4-TK-00319,2026-07-16,2026-07,Akaki Kality,Valve failure,Medium,Closed,Field report,23.2,Network team,Residential
+S4-TK-00320,2026-07-01,2026-07,Kolfe Keranio,Pipe leak,Medium,Closed,Call center,43.6,Network team,Residential
+S4-TK-00321,2026-07-16,2026-07,Kolfe Keranio,Water quality,High,Open,Mobile app,,Repair crew,Residential
+S4-TK-00322,2026-09-10,2026-09,Kolfe Keranio,Meter issue,Medium,Escalated,Call center,,Network team,Residential
+S4-TK-00323,2026-05-27,2026-05,Akaki Kality,Pipe leak,Medium,Closed,Call center,18.1,Repair crew,Residential
+S4-TK-00324,2026-07-17,2026-07,Gullele,Pipe leak,Medium,Closed,Walk-in,25.9,Repair crew,Residential
+S4-TK-00325,2026-08-20,2026-08,Gullele,Low pressure,Low,Open,Field report,,Repair crew,Residential
+S4-TK-00326,2026-03-24,2026-03,Kirkos,Meter issue,Medium,Closed,Field report,7.2,Network team,Residential
+S4-TK-00327,2026-03-27,2026-03,Kirkos,Valve failure,Medium,Open,Walk-in,,Repair crew,Residential
+S4-TK-00328,2026-08-31,2026-08,Gullele,Meter issue,Medium,Closed,Walk-in,28.2,Customer service,Residential
+S4-TK-00329,2026-01-22,2026-01,Kirkos,Pipe leak,High,Closed,Walk-in,37.6,Repair crew,Residential
+S4-TK-00330,2026-06-02,2026-06,Gullele,Pipe leak,Medium,Closed,Call center,37.9,Network team,Residential
+S4-TK-00331,2026-02-13,2026-02,Bole,Valve failure,Low,Closed,Call center,28.2,Repair crew,Residential
+S4-TK-00332,2026-04-18,2026-04,Addis Ketema,Meter issue,Medium,Closed,Call center,11.8,Repair crew,Institutional
+S4-TK-00333,2026-03-07,2026-03,Arada,Meter issue,Medium,Open,Mobile app,,Repair crew,Residential
+S4-TK-00334,2026-03-17,2026-03,Kirkos,Water quality,High,Closed,Call center,21.7,Repair crew,Residential
+S4-TK-00335,2026-07-03,2026-07,Gullele,Pipe leak,High,Closed,Call center,8.5,Repair crew,Residential
+S4-TK-00336,2026-07-26,2026-07,Gullele,Low pressure,Medium,Closed,Call center,63.4,Repair crew,Commercial
+S4-TK-00337,2026-07-10,2026-07,Kirkos,Burst main,Urgent,Closed,Call center,23.7,Repair crew,Residential
+S4-TK-00338,2026-07-07,2026-07,Kolfe Keranio,Low pressure,Medium,Closed,Mobile app,15.4,Network team,Residential
+S4-TK-00339,2026-05-28,2026-05,Kolfe Keranio,Burst main,High,Closed,Walk-in,16.5,Repair crew,Residential
+S4-TK-00340,2026-07-03,2026-07,Arada,Low pressure,Medium,Closed,Field report,47.1,Repair crew,Residential
+S4-TK-00341,2026-09-21,2026-09,Gullele,Meter issue,Medium,Closed,Field report,74.9,Repair crew,Residential
+S4-TK-00342,2026-09-24,2026-09,Nifas Silk-Lafto,Pipe leak,Low,Closed,Call center,9.2,Network team,Residential
+S4-TK-00343,2026-08-17,2026-08,Kirkos,Valve failure,Medium,Closed,Call center,9.2,Network team,Residential
+S4-TK-00344,2026-02-05,2026-02,Bole,Valve failure,Medium,Closed,Call center,51,Network team,Residential
+S4-TK-00345,2026-08-07,2026-08,Addis Ketema,Low pressure,Medium,Closed,Call center,23.4,Network team,Institutional
+S4-TK-00346,2026-02-06,2026-02,Akaki Kality,Low pressure,High,Closed,Call center,46.5,Network team,Commercial
+S4-TK-00347,2026-01-02,2026-01,Nifas Silk-Lafto,Burst main,High,Closed,Call center,39.3,Network team,Commercial
+S4-TK-00348,2026-02-03,2026-02,Kirkos,Meter issue,Medium,Open,Field report,,Customer service,Residential
+S4-TK-00349,2026-02-14,2026-02,Bole,Valve failure,Medium,Closed,Call center,21.3,Customer service,Institutional
+S4-TK-00350,2026-09-09,2026-09,Gullele,Pipe leak,Medium,Closed,Call center,31.3,Repair crew,Residential
+S4-TK-00351,2026-09-19,2026-09,Arada,Pipe leak,Medium,Open,Call center,,Customer service,Residential
+S4-TK-00352,2026-04-18,2026-04,Nifas Silk-Lafto,Meter issue,High,Closed,Call center,14.4,Repair crew,Commercial
+S4-TK-00353,2026-08-15,2026-08,Kirkos,Pipe leak,High,Closed,Walk-in,35.9,Customer service,Institutional
+S4-TK-00354,2026-09-13,2026-09,Arada,Pipe leak,Medium,Closed,Walk-in,60.1,Customer service,Residential
+S4-TK-00355,2026-07-27,2026-07,Kirkos,Meter issue,High,Closed,Field report,9.3,Repair crew,Residential
+S4-TK-00356,2026-08-24,2026-08,Gullele,Low pressure,Medium,Escalated,Walk-in,,Repair crew,Residential
+S4-TK-00357,2026-04-22,2026-04,Nifas Silk-Lafto,Meter issue,Low,Closed,Mobile app,14.6,Network team,Residential
+S4-TK-00358,2026-07-03,2026-07,Akaki Kality,Pipe leak,Medium,Closed,Call center,31.9,Network team,Residential
+S4-TK-00359,2026-04-13,2026-04,Arada,Pipe leak,High,Open,Call center,,Network team,Commercial
+S4-TK-00360,2026-06-03,2026-06,Addis Ketema,Meter issue,Medium,Closed,Call center,8.6,Repair crew,Residential
+S4-TK-00361,2026-01-03,2026-01,Kirkos,Meter issue,Low,Closed,Mobile app,58.3,Repair crew,Commercial
+S4-TK-00362,2026-03-22,2026-03,Kolfe Keranio,Low pressure,High,Closed,Walk-in,31.8,Repair crew,Residential
+S4-TK-00363,2026-05-23,2026-05,Arada,Low pressure,Low,Closed,Call center,49.8,Repair crew,Commercial
+S4-TK-00364,2026-05-05,2026-05,Nifas Silk-Lafto,Low pressure,Low,Closed,Call center,4.7,Customer service,Residential
+S4-TK-00365,2026-05-18,2026-05,Nifas Silk-Lafto,Pipe leak,High,Closed,Mobile app,8.1,Repair crew,Residential
+S4-TK-00366,2026-04-16,2026-04,Arada,Meter issue,Medium,Open,Call center,,Repair crew,Residential
+S4-TK-00367,2026-09-08,2026-09,Arada,Low pressure,Medium,Open,Field report,,Repair crew,Residential
+S4-TK-00368,2026-01-28,2026-01,Bole,Pipe leak,Medium,Closed,Walk-in,23.3,Repair crew,Institutional
+S4-TK-00369,2026-02-01,2026-02,Addis Ketema,Low pressure,Medium,Closed,Mobile app,13.8,Repair crew,Commercial
+S4-TK-00370,2026-09-23,2026-09,Addis Ketema,Water quality,Urgent,Closed,Call center,7.2,Repair crew,Residential
+S4-TK-00371,2026-09-07,2026-09,Arada,Meter issue,Medium,Closed,Field report,25,Repair crew,Residential
+S4-TK-00372,2026-01-13,2026-01,Addis Ketema,Pipe leak,Medium,Closed,Mobile app,31.4,Network team,Residential
+S4-TK-00373,2026-05-30,2026-05,Arada,Pipe leak,High,Closed,Call center,9.3,Repair crew,Residential
+S4-TK-00374,2026-01-25,2026-01,Akaki Kality,Valve failure,Medium,Closed,Walk-in,42.9,Repair crew,Residential
+S4-TK-00375,2026-09-24,2026-09,Kolfe Keranio,Pipe leak,Medium,Open,Walk-in,,Repair crew,Commercial
+S4-TK-00376,2026-07-07,2026-07,Kolfe Keranio,Valve failure,Medium,Escalated,Field report,,Network team,Residential
+S4-TK-00377,2026-01-23,2026-01,Nifas Silk-Lafto,Meter issue,High,Open,Call center,,Repair crew,Residential
+S4-TK-00378,2026-03-03,2026-03,Gullele,Valve failure,High,Closed,Field report,3.1,Network team,Residential
+S4-TK-00379,2026-03-15,2026-03,Kolfe Keranio,Meter issue,Medium,Closed,Field report,17.1,Repair crew,Residential
+S4-TK-00380,2026-08-30,2026-08,Gullele,Pipe leak,High,Closed,Call center,13.5,Customer service,Residential
+S4-TK-00381,2026-02-18,2026-02,Gullele,Low pressure,High,Closed,Call center,41.8,Repair crew,Residential
+S4-TK-00382,2026-04-25,2026-04,Kolfe Keranio,Low pressure,Medium,Closed,Call center,16.7,Network team,Institutional
+S4-TK-00383,2026-08-23,2026-08,Kirkos,Valve failure,Medium,Closed,Call center,24.9,Repair crew,Residential
+S4-TK-00384,2026-03-05,2026-03,Nifas Silk-Lafto,Pipe leak,Medium,Closed,Call center,29.1,Customer service,Residential
+S4-TK-00385,2026-04-29,2026-04,Bole,Low pressure,Medium,Closed,Mobile app,69.9,Network team,Residential
+S4-TK-00386,2026-05-13,2026-05,Nifas Silk-Lafto,Pipe leak,Medium,Closed,Field report,15.4,Network team,Residential
+S4-TK-00387,2026-06-27,2026-06,Arada,Pipe leak,High,Closed,Mobile app,15.1,Network team,Residential
+S4-TK-00388,2026-06-19,2026-06,Addis Ketema,Meter issue,Medium,Closed,Call center,31.9,Customer service,Residential
+S4-TK-00389,2026-08-14,2026-08,Kolfe Keranio,Meter issue,Medium,Open,Field report,,Repair crew,Residential
+S4-TK-00390,2026-05-01,2026-05,Addis Ketema,Meter issue,Medium,Closed,Mobile app,25.8,Repair crew,Residential
+S4-TK-00391,2026-06-21,2026-06,Akaki Kality,Low pressure,High,Closed,Walk-in,41.6,Repair crew,Commercial
+S4-TK-00392,2026-02-20,2026-02,Akaki Kality,Pipe leak,Medium,Closed,Call center,9.7,Network team,Residential
+S4-TK-00393,2026-04-08,2026-04,Nifas Silk-Lafto,Meter issue,Medium,Open,Mobile app,,Repair crew,Residential
+S4-TK-00394,2026-05-24,2026-05,Addis Ketema,Pipe leak,High,Open,Call center,,Customer service,Commercial
+S4-TK-00395,2026-07-03,2026-07,Nifas Silk-Lafto,Low pressure,Low,Closed,Call center,8.8,Customer service,Residential
+S4-TK-00396,2026-09-15,2026-09,Bole,Low pressure,Low,Closed,Call center,54.5,Network team,Residential
+S4-TK-00397,2026-07-07,2026-07,Addis Ketema,Valve failure,High,Closed,Call center,3.8,Repair crew,Residential
+S4-TK-00398,2026-03-23,2026-03,Gullele,Meter issue,Low,Closed,Field report,32.3,Repair crew,Residential
+S4-TK-00399,2026-07-09,2026-07,Arada,Low pressure,Low,Closed,Call center,36.4,Network team,Residential
+S4-TK-00400,2026-05-15,2026-05,Bole,Valve failure,Medium,Closed,Call center,42.7,Repair crew,Residential
+S4-TK-00401,2026-09-14,2026-09,Addis Ketema,Low pressure,Medium,Closed,Call center,13.9,Customer service,Residential
+S4-TK-00402,2026-05-25,2026-05,Kolfe Keranio,Pipe leak,High,Open,Mobile app,,Repair crew,Residential
+S4-TK-00403,2026-08-04,2026-08,Nifas Silk-Lafto,Pipe leak,Medium,Closed,Mobile app,17.3,Network team,Residential
+S4-TK-00404,2026-04-03,2026-04,Kolfe Keranio,Burst main,High,Open,Call center,,Network team,Commercial
+S4-TK-00405,2026-06-08,2026-06,Akaki Kality,Low pressure,Medium,Open,Mobile app,,Repair crew,Commercial
+S4-TK-00406,2026-06-07,2026-06,Kirkos,Water quality,Urgent,Closed,Mobile app,9.7,Customer service,Residential
+S4-TK-00407,2026-07-12,2026-07,Nifas Silk-Lafto,Burst main,Urgent,Open,Call center,,Network team,Residential
+S4-TK-00408,2026-07-18,2026-07,Nifas Silk-Lafto,Pipe leak,Medium,Closed,Call center,27.9,Repair crew,Residential
+S4-TK-00409,2026-04-26,2026-04,Nifas Silk-Lafto,Pipe leak,Medium,Closed,Mobile app,9.9,Repair crew,Residential
+S4-TK-00410,2026-05-03,2026-05,Gullele,Valve failure,Medium,Closed,Field report,4.6,Customer service,Residential
+S4-TK-00411,2026-01-17,2026-01,Akaki Kality,Valve failure,Medium,Open,Walk-in,,Repair crew,Residential
+S4-TK-00412,2026-08-31,2026-08,Akaki Kality,Valve failure,Medium,Closed,Field report,17.8,Network team,Institutional
+S4-TK-00413,2026-09-07,2026-09,Gullele,Meter issue,High,Escalated,Field report,,Repair crew,Commercial
+S4-TK-00414,2026-02-01,2026-02,Akaki Kality,Pipe leak,Low,Closed,Walk-in,51.4,Network team,Residential
+S4-TK-00415,2026-07-27,2026-07,Kirkos,Pipe leak,High,Closed,Call center,3.5,Network team,Residential
+S4-TK-00416,2026-04-27,2026-04,Bole,Meter issue,Medium,Closed,Call center,32,Customer service,Residential
+S4-TK-00417,2026-05-13,2026-05,Kirkos,Meter issue,Medium,Closed,Walk-in,41.9,Repair crew,Residential
+S4-TK-00418,2026-04-28,2026-04,Addis Ketema,Pipe leak,Medium,Closed,Walk-in,60.6,Customer service,Residential
+S4-TK-00419,2026-08-15,2026-08,Bole,Meter issue,Low,Closed,Field report,20.8,Network team,Residential
+S4-TK-00420,2026-06-28,2026-06,Kirkos,Pipe leak,Medium,Closed,Mobile app,17.9,Repair crew,Residential
+S4-TK-00421,2026-05-16,2026-05,Nifas Silk-Lafto,Pipe leak,Medium,Closed,Call center,29.9,Repair crew,Residential
+S4-TK-00422,2026-09-20,2026-09,Addis Ketema,Burst main,High,Closed,Field report,34.2,Repair crew,Commercial
+S4-TK-00423,2026-09-20,2026-09,Nifas Silk-Lafto,Meter issue,Medium,Closed,Call center,18.2,Network team,Residential
+S4-TK-00424,2026-05-07,2026-05,Nifas Silk-Lafto,Valve failure,Medium,Closed,Call center,52.4,Repair crew,Residential
+S4-TK-00425,2026-02-07,2026-02,Addis Ketema,Valve failure,Medium,Closed,Walk-in,19.3,Repair crew,Residential
+S4-TK-00426,2026-08-14,2026-08,Kolfe Keranio,Low pressure,Medium,Closed,Walk-in,45.7,Repair crew,Residential
+S4-TK-00427,2026-09-01,2026-09,Arada,Meter issue,Medium,Open,Call center,,Repair crew,Residential
+S4-TK-00428,2026-04-30,2026-04,Kolfe Keranio,Valve failure,Medium,Open,Walk-in,,Repair crew,Residential
+S4-TK-00429,2026-09-28,2026-09,Gullele,Valve failure,Medium,Closed,Call center,25.6,Repair crew,Residential
+S4-TK-00430,2026-09-30,2026-09,Bole,Meter issue,Medium,Open,Walk-in,,Repair crew,Commercial
+S4-TK-00431,2026-05-12,2026-05,Addis Ketema,Pipe leak,Medium,Closed,Field report,6.7,Network team,Commercial
+S4-TK-00432,2026-03-06,2026-03,Akaki Kality,Meter issue,Medium,Open,Call center,,Repair crew,Residential
+S4-TK-00433,2026-02-13,2026-02,Addis Ketema,Valve failure,Medium,Closed,Field report,44.4,Repair crew,Residential
+S4-TK-00434,2026-08-06,2026-08,Addis Ketema,Pipe leak,Medium,Closed,Walk-in,4.5,Repair crew,Residential
+S4-TK-00435,2026-02-27,2026-02,Arada,Pipe leak,Medium,Open,Field report,,Repair crew,Residential
+S4-TK-00436,2026-09-25,2026-09,Nifas Silk-Lafto,Low pressure,Medium,Closed,Call center,28.8,Customer service,Residential
+S4-TK-00437,2026-05-25,2026-05,Addis Ketema,Pipe leak,Medium,Closed,Field report,38.9,Network team,Residential
+S4-TK-00438,2026-04-27,2026-04,Addis Ketema,Meter issue,High,Closed,Mobile app,63.5,Customer service,Residential
+S4-TK-00439,2026-09-01,2026-09,Arada,Valve failure,High,Closed,Call center,23,Customer service,Commercial
+S4-TK-00440,2026-02-21,2026-02,Arada,Meter issue,High,Open,Call center,,Repair crew,Residential
+S4-TK-00441,2026-01-06,2026-01,Kolfe Keranio,Pipe leak,Medium,Closed,Field report,47.3,Network team,Commercial
+S4-TK-00442,2026-04-19,2026-04,Arada,Pipe leak,Medium,Closed,Call center,16.1,Network team,Residential
+S4-TK-00443,2026-08-08,2026-08,Akaki Kality,Valve failure,Low,Open,Walk-in,,Repair crew,Residential
+S4-TK-00444,2026-04-14,2026-04,Kolfe Keranio,Pipe leak,High,Closed,Call center,9.2,Repair crew,Commercial
+S4-TK-00445,2026-03-08,2026-03,Addis Ketema,Low pressure,High,Closed,Mobile app,5.1,Repair crew,Residential
+S4-TK-00446,2026-06-20,2026-06,Addis Ketema,Pipe leak,Low,Open,Mobile app,,Repair crew,Commercial
+S4-TK-00447,2026-03-06,2026-03,Kirkos,Pipe leak,Medium,Closed,Call center,17.7,Network team,Commercial
+S4-TK-00448,2026-02-03,2026-02,Kolfe Keranio,Water quality,High,Closed,Mobile app,53.1,Customer service,Institutional
+S4-TK-00449,2026-04-06,2026-04,Nifas Silk-Lafto,Pipe leak,High,Closed,Call center,16.6,Repair crew,Residential
+S4-TK-00450,2026-07-30,2026-07,Arada,Low pressure,Medium,Closed,Mobile app,8,Customer service,Commercial
+S4-TK-00451,2026-05-30,2026-05,Addis Ketema,Meter issue,Medium,Closed,Call center,23.2,Network team,Institutional
+S4-TK-00452,2026-08-26,2026-08,Akaki Kality,Low pressure,Medium,Closed,Mobile app,56.9,Repair crew,Residential
+S4-TK-00453,2026-05-02,2026-05,Kolfe Keranio,Valve failure,Medium,Closed,Field report,12.2,Repair crew,Residential
+S4-TK-00454,2026-06-06,2026-06,Kolfe Keranio,Pipe leak,Medium,Closed,Mobile app,28.1,Repair crew,Residential
+S4-TK-00455,2026-02-09,2026-02,Kirkos,Pipe leak,Medium,Open,Walk-in,,Repair crew,Residential
+S4-TK-00456,2026-04-02,2026-04,Addis Ketema,Pipe leak,Medium,Closed,Walk-in,27.5,Repair crew,Residential
+S4-TK-00457,2026-09-15,2026-09,Kirkos,Pipe leak,Low,Closed,Mobile app,21.2,Customer service,Residential
+S4-TK-00458,2026-08-27,2026-08,Kolfe Keranio,Pipe leak,Medium,Closed,Call center,18.4,Repair crew,Commercial
+S4-TK-00459,2026-02-13,2026-02,Addis Ketema,Meter issue,Medium,Closed,Call center,22.4,Repair crew,Residential
+S4-TK-00460,2026-04-27,2026-04,Addis Ketema,Meter issue,Medium,Closed,Call center,53.7,Customer service,Residential
+S4-TK-00461,2026-02-26,2026-02,Kolfe Keranio,Pipe leak,Medium,Closed,Walk-in,55.3,Network team,Residential
+S4-TK-00462,2026-01-22,2026-01,Nifas Silk-Lafto,Valve failure,Medium,Closed,Walk-in,10.5,Network team,Residential
+S4-TK-00463,2026-02-13,2026-02,Addis Ketema,Pipe leak,Medium,Closed,Mobile app,22,Repair crew,Institutional
+S4-TK-00464,2026-06-04,2026-06,Kolfe Keranio,Meter issue,High,Closed,Walk-in,43.6,Network team,Institutional
+S4-TK-00465,2026-07-14,2026-07,Arada,Pipe leak,Medium,Closed,Mobile app,33.5,Repair crew,Commercial
+S4-TK-00466,2026-02-20,2026-02,Kirkos,Valve failure,Medium,Closed,Call center,12.6,Repair crew,Residential
+S4-TK-00467,2026-09-06,2026-09,Gullele,Valve failure,Medium,Closed,Call center,38.2,Network team,Residential
+S4-TK-00468,2026-05-19,2026-05,Addis Ketema,Meter issue,High,Open,Field report,,Customer service,Residential
+S4-TK-00469,2026-08-25,2026-08,Akaki Kality,Valve failure,Medium,Closed,Mobile app,14.5,Network team,Institutional
+S4-TK-00470,2026-05-28,2026-05,Arada,Low pressure,High,Closed,Call center,15,Customer service,Residential
+S4-TK-00471,2026-06-24,2026-06,Kirkos,Pipe leak,Low,Closed,Mobile app,29.4,Customer service,Institutional
+S4-TK-00472,2026-05-15,2026-05,Kirkos,Low pressure,Low,Open,Call center,,Repair crew,Commercial
+S4-TK-00473,2026-04-11,2026-04,Addis Ketema,Pipe leak,Low,Closed,Walk-in,22.5,Customer service,Residential
+S4-TK-00474,2026-05-16,2026-05,Arada,Pipe leak,Medium,Closed,Call center,13.4,Network team,Residential
+S4-TK-00475,2026-01-20,2026-01,Addis Ketema,Low pressure,Medium,Open,Call center,,Network team,Commercial
+S4-TK-00476,2026-03-07,2026-03,Bole,Pipe leak,Low,Closed,Call center,10.9,Repair crew,Residential
+S4-TK-00477,2026-04-04,2026-04,Arada,Valve failure,High,Closed,Call center,10.4,Customer service,Residential
+S4-TK-00478,2026-07-29,2026-07,Gullele,Low pressure,High,Closed,Call center,21.5,Repair crew,Commercial
+S4-TK-00479,2026-08-29,2026-08,Kolfe Keranio,Pipe leak,Medium,Closed,Walk-in,38.8,Repair crew,Commercial
+S4-TK-00480,2026-08-09,2026-08,Kirkos,Low pressure,Medium,Open,Walk-in,,Network team,Residential
+S4-TK-00481,2026-02-14,2026-02,Gullele,Meter issue,Low,Closed,Call center,39.8,Network team,Residential
+S4-TK-00482,2026-03-25,2026-03,Kirkos,Meter issue,Low,Closed,Field report,36.9,Network team,Commercial
+S4-TK-00483,2026-01-06,2026-01,Nifas Silk-Lafto,Pipe leak,Low,Open,Field report,,Customer service,Commercial
+S4-TK-00484,2026-04-02,2026-04,Kolfe Keranio,Low pressure,Medium,Closed,Mobile app,16.8,Repair crew,Commercial
+S4-TK-00485,2026-03-10,2026-03,Addis Ketema,Meter issue,Medium,Open,Mobile app,,Customer service,Residential
+S4-TK-00486,2026-04-17,2026-04,Kirkos,Burst main,High,Closed,Field report,23.1,Customer service,Residential
+S4-TK-00487,2026-06-01,2026-06,Arada,Meter issue,High,Closed,Mobile app,52.1,Repair crew,Institutional
+S4-TK-00488,2026-04-22,2026-04,Bole,Valve failure,Medium,Closed,Walk-in,17.1,Network team,Institutional
+S4-TK-00489,2026-09-22,2026-09,Nifas Silk-Lafto,Low pressure,Medium,Closed,Mobile app,3.8,Repair crew,Institutional
+S4-TK-00490,2026-04-11,2026-04,Addis Ketema,Water quality,High,Closed,Mobile app,7.6,Network team,Residential
+S4-TK-00491,2026-08-19,2026-08,Arada,Water quality,High,Closed,Call center,21.1,Customer service,Commercial
+S4-TK-00492,2026-09-01,2026-09,Arada,Low pressure,Low,Closed,Call center,23.2,Repair crew,Residential
+S4-TK-00493,2026-05-10,2026-05,Kolfe Keranio,Valve failure,Medium,Closed,Mobile app,59.8,Repair crew,Residential
+S4-TK-00494,2026-07-09,2026-07,Kirkos,Pipe leak,High,Closed,Call center,33.9,Repair crew,Residential
+S4-TK-00495,2026-07-03,2026-07,Addis Ketema,Low pressure,Medium,Closed,Call center,16.2,Network team,Institutional
+S4-TK-00496,2026-03-05,2026-03,Nifas Silk-Lafto,Valve failure,High,Closed,Call center,23.4,Repair crew,Residential
+S4-TK-00497,2026-03-08,2026-03,Bole,Low pressure,Medium,Open,Call center,,Repair crew,Residential
+S4-TK-00498,2026-06-04,2026-06,Kolfe Keranio,Valve failure,Medium,Closed,Call center,22.2,Repair crew,Institutional
+S4-TK-00499,2026-03-08,2026-03,Addis Ketema,Pipe leak,Medium,Closed,Call center,31.5,Network team,Residential
+S4-TK-00500,2026-01-17,2026-01,Gullele,Low pressure,Low,Closed,Field report,4.4,Customer service,Residential
+S4-TK-00501,2026-08-27,2026-08,Kirkos,Water quality,High,Closed,Mobile app,15.8,Repair crew,Residential
+S4-TK-00502,2026-08-21,2026-08,Gullele,Low pressure,Low,Closed,Call center,44,Repair crew,Commercial
+S4-TK-00503,2026-05-28,2026-05,Kolfe Keranio,Water quality,High,Closed,Field report,24.6,Network team,Residential
+S4-TK-00504,2026-04-19,2026-04,Kirkos,Valve failure,Low,Closed,Call center,26.7,Customer service,Commercial
+S4-TK-00505,2026-04-14,2026-04,Bole,Water quality,High,Open,Walk-in,,Customer service,Residential
+S4-TK-00506,2026-05-22,2026-05,Kolfe Keranio,Meter issue,High,Closed,Mobile app,21.2,Network team,Institutional
+S4-TK-00507,2026-05-05,2026-05,Gullele,Meter issue,High,Closed,Field report,26.6,Customer service,Residential
+S4-TK-00508,2026-01-07,2026-01,Kirkos,Water quality,High,Closed,Walk-in,41.6,Network team,Residential
+S4-TK-00509,2026-06-02,2026-06,Arada,Valve failure,Low,Closed,Call center,24.8,Repair crew,Residential
+S4-TK-00510,2026-05-12,2026-05,Addis Ketema,Pipe leak,Medium,Closed,Mobile app,15.6,Repair crew,Institutional
+S4-TK-00511,2026-04-13,2026-04,Akaki Kality,Valve failure,Low,Closed,Call center,7.9,Repair crew,Residential
+S4-TK-00512,2026-01-29,2026-01,Gullele,Pipe leak,Medium,Closed,Walk-in,17.1,Network team,Residential
+S4-TK-00513,2026-02-15,2026-02,Akaki Kality,Low pressure,Low,Closed,Mobile app,23,Repair crew,Residential
+S4-TK-00514,2026-07-30,2026-07,Kirkos,Low pressure,Medium,Closed,Field report,16.5,Network team,Residential
+S4-TK-00515,2026-04-29,2026-04,Arada,Water quality,Urgent,Closed,Call center,13.8,Repair crew,Residential
+S4-TK-00516,2026-09-13,2026-09,Kirkos,Low pressure,Medium,Open,Field report,,Customer service,Residential
+S4-TK-00517,2026-01-22,2026-01,Akaki Kality,Low pressure,High,Closed,Call center,86.7,Repair crew,Residential
+S4-TK-00518,2026-07-07,2026-07,Kolfe Keranio,Pipe leak,Low,Closed,Walk-in,10.6,Customer service,Institutional
+S4-TK-00519,2026-05-29,2026-05,Akaki Kality,Pipe leak,Medium,Closed,Walk-in,28.6,Repair crew,Residential
+S4-TK-00520,2026-01-20,2026-01,Kirkos,Meter issue,High,Closed,Walk-in,36.5,Network team,Residential
+S4-TK-00521,2026-07-04,2026-07,Gullele,Valve failure,Medium,Open,Field report,,Customer service,Residential
+S4-TK-00522,2026-08-23,2026-08,Kolfe Keranio,Valve failure,Medium,Closed,Call center,13.7,Network team,Residential
+S4-TK-00523,2026-01-14,2026-01,Nifas Silk-Lafto,Water quality,High,Open,Call center,,Network team,Institutional
+S4-TK-00524,2026-04-24,2026-04,Arada,Pipe leak,Medium,Closed,Field report,31.8,Repair crew,Residential
+S4-TK-00525,2026-09-29,2026-09,Kirkos,Water quality,High,Escalated,Call center,,Repair crew,Institutional
+S4-TK-00526,2026-03-25,2026-03,Gullele,Pipe leak,High,Closed,Field report,62.7,Repair crew,Residential
+S4-TK-00527,2026-01-09,2026-01,Bole,Valve failure,High,Closed,Walk-in,18,Repair crew,Commercial
+S4-TK-00528,2026-08-21,2026-08,Bole,Meter issue,Medium,Escalated,Mobile app,,Network team,Residential
+S4-TK-00529,2026-04-01,2026-04,Bole,Meter issue,Medium,Escalated,Walk-in,,Repair crew,Residential
+S4-TK-00530,2026-06-04,2026-06,Kirkos,Pipe leak,High,Closed,Field report,24.5,Repair crew,Residential
+S4-TK-00531,2026-04-08,2026-04,Bole,Meter issue,Medium,Closed,Call center,12.6,Network team,Residential
+S4-TK-00532,2026-06-14,2026-06,Arada,Low pressure,Low,Closed,Call center,58.9,Network team,Residential
+S4-TK-00533,2026-03-30,2026-03,Akaki Kality,Valve failure,High,Closed,Call center,55.1,Repair crew,Residential
+S4-TK-00534,2026-08-30,2026-08,Kolfe Keranio,Low pressure,High,Closed,Mobile app,11.5,Network team,Residential
+S4-TK-00535,2026-01-16,2026-01,Arada,Pipe leak,Medium,Open,Mobile app,,Customer service,Residential
+S4-TK-00536,2026-04-25,2026-04,Gullele,Low pressure,Medium,Open,Call center,,Repair crew,Residential
+S4-TK-00537,2026-03-02,2026-03,Kirkos,Valve failure,High,Closed,Call center,40.6,Network team,Institutional
+S4-TK-00538,2026-03-26,2026-03,Akaki Kality,Pipe leak,Medium,Closed,Mobile app,80.3,Repair crew,Residential
+S4-TK-00539,2026-09-28,2026-09,Kolfe Keranio,Low pressure,High,Open,Walk-in,,Customer service,Residential
+S4-TK-00540,2026-01-30,2026-01,Addis Ketema,Pipe leak,Medium,Closed,Call center,11.4,Customer service,Commercial
+S4-TK-00541,2026-08-02,2026-08,Addis Ketema,Meter issue,Medium,Closed,Call center,29.9,Repair crew,Commercial
+S4-TK-00542,2026-07-21,2026-07,Nifas Silk-Lafto,Pipe leak,Low,Closed,Field report,27.2,Network team,Residential
+S4-TK-00543,2026-06-20,2026-06,Arada,Valve failure,High,Closed,Walk-in,43.3,Network team,Residential
+S4-TK-00544,2026-03-19,2026-03,Kolfe Keranio,Valve failure,Medium,Closed,Field report,30.9,Repair crew,Commercial
+S4-TK-00545,2026-01-14,2026-01,Akaki Kality,Pipe leak,Low,Closed,Field report,10.4,Repair crew,Residential
+S4-TK-00546,2026-09-29,2026-09,Arada,Burst main,High,Closed,Field report,20.3,Repair crew,Residential
+S4-TK-00547,2026-02-07,2026-02,Nifas Silk-Lafto,Pipe leak,Low,Closed,Field report,26.8,Repair crew,Residential
+S4-TK-00548,2026-01-25,2026-01,Kirkos,Meter issue,Medium,Closed,Mobile app,36.2,Repair crew,Residential
+S4-TK-00549,2026-03-27,2026-03,Gullele,Meter issue,Medium,Escalated,Call center,,Network team,Residential
+S4-TK-00550,2026-03-17,2026-03,Kolfe Keranio,Pipe leak,Medium,Closed,Call center,15.7,Repair crew,Residential
+S4-TK-00551,2026-05-25,2026-05,Nifas Silk-Lafto,Low pressure,Low,Open,Field report,,Network team,Residential
+S4-TK-00552,2026-02-20,2026-02,Gullele,Valve failure,Medium,Closed,Field report,31.5,Repair crew,Residential
+S4-TK-00553,2026-06-18,2026-06,Gullele,Meter issue,Medium,Closed,Mobile app,11,Network team,Residential
+S4-TK-00554,2026-02-24,2026-02,Kolfe Keranio,Valve failure,Medium,Closed,Walk-in,12.4,Repair crew,Residential
+S4-TK-00555,2026-05-10,2026-05,Gullele,Pipe leak,Medium,Open,Call center,,Repair crew,Residential
+S4-TK-00556,2026-05-10,2026-05,Nifas Silk-Lafto,Low pressure,Low,Closed,Mobile app,57.7,Network team,Institutional
+S4-TK-00557,2026-03-09,2026-03,Kirkos,Low pressure,Low,Open,Call center,,Network team,Residential
+S4-TK-00558,2026-08-11,2026-08,Arada,Pipe leak,Medium,Open,Call center,,Repair crew,Commercial
+S4-TK-00559,2026-04-16,2026-04,Addis Ketema,Pipe leak,Medium,Closed,Walk-in,24,Network team,Residential
+S4-TK-00560,2026-04-29,2026-04,Bole,Pipe leak,Medium,Closed,Walk-in,25.7,Network team,Residential
+S4-TK-00561,2026-05-14,2026-05,Akaki Kality,Low pressure,Medium,Closed,Call center,7.9,Network team,Residential
+S4-TK-00562,2026-01-28,2026-01,Nifas Silk-Lafto,Burst main,High,Closed,Walk-in,6.5,Repair crew,Residential
+S4-TK-00563,2026-09-19,2026-09,Nifas Silk-Lafto,Pipe leak,Medium,Open,Mobile app,,Repair crew,Residential
+S4-TK-00564,2026-05-02,2026-05,Akaki Kality,Meter issue,Medium,Closed,Call center,37.4,Repair crew,Residential
+S4-TK-00565,2026-06-20,2026-06,Gullele,Pipe leak,Medium,Open,Call center,,Repair crew,Residential
+S4-TK-00566,2026-08-25,2026-08,Addis Ketema,Pipe leak,Medium,Open,Call center,,Repair crew,Residential
+S4-TK-00567,2026-04-14,2026-04,Kirkos,Pipe leak,Medium,Closed,Mobile app,21.1,Repair crew,Commercial
+S4-TK-00568,2026-04-22,2026-04,Addis Ketema,Valve failure,High,Escalated,Field report,,Network team,Residential
+S4-TK-00569,2026-02-08,2026-02,Arada,Low pressure,Low,Closed,Walk-in,29.2,Repair crew,Residential
+S4-TK-00570,2026-02-02,2026-02,Arada,Pipe leak,Medium,Closed,Call center,52.6,Repair crew,Institutional
+S4-TK-00571,2026-06-21,2026-06,Arada,Pipe leak,High,Closed,Walk-in,46.4,Network team,Residential
+S4-TK-00572,2026-04-26,2026-04,Kolfe Keranio,Pipe leak,Medium,Closed,Call center,12.6,Network team,Residential
+S4-TK-00573,2026-04-15,2026-04,Arada,Valve failure,Medium,Closed,Mobile app,6.4,Repair crew,Residential
+S4-TK-00574,2026-09-30,2026-09,Addis Ketema,Pipe leak,Medium,Closed,Call center,16.5,Customer service,Residential
+S4-TK-00575,2026-03-03,2026-03,Akaki Kality,Low pressure,High,Closed,Walk-in,24.1,Repair crew,Residential
+S4-TK-00576,2026-09-14,2026-09,Gullele,Pipe leak,Medium,Closed,Mobile app,62.2,Network team,Residential
+S4-TK-00577,2026-05-26,2026-05,Kirkos,Valve failure,High,Closed,Call center,26,Repair crew,Institutional
+S4-TK-00578,2026-06-18,2026-06,Nifas Silk-Lafto,Low pressure,High,Closed,Call center,20.2,Network team,Residential
+S4-TK-00579,2026-07-17,2026-07,Gullele,Valve failure,Medium,Closed,Field report,31.2,Network team,Residential
+S4-TK-00580,2026-09-15,2026-09,Kolfe Keranio,Pipe leak,Medium,Open,Mobile app,,Repair crew,Residential
+S4-TK-00581,2026-07-18,2026-07,Kolfe Keranio,Burst main,High,Closed,Call center,7.4,Repair crew,Residential
+S4-TK-00582,2026-08-18,2026-08,Kirkos,Meter issue,Medium,Escalated,Walk-in,,Network team,Residential
+S4-TK-00583,2026-03-29,2026-03,Bole,Water quality,Urgent,Closed,Call center,6.4,Network team,Residential
+S4-TK-00584,2026-07-11,2026-07,Kirkos,Low pressure,High,Open,Walk-in,,Repair crew,Residential
+S4-TK-00585,2026-04-17,2026-04,Gullele,Meter issue,Low,Open,Mobile app,,Repair crew,Residential
+S4-TK-00586,2026-02-07,2026-02,Addis Ketema,Meter issue,Low,Closed,Call center,11.1,Customer service,Residential
+S4-TK-00587,2026-07-01,2026-07,Kirkos,Low pressure,Medium,Closed,Walk-in,54.5,Network team,Commercial
+S4-TK-00588,2026-02-05,2026-02,Akaki Kality,Meter issue,Low,Open,Walk-in,,Repair crew,Residential
+S4-TK-00589,2026-01-23,2026-01,Addis Ketema,Valve failure,Medium,Open,Call center,,Repair crew,Residential
+S4-TK-00590,2026-03-26,2026-03,Addis Ketema,Low pressure,Medium,Closed,Call center,13.5,Customer service,Residential
+S4-TK-00591,2026-08-03,2026-08,Addis Ketema,Low pressure,Medium,Closed,Call center,8.9,Repair crew,Residential
+S4-TK-00592,2026-07-20,2026-07,Kolfe Keranio,Pipe leak,Medium,Closed,Walk-in,46,Customer service,Residential
+S4-TK-00593,2026-06-28,2026-06,Addis Ketema,Pipe leak,Medium,Closed,Field report,15.5,Repair crew,Residential
+S4-TK-00594,2026-01-13,2026-01,Kirkos,Burst main,High,Escalated,Call center,,Repair crew,Residential
+S4-TK-00595,2026-08-31,2026-08,Gullele,Pipe leak,Medium,Open,Walk-in,,Repair crew,Commercial
+S4-TK-00596,2026-02-12,2026-02,Arada,Burst main,High,Closed,Mobile app,20.6,Repair crew,Commercial
+S4-TK-00597,2026-03-29,2026-03,Arada,Low pressure,Medium,Closed,Mobile app,36.5,Network team,Residential
+S4-TK-00598,2026-06-29,2026-06,Arada,Water quality,High,Closed,Call center,6.9,Repair crew,Residential
+S4-TK-00599,2026-09-15,2026-09,Bole,Burst main,High,Closed,Call center,2.6,Network team,Residential
+S4-TK-00600,2026-08-02,2026-08,Akaki Kality,Low pressure,Medium,Closed,Field report,50.7,Repair crew,Residential
+S4-TK-00601,2026-01-27,2026-01,Kirkos,Valve failure,Low,Closed,Field report,25.4,Repair crew,Residential
+S4-TK-00602,2026-04-10,2026-04,Nifas Silk-Lafto,Pipe leak,High,Closed,Walk-in,17.7,Customer service,Commercial
+S4-TK-00603,2026-09-30,2026-09,Gullele,Low pressure,Medium,Closed,Call center,55.8,Network team,Residential
+S4-TK-00604,2026-06-26,2026-06,Kirkos,Burst main,Urgent,Escalated,Call center,,Network team,Residential
+S4-TK-00605,2026-08-14,2026-08,Kolfe Keranio,Pipe leak,High,Closed,Mobile app,14.1,Network team,Residential
+S4-TK-00606,2026-04-08,2026-04,Addis Ketema,Burst main,Urgent,Closed,Call center,31.6,Repair crew,Residential
+S4-TK-00607,2026-09-05,2026-09,Arada,Burst main,High,Closed,Call center,60.1,Repair crew,Commercial
+S4-TK-00608,2026-05-15,2026-05,Kirkos,Meter issue,Medium,Closed,Walk-in,20.6,Repair crew,Residential
+S4-TK-00609,2026-05-25,2026-05,Addis Ketema,Water quality,High,Closed,Mobile app,20.6,Repair crew,Residential
+S4-TK-00610,2026-01-19,2026-01,Kolfe Keranio,Meter issue,High,Closed,Mobile app,5.9,Repair crew,Residential
+S4-TK-00611,2026-02-18,2026-02,Arada,Meter issue,High,Closed,Call center,46,Network team,Residential
+S4-TK-00612,2026-08-18,2026-08,Bole,Pipe leak,High,Closed,Call center,117.7,Network team,Residential
+S4-TK-00613,2026-07-01,2026-07,Kirkos,Low pressure,Medium,Open,Call center,,Repair crew,Commercial
+S4-TK-00614,2026-08-11,2026-08,Bole,Pipe leak,Medium,Closed,Call center,28.4,Network team,Institutional
+S4-TK-00615,2026-06-12,2026-06,Addis Ketema,Valve failure,Medium,Closed,Call center,56.6,Network team,Residential
+S4-TK-00616,2026-03-07,2026-03,Nifas Silk-Lafto,Burst main,High,Closed,Call center,18,Network team,Residential
+S4-TK-00617,2026-09-30,2026-09,Arada,Meter issue,High,Closed,Field report,11.2,Network team,Residential
+S4-TK-00618,2026-05-23,2026-05,Kolfe Keranio,Pipe leak,Low,Closed,Mobile app,17.4,Repair crew,Residential
+S4-TK-00619,2026-09-30,2026-09,Gullele,Meter issue,Medium,Open,Walk-in,,Customer service,Residential
+S4-TK-00620,2026-05-17,2026-05,Kirkos,Pipe leak,Medium,Closed,Walk-in,31.7,Repair crew,Residential
+S4-TK-00621,2026-07-26,2026-07,Akaki Kality,Valve failure,Medium,Closed,Call center,20.5,Network team,Residential
+S4-TK-00622,2026-04-03,2026-04,Bole,Low pressure,Medium,Open,Call center,,Repair crew,Commercial
+S4-TK-00623,2026-01-16,2026-01,Nifas Silk-Lafto,Pipe leak,Medium,Closed,Call center,25.5,Network team,Residential
+S4-TK-00624,2026-03-12,2026-03,Kirkos,Low pressure,Low,Closed,Call center,22.6,Customer service,Residential
+S4-TK-00625,2026-03-29,2026-03,Kirkos,Pipe leak,Medium,Closed,Call center,40.7,Repair crew,Residential
+S4-TK-00626,2026-08-16,2026-08,Kirkos,Low pressure,Medium,Closed,Call center,25.5,Network team,Residential
+S4-TK-00627,2026-02-08,2026-02,Arada,Meter issue,Low,Closed,Walk-in,16.7,Network team,Residential
+S4-TK-00628,2026-07-09,2026-07,Bole,Valve failure,Medium,Closed,Call center,7,Repair crew,Institutional
+S4-TK-00629,2026-05-17,2026-05,Nifas Silk-Lafto,Low pressure,Medium,Closed,Field report,37.4,Repair crew,Residential
+S4-TK-00630,2026-07-17,2026-07,Arada,Meter issue,Medium,Closed,Call center,7.4,Network team,Residential
+S4-TK-00631,2026-07-04,2026-07,Addis Ketema,Meter issue,Medium,Closed,Call center,53.4,Network team,Residential
+S4-TK-00632,2026-01-13,2026-01,Bole,Meter issue,High,Closed,Field report,35.4,Repair crew,Residential
+S4-TK-00633,2026-09-25,2026-09,Addis Ketema,Low pressure,Medium,Open,Walk-in,,Repair crew,Residential
+S4-TK-00634,2026-02-28,2026-02,Addis Ketema,Meter issue,Medium,Closed,Call center,33.1,Network team,Institutional
+S4-TK-00635,2026-07-27,2026-07,Nifas Silk-Lafto,Pipe leak,Medium,Closed,Field report,19.4,Customer service,Residential
+S4-TK-00636,2026-01-28,2026-01,Addis Ketema,Pipe leak,Medium,Closed,Walk-in,7.9,Repair crew,Residential
+S4-TK-00637,2026-02-23,2026-02,Addis Ketema,Low pressure,Medium,Closed,Call center,33.1,Repair crew,Institutional
+S4-TK-00638,2026-08-26,2026-08,Bole,Burst main,High,Open,Field report,,Customer service,Institutional
+S4-TK-00639,2026-02-18,2026-02,Akaki Kality,Burst main,High,Closed,Call center,16,Network team,Residential
+S4-TK-00640,2026-07-08,2026-07,Kirkos,Valve failure,Medium,Open,Mobile app,,Customer service,Residential
+S4-TK-00641,2026-01-26,2026-01,Addis Ketema,Meter issue,Medium,Closed,Call center,25.2,Repair crew,Residential
+S4-TK-00642,2026-02-18,2026-02,Nifas Silk-Lafto,Pipe leak,Medium,Open,Call center,,Network team,Residential
+S4-TK-00643,2026-07-20,2026-07,Arada,Low pressure,Medium,Closed,Call center,7.6,Repair crew,Institutional
+S4-TK-00644,2026-06-13,2026-06,Arada,Pipe leak,Medium,Closed,Field report,9.7,Repair crew,Commercial
+S4-TK-00645,2026-09-11,2026-09,Addis Ketema,Meter issue,High,Open,Walk-in,,Customer service,Residential
+S4-TK-00646,2026-06-25,2026-06,Akaki Kality,Valve failure,Medium,Closed,Walk-in,29.2,Repair crew,Residential
+S4-TK-00647,2026-02-03,2026-02,Gullele,Low pressure,Medium,Open,Walk-in,,Network team,Residential
+S4-TK-00648,2026-07-30,2026-07,Nifas Silk-Lafto,Pipe leak,Medium,Closed,Call center,16.7,Repair crew,Commercial
+S4-TK-00649,2026-09-24,2026-09,Gullele,Low pressure,Medium,Closed,Call center,13.1,Repair crew,Residential
+S4-TK-00650,2026-09-12,2026-09,Arada,Meter issue,High,Closed,Walk-in,42.2,Customer service,Commercial
+S4-TK-00651,2026-06-23,2026-06,Gullele,Low pressure,High,Escalated,Mobile app,,Customer service,Residential
+S4-TK-00652,2026-09-23,2026-09,Nifas Silk-Lafto,Burst main,High,Closed,Call center,25.6,Repair crew,Residential
+S4-TK-00653,2026-04-29,2026-04,Kirkos,Pipe leak,Medium,Open,Call center,,Network team,Residential
+S4-TK-00654,2026-04-05,2026-04,Nifas Silk-Lafto,Valve failure,Medium,Closed,Mobile app,13.2,Network team,Residential
+S4-TK-00655,2026-08-29,2026-08,Addis Ketema,Valve failure,Medium,Closed,Call center,33.9,Repair crew,Residential
+S4-TK-00656,2026-02-18,2026-02,Arada,Meter issue,Medium,Open,Field report,,Network team,Commercial
+S4-TK-00657,2026-05-03,2026-05,Addis Ketema,Pipe leak,Medium,Closed,Mobile app,9.2,Customer service,Commercial
+S4-TK-00658,2026-07-05,2026-07,Akaki Kality,Pipe leak,Medium,Closed,Call center,59.9,Repair crew,Residential
+S4-TK-00659,2026-06-06,2026-06,Nifas Silk-Lafto,Low pressure,Medium,Closed,Call center,17.8,Customer service,Residential
+S4-TK-00660,2026-03-10,2026-03,Gullele,Water quality,High,Open,Mobile app,,Repair crew,Institutional
+S4-TK-00661,2026-04-05,2026-04,Kirkos,Pipe leak,Medium,Open,Call center,,Network team,Residential
+S4-TK-00662,2026-06-25,2026-06,Arada,Valve failure,Medium,Closed,Walk-in,9.4,Repair crew,Commercial
+S4-TK-00663,2026-02-01,2026-02,Nifas Silk-Lafto,Meter issue,Medium,Closed,Field report,27.9,Network team,Commercial
+S4-TK-00664,2026-09-09,2026-09,Arada,Pipe leak,Medium,Closed,Field report,42.1,Network team,Residential
+S4-TK-00665,2026-03-27,2026-03,Akaki Kality,Pipe leak,Medium,Closed,Mobile app,3.3,Repair crew,Residential
+S4-TK-00666,2026-09-08,2026-09,Kirkos,Meter issue,Medium,Open,Mobile app,,Repair crew,Residential
+S4-TK-00667,2026-02-18,2026-02,Addis Ketema,Pipe leak,High,Closed,Mobile app,22.8,Customer service,Residential
+S4-TK-00668,2026-07-03,2026-07,Akaki Kality,Pipe leak,Medium,Closed,Mobile app,10.6,Repair crew,Residential
+S4-TK-00669,2026-01-01,2026-01,Nifas Silk-Lafto,Pipe leak,High,Closed,Mobile app,19.4,Network team,Residential
+S4-TK-00670,2026-07-17,2026-07,Arada,Pipe leak,High,Closed,Mobile app,38.9,Repair crew,Residential
+S4-TK-00671,2026-03-22,2026-03,Nifas Silk-Lafto,Low pressure,Medium,Closed,Call center,22.8,Repair crew,Residential
+S4-TK-00672,2026-09-10,2026-09,Bole,Water quality,High,Closed,Mobile app,104.6,Customer service,Commercial
+S4-TK-00673,2026-05-18,2026-05,Addis Ketema,Low pressure,Medium,Closed,Call center,35.1,Network team,Residential
+S4-TK-00674,2026-09-04,2026-09,Addis Ketema,Meter issue,Medium,Closed,Call center,13.8,Customer service,Residential
+S4-TK-00675,2026-02-08,2026-02,Kirkos,Pipe leak,Medium,Closed,Field report,21,Customer service,Commercial
+S4-TK-00676,2026-08-15,2026-08,Kolfe Keranio,Meter issue,Low,Closed,Field report,24.8,Repair crew,Residential
+S4-TK-00677,2026-04-03,2026-04,Gullele,Pipe leak,High,Closed,Mobile app,21.9,Network team,Commercial
+S4-TK-00678,2026-08-20,2026-08,Gullele,Valve failure,Medium,Closed,Mobile app,34.3,Customer service,Commercial
+S4-TK-00679,2026-03-27,2026-03,Akaki Kality,Low pressure,Low,Closed,Field report,8.9,Customer service,Commercial
+S4-TK-00680,2026-01-10,2026-01,Nifas Silk-Lafto,Low pressure,Medium,Closed,Call center,76.2,Network team,Residential
+S4-TK-00681,2026-04-27,2026-04,Nifas Silk-Lafto,Pipe leak,Medium,Closed,Mobile app,87.4,Customer service,Residential
+S4-TK-00682,2026-07-14,2026-07,Kolfe Keranio,Low pressure,Medium,Open,Call center,,Repair crew,Residential
+S4-TK-00683,2026-04-13,2026-04,Gullele,Low pressure,Low,Closed,Mobile app,1.9,Repair crew,Institutional
+S4-TK-00684,2026-06-08,2026-06,Nifas Silk-Lafto,Burst main,High,Closed,Mobile app,50.6,Repair crew,Residential
+S4-TK-00685,2026-05-04,2026-05,Kirkos,Meter issue,High,Closed,Mobile app,36.7,Customer service,Commercial
+S4-TK-00686,2026-01-29,2026-01,Kirkos,Low pressure,High,Closed,Walk-in,26.2,Repair crew,Residential
+S4-TK-00687,2026-08-27,2026-08,Kolfe Keranio,Valve failure,Low,Closed,Mobile app,13.9,Network team,Residential
+S4-TK-00688,2026-07-05,2026-07,Kolfe Keranio,Pipe leak,Medium,Closed,Call center,76.4,Network team,Residential
+S4-TK-00689,2026-01-09,2026-01,Akaki Kality,Burst main,High,Closed,Call center,16.8,Customer service,Residential
+S4-TK-00690,2026-08-03,2026-08,Arada,Low pressure,Medium,Closed,Field report,8.5,Repair crew,Residential
+S4-TK-00691,2026-05-10,2026-05,Arada,Pipe leak,Medium,Closed,Mobile app,36.9,Repair crew,Residential
+S4-TK-00692,2026-09-03,2026-09,Akaki Kality,Valve failure,Low,Closed,Walk-in,15.2,Customer service,Residential
+S4-TK-00693,2026-06-20,2026-06,Gullele,Pipe leak,Medium,Open,Walk-in,,Network team,Residential
+S4-TK-00694,2026-01-12,2026-01,Gullele,Pipe leak,Low,Open,Mobile app,,Network team,Commercial
+S4-TK-00695,2026-08-25,2026-08,Kolfe Keranio,Burst main,High,Escalated,Call center,,Customer service,Institutional
+S4-TK-00696,2026-01-21,2026-01,Addis Ketema,Meter issue,Low,Escalated,Field report,,Network team,Commercial
+S4-TK-00697,2026-02-26,2026-02,Gullele,Pipe leak,Medium,Closed,Field report,43.4,Network team,Residential
+S4-TK-00698,2026-06-08,2026-06,Bole,Meter issue,Medium,Closed,Call center,26.7,Network team,Residential
+S4-TK-00699,2026-05-29,2026-05,Addis Ketema,Low pressure,Medium,Closed,Walk-in,29.9,Repair crew,Residential
+S4-TK-00700,2026-04-27,2026-04,Kolfe Keranio,Low pressure,Medium,Closed,Call center,22.4,Customer service,Residential
+S4-TK-00701,2026-05-11,2026-05,Arada,Pipe leak,Low,Open,Walk-in,,Repair crew,Institutional
+S4-TK-00702,2026-08-10,2026-08,Kolfe Keranio,Pipe leak,Medium,Open,Field report,,Network team,Residential
+S4-TK-00703,2026-01-16,2026-01,Addis Ketema,Low pressure,Medium,Closed,Field report,28.2,Customer service,Institutional
+S4-TK-00704,2026-04-08,2026-04,Akaki Kality,Low pressure,Medium,Closed,Field report,6.1,Repair crew,Residential
+S4-TK-00705,2026-04-11,2026-04,Gullele,Low pressure,Medium,Closed,Walk-in,18.2,Repair crew,Residential
+S4-TK-00706,2026-07-31,2026-07,Kolfe Keranio,Meter issue,High,Closed,Call center,18.3,Repair crew,Institutional
+S4-TK-00707,2026-01-05,2026-01,Addis Ketema,Meter issue,Medium,Closed,Field report,51.1,Repair crew,Residential
+S4-TK-00708,2026-07-03,2026-07,Akaki Kality,Pipe leak,Medium,Closed,Field report,23.2,Network team,Commercial
+S4-TK-00709,2026-07-30,2026-07,Kolfe Keranio,Water quality,Urgent,Closed,Call center,8.2,Network team,Residential
+S4-TK-00710,2026-04-15,2026-04,Nifas Silk-Lafto,Valve failure,Medium,Closed,Field report,33.2,Repair crew,Residential
+S4-TK-00711,2026-03-05,2026-03,Arada,Pipe leak,Medium,Open,Call center,,Repair crew,Residential
+S4-TK-00712,2026-01-13,2026-01,Kolfe Keranio,Pipe leak,High,Escalated,Call center,,Network team,Residential
+S4-TK-00713,2026-06-21,2026-06,Arada,Pipe leak,Medium,Open,Field report,,Customer service,Residential
+S4-TK-00714,2026-06-04,2026-06,Kirkos,Pipe leak,Medium,Closed,Field report,38.8,Repair crew,Residential
+S4-TK-00715,2026-08-14,2026-08,Akaki Kality,Valve failure,Low,Closed,Field report,30.7,Repair crew,Residential
+S4-TK-00716,2026-08-02,2026-08,Bole,Meter issue,Medium,Closed,Call center,46.2,Customer service,Residential
+S4-TK-00717,2026-08-16,2026-08,Addis Ketema,Low pressure,Medium,Closed,Walk-in,39.3,Repair crew,Residential
+S4-TK-00718,2026-08-10,2026-08,Kirkos,Low pressure,Low,Closed,Call center,66.2,Repair crew,Residential
+S4-TK-00719,2026-03-10,2026-03,Bole,Pipe leak,Medium,Closed,Call center,34.8,Customer service,Residential
+S4-TK-00720,2026-04-10,2026-04,Kolfe Keranio,Low pressure,Medium,Open,Call center,,Customer service,Residential
+S4-TK-00721,2026-05-04,2026-05,Akaki Kality,Low pressure,Medium,Closed,Field report,22.9,Network team,Institutional
+S4-TK-00722,2026-06-29,2026-06,Addis Ketema,Low pressure,Low,Closed,Mobile app,9.4,Customer service,Residential
+S4-TK-00723,2026-05-23,2026-05,Gullele,Pipe leak,Low,Closed,Call center,20.2,Network team,Commercial
+S4-TK-00724,2026-09-14,2026-09,Akaki Kality,Pipe leak,Medium,Closed,Call center,14.7,Repair crew,Residential
+S4-TK-00725,2026-07-05,2026-07,Kolfe Keranio,Meter issue,Medium,Closed,Walk-in,22.6,Repair crew,Residential
+S4-TK-00726,2026-08-05,2026-08,Kirkos,Low pressure,Medium,Closed,Field report,19.4,Network team,Residential
+S4-TK-00727,2026-09-26,2026-09,Addis Ketema,Meter issue,Low,Closed,Walk-in,10.5,Repair crew,Residential
+S4-TK-00728,2026-04-01,2026-04,Addis Ketema,Valve failure,Medium,Open,Call center,,Repair crew,Residential
+S4-TK-00729,2026-08-10,2026-08,Addis Ketema,Meter issue,Medium,Escalated,Call center,,Repair crew,Residential
+S4-TK-00730,2026-06-04,2026-06,Akaki Kality,Low pressure,Medium,Escalated,Call center,,Network team,Residential
+S4-TK-00731,2026-02-02,2026-02,Gullele,Pipe leak,High,Closed,Field report,22.4,Network team,Residential
+S4-TK-00732,2026-01-03,2026-01,Arada,Pipe leak,Medium,Closed,Mobile app,5.7,Repair crew,Residential
+S4-TK-00733,2026-01-18,2026-01,Kirkos,Pipe leak,Medium,Closed,Call center,19,Repair crew,Residential
+S4-TK-00734,2026-07-14,2026-07,Nifas Silk-Lafto,Low pressure,Medium,Open,Field report,,Customer service,Institutional
+S4-TK-00735,2026-09-01,2026-09,Akaki Kality,Low pressure,Medium,Closed,Call center,33.9,Customer service,Residential
+S4-TK-00736,2026-09-19,2026-09,Nifas Silk-Lafto,Low pressure,Medium,Closed,Walk-in,53,Repair crew,Residential
+S4-TK-00737,2026-07-31,2026-07,Arada,Pipe leak,Low,Closed,Field report,38.1,Customer service,Commercial
+S4-TK-00738,2026-02-18,2026-02,Arada,Pipe leak,Medium,Closed,Mobile app,29.5,Network team,Residential
+S4-TK-00739,2026-03-30,2026-03,Addis Ketema,Low pressure,Medium,Closed,Call center,20.6,Repair crew,Residential
+S4-TK-00740,2026-05-27,2026-05,Arada,Valve failure,Low,Open,Call center,,Network team,Residential
+S4-TK-00741,2026-06-06,2026-06,Bole,Low pressure,High,Closed,Call center,12.7,Network team,Residential
+S4-TK-00742,2026-08-04,2026-08,Addis Ketema,Valve failure,Medium,Closed,Field report,29.5,Repair crew,Residential
+S4-TK-00743,2026-07-18,2026-07,Akaki Kality,Pipe leak,Medium,Closed,Mobile app,38.6,Repair crew,Residential
+S4-TK-00744,2026-07-06,2026-07,Kirkos,Pipe leak,Medium,Closed,Field report,5.9,Repair crew,Residential
+S4-TK-00745,2026-03-08,2026-03,Addis Ketema,Meter issue,Medium,Closed,Call center,14,Repair crew,Residential
+S4-TK-00746,2026-06-29,2026-06,Kolfe Keranio,Burst main,High,Closed,Mobile app,14.4,Network team,Residential
+S4-TK-00747,2026-01-06,2026-01,Addis Ketema,Low pressure,Medium,Closed,Walk-in,28.5,Repair crew,Residential
+S4-TK-00748,2026-06-26,2026-06,Arada,Pipe leak,Medium,Closed,Field report,6.8,Repair crew,Residential
+S4-TK-00749,2026-04-17,2026-04,Nifas Silk-Lafto,Pipe leak,High,Closed,Mobile app,46.8,Customer service,Commercial
+S4-TK-00750,2026-04-02,2026-04,Kirkos,Pipe leak,Low,Closed,Mobile app,11.8,Network team,Residential
+S4-TK-00751,2026-05-11,2026-05,Gullele,Pipe leak,Medium,Closed,Mobile app,20.9,Repair crew,Residential
+S4-TK-00752,2026-01-19,2026-01,Kirkos,Meter issue,High,Closed,Mobile app,43.2,Repair crew,Institutional
+S4-TK-00753,2026-08-16,2026-08,Kirkos,Water quality,High,Closed,Walk-in,35.8,Repair crew,Residential
+S4-TK-00754,2026-06-23,2026-06,Bole,Meter issue,Medium,Closed,Field report,13.1,Network team,Residential
+S4-TK-00755,2026-03-30,2026-03,Arada,Meter issue,Medium,Open,Call center,,Customer service,Residential
+S4-TK-00756,2026-07-04,2026-07,Nifas Silk-Lafto,Meter issue,Medium,Closed,Mobile app,12,Repair crew,Residential
+S4-TK-00757,2026-03-21,2026-03,Bole,Low pressure,Medium,Closed,Field report,17.9,Repair crew,Residential
+S4-TK-00758,2026-03-14,2026-03,Addis Ketema,Meter issue,Medium,Closed,Call center,11.8,Network team,Residential
+S4-TK-00759,2026-07-21,2026-07,Nifas Silk-Lafto,Valve failure,Low,Closed,Walk-in,20.2,Repair crew,Residential
+S4-TK-00760,2026-09-27,2026-09,Addis Ketema,Meter issue,Medium,Closed,Mobile app,25.4,Repair crew,Residential
+S4-TK-00761,2026-07-13,2026-07,Nifas Silk-Lafto,Pipe leak,Medium,Closed,Field report,17.4,Network team,Residential
+S4-TK-00762,2026-08-02,2026-08,Addis Ketema,Burst main,High,Closed,Call center,24.6,Repair crew,Residential
+S4-TK-00763,2026-01-17,2026-01,Kirkos,Meter issue,Medium,Closed,Field report,22.4,Customer service,Residential
+S4-TK-00764,2026-06-22,2026-06,Gullele,Low pressure,High,Closed,Walk-in,6.4,Network team,Residential
+S4-TK-00765,2026-02-22,2026-02,Kolfe Keranio,Pipe leak,Low,Closed,Call center,24.6,Network team,Residential
+S4-TK-00766,2026-07-19,2026-07,Addis Ketema,Meter issue,Medium,Closed,Walk-in,2,Network team,Commercial
+S4-TK-00767,2026-03-08,2026-03,Akaki Kality,Water quality,High,Closed,Field report,19.1,Repair crew,Commercial
+S4-TK-00768,2026-07-06,2026-07,Bole,Burst main,High,Closed,Call center,51.8,Repair crew,Institutional
+S4-TK-00769,2026-07-23,2026-07,Kirkos,Low pressure,Low,Closed,Call center,16.4,Network team,Residential
+S4-TK-00770,2026-06-04,2026-06,Akaki Kality,Pipe leak,Medium,Closed,Walk-in,13.2,Network team,Residential
+S4-TK-00771,2026-06-10,2026-06,Nifas Silk-Lafto,Burst main,High,Closed,Mobile app,23.8,Repair crew,Residential
+S4-TK-00772,2026-06-14,2026-06,Gullele,Valve failure,Medium,Closed,Mobile app,18.7,Customer service,Commercial
+S4-TK-00773,2026-08-28,2026-08,Nifas Silk-Lafto,Valve failure,High,Closed,Walk-in,14.6,Customer service,Residential
+S4-TK-00774,2026-08-14,2026-08,Bole,Pipe leak,Medium,Closed,Call center,13.3,Repair crew,Residential
+S4-TK-00775,2026-06-06,2026-06,Kirkos,Low pressure,Medium,Closed,Call center,4.6,Customer service,Residential
+S4-TK-00776,2026-06-18,2026-06,Nifas Silk-Lafto,Meter issue,Medium,Closed,Call center,16.7,Repair crew,Residential
+S4-TK-00777,2026-09-06,2026-09,Addis Ketema,Meter issue,Medium,Closed,Mobile app,13.5,Customer service,Institutional
+S4-TK-00778,2026-05-03,2026-05,Kirkos,Water quality,High,Closed,Mobile app,7.8,Network team,Residential
+S4-TK-00779,2026-06-05,2026-06,Addis Ketema,Pipe leak,Low,Closed,Call center,18.8,Repair crew,Commercial
+S4-TK-00780,2026-03-14,2026-03,Kirkos,Valve failure,High,Closed,Mobile app,39.5,Customer service,Residential
+S4-TK-00781,2026-01-04,2026-01,Nifas Silk-Lafto,Low pressure,Low,Closed,Mobile app,14,Repair crew,Residential
+S4-TK-00782,2026-02-12,2026-02,Kirkos,Low pressure,Medium,Closed,Mobile app,9,Repair crew,Residential
+S4-TK-00783,2026-05-25,2026-05,Akaki Kality,Water quality,Urgent,Closed,Field report,18.3,Network team,Residential
+S4-TK-00784,2026-05-06,2026-05,Akaki Kality,Valve failure,Low,Closed,Call center,6.5,Repair crew,Residential
+S4-TK-00785,2026-05-02,2026-05,Akaki Kality,Pipe leak,Medium,Closed,Call center,22.2,Repair crew,Commercial
+S4-TK-00786,2026-01-24,2026-01,Bole,Valve failure,Low,Closed,Mobile app,18.1,Repair crew,Residential
+S4-TK-00787,2026-03-18,2026-03,Nifas Silk-Lafto,Pipe leak,High,Open,Call center,,Repair crew,Residential
+S4-TK-00788,2026-03-12,2026-03,Kirkos,Pipe leak,Medium,Closed,Mobile app,1.7,Network team,Residential
+S4-TK-00789,2026-03-23,2026-03,Arada,Pipe leak,Medium,Open,Mobile app,,Repair crew,Institutional
+S4-TK-00790,2026-04-04,2026-04,Bole,Pipe leak,High,Open,Call center,,Network team,Residential
+S4-TK-00791,2026-06-09,2026-06,Akaki Kality,Pipe leak,High,Closed,Field report,25.8,Customer service,Commercial
+S4-TK-00792,2026-04-25,2026-04,Nifas Silk-Lafto,Low pressure,High,Closed,Mobile app,13.9,Network team,Commercial
+S4-TK-00793,2026-05-05,2026-05,Akaki Kality,Low pressure,Medium,Closed,Call center,3.8,Network team,Residential
+S4-TK-00794,2026-09-17,2026-09,Kirkos,Pipe leak,Medium,Escalated,Walk-in,,Repair crew,Residential
+S4-TK-00795,2026-02-23,2026-02,Arada,Valve failure,Medium,Closed,Field report,57,Customer service,Residential
+S4-TK-00796,2026-05-19,2026-05,Nifas Silk-Lafto,Burst main,Urgent,Open,Call center,,Network team,Residential
+S4-TK-00797,2026-01-28,2026-01,Addis Ketema,Pipe leak,High,Closed,Call center,15.1,Customer service,Residential
+S4-TK-00798,2026-03-11,2026-03,Kirkos,Pipe leak,Medium,Closed,Mobile app,47.4,Repair crew,Residential
+S4-TK-00799,2026-08-01,2026-08,Bole,Pipe leak,Medium,Open,Call center,,Repair crew,Commercial
+S4-TK-00800,2026-01-31,2026-01,Bole,Pipe leak,Medium,Closed,Call center,10,Network team,Commercial
+S4-TK-00801,2026-04-25,2026-04,Addis Ketema,Burst main,High,Closed,Call center,17.9,Network team,Residential
+S4-TK-00802,2026-01-06,2026-01,Addis Ketema,Burst main,High,Closed,Call center,14,Customer service,Residential
+S4-TK-00803,2026-07-18,2026-07,Addis Ketema,Low pressure,Low,Closed,Mobile app,27.9,Repair crew,Residential
+S4-TK-00804,2026-04-10,2026-04,Bole,Pipe leak,Medium,Closed,Walk-in,35.7,Network team,Residential
+S4-TK-00805,2026-07-23,2026-07,Kirkos,Low pressure,Medium,Closed,Walk-in,13.6,Repair crew,Residential
+S4-TK-00806,2026-02-05,2026-02,Arada,Valve failure,High,Closed,Walk-in,21.7,Network team,Residential
+S4-TK-00807,2026-07-09,2026-07,Kolfe Keranio,Meter issue,Medium,Closed,Walk-in,9.8,Repair crew,Residential
+S4-TK-00808,2026-09-06,2026-09,Kirkos,Pipe leak,Low,Open,Call center,,Customer service,Residential
+S4-TK-00809,2026-09-22,2026-09,Nifas Silk-Lafto,Burst main,High,Closed,Call center,5,Customer service,Residential
+S4-TK-00810,2026-09-16,2026-09,Addis Ketema,Burst main,Urgent,Closed,Field report,8.4,Customer service,Residential
+S4-TK-00811,2026-05-28,2026-05,Addis Ketema,Low pressure,High,Closed,Mobile app,27.9,Customer service,Residential
+S4-TK-00812,2026-09-12,2026-09,Gullele,Low pressure,Medium,Open,Field report,,Repair crew,Commercial
+S4-TK-00813,2026-03-05,2026-03,Kolfe Keranio,Meter issue,Low,Closed,Mobile app,5,Customer service,Residential
+S4-TK-00814,2026-04-04,2026-04,Akaki Kality,Low pressure,Medium,Closed,Call center,11.5,Network team,Commercial
+S4-TK-00815,2026-08-19,2026-08,Akaki Kality,Valve failure,Medium,Closed,Mobile app,36.2,Repair crew,Commercial
+S4-TK-00816,2026-06-09,2026-06,Akaki Kality,Burst main,High,Closed,Field report,17.3,Repair crew,Residential
+S4-TK-00817,2026-01-18,2026-01,Arada,Valve failure,Medium,Open,Mobile app,,Repair crew,Commercial
+S4-TK-00818,2026-09-27,2026-09,Akaki Kality,Meter issue,High,Closed,Mobile app,14.8,Repair crew,Residential
+S4-TK-00819,2026-07-12,2026-07,Bole,Low pressure,High,Open,Mobile app,,Network team,Residential
+S4-TK-00820,2026-09-27,2026-09,Addis Ketema,Low pressure,Medium,Closed,Call center,39.5,Repair crew,Residential
+S4-TK-00821,2026-09-09,2026-09,Gullele,Pipe leak,Medium,Closed,Walk-in,18,Repair crew,Residential
+S4-TK-00822,2026-08-17,2026-08,Akaki Kality,Pipe leak,Medium,Closed,Field report,30.7,Customer service,Institutional
+S4-TK-00823,2026-03-05,2026-03,Addis Ketema,Low pressure,Low,Closed,Call center,4.9,Customer service,Residential
+S4-TK-00824,2026-03-11,2026-03,Nifas Silk-Lafto,Meter issue,Low,Closed,Walk-in,35.7,Repair crew,Residential
+S4-TK-00825,2026-04-18,2026-04,Addis Ketema,Pipe leak,Low,Open,Walk-in,,Network team,Residential
+S4-TK-00826,2026-05-24,2026-05,Nifas Silk-Lafto,Meter issue,Medium,Closed,Walk-in,27.3,Network team,Institutional
+S4-TK-00827,2026-03-14,2026-03,Bole,Low pressure,Medium,Escalated,Mobile app,,Customer service,Residential
+S4-TK-00828,2026-09-16,2026-09,Arada,Burst main,Urgent,Open,Field report,,Customer service,Residential
+S4-TK-00829,2026-04-26,2026-04,Gullele,Valve failure,Medium,Closed,Call center,10.1,Repair crew,Residential
+S4-TK-00830,2026-02-08,2026-02,Arada,Pipe leak,Medium,Closed,Call center,74.5,Network team,Residential
+S4-TK-00831,2026-02-04,2026-02,Akaki Kality,Meter issue,Medium,Open,Call center,,Repair crew,Residential
+S4-TK-00832,2026-05-02,2026-05,Gullele,Meter issue,High,Closed,Call center,15.5,Repair crew,Residential
+S4-TK-00833,2026-04-24,2026-04,Arada,Burst main,High,Closed,Field report,21.9,Repair crew,Institutional
+S4-TK-00834,2026-08-28,2026-08,Nifas Silk-Lafto,Burst main,High,Closed,Field report,83.2,Repair crew,Residential
+S4-TK-00835,2026-02-19,2026-02,Kirkos,Meter issue,Medium,Closed,Mobile app,13.9,Repair crew,Institutional
+S4-TK-00836,2026-06-23,2026-06,Gullele,Low pressure,Medium,Open,Call center,,Network team,Residential
+S4-TK-00837,2026-05-06,2026-05,Kirkos,Burst main,Urgent,Escalated,Call center,,Repair crew,Commercial
+S4-TK-00838,2026-06-17,2026-06,Bole,Burst main,Urgent,Closed,Call center,24.3,Network team,Residential
+S4-TK-00839,2026-02-26,2026-02,Arada,Meter issue,Low,Closed,Mobile app,31.5,Network team,Residential
+S4-TK-00840,2026-04-26,2026-04,Akaki Kality,Low pressure,Medium,Escalated,Call center,,Repair crew,Residential
+S4-TK-00841,2026-02-09,2026-02,Arada,Pipe leak,Medium,Open,Field report,,Network team,Commercial
+S4-TK-00842,2026-07-26,2026-07,Kolfe Keranio,Pipe leak,Medium,Closed,Mobile app,35.4,Repair crew,Commercial
+S4-TK-00843,2026-02-26,2026-02,Kirkos,Water quality,High,Closed,Field report,15.4,Repair crew,Residential
+S4-TK-00844,2026-04-21,2026-04,Gullele,Pipe leak,Medium,Closed,Field report,7.2,Network team,Residential
+S4-TK-00845,2026-06-17,2026-06,Nifas Silk-Lafto,Burst main,High,Open,Call center,,Network team,Commercial
+S4-TK-00846,2026-08-11,2026-08,Bole,Low pressure,Low,Closed,Call center,75.6,Repair crew,Residential
+S4-TK-00847,2026-05-02,2026-05,Kirkos,Meter issue,Medium,Closed,Walk-in,17,Customer service,Commercial
+S4-TK-00848,2026-04-26,2026-04,Bole,Pipe leak,Low,Open,Field report,,Repair crew,Residential
+S4-TK-00849,2026-05-19,2026-05,Kolfe Keranio,Burst main,High,Closed,Call center,6.4,Customer service,Residential
+S4-TK-00850,2026-06-18,2026-06,Kolfe Keranio,Meter issue,High,Closed,Walk-in,27.9,Customer service,Residential
+S4-TK-00851,2026-06-27,2026-06,Nifas Silk-Lafto,Low pressure,Medium,Closed,Field report,43.8,Customer service,Residential
+S4-TK-00852,2026-04-29,2026-04,Arada,Low pressure,Medium,Closed,Call center,30,Repair crew,Commercial
+S4-TK-00853,2026-06-27,2026-06,Gullele,Pipe leak,High,Closed,Mobile app,34.1,Network team,Residential
+S4-TK-00854,2026-02-19,2026-02,Nifas Silk-Lafto,Water quality,High,Closed,Mobile app,28.5,Network team,Residential
+S4-TK-00855,2026-06-03,2026-06,Nifas Silk-Lafto,Pipe leak,Medium,Closed,Call center,16.3,Customer service,Commercial
+S4-TK-00856,2026-09-28,2026-09,Arada,Pipe leak,Medium,Closed,Field report,8.8,Repair crew,Residential
+S4-TK-00857,2026-03-24,2026-03,Bole,Pipe leak,Medium,Closed,Walk-in,21.9,Customer service,Residential
+S4-TK-00858,2026-04-27,2026-04,Kolfe Keranio,Pipe leak,Medium,Closed,Mobile app,12.7,Network team,Residential
+S4-TK-00859,2026-08-23,2026-08,Akaki Kality,Valve failure,High,Closed,Walk-in,49.7,Network team,Residential
+S4-TK-00860,2026-02-24,2026-02,Nifas Silk-Lafto,Pipe leak,Low,Closed,Mobile app,18,Customer service,Residential
+S4-TK-00861,2026-08-23,2026-08,Bole,Pipe leak,Medium,Closed,Mobile app,19.2,Repair crew,Residential
+S4-TK-00862,2026-03-13,2026-03,Nifas Silk-Lafto,Pipe leak,Medium,Closed,Walk-in,19.7,Repair crew,Residential
+S4-TK-00863,2026-03-31,2026-03,Gullele,Water quality,High,Closed,Call center,34.5,Repair crew,Residential
+S4-TK-00864,2026-06-26,2026-06,Bole,Pipe leak,Medium,Closed,Field report,16.1,Repair crew,Residential
+S4-TK-00865,2026-04-18,2026-04,Bole,Valve failure,Low,Closed,Call center,26.4,Customer service,Residential
+S4-TK-00866,2026-03-28,2026-03,Bole,Pipe leak,Medium,Closed,Field report,24.9,Repair crew,Residential
+S4-TK-00867,2026-03-18,2026-03,Gullele,Low pressure,Medium,Closed,Call center,16.7,Network team,Residential
+S4-TK-00868,2026-05-15,2026-05,Nifas Silk-Lafto,Pipe leak,High,Closed,Call center,27.9,Repair crew,Residential
+S4-TK-00869,2026-09-15,2026-09,Kirkos,Low pressure,Medium,Closed,Field report,11,Repair crew,Residential
+S4-TK-00870,2026-06-26,2026-06,Kirkos,Valve failure,High,Closed,Call center,22.8,Repair crew,Residential
+S4-TK-00871,2026-08-12,2026-08,Kirkos,Low pressure,Medium,Closed,Call center,15.8,Network team,Commercial
+S4-TK-00872,2026-02-05,2026-02,Addis Ketema,Meter issue,Low,Open,Mobile app,,Repair crew,Commercial
+S4-TK-00873,2026-02-01,2026-02,Kirkos,Low pressure,Medium,Open,Mobile app,,Repair crew,Residential
+S4-TK-00874,2026-09-19,2026-09,Addis Ketema,Pipe leak,Medium,Closed,Mobile app,34.5,Repair crew,Commercial
+S4-TK-00875,2026-02-13,2026-02,Addis Ketema,Pipe leak,High,Closed,Mobile app,36.4,Repair crew,Commercial
+S4-TK-00876,2026-05-11,2026-05,Akaki Kality,Pipe leak,Medium,Closed,Mobile app,6.8,Repair crew,Residential
+S4-TK-00877,2026-08-03,2026-08,Gullele,Pipe leak,Low,Closed,Call center,32.9,Repair crew,Commercial
+S4-TK-00878,2026-04-17,2026-04,Kolfe Keranio,Valve failure,Low,Closed,Call center,26.1,Customer service,Residential
+S4-TK-00879,2026-07-31,2026-07,Arada,Pipe leak,Low,Open,Mobile app,,Repair crew,Residential
+S4-TK-00880,2026-06-14,2026-06,Nifas Silk-Lafto,Meter issue,Medium,Open,Call center,,Network team,Commercial
+S4-TK-00881,2026-08-20,2026-08,Bole,Low pressure,Medium,Closed,Walk-in,47,Customer service,Institutional
+S4-TK-00882,2026-04-15,2026-04,Nifas Silk-Lafto,Meter issue,High,Closed,Walk-in,22,Repair crew,Residential
+S4-TK-00883,2026-05-01,2026-05,Kirkos,Pipe leak,Medium,Closed,Field report,27.9,Repair crew,Commercial
+S4-TK-00884,2026-08-15,2026-08,Arada,Meter issue,High,Closed,Call center,38.4,Network team,Residential
+S4-TK-00885,2026-06-02,2026-06,Arada,Valve failure,Medium,Closed,Mobile app,28.1,Network team,Institutional
+S4-TK-00886,2026-09-21,2026-09,Bole,Pipe leak,High,Closed,Call center,28.4,Network team,Commercial
+S4-TK-00887,2026-05-30,2026-05,Addis Ketema,Low pressure,Medium,Open,Call center,,Repair crew,Residential
+S4-TK-00888,2026-04-26,2026-04,Arada,Low pressure,Medium,Closed,Call center,25.5,Customer service,Residential
+S4-TK-00889,2026-09-26,2026-09,Bole,Valve failure,Medium,Open,Mobile app,,Network team,Institutional
+S4-TK-00890,2026-03-15,2026-03,Kolfe Keranio,Pipe leak,Medium,Closed,Call center,25.7,Network team,Residential
+S4-TK-00891,2026-08-04,2026-08,Kolfe Keranio,Meter issue,High,Closed,Call center,22.8,Network team,Residential
+S4-TK-00892,2026-01-14,2026-01,Nifas Silk-Lafto,Meter issue,Medium,Closed,Mobile app,12.3,Repair crew,Residential
+S4-TK-00893,2026-04-02,2026-04,Kirkos,Pipe leak,Medium,Closed,Mobile app,11.6,Customer service,Residential
+S4-TK-00894,2026-03-10,2026-03,Kirkos,Pipe leak,Medium,Closed,Field report,13.9,Repair crew,Residential
+S4-TK-00895,2026-08-17,2026-08,Arada,Valve failure,Medium,Escalated,Call center,,Network team,Institutional
+S4-TK-00896,2026-07-08,2026-07,Addis Ketema,Meter issue,High,Closed,Call center,34.6,Network team,Residential
+S4-TK-00897,2026-02-24,2026-02,Nifas Silk-Lafto,Burst main,Urgent,Closed,Call center,26.5,Network team,Commercial
+S4-TK-00898,2026-01-02,2026-01,Akaki Kality,Burst main,High,Closed,Call center,7.3,Repair crew,Residential
+S4-TK-00899,2026-09-11,2026-09,Kolfe Keranio,Valve failure,Low,Open,Call center,,Repair crew,Residential
+S4-TK-00900,2026-04-29,2026-04,Addis Ketema,Valve failure,Low,Closed,Mobile app,15.1,Network team,Residential
+S4-TK-00901,2026-09-15,2026-09,Gullele,Meter issue,Medium,Closed,Call center,33.1,Repair crew,Residential
+S4-TK-00902,2026-03-15,2026-03,Kirkos,Meter issue,Medium,Open,Field report,,Network team,Commercial
+S4-TK-00903,2026-07-15,2026-07,Arada,Pipe leak,Medium,Closed,Call center,39.2,Repair crew,Residential
+S4-TK-00904,2026-01-17,2026-01,Arada,Water quality,High,Closed,Walk-in,22.5,Network team,Commercial
+S4-TK-00905,2026-03-27,2026-03,Arada,Pipe leak,Medium,Closed,Field report,3.3,Repair crew,Residential
+S4-TK-00906,2026-09-28,2026-09,Kolfe Keranio,Meter issue,Medium,Closed,Mobile app,33.9,Repair crew,Residential
+S4-TK-00907,2026-06-28,2026-06,Kirkos,Pipe leak,Medium,Open,Call center,,Repair crew,Commercial
+S4-TK-00908,2026-03-12,2026-03,Gullele,Pipe leak,Low,Closed,Call center,21.6,Customer service,Institutional
+S4-TK-00909,2026-05-18,2026-05,Kirkos,Valve failure,Medium,Closed,Field report,11.8,Repair crew,Residential
+S4-TK-00910,2026-07-19,2026-07,Gullele,Pipe leak,Medium,Closed,Walk-in,31.2,Network team,Residential
+S4-TK-00911,2026-09-19,2026-09,Kirkos,Meter issue,Low,Closed,Field report,22.4,Network team,Residential
+S4-TK-00912,2026-06-28,2026-06,Addis Ketema,Low pressure,Low,Open,Call center,,Network team,Residential
+S4-TK-00913,2026-05-22,2026-05,Akaki Kality,Meter issue,Medium,Closed,Mobile app,6.5,Repair crew,Residential
+S4-TK-00914,2026-09-30,2026-09,Addis Ketema,Low pressure,Low,Closed,Call center,37.7,Network team,Residential
+S4-TK-00915,2026-07-23,2026-07,Nifas Silk-Lafto,Meter issue,Medium,Closed,Walk-in,25.6,Repair crew,Residential
+S4-TK-00916,2026-04-03,2026-04,Akaki Kality,Pipe leak,Medium,Closed,Call center,9.7,Repair crew,Commercial
+S4-TK-00917,2026-05-09,2026-05,Bole,Valve failure,Medium,Closed,Mobile app,44.8,Network team,Residential
+S4-TK-00918,2026-08-14,2026-08,Arada,Pipe leak,Medium,Open,Field report,,Repair crew,Residential
+S4-TK-00919,2026-06-17,2026-06,Addis Ketema,Valve failure,High,Closed,Mobile app,59.9,Network team,Residential
+S4-TK-00920,2026-02-22,2026-02,Akaki Kality,Burst main,High,Open,Walk-in,,Repair crew,Institutional
+S4-TK-00921,2026-02-07,2026-02,Nifas Silk-Lafto,Low pressure,High,Escalated,Mobile app,,Repair crew,Commercial
+S4-TK-00922,2026-03-23,2026-03,Nifas Silk-Lafto,Meter issue,Medium,Closed,Call center,8.5,Repair crew,Residential
+S4-TK-00923,2026-01-15,2026-01,Addis Ketema,Valve failure,Low,Closed,Field report,19.1,Network team,Residential
+S4-TK-00924,2026-03-14,2026-03,Nifas Silk-Lafto,Water quality,Urgent,Closed,Walk-in,3.9,Customer service,Residential
+S4-TK-00925,2026-06-07,2026-06,Nifas Silk-Lafto,Pipe leak,Low,Closed,Walk-in,2.8,Repair crew,Institutional
+S4-TK-00926,2026-09-13,2026-09,Nifas Silk-Lafto,Burst main,Urgent,Closed,Mobile app,21.7,Network team,Residential
+S4-TK-00927,2026-01-28,2026-01,Arada,Burst main,High,Closed,Call center,25.7,Repair crew,Institutional
+S4-TK-00928,2026-05-06,2026-05,Nifas Silk-Lafto,Meter issue,Medium,Closed,Call center,20.6,Network team,Residential
+S4-TK-00929,2026-01-27,2026-01,Arada,Meter issue,Medium,Open,Call center,,Repair crew,Residential
+S4-TK-00930,2026-05-20,2026-05,Arada,Low pressure,Medium,Closed,Field report,6.3,Repair crew,Residential
+S4-TK-00931,2026-08-01,2026-08,Bole,Valve failure,Medium,Open,Call center,,Repair crew,Residential
+S4-TK-00932,2026-08-07,2026-08,Gullele,Water quality,High,Closed,Call center,55.9,Network team,Residential
+S4-TK-00933,2026-08-30,2026-08,Addis Ketema,Burst main,High,Escalated,Mobile app,,Repair crew,Residential
+S4-TK-00934,2026-01-20,2026-01,Kirkos,Low pressure,Medium,Closed,Call center,44.8,Network team,Residential
+S4-TK-00935,2026-01-30,2026-01,Nifas Silk-Lafto,Meter issue,High,Closed,Walk-in,73.4,Network team,Residential
+S4-TK-00936,2026-05-24,2026-05,Addis Ketema,Water quality,Urgent,Closed,Call center,61,Repair crew,Residential
+S4-TK-00937,2026-07-30,2026-07,Addis Ketema,Water quality,High,Closed,Call center,24.3,Repair crew,Residential
+S4-TK-00938,2026-09-14,2026-09,Addis Ketema,Low pressure,Medium,Closed,Field report,47.9,Repair crew,Institutional
+S4-TK-00939,2026-04-07,2026-04,Nifas Silk-Lafto,Water quality,High,Closed,Mobile app,6,Network team,Residential
+S4-TK-00940,2026-01-20,2026-01,Arada,Pipe leak,Medium,Closed,Call center,22.4,Repair crew,Residential
+S4-TK-00941,2026-05-09,2026-05,Arada,Pipe leak,Medium,Closed,Call center,4.9,Repair crew,Commercial
+S4-TK-00942,2026-01-03,2026-01,Addis Ketema,Valve failure,High,Closed,Call center,7.4,Network team,Residential
+S4-TK-00943,2026-03-01,2026-03,Akaki Kality,Meter issue,High,Closed,Walk-in,51.1,Repair crew,Residential
+S4-TK-00944,2026-02-22,2026-02,Arada,Valve failure,Low,Closed,Walk-in,32,Repair crew,Residential
+S4-TK-00945,2026-08-24,2026-08,Nifas Silk-Lafto,Low pressure,Low,Closed,Call center,24.2,Repair crew,Residential
+S4-TK-00946,2026-09-18,2026-09,Arada,Meter issue,Medium,Closed,Call center,9.4,Repair crew,Residential
+S4-TK-00947,2026-06-26,2026-06,Kirkos,Low pressure,Medium,Closed,Call center,8.6,Repair crew,Residential
+S4-TK-00948,2026-05-09,2026-05,Addis Ketema,Meter issue,High,Closed,Call center,24.3,Repair crew,Residential
+S4-TK-00949,2026-05-09,2026-05,Nifas Silk-Lafto,Burst main,Urgent,Closed,Mobile app,0.5,Repair crew,Commercial
+S4-TK-00950,2026-02-28,2026-02,Gullele,Pipe leak,Low,Open,Mobile app,,Customer service,Residential
+S4-TK-00951,2026-07-13,2026-07,Arada,Burst main,High,Closed,Walk-in,8,Repair crew,Commercial
+S4-TK-00952,2026-06-13,2026-06,Gullele,Meter issue,Low,Closed,Mobile app,36.7,Repair crew,Commercial
+S4-TK-00953,2026-03-17,2026-03,Akaki Kality,Pipe leak,Low,Closed,Call center,59,Repair crew,Residential
+S4-TK-00954,2026-01-31,2026-01,Gullele,Burst main,High,Closed,Mobile app,21.9,Repair crew,Residential
+S4-TK-00955,2026-06-18,2026-06,Kolfe Keranio,Pipe leak,Medium,Open,Call center,,Repair crew,Residential
+S4-TK-00956,2026-04-28,2026-04,Kirkos,Pipe leak,Medium,Closed,Call center,19.2,Repair crew,Residential
+S4-TK-00957,2026-07-08,2026-07,Akaki Kality,Pipe leak,High,Closed,Walk-in,13.9,Repair crew,Residential
+S4-TK-00958,2026-09-09,2026-09,Bole,Low pressure,Low,Closed,Walk-in,18.7,Network team,Commercial
+S4-TK-00959,2026-02-07,2026-02,Gullele,Valve failure,Medium,Closed,Walk-in,40.8,Network team,Commercial
+S4-TK-00960,2026-06-30,2026-06,Addis Ketema,Meter issue,High,Open,Mobile app,,Repair crew,Residential
+S4-TK-00961,2026-01-07,2026-01,Akaki Kality,Burst main,High,Open,Call center,,Repair crew,Institutional
+S4-TK-00962,2026-02-08,2026-02,Addis Ketema,Pipe leak,High,Open,Call center,,Network team,Residential
+S4-TK-00963,2026-03-27,2026-03,Arada,Pipe leak,Medium,Closed,Call center,24.1,Network team,Residential
+S4-TK-00964,2026-04-04,2026-04,Kirkos,Low pressure,High,Open,Call center,,Network team,Residential
+S4-TK-00965,2026-07-28,2026-07,Nifas Silk-Lafto,Valve failure,Medium,Closed,Call center,9.1,Repair crew,Residential
+S4-TK-00966,2026-02-02,2026-02,Kirkos,Pipe leak,Medium,Closed,Call center,19.7,Customer service,Residential
+S4-TK-00967,2026-05-13,2026-05,Bole,Burst main,Urgent,Open,Call center,,Customer service,Residential
+S4-TK-00968,2026-02-02,2026-02,Arada,Pipe leak,Medium,Closed,Mobile app,44.6,Repair crew,Residential
+S4-TK-00969,2026-09-16,2026-09,Arada,Burst main,Urgent,Closed,Field report,61.9,Repair crew,Commercial
+S4-TK-00970,2026-03-03,2026-03,Akaki Kality,Low pressure,Medium,Closed,Call center,33.2,Customer service,Institutional
+S4-TK-00971,2026-07-29,2026-07,Bole,Pipe leak,Medium,Open,Walk-in,,Repair crew,Residential
+S4-TK-00972,2026-05-21,2026-05,Bole,Pipe leak,Medium,Closed,Field report,33.2,Network team,Residential
+S4-TK-00973,2026-02-07,2026-02,Kirkos,Pipe leak,Medium,Closed,Field report,37.7,Repair crew,Residential
+S4-TK-00974,2026-04-26,2026-04,Kolfe Keranio,Valve failure,High,Closed,Walk-in,23.2,Repair crew,Residential
+S4-TK-00975,2026-06-10,2026-06,Gullele,Pipe leak,Low,Closed,Call center,8.4,Customer service,Residential
+S4-TK-00976,2026-05-28,2026-05,Bole,Pipe leak,Medium,Closed,Call center,48,Customer service,Commercial
+S4-TK-00977,2026-09-14,2026-09,Kolfe Keranio,Burst main,High,Closed,Walk-in,37.5,Customer service,Residential
+S4-TK-00978,2026-04-25,2026-04,Bole,Low pressure,Medium,Escalated,Mobile app,,Repair crew,Commercial
+S4-TK-00979,2026-02-11,2026-02,Kirkos,Pipe leak,Low,Closed,Walk-in,13.4,Repair crew,Residential
+S4-TK-00980,2026-03-23,2026-03,Addis Ketema,Low pressure,Medium,Closed,Walk-in,9.5,Network team,Residential
+S4-TK-00981,2026-07-19,2026-07,Bole,Low pressure,High,Closed,Call center,99,Customer service,Commercial
+S4-TK-00982,2026-02-11,2026-02,Akaki Kality,Meter issue,High,Closed,Call center,16.2,Repair crew,Commercial
+S4-TK-00983,2026-06-10,2026-06,Kirkos,Burst main,High,Closed,Call center,8.3,Network team,Residential
+S4-TK-00984,2026-06-24,2026-06,Kolfe Keranio,Low pressure,Medium,Closed,Field report,16,Network team,Residential
+S4-TK-00985,2026-02-20,2026-02,Arada,Low pressure,Medium,Closed,Mobile app,17.9,Network team,Residential
+S4-TK-00986,2026-02-21,2026-02,Addis Ketema,Low pressure,Medium,Closed,Mobile app,34.5,Repair crew,Residential
+S4-TK-00987,2026-03-24,2026-03,Addis Ketema,Pipe leak,Medium,Closed,Call center,90.1,Repair crew,Commercial
+S4-TK-00988,2026-04-27,2026-04,Akaki Kality,Pipe leak,Medium,Closed,Mobile app,44,Network team,Residential
+S4-TK-00989,2026-01-10,2026-01,Nifas Silk-Lafto,Pipe leak,High,Closed,Walk-in,12.7,Repair crew,Residential
+S4-TK-00990,2026-02-03,2026-02,Gullele,Valve failure,Medium,Closed,Call center,12.8,Network team,Residential
+S4-TK-00991,2026-04-18,2026-04,Arada,Pipe leak,Medium,Closed,Mobile app,7.8,Network team,Residential
+S4-TK-00992,2026-06-30,2026-06,Akaki Kality,Pipe leak,High,Closed,Walk-in,37.1,Repair crew,Residential
+S4-TK-00993,2026-09-12,2026-09,Addis Ketema,Water quality,High,Closed,Mobile app,22.4,Repair crew,Residential
+S4-TK-00994,2026-05-17,2026-05,Akaki Kality,Water quality,Urgent,Closed,Mobile app,45.1,Repair crew,Residential
+S4-TK-00995,2026-02-18,2026-02,Bole,Meter issue,High,Open,Call center,,Repair crew,Residential
+S4-TK-00996,2026-09-10,2026-09,Bole,Burst main,High,Closed,Call center,9.9,Repair crew,Residential
+S4-TK-00997,2026-04-15,2026-04,Gullele,Water quality,High,Closed,Walk-in,30.6,Network team,Commercial
+S4-TK-00998,2026-04-21,2026-04,Gullele,Pipe leak,Medium,Closed,Call center,24.8,Customer service,Residential
+S4-TK-00999,2026-02-16,2026-02,Kolfe Keranio,Burst main,High,Closed,Mobile app,23.4,Repair crew,Residential
+S4-TK-01000,2026-04-27,2026-04,Nifas Silk-Lafto,Meter issue,Medium,Closed,Call center,5.1,Customer service,Residential
+S4-TK-01001,2026-08-08,2026-08,Gullele,Pipe leak,Medium,Closed,Walk-in,23.5,Customer service,Residential
+S4-TK-01002,2026-01-02,2026-01,Kolfe Keranio,Low pressure,High,Closed,Call center,41.7,Customer service,Residential
+S4-TK-01003,2026-05-30,2026-05,Addis Ketema,Meter issue,Low,Closed,Call center,39.6,Network team,Residential
+S4-TK-01004,2026-09-03,2026-09,Bole,Pipe leak,High,Closed,Mobile app,53.6,Customer service,Residential
+S4-TK-01005,2026-02-12,2026-02,Kolfe Keranio,Burst main,Urgent,Closed,Mobile app,9.8,Repair crew,Residential
+S4-TK-01006,2026-05-07,2026-05,Arada,Meter issue,Medium,Closed,Field report,17,Repair crew,Residential
+S4-TK-01007,2026-01-18,2026-01,Gullele,Low pressure,High,Closed,Mobile app,34.8,Repair crew,Residential
+S4-TK-01008,2026-01-28,2026-01,Addis Ketema,Pipe leak,Low,Closed,Call center,49.5,Customer service,Institutional
+S4-TK-01009,2026-03-18,2026-03,Kirkos,Valve failure,Medium,Open,Mobile app,,Network team,Commercial
+S4-TK-01010,2026-08-31,2026-08,Gullele,Burst main,High,Closed,Call center,33.9,Repair crew,Commercial
+S4-TK-01011,2026-07-18,2026-07,Kolfe Keranio,Water quality,High,Closed,Call center,7.2,Repair crew,Residential
+S4-TK-01012,2026-09-10,2026-09,Bole,Pipe leak,High,Closed,Call center,22.6,Repair crew,Residential
+S4-TK-01013,2026-05-15,2026-05,Akaki Kality,Low pressure,Medium,Closed,Call center,74.3,Network team,Residential
+S4-TK-01014,2026-03-17,2026-03,Gullele,Pipe leak,Low,Open,Mobile app,,Customer service,Institutional
+S4-TK-01015,2026-09-22,2026-09,Addis Ketema,Valve failure,Medium,Closed,Call center,38.8,Network team,Residential
+S4-TK-01016,2026-02-13,2026-02,Bole,Valve failure,Low,Escalated,Call center,,Network team,Commercial
+S4-TK-01017,2026-03-17,2026-03,Bole,Low pressure,Low,Closed,Walk-in,42.7,Network team,Commercial
+S4-TK-01018,2026-04-09,2026-04,Arada,Pipe leak,Medium,Open,Call center,,Customer service,Residential
+S4-TK-01019,2026-06-19,2026-06,Akaki Kality,Burst main,High,Open,Mobile app,,Repair crew,Residential
+S4-TK-01020,2026-08-19,2026-08,Nifas Silk-Lafto,Pipe leak,Medium,Closed,Walk-in,38.6,Customer service,Residential
+S4-TK-01021,2026-04-21,2026-04,Arada,Low pressure,Medium,Open,Walk-in,,Network team,Commercial
+S4-TK-01022,2026-01-09,2026-01,Akaki Kality,Meter issue,Medium,Closed,Mobile app,17.4,Customer service,Residential
+S4-TK-01023,2026-05-15,2026-05,Arada,Meter issue,Medium,Open,Walk-in,,Customer service,Residential
+S4-TK-01024,2026-08-07,2026-08,Kolfe Keranio,Pipe leak,Medium,Escalated,Walk-in,,Customer service,Residential
+S4-TK-01025,2026-08-20,2026-08,Kirkos,Burst main,Urgent,Closed,Call center,23.8,Network team,Residential
+S4-TK-01026,2026-05-24,2026-05,Gullele,Burst main,Urgent,Closed,Mobile app,17.6,Customer service,Institutional
+S4-TK-01027,2026-03-08,2026-03,Addis Ketema,Pipe leak,Medium,Closed,Field report,18.9,Repair crew,Commercial
+S4-TK-01028,2026-07-22,2026-07,Kolfe Keranio,Pipe leak,Medium,Closed,Walk-in,32.3,Repair crew,Residential
+S4-TK-01029,2026-05-13,2026-05,Nifas Silk-Lafto,Burst main,High,Closed,Mobile app,6.9,Network team,Residential
+S4-TK-01030,2026-03-19,2026-03,Arada,Water quality,High,Closed,Walk-in,12,Repair crew,Residential
+S4-TK-01031,2026-06-13,2026-06,Arada,Water quality,Urgent,Closed,Walk-in,4,Network team,Residential
+S4-TK-01032,2026-08-01,2026-08,Nifas Silk-Lafto,Pipe leak,Medium,Open,Call center,,Repair crew,Commercial
+S4-TK-01033,2026-09-16,2026-09,Nifas Silk-Lafto,Low pressure,Medium,Closed,Call center,11.3,Repair crew,Institutional
+S4-TK-01034,2026-04-06,2026-04,Nifas Silk-Lafto,Valve failure,Medium,Closed,Mobile app,54.6,Repair crew,Commercial
+S4-TK-01035,2026-09-11,2026-09,Nifas Silk-Lafto,Valve failure,Low,Closed,Walk-in,51.8,Network team,Commercial
+S4-TK-01036,2026-08-28,2026-08,Kolfe Keranio,Burst main,High,Open,Call center,,Repair crew,Residential
+S4-TK-01037,2026-06-07,2026-06,Kirkos,Burst main,High,Closed,Walk-in,27.9,Network team,Commercial
+S4-TK-01038,2026-05-25,2026-05,Kolfe Keranio,Valve failure,High,Closed,Call center,20,Repair crew,Commercial
+S4-TK-01039,2026-06-13,2026-06,Kolfe Keranio,Low pressure,Medium,Closed,Call center,31.5,Repair crew,Residential
+S4-TK-01040,2026-06-30,2026-06,Kirkos,Meter issue,Medium,Closed,Mobile app,16.1,Network team,Residential
+S4-TK-01041,2026-07-17,2026-07,Nifas Silk-Lafto,Low pressure,Medium,Open,Mobile app,,Repair crew,Residential
+S4-TK-01042,2026-06-30,2026-06,Nifas Silk-Lafto,Pipe leak,Medium,Closed,Field report,10.9,Customer service,Residential
+S4-TK-01043,2026-05-28,2026-05,Nifas Silk-Lafto,Pipe leak,Medium,Closed,Call center,12.1,Network team,Commercial
+S4-TK-01044,2026-06-14,2026-06,Gullele,Low pressure,Medium,Escalated,Field report,,Customer service,Institutional
+S4-TK-01045,2026-05-02,2026-05,Gullele,Pipe leak,High,Closed,Call center,14.1,Network team,Residential
+S4-TK-01046,2026-02-06,2026-02,Akaki Kality,Pipe leak,High,Closed,Call center,5.7,Network team,Residential
+S4-TK-01047,2026-02-09,2026-02,Addis Ketema,Low pressure,Low,Closed,Call center,16.9,Customer service,Residential
+S4-TK-01048,2026-08-06,2026-08,Nifas Silk-Lafto,Meter issue,Medium,Open,Field report,,Network team,Institutional
+S4-TK-01049,2026-04-21,2026-04,Nifas Silk-Lafto,Pipe leak,High,Closed,Call center,10.8,Repair crew,Residential
+S4-TK-01050,2026-08-09,2026-08,Nifas Silk-Lafto,Pipe leak,Medium,Closed,Call center,11.1,Repair crew,Residential
+S4-TK-01051,2026-09-10,2026-09,Akaki Kality,Pipe leak,Medium,Open,Field report,,Repair crew,Residential
+S4-TK-01052,2026-05-28,2026-05,Bole,Pipe leak,Medium,Closed,Call center,35.6,Repair crew,Residential
+S4-TK-01053,2026-01-31,2026-01,Gullele,Meter issue,Low,Closed,Call center,24.3,Network team,Residential
+S4-TK-01054,2026-04-13,2026-04,Bole,Meter issue,Low,Closed,Mobile app,10.5,Repair crew,Institutional
+S4-TK-01055,2026-03-08,2026-03,Nifas Silk-Lafto,Meter issue,Medium,Closed,Mobile app,54.6,Repair crew,Residential
+S4-TK-01056,2026-04-12,2026-04,Kirkos,Low pressure,High,Closed,Mobile app,9.6,Repair crew,Commercial
+S4-TK-01057,2026-06-04,2026-06,Kolfe Keranio,Valve failure,Medium,Closed,Call center,2.3,Repair crew,Residential
+S4-TK-01058,2026-09-20,2026-09,Addis Ketema,Low pressure,Medium,Closed,Walk-in,10,Repair crew,Residential
+S4-TK-01059,2026-07-01,2026-07,Akaki Kality,Meter issue,High,Closed,Call center,41.2,Repair crew,Residential
+S4-TK-01060,2026-07-13,2026-07,Kirkos,Valve failure,High,Escalated,Field report,,Repair crew,Residential
+S4-TK-01061,2026-03-08,2026-03,Kolfe Keranio,Meter issue,Low,Closed,Mobile app,68.9,Repair crew,Residential
+S4-TK-01062,2026-06-21,2026-06,Gullele,Low pressure,Low,Open,Field report,,Repair crew,Commercial
+S4-TK-01063,2026-08-09,2026-08,Arada,Meter issue,Medium,Closed,Walk-in,24.6,Network team,Residential
+S4-TK-01064,2026-03-17,2026-03,Kirkos,Low pressure,Medium,Closed,Mobile app,31.6,Repair crew,Residential
+S4-TK-01065,2026-01-02,2026-01,Gullele,Low pressure,Medium,Closed,Call center,26.2,Repair crew,Residential
+S4-TK-01066,2026-06-01,2026-06,Kolfe Keranio,Valve failure,High,Closed,Walk-in,2.5,Network team,Institutional
+S4-TK-01067,2026-08-04,2026-08,Kolfe Keranio,Low pressure,Medium,Closed,Call center,29.4,Network team,Residential
+S4-TK-01068,2026-08-17,2026-08,Nifas Silk-Lafto,Pipe leak,Medium,Closed,Walk-in,28.7,Repair crew,Residential
+S4-TK-01069,2026-01-03,2026-01,Akaki Kality,Pipe leak,Low,Closed,Walk-in,31.2,Repair crew,Residential
+S4-TK-01070,2026-06-27,2026-06,Akaki Kality,Meter issue,Low,Closed,Field report,5.8,Repair crew,Residential
+S4-TK-01071,2026-08-13,2026-08,Nifas Silk-Lafto,Meter issue,Medium,Closed,Mobile app,20.3,Customer service,Residential
+S4-TK-01072,2026-09-05,2026-09,Addis Ketema,Low pressure,Medium,Closed,Mobile app,41.7,Network team,Residential
+S4-TK-01073,2026-09-17,2026-09,Addis Ketema,Pipe leak,Medium,Closed,Walk-in,21.8,Network team,Residential
+S4-TK-01074,2026-07-11,2026-07,Nifas Silk-Lafto,Low pressure,Low,Closed,Call center,19.1,Network team,Residential
+S4-TK-01075,2026-08-13,2026-08,Arada,Valve failure,Medium,Closed,Walk-in,11.8,Network team,Residential
+S4-TK-01076,2026-04-05,2026-04,Arada,Pipe leak,Medium,Closed,Call center,36.1,Customer service,Residential
+S4-TK-01077,2026-03-26,2026-03,Addis Ketema,Burst main,Urgent,Open,Mobile app,,Repair crew,Institutional
+S4-TK-01078,2026-06-22,2026-06,Addis Ketema,Pipe leak,Medium,Closed,Walk-in,50.9,Repair crew,Residential
+S4-TK-01079,2026-03-07,2026-03,Arada,Low pressure,Medium,Closed,Field report,14.1,Repair crew,Residential
+S4-TK-01080,2026-06-27,2026-06,Nifas Silk-Lafto,Pipe leak,Medium,Open,Field report,,Repair crew,Institutional
+S4-TK-01081,2026-02-11,2026-02,Akaki Kality,Pipe leak,Medium,Closed,Field report,27.8,Repair crew,Residential
+S4-TK-01082,2026-05-22,2026-05,Arada,Pipe leak,Medium,Open,Call center,,Repair crew,Residential
+S4-TK-01083,2026-08-03,2026-08,Addis Ketema,Low pressure,Medium,Open,Call center,,Network team,Residential
+S4-TK-01084,2026-06-26,2026-06,Gullele,Low pressure,High,Closed,Call center,31.4,Network team,Residential
+S4-TK-01085,2026-04-30,2026-04,Gullele,Pipe leak,Medium,Closed,Walk-in,20.6,Repair crew,Residential
+S4-TK-01086,2026-01-02,2026-01,Kirkos,Low pressure,Medium,Closed,Field report,15.7,Network team,Residential
+S4-TK-01087,2026-06-23,2026-06,Kolfe Keranio,Meter issue,Medium,Closed,Mobile app,17.8,Network team,Residential
+S4-TK-01088,2026-06-10,2026-06,Kirkos,Pipe leak,Medium,Closed,Mobile app,13.8,Network team,Residential
+S4-TK-01089,2026-09-21,2026-09,Kolfe Keranio,Pipe leak,Medium,Closed,Call center,18.1,Network team,Residential
+S4-TK-01090,2026-02-13,2026-02,Gullele,Low pressure,Medium,Escalated,Field report,,Repair crew,Institutional
+S4-TK-01091,2026-03-15,2026-03,Kolfe Keranio,Pipe leak,Low,Closed,Call center,31.3,Repair crew,Residential
+S4-TK-01092,2026-09-08,2026-09,Kolfe Keranio,Pipe leak,High,Closed,Call center,24.7,Repair crew,Residential
+S4-TK-01093,2026-05-06,2026-05,Kirkos,Pipe leak,High,Closed,Walk-in,38.1,Repair crew,Institutional
+S4-TK-01094,2026-04-19,2026-04,Akaki Kality,Meter issue,Medium,Closed,Mobile app,46.7,Customer service,Residential
+S4-TK-01095,2026-07-14,2026-07,Arada,Pipe leak,Medium,Open,Walk-in,,Repair crew,Commercial
+S4-TK-01096,2026-07-24,2026-07,Nifas Silk-Lafto,Pipe leak,Medium,Open,Mobile app,,Customer service,Residential
+S4-TK-01097,2026-07-21,2026-07,Kirkos,Meter issue,Medium,Closed,Call center,60.4,Customer service,Residential
+S4-TK-01098,2026-03-30,2026-03,Arada,Low pressure,High,Open,Call center,,Network team,Residential
+S4-TK-01099,2026-04-09,2026-04,Addis Ketema,Pipe leak,Medium,Closed,Field report,9.5,Repair crew,Commercial
+S4-TK-01100,2026-07-17,2026-07,Kirkos,Pipe leak,Medium,Open,Field report,,Customer service,Residential
+S4-TK-01101,2026-05-27,2026-05,Gullele,Meter issue,Medium,Closed,Walk-in,16.7,Repair crew,Residential
+S4-TK-01102,2026-07-21,2026-07,Arada,Pipe leak,Medium,Closed,Walk-in,22.6,Network team,Residential
+S4-TK-01103,2026-01-23,2026-01,Gullele,Pipe leak,Low,Closed,Walk-in,27.9,Network team,Residential
+S4-TK-01104,2026-05-09,2026-05,Kolfe Keranio,Pipe leak,Medium,Closed,Mobile app,14.4,Repair crew,Residential
+S4-TK-01105,2026-05-24,2026-05,Arada,Burst main,High,Closed,Call center,18.1,Customer service,Residential
+S4-TK-01106,2026-07-05,2026-07,Arada,Valve failure,Medium,Closed,Walk-in,23.4,Network team,Residential
+S4-TK-01107,2026-04-29,2026-04,Kirkos,Burst main,High,Open,Field report,,Repair crew,Residential
+S4-TK-01108,2026-03-03,2026-03,Kirkos,Low pressure,Medium,Closed,Call center,42.3,Network team,Residential
+S4-TK-01109,2026-03-27,2026-03,Nifas Silk-Lafto,Water quality,High,Closed,Call center,45.7,Repair crew,Residential
+S4-TK-01110,2026-09-25,2026-09,Arada,Low pressure,High,Closed,Walk-in,25.5,Repair crew,Commercial
+S4-TK-01111,2026-03-30,2026-03,Bole,Meter issue,Medium,Closed,Walk-in,23.1,Network team,Residential
+S4-TK-01112,2026-01-24,2026-01,Kolfe Keranio,Burst main,High,Closed,Call center,32.5,Repair crew,Residential
+S4-TK-01113,2026-02-21,2026-02,Gullele,Valve failure,High,Closed,Call center,32.4,Customer service,Commercial
+S4-TK-01114,2026-08-11,2026-08,Gullele,Burst main,High,Closed,Field report,18.1,Customer service,Commercial
+S4-TK-01115,2026-09-19,2026-09,Gullele,Valve failure,Low,Closed,Walk-in,21,Repair crew,Residential
+S4-TK-01116,2026-01-01,2026-01,Addis Ketema,Low pressure,Low,Open,Call center,,Repair crew,Commercial
+S4-TK-01117,2026-03-24,2026-03,Gullele,Burst main,High,Closed,Mobile app,39.2,Network team,Residential
+S4-TK-01118,2026-08-18,2026-08,Gullele,Pipe leak,Medium,Open,Call center,,Network team,Commercial
+S4-TK-01119,2026-04-24,2026-04,Nifas Silk-Lafto,Pipe leak,Medium,Open,Mobile app,,Network team,Residential
+S4-TK-01120,2026-01-05,2026-01,Gullele,Pipe leak,High,Open,Call center,,Network team,Residential
+S4-TK-01121,2026-06-17,2026-06,Bole,Meter issue,Medium,Closed,Mobile app,38.5,Network team,Residential
+S4-TK-01122,2026-07-24,2026-07,Kirkos,Low pressure,Medium,Open,Walk-in,,Repair crew,Residential
+S4-TK-01123,2026-07-14,2026-07,Gullele,Pipe leak,Medium,Closed,Field report,63.1,Customer service,Commercial
+S4-TK-01124,2026-03-01,2026-03,Kirkos,Valve failure,Medium,Closed,Walk-in,25.3,Repair crew,Commercial
+S4-TK-01125,2026-02-16,2026-02,Akaki Kality,Meter issue,Medium,Open,Walk-in,,Customer service,Residential
+S4-TK-01126,2026-08-24,2026-08,Addis Ketema,Pipe leak,Low,Closed,Call center,34,Network team,Residential
+S4-TK-01127,2026-05-23,2026-05,Kirkos,Pipe leak,Medium,Open,Walk-in,,Customer service,Residential
+S4-TK-01128,2026-02-03,2026-02,Akaki Kality,Pipe leak,Medium,Escalated,Walk-in,,Customer service,Commercial
+S4-TK-01129,2026-05-27,2026-05,Addis Ketema,Pipe leak,High,Closed,Field report,3.3,Network team,Residential
+S4-TK-01130,2026-02-22,2026-02,Bole,Meter issue,Medium,Closed,Call center,12.4,Customer service,Residential
+S4-TK-01131,2026-06-29,2026-06,Bole,Pipe leak,Medium,Closed,Field report,3.3,Repair crew,Residential
+S4-TK-01132,2026-06-08,2026-06,Nifas Silk-Lafto,Pipe leak,Low,Closed,Call center,2.7,Customer service,Institutional
+S4-TK-01133,2026-02-12,2026-02,Kolfe Keranio,Valve failure,Low,Closed,Call center,60.2,Customer service,Residential
+S4-TK-01134,2026-01-31,2026-01,Kolfe Keranio,Meter issue,Low,Closed,Mobile app,6.1,Network team,Residential
+S4-TK-01135,2026-07-06,2026-07,Nifas Silk-Lafto,Valve failure,High,Open,Call center,,Network team,Institutional
+S4-TK-01136,2026-04-08,2026-04,Bole,Pipe leak,Medium,Closed,Mobile app,34.4,Network team,Commercial
+S4-TK-01137,2026-01-08,2026-01,Kirkos,Meter issue,Low,Closed,Call center,60.5,Network team,Institutional
+S4-TK-01138,2026-03-08,2026-03,Kolfe Keranio,Low pressure,Medium,Open,Field report,,Repair crew,Residential
+S4-TK-01139,2026-04-26,2026-04,Akaki Kality,Pipe leak,Medium,Closed,Mobile app,34.2,Repair crew,Residential
+S4-TK-01140,2026-03-20,2026-03,Akaki Kality,Pipe leak,Medium,Closed,Call center,29.9,Repair crew,Residential
+S4-TK-01141,2026-09-12,2026-09,Nifas Silk-Lafto,Pipe leak,Low,Escalated,Call center,,Repair crew,Commercial
+S4-TK-01142,2026-08-24,2026-08,Nifas Silk-Lafto,Meter issue,Medium,Closed,Call center,14.3,Repair crew,Residential
+S4-TK-01143,2026-03-23,2026-03,Nifas Silk-Lafto,Low pressure,Medium,Open,Call center,,Customer service,Residential
+S4-TK-01144,2026-07-04,2026-07,Addis Ketema,Meter issue,Low,Open,Mobile app,,Network team,Residential
+S4-TK-01145,2026-07-04,2026-07,Gullele,Pipe leak,Medium,Closed,Call center,36.9,Repair crew,Residential
+S4-TK-01146,2026-02-13,2026-02,Arada,Low pressure,Medium,Closed,Walk-in,12,Repair crew,Residential
+S4-TK-01147,2026-02-26,2026-02,Nifas Silk-Lafto,Low pressure,High,Closed,Walk-in,11.5,Repair crew,Residential
+S4-TK-01148,2026-08-01,2026-08,Kolfe Keranio,Burst main,High,Closed,Call center,24.6,Repair crew,Residential
+S4-TK-01149,2026-04-02,2026-04,Kolfe Keranio,Pipe leak,Medium,Closed,Call center,8.7,Customer service,Residential
+S4-TK-01150,2026-07-23,2026-07,Gullele,Meter issue,Medium,Closed,Call center,36.8,Network team,Commercial
+S4-TK-01151,2026-03-20,2026-03,Kirkos,Water quality,High,Closed,Call center,14.2,Network team,Residential
+S4-TK-01152,2026-09-08,2026-09,Bole,Meter issue,Medium,Closed,Mobile app,44.9,Network team,Residential
+S4-TK-01153,2026-03-20,2026-03,Kolfe Keranio,Low pressure,Medium,Closed,Call center,34.5,Repair crew,Residential
+S4-TK-01154,2026-09-20,2026-09,Bole,Meter issue,Medium,Escalated,Field report,,Repair crew,Institutional
+S4-TK-01155,2026-04-12,2026-04,Akaki Kality,Valve failure,Medium,Closed,Call center,14.9,Repair crew,Residential
+S4-TK-01156,2026-06-08,2026-06,Addis Ketema,Low pressure,Medium,Closed,Call center,7.4,Repair crew,Commercial
+S4-TK-01157,2026-06-04,2026-06,Kirkos,Pipe leak,Low,Closed,Call center,16.7,Network team,Commercial
+S4-TK-01158,2026-05-07,2026-05,Arada,Low pressure,Medium,Escalated,Call center,,Repair crew,Commercial
+S4-TK-01159,2026-08-03,2026-08,Bole,Meter issue,Medium,Closed,Call center,25.7,Customer service,Residential
+S4-TK-01160,2026-08-06,2026-08,Arada,Valve failure,High,Closed,Mobile app,25.8,Network team,Residential
+S4-TK-01161,2026-05-13,2026-05,Gullele,Low pressure,Medium,Closed,Call center,20.8,Customer service,Residential
+S4-TK-01162,2026-06-28,2026-06,Kirkos,Pipe leak,Medium,Closed,Call center,25.5,Repair crew,Commercial
+S4-TK-01163,2026-06-27,2026-06,Arada,Pipe leak,High,Closed,Mobile app,35.9,Customer service,Residential
+S4-TK-01164,2026-09-30,2026-09,Addis Ketema,Meter issue,Medium,Closed,Walk-in,13.7,Repair crew,Residential
+S4-TK-01165,2026-02-25,2026-02,Kirkos,Low pressure,Low,Open,Field report,,Network team,Residential
+S4-TK-01166,2026-04-25,2026-04,Addis Ketema,Valve failure,High,Closed,Walk-in,34.2,Repair crew,Commercial
+S4-TK-01167,2026-03-12,2026-03,Arada,Pipe leak,Low,Open,Call center,,Network team,Residential
+S4-TK-01168,2026-01-24,2026-01,Bole,Pipe leak,Medium,Closed,Call center,16.4,Customer service,Residential
+S4-TK-01169,2026-04-11,2026-04,Akaki Kality,Water quality,High,Closed,Walk-in,17.7,Repair crew,Commercial
+S4-TK-01170,2026-06-18,2026-06,Bole,Pipe leak,Medium,Open,Call center,,Repair crew,Residential
+S4-TK-01171,2026-02-13,2026-02,Kolfe Keranio,Low pressure,Medium,Open,Call center,,Network team,Residential
+S4-TK-01172,2026-03-19,2026-03,Nifas Silk-Lafto,Low pressure,Low,Closed,Field report,28.7,Repair crew,Residential
+S4-TK-01173,2026-09-20,2026-09,Akaki Kality,Burst main,Urgent,Closed,Mobile app,11.2,Repair crew,Commercial
+S4-TK-01174,2026-03-30,2026-03,Addis Ketema,Low pressure,Medium,Closed,Call center,59,Repair crew,Residential
+S4-TK-01175,2026-01-25,2026-01,Kolfe Keranio,Water quality,Urgent,Closed,Call center,37.7,Network team,Residential
+S4-TK-01176,2026-07-07,2026-07,Kirkos,Low pressure,Medium,Open,Walk-in,,Network team,Residential
+S4-TK-01177,2026-06-29,2026-06,Nifas Silk-Lafto,Meter issue,Medium,Closed,Call center,27.4,Repair crew,Residential
+S4-TK-01178,2026-01-26,2026-01,Kolfe Keranio,Valve failure,Medium,Closed,Walk-in,59.4,Network team,Residential
+S4-TK-01179,2026-06-08,2026-06,Addis Ketema,Valve failure,High,Closed,Mobile app,53.2,Network team,Commercial
+S4-TK-01180,2026-08-04,2026-08,Arada,Pipe leak,Medium,Closed,Mobile app,47.2,Repair crew,Commercial
+S4-TK-01181,2026-01-01,2026-01,Kolfe Keranio,Pipe leak,High,Closed,Mobile app,24.1,Repair crew,Residential
+S4-TK-01182,2026-05-01,2026-05,Kirkos,Low pressure,High,Closed,Call center,17.2,Repair crew,Institutional
+S4-TK-01183,2026-08-05,2026-08,Gullele,Low pressure,High,Closed,Mobile app,11.1,Network team,Institutional
+S4-TK-01184,2026-02-05,2026-02,Kolfe Keranio,Low pressure,Medium,Closed,Walk-in,18.1,Customer service,Commercial
+S4-TK-01185,2026-04-25,2026-04,Arada,Valve failure,Low,Closed,Walk-in,19.4,Customer service,Residential
+S4-TK-01186,2026-09-13,2026-09,Kolfe Keranio,Pipe leak,High,Closed,Mobile app,30.7,Repair crew,Residential
+S4-TK-01187,2026-09-05,2026-09,Addis Ketema,Burst main,High,Closed,Call center,29.8,Repair crew,Commercial
+S4-TK-01188,2026-03-11,2026-03,Akaki Kality,Low pressure,Medium,Closed,Walk-in,14.7,Repair crew,Institutional
+S4-TK-01189,2026-09-12,2026-09,Kolfe Keranio,Pipe leak,High,Closed,Mobile app,24.7,Network team,Commercial
+S4-TK-01190,2026-09-20,2026-09,Arada,Meter issue,Medium,Closed,Call center,35.5,Customer service,Residential
+S4-TK-01191,2026-09-09,2026-09,Akaki Kality,Meter issue,Medium,Closed,Call center,19.3,Repair crew,Residential
+S4-TK-01192,2026-03-03,2026-03,Akaki Kality,Valve failure,Medium,Open,Call center,,Repair crew,Residential
+S4-TK-01193,2026-08-06,2026-08,Nifas Silk-Lafto,Meter issue,Low,Closed,Call center,10.6,Customer service,Residential
+S4-TK-01194,2026-09-29,2026-09,Arada,Pipe leak,Medium,Closed,Call center,21.6,Network team,Residential
+S4-TK-01195,2026-09-07,2026-09,Nifas Silk-Lafto,Pipe leak,Medium,Open,Mobile app,,Repair crew,Residential
+S4-TK-01196,2026-07-13,2026-07,Kirkos,Pipe leak,High,Closed,Call center,21.4,Repair crew,Institutional
+S4-TK-01197,2026-02-06,2026-02,Bole,Low pressure,High,Closed,Walk-in,13.8,Customer service,Residential
+S4-TK-01198,2026-04-23,2026-04,Arada,Meter issue,Medium,Open,Walk-in,,Repair crew,Residential
+S4-TK-01199,2026-03-19,2026-03,Akaki Kality,Burst main,High,Closed,Call center,32.2,Repair crew,Residential
+S4-TK-01200,2026-04-17,2026-04,Arada,Valve failure,Medium,Open,Mobile app,,Repair crew,Commercial
+S4-TK-01201,2026-04-17,2026-04,Arada,Low pressure,High,Closed,Field report,15.5,Repair crew,Residential
+S4-TK-01202,2026-07-14,2026-07,Addis Ketema,Meter issue,High,Open,Call center,,Repair crew,Residential
+S4-TK-01203,2026-01-20,2026-01,Nifas Silk-Lafto,Pipe leak,Medium,Closed,Field report,45,Repair crew,Residential
+S4-TK-01204,2026-03-27,2026-03,Bole,Meter issue,Medium,Open,Field report,,Repair crew,Residential
+S4-TK-01205,2026-07-08,2026-07,Arada,Pipe leak,Low,Closed,Call center,5.5,Customer service,Institutional
+S4-TK-01206,2026-08-03,2026-08,Kirkos,Valve failure,Medium,Closed,Mobile app,19.4,Network team,Residential
+S4-TK-01207,2026-03-12,2026-03,Bole,Valve failure,Low,Closed,Call center,20.8,Repair crew,Residential
+S4-TK-01208,2026-02-03,2026-02,Gullele,Valve failure,Medium,Open,Call center,,Customer service,Commercial
+S4-TK-01209,2026-01-14,2026-01,Akaki Kality,Valve failure,Medium,Escalated,Call center,,Repair crew,Institutional
+S4-TK-01210,2026-07-13,2026-07,Addis Ketema,Meter issue,Medium,Closed,Mobile app,30.8,Network team,Residential
+S4-TK-01211,2026-03-13,2026-03,Bole,Meter issue,Medium,Closed,Call center,26,Network team,Commercial
+S4-TK-01212,2026-02-15,2026-02,Addis Ketema,Low pressure,Medium,Closed,Call center,44.9,Network team,Residential
+S4-TK-01213,2026-02-20,2026-02,Addis Ketema,Low pressure,High,Open,Walk-in,,Network team,Residential
+S4-TK-01214,2026-04-20,2026-04,Addis Ketema,Low pressure,High,Closed,Call center,61.7,Network team,Residential
+S4-TK-01215,2026-08-01,2026-08,Akaki Kality,Valve failure,Medium,Closed,Field report,11.1,Repair crew,Residential
+S4-TK-01216,2026-05-15,2026-05,Akaki Kality,Low pressure,Medium,Closed,Call center,9.2,Network team,Residential
+S4-TK-01217,2026-07-22,2026-07,Nifas Silk-Lafto,Meter issue,Medium,Closed,Call center,35.3,Customer service,Institutional
+S4-TK-01218,2026-09-27,2026-09,Nifas Silk-Lafto,Pipe leak,Medium,Open,Mobile app,,Network team,Residential
+S4-TK-01219,2026-08-16,2026-08,Kirkos,Meter issue,High,Closed,Call center,68.7,Network team,Residential
+S4-TK-01220,2026-09-08,2026-09,Gullele,Burst main,High,Closed,Field report,7,Network team,Residential
+S4-TK-01221,2026-04-28,2026-04,Gullele,Valve failure,High,Closed,Field report,24.6,Customer service,Residential
+S4-TK-01222,2026-02-17,2026-02,Kolfe Keranio,Valve failure,Medium,Closed,Mobile app,62.1,Repair crew,Residential
+S4-TK-01223,2026-01-10,2026-01,Akaki Kality,Burst main,Urgent,Open,Walk-in,,Network team,Residential
+S4-TK-01224,2026-08-04,2026-08,Nifas Silk-Lafto,Valve failure,High,Closed,Field report,22.5,Network team,Residential
+S4-TK-01225,2026-09-07,2026-09,Arada,Pipe leak,High,Closed,Call center,14.3,Network team,Residential
+S4-TK-01226,2026-05-19,2026-05,Addis Ketema,Low pressure,Medium,Open,Walk-in,,Network team,Residential
+S4-TK-01227,2026-05-02,2026-05,Akaki Kality,Pipe leak,Medium,Closed,Call center,19.6,Customer service,Residential
+S4-TK-01228,2026-07-29,2026-07,Nifas Silk-Lafto,Meter issue,Medium,Open,Mobile app,,Repair crew,Residential
+S4-TK-01229,2026-01-13,2026-01,Bole,Pipe leak,Medium,Closed,Walk-in,31,Network team,Residential
+S4-TK-01230,2026-08-02,2026-08,Gullele,Meter issue,High,Closed,Walk-in,6.7,Network team,Residential
+S4-TK-01231,2026-09-01,2026-09,Nifas Silk-Lafto,Pipe leak,Medium,Closed,Mobile app,4.2,Repair crew,Residential
+S4-TK-01232,2026-07-23,2026-07,Bole,Low pressure,Medium,Closed,Mobile app,25.7,Network team,Residential
+S4-TK-01233,2026-06-25,2026-06,Addis Ketema,Valve failure,Medium,Open,Mobile app,,Network team,Residential
+S4-TK-01234,2026-05-23,2026-05,Gullele,Low pressure,Low,Closed,Field report,5.5,Customer service,Residential
+S4-TK-01235,2026-04-27,2026-04,Kirkos,Low pressure,Medium,Closed,Walk-in,20.6,Repair crew,Commercial
+S4-TK-01236,2026-07-10,2026-07,Bole,Burst main,Urgent,Open,Field report,,Network team,Commercial
+S4-TK-01237,2026-07-23,2026-07,Bole,Water quality,High,Open,Mobile app,,Repair crew,Institutional
+S4-TK-01238,2026-07-05,2026-07,Arada,Meter issue,Medium,Closed,Walk-in,80,Customer service,Commercial
+S4-TK-01239,2026-09-14,2026-09,Akaki Kality,Pipe leak,Low,Closed,Walk-in,18.6,Customer service,Residential
+S4-TK-01240,2026-08-05,2026-08,Nifas Silk-Lafto,Pipe leak,Medium,Closed,Mobile app,52.4,Repair crew,Commercial
+S4-TK-01241,2026-06-10,2026-06,Arada,Low pressure,Medium,Escalated,Call center,,Repair crew,Commercial
+S4-TK-01242,2026-01-25,2026-01,Addis Ketema,Burst main,High,Closed,Mobile app,28,Repair crew,Residential
+S4-TK-01243,2026-08-06,2026-08,Arada,Pipe leak,Medium,Open,Mobile app,,Customer service,Residential
+S4-TK-01244,2026-09-16,2026-09,Akaki Kality,Meter issue,Medium,Open,Mobile app,,Customer service,Residential
+S4-TK-01245,2026-08-27,2026-08,Kirkos,Valve failure,Medium,Closed,Walk-in,5.8,Repair crew,Residential
+S4-TK-01246,2026-09-29,2026-09,Kolfe Keranio,Valve failure,Medium,Closed,Field report,62.4,Repair crew,Institutional
+S4-TK-01247,2026-02-18,2026-02,Kolfe Keranio,Pipe leak,High,Closed,Field report,3.4,Customer service,Commercial
+S4-TK-01248,2026-02-27,2026-02,Addis Ketema,Pipe leak,High,Closed,Mobile app,39,Repair crew,Residential
+S4-TK-01249,2026-08-22,2026-08,Akaki Kality,Pipe leak,Low,Closed,Call center,18.4,Repair crew,Commercial
+S4-TK-01250,2026-03-17,2026-03,Akaki Kality,Pipe leak,Medium,Closed,Walk-in,24.5,Repair crew,Residential
+S4-TK-01251,2026-05-31,2026-05,Addis Ketema,Valve failure,Medium,Escalated,Mobile app,,Repair crew,Residential
+S4-TK-01252,2026-04-11,2026-04,Addis Ketema,Pipe leak,Medium,Closed,Call center,21.8,Repair crew,Residential
+S4-TK-01253,2026-04-06,2026-04,Kirkos,Valve failure,Medium,Closed,Call center,21.5,Customer service,Residential
+S4-TK-01254,2026-05-13,2026-05,Addis Ketema,Pipe leak,Medium,Closed,Field report,81.4,Repair crew,Residential
+S4-TK-01255,2026-05-29,2026-05,Bole,Meter issue,Medium,Open,Mobile app,,Repair crew,Residential
+S4-TK-01256,2026-04-20,2026-04,Kirkos,Pipe leak,High,Closed,Walk-in,10.7,Repair crew,Commercial
+S4-TK-01257,2026-07-13,2026-07,Akaki Kality,Meter issue,Medium,Closed,Field report,36.1,Repair crew,Residential
+S4-TK-01258,2026-05-17,2026-05,Kolfe Keranio,Meter issue,Low,Closed,Mobile app,26.1,Repair crew,Institutional
+S4-TK-01259,2026-01-05,2026-01,Gullele,Pipe leak,Medium,Closed,Mobile app,23,Repair crew,Residential
+S4-TK-01260,2026-04-12,2026-04,Bole,Pipe leak,Medium,Closed,Field report,11.2,Repair crew,Residential
+S4-TK-01261,2026-09-30,2026-09,Nifas Silk-Lafto,Burst main,Urgent,Closed,Mobile app,17.8,Repair crew,Commercial
+S4-TK-01262,2026-04-01,2026-04,Kirkos,Low pressure,High,Escalated,Field report,,Network team,Residential
+S4-TK-01263,2026-08-28,2026-08,Gullele,Low pressure,Medium,Closed,Field report,2.6,Repair crew,Residential
+S4-TK-01264,2026-09-18,2026-09,Kirkos,Low pressure,High,Closed,Walk-in,23.8,Customer service,Commercial
+S4-TK-01265,2026-03-20,2026-03,Addis Ketema,Pipe leak,Medium,Closed,Walk-in,11.7,Repair crew,Institutional
+S4-TK-01266,2026-03-15,2026-03,Bole,Low pressure,Medium,Closed,Walk-in,17,Customer service,Institutional
+S4-TK-01267,2026-05-31,2026-05,Nifas Silk-Lafto,Low pressure,High,Closed,Walk-in,3.4,Network team,Residential
+S4-TK-01268,2026-07-25,2026-07,Kirkos,Low pressure,Medium,Closed,Walk-in,29.4,Customer service,Residential
+S4-TK-01269,2026-01-16,2026-01,Gullele,Low pressure,High,Closed,Field report,31.2,Repair crew,Residential
+S4-TK-01270,2026-02-20,2026-02,Nifas Silk-Lafto,Pipe leak,Medium,Closed,Mobile app,26.8,Network team,Residential
+S4-TK-01271,2026-08-19,2026-08,Arada,Meter issue,Low,Closed,Call center,29.3,Repair crew,Residential
+S4-TK-01272,2026-07-07,2026-07,Nifas Silk-Lafto,Pipe leak,High,Closed,Call center,38.4,Customer service,Commercial
+S4-TK-01273,2026-07-07,2026-07,Akaki Kality,Pipe leak,Medium,Closed,Call center,7.7,Repair crew,Institutional
+S4-TK-01274,2026-03-04,2026-03,Kolfe Keranio,Pipe leak,Medium,Closed,Call center,27.3,Network team,Residential
+S4-TK-01275,2026-06-24,2026-06,Arada,Water quality,Urgent,Closed,Walk-in,15.8,Customer service,Residential
+S4-TK-01276,2026-08-03,2026-08,Nifas Silk-Lafto,Pipe leak,High,Closed,Call center,21.5,Network team,Residential
+S4-TK-01277,2026-05-26,2026-05,Arada,Valve failure,High,Closed,Call center,34.5,Customer service,Residential
+S4-TK-01278,2026-09-26,2026-09,Bole,Water quality,Urgent,Closed,Call center,26.2,Customer service,Residential
+S4-TK-01279,2026-03-14,2026-03,Kolfe Keranio,Valve failure,Medium,Closed,Walk-in,23.6,Customer service,Commercial
+S4-TK-01280,2026-08-05,2026-08,Arada,Pipe leak,Medium,Closed,Walk-in,17.5,Network team,Commercial
+S4-TK-01281,2026-07-02,2026-07,Addis Ketema,Low pressure,High,Escalated,Walk-in,,Network team,Residential
+S4-TK-01282,2026-09-10,2026-09,Nifas Silk-Lafto,Pipe leak,Medium,Closed,Mobile app,42.2,Repair crew,Residential
+S4-TK-01283,2026-05-18,2026-05,Nifas Silk-Lafto,Low pressure,Medium,Open,Walk-in,,Repair crew,Residential
+S4-TK-01284,2026-03-23,2026-03,Akaki Kality,Valve failure,Medium,Closed,Call center,49.4,Repair crew,Residential
+S4-TK-01285,2026-09-09,2026-09,Addis Ketema,Meter issue,Low,Closed,Call center,26.2,Repair crew,Residential
+S4-TK-01286,2026-04-08,2026-04,Nifas Silk-Lafto,Water quality,Urgent,Closed,Walk-in,3.3,Repair crew,Residential
+S4-TK-01287,2026-01-01,2026-01,Nifas Silk-Lafto,Low pressure,Medium,Open,Mobile app,,Repair crew,Residential
+S4-TK-01288,2026-09-30,2026-09,Kolfe Keranio,Water quality,High,Closed,Mobile app,59,Repair crew,Institutional
+S4-TK-01289,2026-02-27,2026-02,Akaki Kality,Water quality,Urgent,Open,Call center,,Network team,Residential
+S4-TK-01290,2026-05-31,2026-05,Bole,Pipe leak,Low,Closed,Field report,32.9,Network team,Residential
+S4-TK-01291,2026-06-08,2026-06,Kirkos,Pipe leak,High,Closed,Call center,42,Network team,Commercial
+S4-TK-01292,2026-04-10,2026-04,Gullele,Pipe leak,Medium,Closed,Call center,69.9,Repair crew,Residential
+S4-TK-01293,2026-01-22,2026-01,Gullele,Low pressure,Medium,Open,Mobile app,,Customer service,Commercial
+S4-TK-01294,2026-02-25,2026-02,Akaki Kality,Burst main,Urgent,Closed,Mobile app,68,Repair crew,Commercial
+S4-TK-01295,2026-01-25,2026-01,Nifas Silk-Lafto,Pipe leak,Medium,Closed,Call center,10.1,Repair crew,Residential
+S4-TK-01296,2026-02-07,2026-02,Kolfe Keranio,Meter issue,Medium,Escalated,Mobile app,,Customer service,Commercial
+S4-TK-01297,2026-04-05,2026-04,Akaki Kality,Water quality,High,Closed,Mobile app,17.3,Repair crew,Residential
+S4-TK-01298,2026-06-04,2026-06,Kolfe Keranio,Low pressure,Medium,Closed,Call center,21.3,Repair crew,Commercial
+S4-TK-01299,2026-01-03,2026-01,Bole,Valve failure,Medium,Closed,Call center,63.5,Customer service,Residential
+S4-TK-01300,2026-02-13,2026-02,Arada,Valve failure,Medium,Closed,Mobile app,31,Customer service,Residential
+S4-TK-01301,2026-07-26,2026-07,Kolfe Keranio,Meter issue,High,Closed,Mobile app,8.7,Repair crew,Residential
+S4-TK-01302,2026-06-04,2026-06,Gullele,Low pressure,Medium,Closed,Call center,35.3,Repair crew,Residential
+S4-TK-01303,2026-01-02,2026-01,Addis Ketema,Pipe leak,High,Closed,Call center,19,Repair crew,Residential
+S4-TK-01304,2026-04-07,2026-04,Gullele,Meter issue,Low,Closed,Walk-in,17,Repair crew,Residential
+S4-TK-01305,2026-05-09,2026-05,Kolfe Keranio,Meter issue,Medium,Closed,Field report,21.4,Customer service,Residential
+S4-TK-01306,2026-08-03,2026-08,Arada,Low pressure,High,Closed,Call center,31.2,Repair crew,Residential
+S4-TK-01307,2026-09-16,2026-09,Akaki Kality,Meter issue,Medium,Closed,Call center,11,Repair crew,Residential
+S4-TK-01308,2026-07-06,2026-07,Kolfe Keranio,Burst main,High,Closed,Call center,70.7,Repair crew,Residential
+S4-TK-01309,2026-09-05,2026-09,Gullele,Pipe leak,Medium,Closed,Field report,18.7,Network team,Commercial
+S4-TK-01310,2026-07-15,2026-07,Nifas Silk-Lafto,Pipe leak,Medium,Closed,Call center,29.5,Repair crew,Residential
+S4-TK-01311,2026-01-05,2026-01,Addis Ketema,Meter issue,Medium,Closed,Mobile app,35.3,Repair crew,Institutional
+S4-TK-01312,2026-09-08,2026-09,Kolfe Keranio,Pipe leak,Medium,Closed,Walk-in,46.1,Repair crew,Residential
+S4-TK-01313,2026-06-24,2026-06,Nifas Silk-Lafto,Pipe leak,Medium,Closed,Call center,5,Network team,Residential
+S4-TK-01314,2026-09-18,2026-09,Akaki Kality,Pipe leak,Low,Closed,Field report,33.7,Repair crew,Commercial
+S4-TK-01315,2026-04-15,2026-04,Kolfe Keranio,Pipe leak,Low,Closed,Walk-in,24.3,Repair crew,Residential
+S4-TK-01316,2026-05-16,2026-05,Addis Ketema,Low pressure,Low,Closed,Call center,15.2,Network team,Commercial
+S4-TK-01317,2026-03-06,2026-03,Bole,Pipe leak,High,Closed,Field report,24,Repair crew,Residential
+S4-TK-01318,2026-08-27,2026-08,Kolfe Keranio,Pipe leak,Medium,Closed,Field report,13.1,Repair crew,Residential
+S4-TK-01319,2026-09-20,2026-09,Kirkos,Low pressure,Low,Closed,Walk-in,33.5,Repair crew,Institutional
+S4-TK-01320,2026-04-06,2026-04,Gullele,Pipe leak,Low,Closed,Mobile app,68,Repair crew,Residential
+S4-TK-01321,2026-06-03,2026-06,Gullele,Pipe leak,Medium,Open,Call center,,Customer service,Institutional
+S4-TK-01322,2026-05-26,2026-05,Akaki Kality,Low pressure,Low,Closed,Call center,23.5,Repair crew,Residential
+S4-TK-01323,2026-08-22,2026-08,Akaki Kality,Pipe leak,Medium,Closed,Mobile app,26.2,Repair crew,Residential
+S4-TK-01324,2026-05-04,2026-05,Akaki Kality,Water quality,Urgent,Closed,Walk-in,19.1,Repair crew,Residential
+S4-TK-01325,2026-07-02,2026-07,Addis Ketema,Meter issue,High,Closed,Call center,19.2,Repair crew,Residential
+S4-TK-01326,2026-04-22,2026-04,Gullele,Burst main,High,Closed,Call center,37.4,Network team,Residential
+S4-TK-01327,2026-01-29,2026-01,Addis Ketema,Valve failure,Medium,Closed,Call center,9.5,Repair crew,Residential
+S4-TK-01328,2026-08-18,2026-08,Arada,Meter issue,High,Closed,Call center,28.7,Customer service,Residential
+S4-TK-01329,2026-05-18,2026-05,Gullele,Low pressure,High,Open,Call center,,Repair crew,Residential
+S4-TK-01330,2026-03-24,2026-03,Bole,Water quality,High,Closed,Walk-in,18,Repair crew,Residential
+S4-TK-01331,2026-08-03,2026-08,Kirkos,Pipe leak,High,Closed,Call center,56.1,Customer service,Commercial
+S4-TK-01332,2026-03-20,2026-03,Gullele,Low pressure,Medium,Closed,Field report,7.9,Repair crew,Institutional
+S4-TK-01333,2026-08-02,2026-08,Nifas Silk-Lafto,Valve failure,Medium,Open,Call center,,Repair crew,Residential
+S4-TK-01334,2026-09-22,2026-09,Kolfe Keranio,Low pressure,High,Open,Call center,,Repair crew,Residential
+S4-TK-01335,2026-01-09,2026-01,Bole,Water quality,Urgent,Closed,Call center,9.3,Network team,Institutional
+S4-TK-01336,2026-05-24,2026-05,Nifas Silk-Lafto,Meter issue,High,Closed,Field report,80.9,Customer service,Residential
+S4-TK-01337,2026-04-22,2026-04,Kolfe Keranio,Burst main,High,Escalated,Mobile app,,Customer service,Commercial
+S4-TK-01338,2026-01-04,2026-01,Nifas Silk-Lafto,Valve failure,Medium,Closed,Call center,47.9,Customer service,Residential
+S4-TK-01339,2026-04-16,2026-04,Bole,Pipe leak,Medium,Closed,Call center,20.7,Customer service,Residential
+S4-TK-01340,2026-03-06,2026-03,Kirkos,Pipe leak,Medium,Closed,Field report,20.4,Customer service,Residential
+S4-TK-01341,2026-05-18,2026-05,Bole,Pipe leak,Medium,Closed,Mobile app,30.7,Network team,Institutional
+S4-TK-01342,2026-09-08,2026-09,Akaki Kality,Meter issue,High,Closed,Call center,8.5,Network team,Residential
+S4-TK-01343,2026-08-25,2026-08,Arada,Valve failure,High,Closed,Walk-in,21.1,Repair crew,Residential
+S4-TK-01344,2026-01-18,2026-01,Arada,Meter issue,Medium,Closed,Call center,13.3,Repair crew,Residential
+S4-TK-01345,2026-07-19,2026-07,Akaki Kality,Low pressure,Low,Closed,Walk-in,15.4,Repair crew,Residential
+S4-TK-01346,2026-02-08,2026-02,Kolfe Keranio,Pipe leak,Medium,Escalated,Mobile app,,Repair crew,Residential
+S4-TK-01347,2026-05-10,2026-05,Gullele,Pipe leak,Medium,Closed,Mobile app,23.7,Repair crew,Commercial
+S4-TK-01348,2026-09-07,2026-09,Arada,Meter issue,Low,Closed,Call center,40.4,Repair crew,Institutional
+S4-TK-01349,2026-01-04,2026-01,Addis Ketema,Low pressure,Medium,Closed,Mobile app,5,Repair crew,Institutional
+S4-TK-01350,2026-07-26,2026-07,Gullele,Pipe leak,Low,Closed,Mobile app,24.5,Repair crew,Institutional
+S4-TK-01351,2026-01-06,2026-01,Kolfe Keranio,Low pressure,Low,Closed,Call center,25.6,Customer service,Commercial
+S4-TK-01352,2026-06-01,2026-06,Gullele,Meter issue,Medium,Closed,Walk-in,31.1,Network team,Residential
+S4-TK-01353,2026-05-28,2026-05,Kolfe Keranio,Burst main,High,Closed,Mobile app,41.5,Repair crew,Residential
+S4-TK-01354,2026-04-29,2026-04,Addis Ketema,Meter issue,Medium,Closed,Call center,25.6,Customer service,Institutional
+S4-TK-01355,2026-04-13,2026-04,Kirkos,Meter issue,Low,Closed,Field report,2.3,Repair crew,Residential
+S4-TK-01356,2026-09-19,2026-09,Arada,Pipe leak,Low,Closed,Call center,13.8,Repair crew,Residential
+S4-TK-01357,2026-06-08,2026-06,Nifas Silk-Lafto,Low pressure,Low,Closed,Mobile app,26.7,Network team,Residential
+S4-TK-01358,2026-01-23,2026-01,Akaki Kality,Pipe leak,Medium,Closed,Call center,10.4,Repair crew,Residential
+S4-TK-01359,2026-04-20,2026-04,Akaki Kality,Meter issue,Medium,Open,Mobile app,,Repair crew,Commercial
+S4-TK-01360,2026-03-27,2026-03,Kolfe Keranio,Valve failure,Medium,Closed,Field report,16.9,Customer service,Residential
+S4-TK-01361,2026-06-29,2026-06,Gullele,Pipe leak,Low,Open,Call center,,Customer service,Commercial
+S4-TK-01362,2026-05-18,2026-05,Kirkos,Pipe leak,Medium,Closed,Mobile app,3.3,Network team,Residential
+S4-TK-01363,2026-01-25,2026-01,Kirkos,Burst main,High,Open,Mobile app,,Customer service,Residential
+S4-TK-01364,2026-02-27,2026-02,Arada,Meter issue,Low,Closed,Mobile app,44.7,Repair crew,Residential
+S4-TK-01365,2026-04-17,2026-04,Nifas Silk-Lafto,Water quality,High,Closed,Call center,30.5,Repair crew,Residential
+S4-TK-01366,2026-09-16,2026-09,Arada,Pipe leak,High,Closed,Call center,2.8,Repair crew,Commercial
+S4-TK-01367,2026-03-23,2026-03,Bole,Pipe leak,Medium,Closed,Mobile app,49.5,Repair crew,Residential
+S4-TK-01368,2026-09-16,2026-09,Kolfe Keranio,Valve failure,High,Closed,Call center,24.7,Repair crew,Residential
+S4-TK-01369,2026-06-01,2026-06,Bole,Low pressure,Medium,Closed,Field report,56.3,Repair crew,Residential
+S4-TK-01370,2026-02-08,2026-02,Addis Ketema,Pipe leak,High,Closed,Call center,29.9,Network team,Residential
+S4-TK-01371,2026-04-25,2026-04,Bole,Burst main,High,Open,Call center,,Network team,Residential
+S4-TK-01372,2026-07-06,2026-07,Arada,Valve failure,High,Open,Call center,,Repair crew,Commercial
+S4-TK-01373,2026-05-20,2026-05,Nifas Silk-Lafto,Pipe leak,Low,Closed,Mobile app,7.8,Repair crew,Residential
+S4-TK-01374,2026-08-31,2026-08,Bole,Valve failure,Medium,Open,Call center,,Repair crew,Residential
+S4-TK-01375,2026-09-03,2026-09,Kolfe Keranio,Pipe leak,Low,Open,Call center,,Repair crew,Residential
+S4-TK-01376,2026-06-14,2026-06,Arada,Pipe leak,High,Open,Field report,,Customer service,Residential
+S4-TK-01377,2026-07-01,2026-07,Kolfe Keranio,Low pressure,High,Closed,Field report,36.9,Customer service,Residential
+S4-TK-01378,2026-07-19,2026-07,Kirkos,Burst main,High,Closed,Call center,11.1,Repair crew,Commercial
+S4-TK-01379,2026-04-28,2026-04,Gullele,Meter issue,High,Closed,Mobile app,35.9,Repair crew,Institutional
+S4-TK-01380,2026-07-28,2026-07,Akaki Kality,Meter issue,Medium,Closed,Mobile app,40,Repair crew,Commercial
+S4-TK-01381,2026-03-07,2026-03,Kirkos,Low pressure,Medium,Open,Call center,,Repair crew,Residential
+S4-TK-01382,2026-05-17,2026-05,Arada,Low pressure,Medium,Closed,Call center,33.7,Repair crew,Residential
+S4-TK-01383,2026-08-09,2026-08,Addis Ketema,Valve failure,Medium,Closed,Mobile app,17.4,Repair crew,Residential
+S4-TK-01384,2026-04-15,2026-04,Nifas Silk-Lafto,Meter issue,Medium,Closed,Call center,18.6,Repair crew,Commercial
+S4-TK-01385,2026-02-04,2026-02,Kirkos,Pipe leak,Low,Closed,Mobile app,28.4,Network team,Residential
+S4-TK-01386,2026-03-02,2026-03,Nifas Silk-Lafto,Low pressure,High,Open,Mobile app,,Repair crew,Commercial
+S4-TK-01387,2026-02-09,2026-02,Bole,Valve failure,High,Closed,Walk-in,34,Network team,Residential
+S4-TK-01388,2026-03-07,2026-03,Nifas Silk-Lafto,Burst main,Urgent,Closed,Mobile app,34,Network team,Institutional
+S4-TK-01389,2026-03-01,2026-03,Addis Ketema,Burst main,Urgent,Closed,Call center,48.4,Network team,Residential
+S4-TK-01390,2026-01-10,2026-01,Nifas Silk-Lafto,Low pressure,High,Closed,Walk-in,78.6,Network team,Residential
+S4-TK-01391,2026-08-16,2026-08,Bole,Low pressure,Low,Closed,Call center,14,Repair crew,Commercial
+S4-TK-01392,2026-07-09,2026-07,Kolfe Keranio,Pipe leak,High,Open,Walk-in,,Customer service,Residential
+S4-TK-01393,2026-04-21,2026-04,Gullele,Meter issue,Low,Open,Field report,,Network team,Residential
+S4-TK-01394,2026-01-14,2026-01,Akaki Kality,Pipe leak,Low,Closed,Field report,10.9,Repair crew,Residential
+S4-TK-01395,2026-08-09,2026-08,Kolfe Keranio,Pipe leak,Medium,Open,Mobile app,,Repair crew,Residential
+S4-TK-01396,2026-01-24,2026-01,Addis Ketema,Burst main,Urgent,Closed,Walk-in,25.3,Network team,Residential
+S4-TK-01397,2026-05-11,2026-05,Gullele,Pipe leak,Low,Closed,Field report,14.8,Repair crew,Residential
+S4-TK-01398,2026-03-26,2026-03,Bole,Pipe leak,Medium,Closed,Mobile app,12.3,Network team,Residential
+S4-TK-01399,2026-03-30,2026-03,Addis Ketema,Low pressure,High,Closed,Mobile app,86.2,Repair crew,Residential
+S4-TK-01400,2026-01-02,2026-01,Kolfe Keranio,Burst main,Urgent,Closed,Field report,2,Network team,Commercial
+S4-TK-01401,2026-01-21,2026-01,Kolfe Keranio,Pipe leak,High,Closed,Call center,58,Customer service,Commercial
+S4-TK-01402,2026-09-15,2026-09,Gullele,Pipe leak,High,Closed,Call center,30.4,Repair crew,Commercial
+S4-TK-01403,2026-05-21,2026-05,Kolfe Keranio,Valve failure,Low,Closed,Call center,30.3,Network team,Institutional
+S4-TK-01404,2026-09-14,2026-09,Kolfe Keranio,Water quality,High,Closed,Field report,10.8,Network team,Commercial
+S4-TK-01405,2026-01-27,2026-01,Akaki Kality,Meter issue,Medium,Closed,Call center,60.3,Customer service,Institutional
+S4-TK-01406,2026-06-29,2026-06,Addis Ketema,Pipe leak,Medium,Closed,Field report,20.6,Customer service,Residential
+S4-TK-01407,2026-09-19,2026-09,Kolfe Keranio,Pipe leak,Low,Closed,Mobile app,19.3,Repair crew,Residential
+S4-TK-01408,2026-02-19,2026-02,Akaki Kality,Low pressure,High,Escalated,Walk-in,,Network team,Residential
+S4-TK-01409,2026-09-24,2026-09,Kolfe Keranio,Low pressure,Medium,Closed,Call center,39.9,Repair crew,Residential
+S4-TK-01410,2026-02-16,2026-02,Akaki Kality,Pipe leak,High,Open,Call center,,Repair crew,Residential
+S4-TK-01411,2026-07-28,2026-07,Addis Ketema,Pipe leak,Medium,Open,Walk-in,,Repair crew,Residential
+S4-TK-01412,2026-06-23,2026-06,Bole,Valve failure,Low,Closed,Call center,39.3,Customer service,Residential
+S4-TK-01413,2026-03-09,2026-03,Arada,Meter issue,Low,Open,Call center,,Customer service,Residential
+S4-TK-01414,2026-01-06,2026-01,Akaki Kality,Meter issue,Medium,Open,Call center,,Network team,Residential
+S4-TK-01415,2026-05-20,2026-05,Gullele,Valve failure,High,Closed,Call center,10.8,Repair crew,Commercial
+S4-TK-01416,2026-02-08,2026-02,Kolfe Keranio,Pipe leak,Medium,Closed,Call center,22.5,Network team,Residential
+S4-TK-01417,2026-03-06,2026-03,Bole,Low pressure,Medium,Closed,Mobile app,23.4,Repair crew,Residential
+S4-TK-01418,2026-04-20,2026-04,Addis Ketema,Burst main,Urgent,Closed,Call center,12.3,Customer service,Residential
+S4-TK-01419,2026-09-16,2026-09,Arada,Pipe leak,High,Closed,Mobile app,11,Customer service,Commercial
+S4-TK-01420,2026-07-13,2026-07,Akaki Kality,Low pressure,High,Closed,Call center,21.8,Customer service,Residential
+S4-TK-01421,2026-06-03,2026-06,Kirkos,Meter issue,Medium,Open,Walk-in,,Network team,Residential
+S4-TK-01422,2026-06-25,2026-06,Addis Ketema,Pipe leak,Medium,Open,Field report,,Network team,Residential
+S4-TK-01423,2026-08-11,2026-08,Arada,Pipe leak,Medium,Closed,Mobile app,6.8,Network team,Residential
+S4-TK-01424,2026-05-27,2026-05,Arada,Valve failure,Low,Closed,Call center,36.2,Repair crew,Residential
+S4-TK-01425,2026-02-23,2026-02,Kolfe Keranio,Pipe leak,Low,Open,Mobile app,,Network team,Residential
+S4-TK-01426,2026-07-06,2026-07,Bole,Pipe leak,High,Closed,Mobile app,5.9,Repair crew,Residential
+S4-TK-01427,2026-04-12,2026-04,Addis Ketema,Valve failure,Medium,Closed,Mobile app,6.8,Repair crew,Residential
+S4-TK-01428,2026-08-22,2026-08,Kolfe Keranio,Valve failure,Medium,Closed,Call center,17.1,Repair crew,Residential
+S4-TK-01429,2026-05-26,2026-05,Kolfe Keranio,Pipe leak,Medium,Closed,Walk-in,5.5,Repair crew,Commercial
+S4-TK-01430,2026-08-05,2026-08,Arada,Water quality,Urgent,Closed,Call center,51.5,Customer service,Commercial
+S4-TK-01431,2026-04-08,2026-04,Nifas Silk-Lafto,Water quality,High,Closed,Field report,37.9,Repair crew,Residential
+S4-TK-01432,2026-08-08,2026-08,Kolfe Keranio,Meter issue,Medium,Closed,Call center,20.3,Network team,Commercial
+S4-TK-01433,2026-08-13,2026-08,Kirkos,Pipe leak,Medium,Closed,Call center,33.6,Repair crew,Institutional
+S4-TK-01434,2026-02-17,2026-02,Arada,Pipe leak,Medium,Open,Call center,,Network team,Residential
+S4-TK-01435,2026-06-09,2026-06,Nifas Silk-Lafto,Valve failure,Low,Closed,Call center,18.2,Network team,Residential
+S4-TK-01436,2026-07-25,2026-07,Nifas Silk-Lafto,Pipe leak,Medium,Escalated,Mobile app,,Repair crew,Residential
+S4-TK-01437,2026-02-27,2026-02,Akaki Kality,Valve failure,Medium,Open,Walk-in,,Customer service,Residential
+S4-TK-01438,2026-07-01,2026-07,Addis Ketema,Low pressure,Medium,Closed,Field report,14.9,Repair crew,Residential
+S4-TK-01439,2026-04-20,2026-04,Addis Ketema,Meter issue,Medium,Closed,Walk-in,26.6,Repair crew,Residential
+S4-TK-01440,2026-02-08,2026-02,Akaki Kality,Low pressure,Medium,Closed,Call center,53.9,Repair crew,Residential
+S4-TK-01441,2026-02-06,2026-02,Nifas Silk-Lafto,Burst main,Urgent,Closed,Call center,17.7,Repair crew,Residential
+S4-TK-01442,2026-09-10,2026-09,Addis Ketema,Pipe leak,Medium,Closed,Walk-in,23.1,Customer service,Residential
+S4-TK-01443,2026-09-16,2026-09,Gullele,Valve failure,High,Closed,Walk-in,13.9,Repair crew,Residential
+S4-TK-01444,2026-06-22,2026-06,Akaki Kality,Pipe leak,Medium,Open,Call center,,Repair crew,Commercial
+S4-TK-01445,2026-03-02,2026-03,Akaki Kality,Pipe leak,Medium,Closed,Field report,22.2,Repair crew,Residential
+S4-TK-01446,2026-08-02,2026-08,Kirkos,Low pressure,Low,Closed,Mobile app,12.1,Network team,Residential
+S4-TK-01447,2026-08-25,2026-08,Addis Ketema,Low pressure,Low,Closed,Mobile app,21.6,Repair crew,Commercial
+S4-TK-01448,2026-04-04,2026-04,Arada,Water quality,High,Closed,Walk-in,24.3,Customer service,Residential
+S4-TK-01449,2026-01-29,2026-01,Bole,Low pressure,Medium,Closed,Field report,21.8,Network team,Residential
+S4-TK-01450,2026-09-07,2026-09,Addis Ketema,Pipe leak,High,Open,Mobile app,,Customer service,Residential
+S4-TK-01451,2026-01-18,2026-01,Addis Ketema,Burst main,Urgent,Closed,Field report,28.1,Repair crew,Institutional
+S4-TK-01452,2026-09-19,2026-09,Addis Ketema,Pipe leak,Medium,Open,Mobile app,,Repair crew,Residential
+S4-TK-01453,2026-01-15,2026-01,Nifas Silk-Lafto,Pipe leak,High,Closed,Mobile app,30.3,Network team,Residential
+S4-TK-01454,2026-01-25,2026-01,Kirkos,Low pressure,Medium,Closed,Call center,10.5,Repair crew,Institutional
+S4-TK-01455,2026-03-15,2026-03,Addis Ketema,Burst main,High,Closed,Field report,17.2,Network team,Commercial
+S4-TK-01456,2026-04-19,2026-04,Nifas Silk-Lafto,Pipe leak,Medium,Closed,Field report,19.4,Repair crew,Residential
+S4-TK-01457,2026-01-04,2026-01,Gullele,Pipe leak,Medium,Closed,Mobile app,13.5,Repair crew,Residential
+S4-TK-01458,2026-09-16,2026-09,Nifas Silk-Lafto,Meter issue,High,Closed,Walk-in,25.7,Network team,Residential
+S4-TK-01459,2026-02-07,2026-02,Kirkos,Low pressure,Medium,Closed,Mobile app,21.3,Network team,Institutional
+S4-TK-01460,2026-02-03,2026-02,Addis Ketema,Pipe leak,Low,Closed,Walk-in,108.6,Network team,Residential
+S4-TK-01461,2026-06-25,2026-06,Akaki Kality,Pipe leak,High,Closed,Mobile app,27.9,Network team,Residential
+S4-TK-01462,2026-06-16,2026-06,Akaki Kality,Low pressure,Medium,Closed,Walk-in,9,Repair crew,Residential
+S4-TK-01463,2026-08-15,2026-08,Kolfe Keranio,Pipe leak,High,Open,Call center,,Customer service,Commercial
+S4-TK-01464,2026-08-07,2026-08,Bole,Pipe leak,High,Closed,Call center,32.8,Customer service,Commercial
+S4-TK-01465,2026-01-08,2026-01,Bole,Water quality,High,Closed,Mobile app,25.4,Repair crew,Residential
+S4-TK-01466,2026-06-16,2026-06,Addis Ketema,Low pressure,High,Open,Mobile app,,Customer service,Residential
+S4-TK-01467,2026-01-02,2026-01,Bole,Low pressure,Medium,Open,Walk-in,,Network team,Residential
+S4-TK-01468,2026-09-13,2026-09,Akaki Kality,Low pressure,Low,Closed,Call center,18.1,Repair crew,Residential
+S4-TK-01469,2026-06-24,2026-06,Kolfe Keranio,Low pressure,Low,Open,Field report,,Repair crew,Residential
+S4-TK-01470,2026-05-22,2026-05,Kolfe Keranio,Water quality,High,Closed,Field report,23.8,Repair crew,Residential
+S4-TK-01471,2026-06-17,2026-06,Akaki Kality,Pipe leak,Medium,Closed,Walk-in,29.4,Network team,Residential
+S4-TK-01472,2026-02-25,2026-02,Kirkos,Pipe leak,Medium,Closed,Mobile app,14.7,Customer service,Residential
+S4-TK-01473,2026-07-10,2026-07,Arada,Water quality,High,Closed,Call center,28.9,Repair crew,Residential
+S4-TK-01474,2026-07-10,2026-07,Gullele,Burst main,High,Closed,Field report,47.6,Repair crew,Residential
+S4-TK-01475,2026-05-21,2026-05,Arada,Water quality,High,Closed,Mobile app,21.1,Repair crew,Commercial
+S4-TK-01476,2026-05-15,2026-05,Bole,Pipe leak,Medium,Closed,Call center,82.1,Repair crew,Commercial
+S4-TK-01477,2026-09-13,2026-09,Addis Ketema,Pipe leak,Medium,Closed,Call center,28.9,Repair crew,Residential
+S4-TK-01478,2026-09-03,2026-09,Kolfe Keranio,Pipe leak,Medium,Open,Call center,,Repair crew,Residential
+S4-TK-01479,2026-04-02,2026-04,Kirkos,Pipe leak,High,Closed,Walk-in,37.7,Customer service,Residential
+S4-TK-01480,2026-09-19,2026-09,Kolfe Keranio,Low pressure,Medium,Closed,Call center,21.5,Network team,Residential
+S4-TK-01481,2026-05-28,2026-05,Akaki Kality,Valve failure,High,Closed,Mobile app,23.7,Customer service,Institutional
+S4-TK-01482,2026-02-18,2026-02,Gullele,Meter issue,Low,Closed,Mobile app,45.3,Network team,Residential
+S4-TK-01483,2026-03-27,2026-03,Arada,Water quality,High,Closed,Call center,8.1,Customer service,Residential
+S4-TK-01484,2026-06-27,2026-06,Akaki Kality,Pipe leak,Medium,Open,Walk-in,,Repair crew,Commercial
+S4-TK-01485,2026-02-28,2026-02,Nifas Silk-Lafto,Pipe leak,Medium,Closed,Field report,53.5,Repair crew,Institutional
+S4-TK-01486,2026-02-22,2026-02,Kolfe Keranio,Meter issue,Low,Closed,Mobile app,26.4,Repair crew,Commercial
+S4-TK-01487,2026-02-18,2026-02,Kirkos,Meter issue,Medium,Closed,Walk-in,61.3,Repair crew,Residential
+S4-TK-01488,2026-07-23,2026-07,Gullele,Pipe leak,Low,Closed,Call center,5,Repair crew,Residential
+S4-TK-01489,2026-03-28,2026-03,Kirkos,Low pressure,High,Closed,Call center,20.8,Repair crew,Residential
+S4-TK-01490,2026-07-23,2026-07,Addis Ketema,Pipe leak,High,Escalated,Walk-in,,Repair crew,Commercial
+S4-TK-01491,2026-06-24,2026-06,Gullele,Pipe leak,Medium,Closed,Call center,16.5,Network team,Residential
+S4-TK-01492,2026-07-16,2026-07,Nifas Silk-Lafto,Pipe leak,Medium,Closed,Walk-in,40.4,Repair crew,Residential
+S4-TK-01493,2026-08-09,2026-08,Kolfe Keranio,Meter issue,Medium,Closed,Call center,22.8,Network team,Residential
+S4-TK-01494,2026-05-11,2026-05,Nifas Silk-Lafto,Burst main,Urgent,Open,Call center,,Network team,Residential
+S4-TK-01495,2026-02-04,2026-02,Kolfe Keranio,Valve failure,Medium,Closed,Mobile app,16.8,Network team,Residential
+S4-TK-01496,2026-09-20,2026-09,Nifas Silk-Lafto,Pipe leak,Low,Closed,Mobile app,32.6,Customer service,Residential
+S4-TK-01497,2026-05-10,2026-05,Arada,Pipe leak,Low,Closed,Mobile app,32.1,Repair crew,Residential
+S4-TK-01498,2026-03-21,2026-03,Kolfe Keranio,Pipe leak,High,Closed,Call center,32.7,Repair crew,Residential
+S4-TK-01499,2026-07-08,2026-07,Kolfe Keranio,Meter issue,Low,Open,Mobile app,,Network team,Commercial
+S4-TK-01500,2026-03-03,2026-03,Bole,Low pressure,Medium,Closed,Mobile app,28.4,Repair crew,Residential
+S4-TK-01501,2026-02-17,2026-02,Gullele,Low pressure,Medium,Open,Call center,,Network team,Residential
+S4-TK-01502,2026-03-20,2026-03,Nifas Silk-Lafto,Meter issue,Medium,Closed,Field report,34.9,Network team,Commercial
+S4-TK-01503,2026-07-07,2026-07,Gullele,Pipe leak,Medium,Closed,Call center,27.1,Network team,Residential
+S4-TK-01504,2026-06-29,2026-06,Bole,Valve failure,High,Escalated,Call center,,Repair crew,Residential
+S4-TK-01505,2026-05-29,2026-05,Akaki Kality,Meter issue,Medium,Closed,Mobile app,43.5,Repair crew,Residential
+S4-TK-01506,2026-06-17,2026-06,Kolfe Keranio,Burst main,Urgent,Closed,Call center,6.4,Repair crew,Institutional
+S4-TK-01507,2026-03-13,2026-03,Gullele,Low pressure,High,Open,Field report,,Network team,Residential
+S4-TK-01508,2026-04-09,2026-04,Bole,Valve failure,High,Closed,Call center,22.6,Network team,Residential
+S4-TK-01509,2026-02-22,2026-02,Bole,Pipe leak,High,Closed,Mobile app,14.4,Repair crew,Institutional
+S4-TK-01510,2026-01-08,2026-01,Nifas Silk-Lafto,Valve failure,Medium,Escalated,Call center,,Network team,Residential
+S4-TK-01511,2026-03-31,2026-03,Arada,Pipe leak,High,Closed,Call center,11.6,Repair crew,Residential
+S4-TK-01512,2026-09-18,2026-09,Bole,Low pressure,Medium,Closed,Field report,44.4,Repair crew,Residential
+S4-TK-01513,2026-07-16,2026-07,Kirkos,Pipe leak,Low,Closed,Walk-in,14.9,Customer service,Residential
+S4-TK-01514,2026-03-01,2026-03,Arada,Pipe leak,Medium,Closed,Call center,37.1,Repair crew,Commercial
+S4-TK-01515,2026-03-09,2026-03,Arada,Pipe leak,Low,Closed,Call center,24.2,Repair crew,Residential
+S4-TK-01516,2026-04-18,2026-04,Akaki Kality,Low pressure,Medium,Closed,Call center,83.5,Network team,Residential
+S4-TK-01517,2026-07-29,2026-07,Nifas Silk-Lafto,Valve failure,Medium,Closed,Call center,17.8,Network team,Residential
+S4-TK-01518,2026-07-27,2026-07,Kirkos,Valve failure,Medium,Closed,Call center,20.8,Repair crew,Commercial
+S4-TK-01519,2026-09-11,2026-09,Akaki Kality,Pipe leak,Low,Closed,Field report,6.8,Network team,Residential
+S4-TK-01520,2026-03-25,2026-03,Akaki Kality,Low pressure,Low,Open,Mobile app,,Network team,Residential
+S4-TK-01521,2026-08-05,2026-08,Kirkos,Pipe leak,Medium,Closed,Walk-in,21.6,Network team,Commercial
+S4-TK-01522,2026-06-23,2026-06,Nifas Silk-Lafto,Low pressure,High,Closed,Call center,12.8,Repair crew,Residential
+S4-TK-01523,2026-03-27,2026-03,Addis Ketema,Water quality,High,Open,Call center,,Customer service,Residential
+S4-TK-01524,2026-08-01,2026-08,Kolfe Keranio,Meter issue,Medium,Closed,Call center,22.2,Customer service,Residential
+S4-TK-01525,2026-04-10,2026-04,Gullele,Pipe leak,Low,Open,Call center,,Network team,Residential
+S4-TK-01526,2026-01-30,2026-01,Kirkos,Meter issue,Medium,Escalated,Field report,,Customer service,Commercial
+S4-TK-01527,2026-04-12,2026-04,Kirkos,Meter issue,Medium,Closed,Mobile app,8.4,Network team,Residential
+S4-TK-01528,2026-08-15,2026-08,Akaki Kality,Low pressure,Medium,Closed,Call center,36.3,Repair crew,Commercial
+S4-TK-01529,2026-08-26,2026-08,Gullele,Low pressure,Medium,Closed,Call center,31.4,Network team,Residential
+S4-TK-01530,2026-06-13,2026-06,Addis Ketema,Water quality,High,Open,Mobile app,,Network team,Commercial
+S4-TK-01531,2026-03-04,2026-03,Kolfe Keranio,Low pressure,Low,Open,Call center,,Repair crew,Residential
+S4-TK-01532,2026-02-20,2026-02,Gullele,Burst main,High,Closed,Call center,30.8,Customer service,Residential
+S4-TK-01533,2026-01-17,2026-01,Arada,Meter issue,High,Closed,Mobile app,2.8,Customer service,Commercial
+S4-TK-01534,2026-01-18,2026-01,Nifas Silk-Lafto,Pipe leak,Medium,Closed,Call center,13.1,Repair crew,Residential
+S4-TK-01535,2026-05-09,2026-05,Kolfe Keranio,Pipe leak,Low,Closed,Mobile app,31.5,Repair crew,Residential
+S4-TK-01536,2026-04-29,2026-04,Gullele,Burst main,High,Closed,Mobile app,31,Customer service,Residential
+S4-TK-01537,2026-08-06,2026-08,Gullele,Water quality,High,Open,Field report,,Network team,Residential
+S4-TK-01538,2026-01-24,2026-01,Kirkos,Low pressure,Low,Closed,Field report,32.6,Customer service,Residential
+S4-TK-01539,2026-07-11,2026-07,Addis Ketema,Pipe leak,Low,Closed,Call center,22.5,Network team,Commercial
+S4-TK-01540,2026-05-29,2026-05,Kolfe Keranio,Low pressure,Medium,Closed,Field report,2.8,Network team,Commercial
+S4-TK-01541,2026-08-27,2026-08,Kirkos,Meter issue,Low,Closed,Mobile app,32.7,Repair crew,Institutional
+S4-TK-01542,2026-05-06,2026-05,Addis Ketema,Pipe leak,Medium,Closed,Field report,5.9,Network team,Commercial
+S4-TK-01543,2026-02-05,2026-02,Nifas Silk-Lafto,Pipe leak,Medium,Closed,Field report,28.8,Repair crew,Residential
+S4-TK-01544,2026-01-08,2026-01,Akaki Kality,Pipe leak,Medium,Closed,Call center,11,Repair crew,Residential
+S4-TK-01545,2026-06-09,2026-06,Addis Ketema,Water quality,High,Closed,Call center,10.4,Repair crew,Residential
+S4-TK-01546,2026-07-08,2026-07,Arada,Water quality,High,Open,Mobile app,,Network team,Residential
+S4-TK-01547,2026-07-20,2026-07,Arada,Pipe leak,Medium,Closed,Call center,10.5,Repair crew,Residential
+S4-TK-01548,2026-02-17,2026-02,Bole,Meter issue,Medium,Closed,Field report,34.7,Network team,Residential
+S4-TK-01549,2026-06-14,2026-06,Kolfe Keranio,Pipe leak,Medium,Closed,Field report,23.1,Customer service,Residential
+S4-TK-01550,2026-03-09,2026-03,Nifas Silk-Lafto,Low pressure,Medium,Closed,Call center,57.8,Repair crew,Residential
+S4-TK-01551,2026-09-09,2026-09,Arada,Meter issue,High,Closed,Call center,18.2,Network team,Institutional
+S4-TK-01552,2026-03-02,2026-03,Kolfe Keranio,Low pressure,Medium,Closed,Mobile app,23.1,Repair crew,Residential
+S4-TK-01553,2026-08-03,2026-08,Akaki Kality,Low pressure,Medium,Closed,Call center,68.3,Customer service,Residential
+S4-TK-01554,2026-08-24,2026-08,Kolfe Keranio,Pipe leak,Medium,Closed,Walk-in,21.7,Repair crew,Commercial
+S4-TK-01555,2026-09-25,2026-09,Kirkos,Pipe leak,High,Closed,Walk-in,7.4,Network team,Residential
+S4-TK-01556,2026-07-11,2026-07,Arada,Pipe leak,Medium,Escalated,Call center,,Repair crew,Residential
+S4-TK-01557,2026-03-10,2026-03,Addis Ketema,Low pressure,Low,Closed,Mobile app,4.8,Network team,Residential
+S4-TK-01558,2026-02-28,2026-02,Gullele,Low pressure,Medium,Closed,Mobile app,111.8,Repair crew,Commercial
+S4-TK-01559,2026-04-20,2026-04,Nifas Silk-Lafto,Burst main,Urgent,Closed,Walk-in,32.5,Repair crew,Residential
+S4-TK-01560,2026-09-16,2026-09,Gullele,Low pressure,Medium,Closed,Field report,24.7,Repair crew,Residential
+S4-TK-01561,2026-03-16,2026-03,Nifas Silk-Lafto,Valve failure,Medium,Open,Walk-in,,Customer service,Commercial
+S4-TK-01562,2026-05-25,2026-05,Arada,Pipe leak,High,Closed,Walk-in,20.4,Customer service,Residential
+S4-TK-01563,2026-09-07,2026-09,Addis Ketema,Pipe leak,Medium,Closed,Call center,63.5,Repair crew,Institutional
+S4-TK-01564,2026-01-08,2026-01,Kirkos,Valve failure,Medium,Closed,Mobile app,15.1,Customer service,Residential
+S4-TK-01565,2026-01-23,2026-01,Kirkos,Pipe leak,Low,Closed,Walk-in,3.4,Repair crew,Residential
+S4-TK-01566,2026-07-18,2026-07,Addis Ketema,Pipe leak,Medium,Closed,Call center,56.1,Repair crew,Residential
+S4-TK-01567,2026-01-14,2026-01,Addis Ketema,Low pressure,High,Open,Call center,,Network team,Commercial
+S4-TK-01568,2026-05-20,2026-05,Gullele,Low pressure,Medium,Closed,Mobile app,32.9,Network team,Commercial
+S4-TK-01569,2026-07-08,2026-07,Nifas Silk-Lafto,Valve failure,Low,Closed,Walk-in,83.5,Repair crew,Residential
+S4-TK-01570,2026-06-23,2026-06,Arada,Low pressure,Medium,Closed,Field report,6.4,Repair crew,Commercial
+S4-TK-01571,2026-03-04,2026-03,Gullele,Meter issue,High,Closed,Mobile app,25,Network team,Residential
+S4-TK-01572,2026-08-11,2026-08,Addis Ketema,Low pressure,Medium,Closed,Call center,55.3,Network team,Residential
+S4-TK-01573,2026-03-18,2026-03,Gullele,Valve failure,Low,Closed,Call center,22.5,Network team,Institutional
+S4-TK-01574,2026-05-08,2026-05,Bole,Valve failure,Medium,Open,Field report,,Repair crew,Institutional
+S4-TK-01575,2026-05-24,2026-05,Kolfe Keranio,Meter issue,High,Open,Call center,,Customer service,Residential
+S4-TK-01576,2026-07-29,2026-07,Addis Ketema,Water quality,High,Closed,Call center,48.3,Customer service,Residential
+S4-TK-01577,2026-07-18,2026-07,Arada,Low pressure,Medium,Open,Field report,,Network team,Institutional
+S4-TK-01578,2026-09-25,2026-09,Arada,Low pressure,Medium,Closed,Field report,31,Repair crew,Institutional
+S4-TK-01579,2026-08-15,2026-08,Bole,Meter issue,Low,Closed,Mobile app,11.5,Repair crew,Residential
+S4-TK-01580,2026-08-12,2026-08,Arada,Valve failure,Low,Closed,Walk-in,61,Repair crew,Residential
+S4-TK-01581,2026-02-22,2026-02,Kolfe Keranio,Water quality,High,Closed,Mobile app,18.5,Repair crew,Commercial
+S4-TK-01582,2026-05-28,2026-05,Addis Ketema,Low pressure,Medium,Escalated,Field report,,Repair crew,Residential
+S4-TK-01583,2026-02-13,2026-02,Kirkos,Low pressure,Medium,Closed,Walk-in,61.5,Network team,Residential
+S4-TK-01584,2026-06-18,2026-06,Arada,Pipe leak,Medium,Closed,Mobile app,13.8,Network team,Commercial
+S4-TK-01585,2026-02-08,2026-02,Gullele,Pipe leak,Low,Closed,Call center,18.7,Repair crew,Residential
+S4-TK-01586,2026-07-01,2026-07,Gullele,Valve failure,Medium,Closed,Field report,21.2,Repair crew,Commercial
+S4-TK-01587,2026-07-06,2026-07,Gullele,Valve failure,Low,Open,Walk-in,,Network team,Institutional
+S4-TK-01588,2026-03-04,2026-03,Akaki Kality,Low pressure,Low,Closed,Field report,32.4,Network team,Residential
+S4-TK-01589,2026-09-14,2026-09,Gullele,Pipe leak,High,Closed,Field report,25.4,Network team,Residential
+S4-TK-01590,2026-02-28,2026-02,Gullele,Pipe leak,Medium,Closed,Field report,53.1,Repair crew,Residential
+S4-TK-01591,2026-04-17,2026-04,Bole,Low pressure,Medium,Closed,Mobile app,17.2,Network team,Residential
+S4-TK-01592,2026-02-13,2026-02,Bole,Pipe leak,Medium,Closed,Call center,22.1,Repair crew,Residential
+S4-TK-01593,2026-08-20,2026-08,Kolfe Keranio,Burst main,High,Closed,Call center,8.6,Repair crew,Residential
+S4-TK-01594,2026-03-12,2026-03,Nifas Silk-Lafto,Meter issue,High,Closed,Walk-in,10.6,Repair crew,Commercial
+S4-TK-01595,2026-05-16,2026-05,Gullele,Meter issue,Medium,Closed,Walk-in,10.7,Repair crew,Residential
+S4-TK-01596,2026-06-29,2026-06,Addis Ketema,Pipe leak,High,Closed,Call center,32,Network team,Residential
+S4-TK-01597,2026-09-10,2026-09,Addis Ketema,Meter issue,Medium,Closed,Walk-in,23.2,Repair crew,Commercial
+S4-TK-01598,2026-01-10,2026-01,Kolfe Keranio,Pipe leak,Medium,Closed,Mobile app,18.1,Network team,Commercial
+S4-TK-01599,2026-05-18,2026-05,Nifas Silk-Lafto,Meter issue,Low,Closed,Mobile app,20.7,Network team,Institutional
+S4-TK-01600,2026-06-29,2026-06,Kirkos,Pipe leak,Medium,Escalated,Mobile app,,Repair crew,Commercial
+S4-TK-01601,2026-01-02,2026-01,Bole,Low pressure,Medium,Closed,Call center,7.7,Network team,Residential
+S4-TK-01602,2026-02-06,2026-02,Bole,Pipe leak,Medium,Closed,Call center,60.1,Network team,Residential
+S4-TK-01603,2026-05-06,2026-05,Addis Ketema,Pipe leak,Low,Closed,Walk-in,1.8,Customer service,Residential
+S4-TK-01604,2026-09-24,2026-09,Kirkos,Low pressure,Medium,Closed,Call center,12.5,Network team,Residential
+S4-TK-01605,2026-01-28,2026-01,Kolfe Keranio,Pipe leak,Medium,Closed,Mobile app,3.9,Repair crew,Commercial
+S4-TK-01606,2026-02-24,2026-02,Gullele,Low pressure,High,Closed,Call center,38.8,Customer service,Residential
+S4-TK-01607,2026-06-21,2026-06,Arada,Pipe leak,Medium,Closed,Call center,14.9,Repair crew,Residential
+S4-TK-01608,2026-08-19,2026-08,Gullele,Pipe leak,Medium,Closed,Mobile app,7.4,Customer service,Residential
+S4-TK-01609,2026-01-04,2026-01,Gullele,Meter issue,Medium,Closed,Field report,20.9,Network team,Commercial
+S4-TK-01610,2026-06-06,2026-06,Kolfe Keranio,Pipe leak,Low,Closed,Field report,43.3,Network team,Residential
+S4-TK-01611,2026-04-08,2026-04,Gullele,Meter issue,Medium,Closed,Mobile app,36.4,Network team,Residential
+S4-TK-01612,2026-08-03,2026-08,Addis Ketema,Burst main,High,Closed,Call center,16.6,Network team,Residential
+S4-TK-01613,2026-01-18,2026-01,Nifas Silk-Lafto,Low pressure,High,Closed,Call center,28.7,Network team,Residential
+S4-TK-01614,2026-03-23,2026-03,Akaki Kality,Meter issue,Low,Open,Call center,,Repair crew,Residential
+S4-TK-01615,2026-06-12,2026-06,Akaki Kality,Pipe leak,Low,Closed,Call center,46.3,Repair crew,Residential
+S4-TK-01616,2026-05-03,2026-05,Kolfe Keranio,Valve failure,Low,Closed,Mobile app,32.5,Customer service,Residential
+S4-TK-01617,2026-06-23,2026-06,Kolfe Keranio,Pipe leak,Low,Closed,Mobile app,17.6,Network team,Commercial
+S4-TK-01618,2026-09-27,2026-09,Nifas Silk-Lafto,Pipe leak,Medium,Closed,Field report,21,Network team,Residential
+S4-TK-01619,2026-03-24,2026-03,Gullele,Pipe leak,Medium,Closed,Call center,25.7,Network team,Residential
+S4-TK-01620,2026-05-24,2026-05,Gullele,Meter issue,Medium,Closed,Call center,20.2,Repair crew,Residential
+S4-TK-01621,2026-06-20,2026-06,Bole,Pipe leak,Medium,Closed,Walk-in,9,Customer service,Residential
+S4-TK-01622,2026-02-17,2026-02,Akaki Kality,Burst main,High,Escalated,Mobile app,,Repair crew,Residential
+S4-TK-01623,2026-05-29,2026-05,Kirkos,Burst main,High,Closed,Call center,10.8,Repair crew,Institutional
+S4-TK-01624,2026-06-05,2026-06,Bole,Pipe leak,Medium,Closed,Walk-in,21.9,Repair crew,Residential
+S4-TK-01625,2026-07-13,2026-07,Bole,Valve failure,Medium,Open,Mobile app,,Network team,Residential
+S4-TK-01626,2026-09-25,2026-09,Kirkos,Burst main,High,Closed,Call center,35.4,Customer service,Residential
+S4-TK-01627,2026-07-03,2026-07,Akaki Kality,Pipe leak,Medium,Closed,Field report,58.6,Customer service,Residential
+S4-TK-01628,2026-04-02,2026-04,Kirkos,Valve failure,Low,Closed,Field report,20.9,Repair crew,Residential
+S4-TK-01629,2026-09-10,2026-09,Akaki Kality,Meter issue,Medium,Closed,Call center,22.2,Network team,Residential
+S4-TK-01630,2026-08-06,2026-08,Arada,Low pressure,High,Closed,Mobile app,41.7,Customer service,Institutional
+S4-TK-01631,2026-06-13,2026-06,Bole,Valve failure,Medium,Open,Field report,,Repair crew,Institutional
+S4-TK-01632,2026-06-15,2026-06,Kolfe Keranio,Burst main,High,Closed,Mobile app,14.5,Network team,Residential
+S4-TK-01633,2026-07-04,2026-07,Bole,Low pressure,High,Closed,Mobile app,29.9,Network team,Commercial
+S4-TK-01634,2026-08-23,2026-08,Bole,Pipe leak,Medium,Closed,Mobile app,41.7,Repair crew,Residential
+S4-TK-01635,2026-03-01,2026-03,Nifas Silk-Lafto,Pipe leak,Low,Closed,Walk-in,23.3,Repair crew,Commercial
+S4-TK-01636,2026-03-17,2026-03,Bole,Low pressure,High,Closed,Walk-in,7.3,Repair crew,Residential
+S4-TK-01637,2026-07-06,2026-07,Addis Ketema,Low pressure,Medium,Closed,Call center,73,Repair crew,Residential
+S4-TK-01638,2026-08-16,2026-08,Kolfe Keranio,Valve failure,Low,Closed,Call center,32.5,Customer service,Commercial
+S4-TK-01639,2026-09-16,2026-09,Kirkos,Pipe leak,Medium,Closed,Field report,22.3,Network team,Commercial
+S4-TK-01640,2026-01-27,2026-01,Bole,Meter issue,Low,Closed,Walk-in,17.5,Network team,Residential
+S4-TK-01641,2026-06-11,2026-06,Akaki Kality,Meter issue,High,Closed,Mobile app,32.2,Network team,Residential
+S4-TK-01642,2026-05-31,2026-05,Kirkos,Low pressure,High,Closed,Field report,16.9,Repair crew,Residential
+S4-TK-01643,2026-07-14,2026-07,Arada,Burst main,Urgent,Closed,Field report,46.4,Repair crew,Residential
+S4-TK-01644,2026-01-10,2026-01,Kolfe Keranio,Meter issue,Medium,Closed,Call center,26,Network team,Residential
+S4-TK-01645,2026-05-12,2026-05,Bole,Pipe leak,Medium,Closed,Mobile app,54.7,Customer service,Residential
+S4-TK-01646,2026-08-11,2026-08,Akaki Kality,Low pressure,High,Closed,Walk-in,7.4,Repair crew,Residential
+S4-TK-01647,2026-04-12,2026-04,Arada,Low pressure,Medium,Open,Call center,,Repair crew,Residential
+S4-TK-01648,2026-06-22,2026-06,Addis Ketema,Low pressure,Medium,Closed,Call center,42.4,Network team,Residential
+S4-TK-01649,2026-05-18,2026-05,Arada,Water quality,High,Open,Walk-in,,Network team,Commercial
+S4-TK-01650,2026-04-03,2026-04,Kolfe Keranio,Low pressure,Medium,Escalated,Mobile app,,Repair crew,Residential
+S4-TK-01651,2026-09-18,2026-09,Gullele,Meter issue,Medium,Closed,Call center,16.6,Network team,Residential
+S4-TK-01652,2026-08-23,2026-08,Kirkos,Valve failure,High,Escalated,Call center,,Customer service,Commercial
+S4-TK-01653,2026-07-28,2026-07,Nifas Silk-Lafto,Low pressure,High,Closed,Mobile app,31.6,Network team,Residential
+S4-TK-01654,2026-08-20,2026-08,Gullele,Low pressure,Medium,Closed,Call center,23.2,Repair crew,Residential
+S4-TK-01655,2026-03-28,2026-03,Bole,Pipe leak,Medium,Escalated,Field report,,Customer service,Residential
+S4-TK-01656,2026-03-05,2026-03,Arada,Pipe leak,Medium,Closed,Walk-in,23.9,Repair crew,Residential
+S4-TK-01657,2026-09-14,2026-09,Kirkos,Valve failure,Medium,Closed,Walk-in,25.8,Network team,Residential
+S4-TK-01658,2026-06-11,2026-06,Gullele,Pipe leak,High,Closed,Mobile app,48.9,Network team,Institutional
+S4-TK-01659,2026-01-17,2026-01,Gullele,Pipe leak,Medium,Closed,Mobile app,33.9,Network team,Residential
+S4-TK-01660,2026-02-28,2026-02,Nifas Silk-Lafto,Low pressure,Low,Escalated,Mobile app,,Network team,Residential
+S4-TK-01661,2026-02-14,2026-02,Kirkos,Valve failure,High,Open,Call center,,Repair crew,Residential
+S4-TK-01662,2026-07-29,2026-07,Nifas Silk-Lafto,Burst main,High,Closed,Mobile app,68.1,Repair crew,Institutional
+S4-TK-01663,2026-05-22,2026-05,Nifas Silk-Lafto,Pipe leak,High,Closed,Call center,36.4,Network team,Residential
+S4-TK-01664,2026-04-25,2026-04,Kolfe Keranio,Low pressure,High,Closed,Walk-in,27.4,Repair crew,Institutional
+S4-TK-01665,2026-04-12,2026-04,Addis Ketema,Low pressure,High,Closed,Call center,11.9,Repair crew,Residential
+S4-TK-01666,2026-07-13,2026-07,Akaki Kality,Low pressure,Low,Closed,Field report,36.8,Repair crew,Residential
+S4-TK-01667,2026-08-01,2026-08,Addis Ketema,Pipe leak,Medium,Escalated,Field report,,Network team,Commercial
+S4-TK-01668,2026-01-01,2026-01,Addis Ketema,Burst main,Urgent,Escalated,Field report,,Customer service,Residential
+S4-TK-01669,2026-07-24,2026-07,Akaki Kality,Pipe leak,High,Closed,Field report,27.8,Repair crew,Residential
+S4-TK-01670,2026-05-19,2026-05,Arada,Low pressure,Medium,Closed,Call center,7.4,Network team,Residential
+S4-TK-01671,2026-03-23,2026-03,Kirkos,Low pressure,Medium,Closed,Walk-in,40.7,Network team,Residential
+S4-TK-01672,2026-02-17,2026-02,Bole,Low pressure,Medium,Closed,Call center,2.3,Network team,Residential
+S4-TK-01673,2026-07-28,2026-07,Akaki Kality,Low pressure,Medium,Closed,Mobile app,28.8,Customer service,Residential
+S4-TK-01674,2026-05-01,2026-05,Addis Ketema,Low pressure,Medium,Open,Field report,,Network team,Residential
+S4-TK-01675,2026-08-22,2026-08,Gullele,Water quality,High,Closed,Walk-in,45.2,Repair crew,Commercial
+S4-TK-01676,2026-01-27,2026-01,Nifas Silk-Lafto,Low pressure,Low,Closed,Field report,35.3,Repair crew,Residential
+S4-TK-01677,2026-08-19,2026-08,Nifas Silk-Lafto,Water quality,Urgent,Closed,Field report,12.3,Network team,Residential
+S4-TK-01678,2026-03-13,2026-03,Bole,Low pressure,Medium,Closed,Call center,5.6,Customer service,Residential
+S4-TK-01679,2026-03-04,2026-03,Addis Ketema,Pipe leak,Low,Escalated,Call center,,Repair crew,Residential
+S4-TK-01680,2026-05-22,2026-05,Kolfe Keranio,Low pressure,Medium,Closed,Call center,40.9,Repair crew,Residential
+S4-TK-01681,2026-06-12,2026-06,Addis Ketema,Low pressure,Medium,Closed,Call center,10.8,Repair crew,Commercial
+S4-TK-01682,2026-09-14,2026-09,Gullele,Low pressure,Medium,Open,Field report,,Repair crew,Institutional
+S4-TK-01683,2026-04-28,2026-04,Nifas Silk-Lafto,Pipe leak,Medium,Closed,Call center,2.1,Network team,Residential
+S4-TK-01684,2026-03-01,2026-03,Kirkos,Pipe leak,Medium,Closed,Mobile app,34.2,Repair crew,Residential
+S4-TK-01685,2026-06-30,2026-06,Gullele,Low pressure,Medium,Open,Mobile app,,Network team,Residential
+S4-TK-01686,2026-04-03,2026-04,Kirkos,Pipe leak,High,Closed,Walk-in,47.5,Repair crew,Commercial
+S4-TK-01687,2026-06-30,2026-06,Kirkos,Pipe leak,Medium,Closed,Call center,27.2,Customer service,Residential
+S4-TK-01688,2026-06-09,2026-06,Kolfe Keranio,Low pressure,Medium,Open,Mobile app,,Repair crew,Residential
+S4-TK-01689,2026-08-12,2026-08,Nifas Silk-Lafto,Low pressure,High,Closed,Mobile app,25.4,Network team,Institutional
+S4-TK-01690,2026-06-10,2026-06,Kolfe Keranio,Valve failure,Medium,Closed,Mobile app,32.4,Repair crew,Residential
+S4-TK-01691,2026-03-17,2026-03,Gullele,Pipe leak,Low,Open,Call center,,Network team,Residential
+S4-TK-01692,2026-01-17,2026-01,Addis Ketema,Pipe leak,Low,Closed,Mobile app,117.8,Repair crew,Residential
+S4-TK-01693,2026-09-04,2026-09,Addis Ketema,Meter issue,Medium,Escalated,Call center,,Network team,Residential
+S4-TK-01694,2026-04-28,2026-04,Gullele,Pipe leak,Medium,Closed,Call center,9.6,Repair crew,Residential
+S4-TK-01695,2026-08-18,2026-08,Kolfe Keranio,Valve failure,Medium,Closed,Call center,4.2,Repair crew,Residential
+S4-TK-01696,2026-04-07,2026-04,Nifas Silk-Lafto,Burst main,Urgent,Closed,Call center,0.5,Network team,Residential
+S4-TK-01697,2026-06-08,2026-06,Kolfe Keranio,Pipe leak,High,Closed,Walk-in,17.6,Customer service,Commercial
+S4-TK-01698,2026-07-08,2026-07,Gullele,Meter issue,Medium,Escalated,Field report,,Repair crew,Residential
+S4-TK-01699,2026-07-12,2026-07,Gullele,Low pressure,High,Closed,Walk-in,20,Repair crew,Commercial
+S4-TK-01700,2026-06-22,2026-06,Bole,Valve failure,High,Closed,Call center,73.1,Customer service,Residential
+S4-TK-01701,2026-03-10,2026-03,Akaki Kality,Meter issue,Medium,Open,Call center,,Repair crew,Residential
+S4-TK-01702,2026-02-07,2026-02,Kirkos,Pipe leak,High,Closed,Call center,37.1,Network team,Institutional
+S4-TK-01703,2026-03-08,2026-03,Addis Ketema,Pipe leak,Low,Closed,Walk-in,43.9,Repair crew,Residential
+S4-TK-01704,2026-04-20,2026-04,Kolfe Keranio,Valve failure,Low,Closed,Call center,50.6,Repair crew,Residential
+S4-TK-01705,2026-03-29,2026-03,Kirkos,Valve failure,High,Closed,Mobile app,67.8,Network team,Commercial
+S4-TK-01706,2026-05-29,2026-05,Kirkos,Meter issue,High,Closed,Mobile app,34.6,Repair crew,Residential
+S4-TK-01707,2026-09-10,2026-09,Kolfe Keranio,Pipe leak,Low,Closed,Walk-in,38.6,Customer service,Residential
+S4-TK-01708,2026-03-21,2026-03,Bole,Pipe leak,Low,Escalated,Mobile app,,Network team,Residential
+S4-TK-01709,2026-08-06,2026-08,Kirkos,Pipe leak,Medium,Closed,Call center,27.7,Repair crew,Residential
+S4-TK-01710,2026-06-18,2026-06,Kirkos,Pipe leak,Low,Closed,Call center,21,Repair crew,Residential
+S4-TK-01711,2026-02-06,2026-02,Gullele,Low pressure,Medium,Closed,Call center,71.7,Repair crew,Institutional
+S4-TK-01712,2026-02-03,2026-02,Addis Ketema,Pipe leak,Low,Open,Call center,,Repair crew,Residential
+S4-TK-01713,2026-09-16,2026-09,Arada,Water quality,Urgent,Closed,Mobile app,27.9,Repair crew,Residential
+S4-TK-01714,2026-07-29,2026-07,Kolfe Keranio,Meter issue,Medium,Closed,Field report,29.7,Network team,Commercial
+S4-TK-01715,2026-02-13,2026-02,Addis Ketema,Pipe leak,Medium,Closed,Mobile app,16.7,Network team,Residential
+S4-TK-01716,2026-09-18,2026-09,Arada,Low pressure,Medium,Closed,Walk-in,47.9,Repair crew,Residential
+S4-TK-01717,2026-01-17,2026-01,Bole,Pipe leak,Medium,Closed,Mobile app,7.8,Network team,Commercial
+S4-TK-01718,2026-01-16,2026-01,Kirkos,Burst main,High,Closed,Mobile app,32.9,Repair crew,Residential
+S4-TK-01719,2026-08-09,2026-08,Gullele,Low pressure,Low,Closed,Call center,14,Repair crew,Institutional
+S4-TK-01720,2026-07-02,2026-07,Bole,Pipe leak,Medium,Closed,Call center,58.6,Repair crew,Residential
+S4-TK-01721,2026-01-31,2026-01,Bole,Low pressure,Medium,Open,Mobile app,,Network team,Residential
+S4-TK-01722,2026-03-01,2026-03,Bole,Pipe leak,Medium,Closed,Walk-in,9.8,Repair crew,Commercial
+S4-TK-01723,2026-01-28,2026-01,Bole,Meter issue,Low,Open,Mobile app,,Repair crew,Residential
+S4-TK-01724,2026-01-03,2026-01,Akaki Kality,Meter issue,Medium,Open,Call center,,Customer service,Residential
+S4-TK-01725,2026-04-09,2026-04,Akaki Kality,Pipe leak,Medium,Open,Mobile app,,Network team,Residential
+S4-TK-01726,2026-08-12,2026-08,Addis Ketema,Pipe leak,High,Closed,Call center,27.6,Repair crew,Residential
+S4-TK-01727,2026-03-02,2026-03,Kirkos,Meter issue,Medium,Closed,Walk-in,40.8,Network team,Residential
+S4-TK-01728,2026-01-11,2026-01,Kolfe Keranio,Water quality,High,Closed,Call center,37.3,Repair crew,Institutional
+S4-TK-01729,2026-09-14,2026-09,Arada,Water quality,High,Open,Walk-in,,Repair crew,Residential
+S4-TK-01730,2026-07-15,2026-07,Addis Ketema,Low pressure,Medium,Closed,Call center,35,Repair crew,Residential
+S4-TK-01731,2026-08-08,2026-08,Bole,Valve failure,Medium,Open,Mobile app,,Customer service,Residential
+S4-TK-01732,2026-04-30,2026-04,Kirkos,Valve failure,High,Open,Mobile app,,Repair crew,Residential
+S4-TK-01733,2026-01-18,2026-01,Nifas Silk-Lafto,Low pressure,Medium,Closed,Walk-in,31.4,Repair crew,Residential
+S4-TK-01734,2026-08-21,2026-08,Arada,Burst main,Urgent,Closed,Field report,9.9,Network team,Residential
+S4-TK-01735,2026-01-24,2026-01,Kolfe Keranio,Pipe leak,Low,Closed,Call center,9.7,Network team,Residential
+S4-TK-01736,2026-01-02,2026-01,Kirkos,Low pressure,High,Closed,Walk-in,33.2,Network team,Residential
+S4-TK-01737,2026-01-20,2026-01,Addis Ketema,Valve failure,Medium,Closed,Walk-in,35.4,Customer service,Residential
+S4-TK-01738,2026-08-12,2026-08,Kirkos,Valve failure,Medium,Closed,Call center,5.8,Repair crew,Residential
+S4-TK-01739,2026-08-20,2026-08,Arada,Pipe leak,High,Open,Mobile app,,Customer service,Residential
+S4-TK-01740,2026-07-30,2026-07,Akaki Kality,Low pressure,Medium,Closed,Call center,19.4,Repair crew,Residential
+S4-TK-01741,2026-05-16,2026-05,Addis Ketema,Pipe leak,Medium,Closed,Call center,45.2,Repair crew,Commercial
+S4-TK-01742,2026-04-21,2026-04,Kolfe Keranio,Pipe leak,Medium,Closed,Mobile app,14.9,Customer service,Residential
+S4-TK-01743,2026-09-28,2026-09,Kolfe Keranio,Pipe leak,Medium,Closed,Call center,26.2,Customer service,Residential
+S4-TK-01744,2026-08-04,2026-08,Akaki Kality,Pipe leak,Low,Closed,Field report,48.8,Network team,Residential
+S4-TK-01745,2026-02-28,2026-02,Bole,Pipe leak,Medium,Closed,Call center,45.1,Repair crew,Institutional
+S4-TK-01746,2026-03-19,2026-03,Akaki Kality,Low pressure,Medium,Closed,Mobile app,46.3,Network team,Residential
+S4-TK-01747,2026-05-09,2026-05,Arada,Valve failure,Medium,Closed,Walk-in,14.7,Network team,Residential
+S4-TK-01748,2026-09-10,2026-09,Addis Ketema,Water quality,Urgent,Closed,Call center,7.3,Network team,Residential
+S4-TK-01749,2026-04-20,2026-04,Bole,Meter issue,Medium,Closed,Walk-in,23.4,Repair crew,Residential
+S4-TK-01750,2026-05-29,2026-05,Kirkos,Low pressure,Medium,Closed,Call center,30.8,Repair crew,Residential
+S4-TK-01751,2026-03-14,2026-03,Bole,Pipe leak,Medium,Open,Walk-in,,Network team,Residential
+S4-TK-01752,2026-03-15,2026-03,Kolfe Keranio,Burst main,High,Closed,Call center,35.4,Network team,Institutional
+S4-TK-01753,2026-01-25,2026-01,Kolfe Keranio,Low pressure,High,Open,Call center,,Customer service,Residential
+S4-TK-01754,2026-03-08,2026-03,Addis Ketema,Pipe leak,Medium,Closed,Walk-in,19.5,Repair crew,Residential
+S4-TK-01755,2026-02-15,2026-02,Gullele,Meter issue,Medium,Closed,Walk-in,22.1,Repair crew,Residential
+S4-TK-01756,2026-07-03,2026-07,Kirkos,Burst main,Urgent,Escalated,Field report,,Network team,Commercial
+S4-TK-01757,2026-06-08,2026-06,Nifas Silk-Lafto,Pipe leak,Low,Closed,Field report,22.9,Repair crew,Commercial
+S4-TK-01758,2026-06-08,2026-06,Gullele,Valve failure,High,Closed,Call center,37.9,Customer service,Residential
+S4-TK-01759,2026-06-03,2026-06,Arada,Low pressure,Medium,Closed,Walk-in,49.1,Repair crew,Residential
+S4-TK-01760,2026-03-11,2026-03,Nifas Silk-Lafto,Burst main,High,Closed,Mobile app,31.6,Repair crew,Residential
+S4-TK-01761,2026-01-22,2026-01,Arada,Pipe leak,Medium,Closed,Call center,15.2,Repair crew,Residential
+S4-TK-01762,2026-06-04,2026-06,Gullele,Pipe leak,High,Escalated,Mobile app,,Repair crew,Commercial
+S4-TK-01763,2026-05-04,2026-05,Kirkos,Low pressure,High,Closed,Mobile app,27.5,Repair crew,Commercial
+S4-TK-01764,2026-03-21,2026-03,Kolfe Keranio,Pipe leak,Medium,Closed,Walk-in,33,Network team,Residential
+S4-TK-01765,2026-04-15,2026-04,Bole,Pipe leak,Medium,Open,Call center,,Network team,Residential
+S4-TK-01766,2026-09-08,2026-09,Bole,Pipe leak,Low,Closed,Field report,22.1,Repair crew,Residential
+S4-TK-01767,2026-08-20,2026-08,Kolfe Keranio,Pipe leak,Medium,Open,Call center,,Customer service,Residential
+S4-TK-01768,2026-01-11,2026-01,Bole,Burst main,High,Closed,Call center,59.3,Repair crew,Residential
+S4-TK-01769,2026-03-31,2026-03,Arada,Pipe leak,Medium,Open,Call center,,Repair crew,Residential
+S4-TK-01770,2026-03-18,2026-03,Akaki Kality,Burst main,High,Open,Walk-in,,Network team,Commercial
+S4-TK-01771,2026-06-17,2026-06,Addis Ketema,Pipe leak,High,Closed,Call center,45.1,Repair crew,Residential
+S4-TK-01772,2026-03-27,2026-03,Kolfe Keranio,Meter issue,Medium,Closed,Walk-in,22.6,Repair crew,Residential
+S4-TK-01773,2026-08-13,2026-08,Kirkos,Pipe leak,Medium,Closed,Mobile app,8.6,Network team,Residential
+S4-TK-01774,2026-08-30,2026-08,Addis Ketema,Burst main,High,Closed,Mobile app,26.6,Repair crew,Residential
+S4-TK-01775,2026-04-04,2026-04,Akaki Kality,Low pressure,Medium,Closed,Mobile app,20.3,Customer service,Residential
+S4-TK-01776,2026-05-26,2026-05,Kirkos,Meter issue,Medium,Open,Call center,,Network team,Residential
+S4-TK-01777,2026-02-21,2026-02,Akaki Kality,Pipe leak,Medium,Closed,Call center,16.3,Repair crew,Commercial
+S4-TK-01778,2026-02-15,2026-02,Kirkos,Meter issue,Medium,Closed,Call center,32,Customer service,Residential
+S4-TK-01779,2026-09-01,2026-09,Kirkos,Valve failure,Medium,Closed,Walk-in,36.8,Repair crew,Residential
+S4-TK-01780,2026-08-15,2026-08,Kolfe Keranio,Valve failure,Medium,Closed,Call center,33.2,Network team,Residential
+S4-TK-01781,2026-05-09,2026-05,Kolfe Keranio,Low pressure,Low,Closed,Call center,10.6,Repair crew,Commercial
+S4-TK-01782,2026-07-09,2026-07,Bole,Low pressure,Low,Closed,Walk-in,33.8,Repair crew,Residential
+S4-TK-01783,2026-09-16,2026-09,Bole,Meter issue,Medium,Closed,Mobile app,79,Network team,Institutional
+S4-TK-01784,2026-02-07,2026-02,Bole,Meter issue,Medium,Closed,Call center,9.1,Network team,Residential
+S4-TK-01785,2026-02-03,2026-02,Kirkos,Low pressure,High,Closed,Mobile app,2.8,Customer service,Commercial
+S4-TK-01786,2026-04-04,2026-04,Akaki Kality,Pipe leak,Medium,Closed,Walk-in,9.2,Repair crew,Commercial
+S4-TK-01787,2026-09-12,2026-09,Arada,Valve failure,High,Closed,Call center,13.5,Network team,Residential
+S4-TK-01788,2026-03-01,2026-03,Gullele,Low pressure,Medium,Closed,Call center,4.6,Repair crew,Residential
+S4-TK-01789,2026-05-24,2026-05,Kirkos,Low pressure,Medium,Closed,Mobile app,7.7,Customer service,Residential
+S4-TK-01790,2026-08-08,2026-08,Kirkos,Valve failure,High,Closed,Field report,42.1,Repair crew,Residential
+S4-TK-01791,2026-02-24,2026-02,Akaki Kality,Burst main,Urgent,Closed,Walk-in,8.3,Customer service,Commercial
+S4-TK-01792,2026-07-02,2026-07,Nifas Silk-Lafto,Valve failure,Medium,Closed,Call center,34,Repair crew,Residential
+S4-TK-01793,2026-01-06,2026-01,Gullele,Low pressure,Medium,Closed,Call center,25.4,Customer service,Residential
+S4-TK-01794,2026-08-19,2026-08,Kirkos,Pipe leak,Medium,Open,Walk-in,,Repair crew,Residential
+S4-TK-01795,2026-08-20,2026-08,Kolfe Keranio,Low pressure,Low,Escalated,Field report,,Network team,Residential
+S4-TK-01796,2026-05-21,2026-05,Nifas Silk-Lafto,Burst main,Urgent,Closed,Call center,13.9,Customer service,Commercial
+S4-TK-01797,2026-08-30,2026-08,Nifas Silk-Lafto,Valve failure,Low,Open,Mobile app,,Network team,Residential
+S4-TK-01798,2026-06-08,2026-06,Kirkos,Low pressure,Medium,Closed,Call center,16.9,Repair crew,Residential
+S4-TK-01799,2026-01-04,2026-01,Arada,Meter issue,Medium,Closed,Mobile app,33.4,Network team,Commercial
+S4-TK-01800,2026-05-16,2026-05,Gullele,Valve failure,Medium,Closed,Mobile app,13.1,Customer service,Residential

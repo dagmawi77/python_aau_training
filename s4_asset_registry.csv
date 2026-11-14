@@ -1,0 +1,481 @@
+asset_id,zone,asset_type,installation_year,material,diameter_mm,condition_score,condition_band,criticality,inspection_due,replacement_value_etb
+S4-AS-0001,Bole,Valve,2009,HDPE,150,74,Good,Low,Later,5716218
+S4-AS-0002,Kolfe Keranio,Valve,2007,HDPE,150,52,Monitor,Medium,Later,4017550
+S4-AS-0003,Kirkos,Valve,2018,HDPE,400,60,Monitor,Medium,Overdue,1816648
+S4-AS-0004,Addis Ketema,Water main,2000,HDPE,100,67,Monitor,High,Later,1147666
+S4-AS-0005,Akaki Kality,Water main,1998,HDPE,400,21,Critical,Medium,Later,234798
+S4-AS-0006,Gullele,Reservoir,2019,Ductile iron,200,82,Good,Low,Later,7041412
+S4-AS-0007,Kolfe Keranio,Valve,2010,HDPE,200,88,Good,High,Later,5295617
+S4-AS-0008,Gullele,Valve,1997,Ductile iron,200,36,Critical,Low,Later,387877
+S4-AS-0009,Kolfe Keranio,Water main,2019,HDPE,100,73,Good,Medium,Later,6254030
+S4-AS-0010,Arada,Pressure regulator,2012,HDPE,400,83,Good,Low,Later,4424194
+S4-AS-0011,Gullele,Water main,2020,Ductile iron,200,70,Good,Low,Later,4331760
+S4-AS-0012,Nifas Silk-Lafto,Pressure regulator,1992,Steel,150,48,Monitor,Medium,Within 30 days,5627950
+S4-AS-0013,Kirkos,Reservoir,1989,Ductile iron,300,73,Good,Medium,Later,7312066
+S4-AS-0014,Kirkos,Pump station,2014,Ductile iron,150,95,Good,Low,Later,2896562
+S4-AS-0015,Kirkos,Water main,2009,Ductile iron,300,56,Monitor,High,Within 30 days,1277652
+S4-AS-0016,Gullele,Valve,1997,HDPE,500,55,Monitor,High,Later,2320052
+S4-AS-0017,Bole,Valve,1989,HDPE,300,44,Critical,High,Later,1671597
+S4-AS-0018,Akaki Kality,Water main,2012,HDPE,100,81,Good,Medium,Later,2455164
+S4-AS-0019,Addis Ketema,Water main,2016,HDPE,150,85,Good,Medium,Overdue,5115105
+S4-AS-0020,Nifas Silk-Lafto,Water main,2013,Steel,200,62,Monitor,Medium,Later,4045980
+S4-AS-0021,Nifas Silk-Lafto,Water main,1993,Ductile iron,250,61,Monitor,Medium,Within 30 days,7323666
+S4-AS-0022,Kirkos,Water main,1994,HDPE,300,58,Monitor,Medium,Overdue,4715426
+S4-AS-0023,Arada,Water main,2001,Ductile iron,500,54,Monitor,High,Within 30 days,1509092
+S4-AS-0024,Gullele,Water main,2009,HDPE,150,62,Monitor,Medium,Within 30 days,5324747
+S4-AS-0025,Bole,Pump station,1999,HDPE,100,81,Good,Medium,Overdue,209626
+S4-AS-0026,Addis Ketema,Valve,1988,Concrete,400,44,Critical,Medium,Later,4458450
+S4-AS-0027,Addis Ketema,Pump station,1996,HDPE,400,44,Critical,Medium,Later,2398652
+S4-AS-0028,Addis Ketema,Pump station,2015,HDPE,150,97,Good,High,Later,3387392
+S4-AS-0029,Akaki Kality,Reservoir,1990,HDPE,100,48,Monitor,Medium,Within 30 days,4269022
+S4-AS-0030,Kolfe Keranio,Valve,2006,Concrete,300,85,Good,Low,Later,5405103
+S4-AS-0031,Bole,Pump station,2015,Ductile iron,400,80,Good,High,Within 30 days,1518838
+S4-AS-0032,Kirkos,Pressure regulator,2020,HDPE,250,100,Good,Low,Later,622739
+S4-AS-0033,Kirkos,Pressure regulator,2015,HDPE,200,82,Good,High,Later,2003641
+S4-AS-0034,Gullele,Valve,2005,HDPE,500,56,Monitor,Medium,Later,4291132
+S4-AS-0035,Arada,Valve,1996,Steel,100,36,Critical,High,Later,3658952
+S4-AS-0036,Akaki Kality,Pump station,2012,Concrete,300,86,Good,High,Later,2488211
+S4-AS-0037,Akaki Kality,Pump station,2009,Steel,200,79,Good,Medium,Later,4827825
+S4-AS-0038,Arada,Pump station,2018,HDPE,100,100,Good,Low,Later,7283968
+S4-AS-0039,Bole,Valve,2015,Concrete,300,88,Good,Medium,Later,2858684
+S4-AS-0040,Arada,Valve,1992,Ductile iron,100,29,Critical,Medium,Later,1348907
+S4-AS-0041,Kirkos,Pressure regulator,1998,HDPE,150,52,Monitor,High,Within 30 days,5489862
+S4-AS-0042,Kirkos,Pump station,2014,Ductile iron,100,84,Good,Medium,Overdue,810545
+S4-AS-0043,Arada,Valve,2022,HDPE,500,89,Good,Medium,Overdue,1343854
+S4-AS-0044,Bole,Water main,2023,Ductile iron,100,100,Good,Medium,Later,6259317
+S4-AS-0045,Bole,Valve,2006,Concrete,100,86,Good,Low,Later,5927717
+S4-AS-0046,Nifas Silk-Lafto,Water main,2014,Ductile iron,250,77,Good,Medium,Within 30 days,1025752
+S4-AS-0047,Nifas Silk-Lafto,Water main,2008,HDPE,250,79,Good,Low,Later,3734020
+S4-AS-0048,Addis Ketema,Water main,1999,Ductile iron,150,67,Monitor,Low,Overdue,3126044
+S4-AS-0049,Addis Ketema,Water main,1997,Concrete,100,53,Monitor,Low,Within 30 days,4347573
+S4-AS-0050,Nifas Silk-Lafto,Valve,1997,Steel,150,57,Monitor,Low,Later,4961849
+S4-AS-0051,Gullele,Reservoir,2015,Ductile iron,150,64,Monitor,Low,Later,5821452
+S4-AS-0052,Kirkos,Valve,2014,HDPE,300,70,Good,High,Later,4872117
+S4-AS-0053,Gullele,Valve,2012,Ductile iron,500,63,Monitor,Low,Later,6926168
+S4-AS-0054,Bole,Water main,2021,HDPE,400,87,Good,Medium,Later,403111
+S4-AS-0055,Nifas Silk-Lafto,Water main,2012,Ductile iron,150,60,Monitor,Medium,Later,1063974
+S4-AS-0056,Arada,Water main,1995,Ductile iron,200,49,Monitor,Medium,Within 30 days,6862652
+S4-AS-0057,Arada,Valve,1989,Ductile iron,100,28,Critical,Medium,Within 30 days,3930663
+S4-AS-0058,Arada,Water main,2006,Ductile iron,400,83,Good,Low,Later,6780843
+S4-AS-0059,Arada,Valve,1992,HDPE,250,46,Monitor,High,Later,1876674
+S4-AS-0060,Kolfe Keranio,Water main,2003,Ductile iron,100,95,Good,Low,Later,4005216
+S4-AS-0061,Gullele,Water main,1997,Ductile iron,300,67,Monitor,Medium,Later,984915
+S4-AS-0062,Kirkos,Valve,1992,HDPE,300,33,Critical,Low,Later,3692548
+S4-AS-0063,Arada,Reservoir,1995,Ductile iron,500,73,Good,Medium,Later,6827495
+S4-AS-0064,Bole,Reservoir,2020,HDPE,250,70,Good,Medium,Within 30 days,5481745
+S4-AS-0065,Nifas Silk-Lafto,Pressure regulator,1999,Ductile iron,100,45,Monitor,High,Later,522542
+S4-AS-0066,Kolfe Keranio,Water main,2001,HDPE,200,71,Good,Medium,Within 30 days,3029162
+S4-AS-0067,Bole,Valve,2005,Concrete,150,61,Monitor,Medium,Overdue,6314851
+S4-AS-0068,Arada,Reservoir,2001,HDPE,400,69,Monitor,Medium,Overdue,6978848
+S4-AS-0069,Bole,Water main,2020,Ductile iron,300,88,Good,Low,Within 30 days,6913152
+S4-AS-0070,Gullele,Water main,2024,HDPE,300,97,Good,Medium,Within 30 days,2197191
+S4-AS-0071,Akaki Kality,Water main,2023,HDPE,250,85,Good,Medium,Later,5037964
+S4-AS-0072,Kolfe Keranio,Pump station,2016,Concrete,100,94,Good,High,Within 30 days,5958957
+S4-AS-0073,Nifas Silk-Lafto,Pump station,1989,HDPE,200,15,Critical,Medium,Within 30 days,2552081
+S4-AS-0074,Kolfe Keranio,Valve,1998,Ductile iron,300,42,Critical,High,Later,6606344
+S4-AS-0075,Nifas Silk-Lafto,Pressure regulator,2016,Ductile iron,200,100,Good,High,Later,4647735
+S4-AS-0076,Nifas Silk-Lafto,Valve,2006,Ductile iron,100,64,Monitor,High,Overdue,1373338
+S4-AS-0077,Gullele,Water main,2021,HDPE,400,100,Good,Low,Later,2858320
+S4-AS-0078,Akaki Kality,Pressure regulator,2018,HDPE,200,71,Good,Medium,Later,5878431
+S4-AS-0079,Nifas Silk-Lafto,Water main,2022,Ductile iron,200,86,Good,Medium,Later,2818682
+S4-AS-0080,Kolfe Keranio,Water main,1997,HDPE,100,59,Monitor,High,Later,5303813
+S4-AS-0081,Gullele,Pump station,1994,Ductile iron,400,46,Monitor,High,Later,1108621
+S4-AS-0082,Gullele,Water main,1996,HDPE,100,53,Monitor,Medium,Overdue,4011313
+S4-AS-0083,Akaki Kality,Water main,2013,HDPE,300,68,Monitor,High,Within 30 days,2308567
+S4-AS-0084,Gullele,Pressure regulator,2014,HDPE,500,87,Good,Medium,Within 30 days,6543761
+S4-AS-0085,Nifas Silk-Lafto,Valve,1998,Ductile iron,400,50,Monitor,Low,Overdue,5066444
+S4-AS-0086,Bole,Pump station,2015,HDPE,300,67,Monitor,Medium,Later,3145809
+S4-AS-0087,Nifas Silk-Lafto,Valve,2016,Steel,200,69,Monitor,Low,Later,851100
+S4-AS-0088,Addis Ketema,Valve,2000,HDPE,300,63,Monitor,Low,Overdue,3968334
+S4-AS-0089,Gullele,Water main,2004,Ductile iron,300,77,Good,Low,Within 30 days,3087424
+S4-AS-0090,Addis Ketema,Valve,2024,HDPE,150,61,Monitor,High,Later,539162
+S4-AS-0091,Kolfe Keranio,Valve,1991,Ductile iron,300,51,Monitor,Medium,Later,751020
+S4-AS-0092,Nifas Silk-Lafto,Valve,2016,Ductile iron,300,76,Good,High,Overdue,6762347
+S4-AS-0093,Bole,Reservoir,1998,HDPE,200,55,Monitor,High,Within 30 days,2277353
+S4-AS-0094,Gullele,Pressure regulator,2006,Ductile iron,300,61,Monitor,Medium,Later,1986872
+S4-AS-0095,Akaki Kality,Pressure regulator,2007,Ductile iron,150,73,Good,Medium,Within 30 days,7372399
+S4-AS-0096,Bole,Valve,1991,Ductile iron,500,54,Monitor,Low,Within 30 days,6868379
+S4-AS-0097,Gullele,Pressure regulator,2019,Steel,500,100,Good,Medium,Later,5191130
+S4-AS-0098,Kolfe Keranio,Pump station,1990,Ductile iron,400,49,Monitor,Medium,Later,3339322
+S4-AS-0099,Akaki Kality,Water main,1991,Concrete,400,24,Critical,Medium,Later,3260688
+S4-AS-0100,Bole,Valve,1994,HDPE,100,52,Monitor,High,Overdue,3061346
+S4-AS-0101,Nifas Silk-Lafto,Reservoir,1990,HDPE,400,15,Critical,Low,Overdue,2537195
+S4-AS-0102,Bole,Valve,2014,Steel,100,80,Good,Low,Later,3946909
+S4-AS-0103,Kirkos,Valve,2021,Ductile iron,150,93,Good,Medium,Later,4534881
+S4-AS-0104,Kirkos,Water main,2003,HDPE,100,51,Monitor,Medium,Later,2648739
+S4-AS-0105,Nifas Silk-Lafto,Valve,2000,Concrete,250,36,Critical,High,Later,2617366
+S4-AS-0106,Nifas Silk-Lafto,Water main,2002,Ductile iron,100,63,Monitor,Low,Later,4118800
+S4-AS-0107,Gullele,Valve,2011,Steel,150,92,Good,Medium,Later,2498314
+S4-AS-0108,Kirkos,Water main,2025,Ductile iron,300,82,Good,High,Within 30 days,6662853
+S4-AS-0109,Nifas Silk-Lafto,Valve,2023,Ductile iron,400,76,Good,Medium,Later,513412
+S4-AS-0110,Akaki Kality,Pressure regulator,1990,Ductile iron,200,56,Monitor,Medium,Within 30 days,4593631
+S4-AS-0111,Addis Ketema,Valve,1996,Steel,250,69,Monitor,Medium,Overdue,4866948
+S4-AS-0112,Kolfe Keranio,Pressure regulator,1993,Steel,300,50,Monitor,High,Later,5656586
+S4-AS-0113,Nifas Silk-Lafto,Valve,2015,Ductile iron,100,98,Good,Medium,Overdue,2079861
+S4-AS-0114,Nifas Silk-Lafto,Water main,2015,HDPE,100,97,Good,Medium,Later,4812653
+S4-AS-0115,Akaki Kality,Pressure regulator,2014,Concrete,300,81,Good,High,Later,6822482
+S4-AS-0116,Nifas Silk-Lafto,Water main,1988,Concrete,400,40,Critical,Medium,Overdue,4791043
+S4-AS-0117,Kirkos,Pump station,1992,Steel,150,71,Good,Medium,Overdue,3242497
+S4-AS-0118,Bole,Valve,2023,HDPE,100,90,Good,High,Later,210819
+S4-AS-0119,Addis Ketema,Water main,2008,HDPE,250,45,Monitor,Low,Later,5086856
+S4-AS-0120,Kolfe Keranio,Water main,2013,HDPE,300,97,Good,Medium,Later,4269667
+S4-AS-0121,Bole,Valve,2022,Ductile iron,100,85,Good,Medium,Later,1374954
+S4-AS-0122,Kolfe Keranio,Water main,2004,Ductile iron,300,63,Monitor,Low,Later,5614172
+S4-AS-0123,Bole,Valve,2005,Ductile iron,200,76,Good,Low,Within 30 days,7175099
+S4-AS-0124,Kolfe Keranio,Pump station,2022,HDPE,100,87,Good,Medium,Within 30 days,2877572
+S4-AS-0125,Bole,Reservoir,1993,Concrete,500,42,Critical,Low,Later,1030679
+S4-AS-0126,Nifas Silk-Lafto,Water main,2023,Ductile iron,400,78,Good,Low,Later,3508464
+S4-AS-0127,Akaki Kality,Pressure regulator,2013,Ductile iron,100,100,Good,High,Overdue,3056667
+S4-AS-0128,Addis Ketema,Water main,2001,Steel,500,70,Good,Medium,Later,1110808
+S4-AS-0129,Kirkos,Water main,1995,Ductile iron,400,35,Critical,Low,Within 30 days,3673414
+S4-AS-0130,Kirkos,Valve,1988,Ductile iron,100,51,Monitor,High,Overdue,6575907
+S4-AS-0131,Akaki Kality,Water main,2007,Ductile iron,500,78,Good,Medium,Later,845315
+S4-AS-0132,Bole,Water main,2008,HDPE,250,64,Monitor,Medium,Later,5789100
+S4-AS-0133,Bole,Water main,2024,Ductile iron,100,100,Good,High,Within 30 days,6886696
+S4-AS-0134,Bole,Valve,2007,Ductile iron,250,58,Monitor,Medium,Later,1195951
+S4-AS-0135,Arada,Valve,2008,Ductile iron,200,65,Monitor,High,Within 30 days,3906622
+S4-AS-0136,Bole,Water main,2020,Ductile iron,500,88,Good,High,Later,3130466
+S4-AS-0137,Nifas Silk-Lafto,Valve,1998,Steel,500,70,Good,Medium,Later,7487353
+S4-AS-0138,Kirkos,Valve,1996,Ductile iron,300,72,Good,High,Later,330399
+S4-AS-0139,Arada,Valve,2022,HDPE,250,100,Good,Medium,Within 30 days,2527131
+S4-AS-0140,Nifas Silk-Lafto,Water main,2025,Ductile iron,200,89,Good,Medium,Overdue,6309479
+S4-AS-0141,Kirkos,Valve,2019,Steel,250,74,Good,Medium,Later,1852268
+S4-AS-0142,Gullele,Pump station,2025,Concrete,100,74,Good,High,Later,3270059
+S4-AS-0143,Kolfe Keranio,Water main,2006,Ductile iron,200,79,Good,Medium,Overdue,3085616
+S4-AS-0144,Arada,Valve,2006,Steel,300,79,Good,Low,Later,5797419
+S4-AS-0145,Gullele,Reservoir,2018,Ductile iron,250,81,Good,Medium,Within 30 days,4611787
+S4-AS-0146,Gullele,Pump station,2021,HDPE,400,100,Good,Low,Later,5660880
+S4-AS-0147,Akaki Kality,Water main,2013,HDPE,400,79,Good,Low,Later,5934273
+S4-AS-0148,Arada,Water main,2020,HDPE,200,74,Good,High,Within 30 days,4993856
+S4-AS-0149,Arada,Valve,1989,Concrete,100,53,Monitor,High,Overdue,870304
+S4-AS-0150,Gullele,Valve,1998,Steel,400,59,Monitor,Medium,Later,257773
+S4-AS-0151,Bole,Water main,1990,HDPE,300,42,Critical,Low,Later,6532563
+S4-AS-0152,Bole,Pressure regulator,2011,Ductile iron,250,70,Good,Low,Overdue,6449441
+S4-AS-0153,Kirkos,Valve,1997,Steel,250,76,Good,High,Later,2004664
+S4-AS-0154,Bole,Water main,2001,Ductile iron,500,70,Good,Medium,Later,4712741
+S4-AS-0155,Nifas Silk-Lafto,Water main,1988,HDPE,500,52,Monitor,High,Later,4680967
+S4-AS-0156,Nifas Silk-Lafto,Water main,1994,HDPE,500,52,Monitor,Low,Within 30 days,4364464
+S4-AS-0157,Akaki Kality,Pump station,1992,HDPE,500,43,Critical,Medium,Later,3761620
+S4-AS-0158,Kirkos,Water main,2008,HDPE,250,95,Good,High,Overdue,6218582
+S4-AS-0159,Akaki Kality,Water main,2016,HDPE,200,72,Good,Medium,Within 30 days,6504750
+S4-AS-0160,Addis Ketema,Valve,2018,HDPE,400,61,Monitor,Low,Later,3677425
+S4-AS-0161,Kolfe Keranio,Pressure regulator,2007,Ductile iron,500,100,Good,Medium,Later,6032429
+S4-AS-0162,Arada,Water main,1992,HDPE,100,62,Monitor,High,Within 30 days,6079504
+S4-AS-0163,Gullele,Pressure regulator,2018,HDPE,100,84,Good,Medium,Overdue,2748947
+S4-AS-0164,Kolfe Keranio,Valve,2002,Concrete,150,67,Monitor,Low,Later,5619980
+S4-AS-0165,Nifas Silk-Lafto,Pressure regulator,2019,Ductile iron,500,73,Good,Medium,Later,5255193
+S4-AS-0166,Bole,Water main,2018,Ductile iron,100,91,Good,Low,Later,1096759
+S4-AS-0167,Kolfe Keranio,Water main,2025,HDPE,400,78,Good,Low,Later,4881099
+S4-AS-0168,Bole,Reservoir,2006,HDPE,400,80,Good,Medium,Overdue,4514143
+S4-AS-0169,Akaki Kality,Pump station,2003,Ductile iron,100,73,Good,High,Later,5114768
+S4-AS-0170,Akaki Kality,Pump station,2019,Concrete,200,81,Good,Medium,Later,6402375
+S4-AS-0171,Bole,Water main,2014,Ductile iron,300,97,Good,Medium,Later,3540602
+S4-AS-0172,Kolfe Keranio,Water main,2006,HDPE,150,75,Good,High,Overdue,4118631
+S4-AS-0173,Akaki Kality,Water main,2014,HDPE,200,85,Good,Medium,Later,2784936
+S4-AS-0174,Kirkos,Pressure regulator,1992,HDPE,250,32,Critical,High,Overdue,205658
+S4-AS-0175,Addis Ketema,Water main,2010,Ductile iron,300,74,Good,High,Later,6297358
+S4-AS-0176,Nifas Silk-Lafto,Pump station,2002,HDPE,100,77,Good,Low,Later,574625
+S4-AS-0177,Nifas Silk-Lafto,Valve,1990,Steel,200,56,Monitor,High,Within 30 days,5103974
+S4-AS-0178,Akaki Kality,Reservoir,2000,Ductile iron,300,73,Good,High,Within 30 days,5239023
+S4-AS-0179,Addis Ketema,Pump station,1991,HDPE,300,40,Critical,Medium,Within 30 days,416663
+S4-AS-0180,Kolfe Keranio,Water main,2011,Ductile iron,150,92,Good,Medium,Within 30 days,2770917
+S4-AS-0181,Kirkos,Water main,2009,HDPE,500,88,Good,Medium,Later,4340853
+S4-AS-0182,Akaki Kality,Water main,1997,Concrete,150,78,Good,Medium,Later,4284943
+S4-AS-0183,Bole,Pressure regulator,2022,HDPE,100,98,Good,Medium,Within 30 days,4313569
+S4-AS-0184,Bole,Valve,2023,Ductile iron,200,96,Good,Medium,Overdue,2897893
+S4-AS-0185,Akaki Kality,Water main,2011,Ductile iron,100,93,Good,Medium,Within 30 days,3729558
+S4-AS-0186,Kolfe Keranio,Valve,2006,Ductile iron,300,92,Good,Low,Later,6286738
+S4-AS-0187,Akaki Kality,Valve,2010,Steel,150,69,Monitor,High,Overdue,5790779
+S4-AS-0188,Kolfe Keranio,Water main,2006,Concrete,250,93,Good,High,Later,4448605
+S4-AS-0189,Akaki Kality,Pump station,2015,Ductile iron,150,81,Good,Low,Later,5541857
+S4-AS-0190,Bole,Pressure regulator,2012,Ductile iron,250,84,Good,Low,Later,1826855
+S4-AS-0191,Addis Ketema,Pressure regulator,2007,Concrete,300,61,Monitor,Low,Later,1652420
+S4-AS-0192,Kolfe Keranio,Valve,2000,HDPE,500,53,Monitor,Medium,Later,5896914
+S4-AS-0193,Addis Ketema,Water main,1990,HDPE,100,40,Critical,Medium,Within 30 days,7278408
+S4-AS-0194,Kolfe Keranio,Water main,1992,HDPE,150,30,Critical,Medium,Later,2099248
+S4-AS-0195,Gullele,Valve,2023,Steel,400,89,Good,High,Later,6640252
+S4-AS-0196,Kirkos,Water main,2011,Ductile iron,300,48,Monitor,Medium,Later,7477682
+S4-AS-0197,Bole,Valve,2021,Ductile iron,300,70,Good,High,Within 30 days,2942287
+S4-AS-0198,Bole,Pressure regulator,1996,HDPE,150,43,Critical,High,Later,4549369
+S4-AS-0199,Kolfe Keranio,Pressure regulator,2006,Ductile iron,200,47,Monitor,Low,Within 30 days,6484842
+S4-AS-0200,Addis Ketema,Water main,1996,Ductile iron,500,73,Good,Low,Later,6051738
+S4-AS-0201,Kolfe Keranio,Valve,1993,Ductile iron,500,53,Monitor,High,Later,1479337
+S4-AS-0202,Gullele,Valve,1997,HDPE,300,58,Monitor,Low,Overdue,5327190
+S4-AS-0203,Addis Ketema,Water main,2002,HDPE,150,59,Monitor,Medium,Later,1610023
+S4-AS-0204,Kolfe Keranio,Valve,1995,Ductile iron,100,57,Monitor,Medium,Within 30 days,268304
+S4-AS-0205,Kirkos,Valve,2019,Concrete,250,100,Good,Low,Overdue,5920520
+S4-AS-0206,Kolfe Keranio,Valve,2009,Steel,100,83,Good,High,Later,747686
+S4-AS-0207,Akaki Kality,Water main,2025,Steel,400,90,Good,Medium,Later,3756513
+S4-AS-0208,Arada,Reservoir,2017,Ductile iron,100,98,Good,Medium,Later,1014927
+S4-AS-0209,Nifas Silk-Lafto,Valve,2013,HDPE,250,66,Monitor,Low,Within 30 days,4556297
+S4-AS-0210,Gullele,Water main,2019,Ductile iron,100,92,Good,Medium,Overdue,5144234
+S4-AS-0211,Nifas Silk-Lafto,Valve,1993,Concrete,200,56,Monitor,Medium,Later,3598818
+S4-AS-0212,Addis Ketema,Pump station,2010,HDPE,200,63,Monitor,High,Later,5853880
+S4-AS-0213,Nifas Silk-Lafto,Valve,2007,HDPE,300,65,Monitor,High,Within 30 days,4441447
+S4-AS-0214,Kolfe Keranio,Water main,2002,HDPE,100,55,Monitor,Medium,Later,6187110
+S4-AS-0215,Addis Ketema,Valve,2009,Ductile iron,200,81,Good,High,Within 30 days,5414248
+S4-AS-0216,Akaki Kality,Valve,2001,Ductile iron,400,29,Critical,Medium,Later,5269129
+S4-AS-0217,Addis Ketema,Pump station,1990,Steel,150,21,Critical,Low,Overdue,5441246
+S4-AS-0218,Addis Ketema,Valve,2001,HDPE,300,68,Monitor,Medium,Later,3612917
+S4-AS-0219,Gullele,Reservoir,2011,Ductile iron,500,60,Monitor,Medium,Overdue,1880729
+S4-AS-0220,Gullele,Water main,2011,Ductile iron,500,75,Good,Medium,Overdue,6624945
+S4-AS-0221,Kolfe Keranio,Pressure regulator,2023,Steel,400,100,Good,Low,Later,4917019
+S4-AS-0222,Kolfe Keranio,Water main,2016,Ductile iron,200,82,Good,Low,Later,2574709
+S4-AS-0223,Kolfe Keranio,Pump station,2024,HDPE,300,70,Good,Medium,Within 30 days,997857
+S4-AS-0224,Akaki Kality,Pump station,2022,HDPE,250,95,Good,Medium,Later,5782265
+S4-AS-0225,Addis Ketema,Pump station,1990,Ductile iron,500,31,Critical,Medium,Overdue,939633
+S4-AS-0226,Bole,Valve,2005,HDPE,400,80,Good,High,Later,3957185
+S4-AS-0227,Akaki Kality,Pump station,1993,Ductile iron,300,46,Monitor,Medium,Within 30 days,1296596
+S4-AS-0228,Akaki Kality,Valve,2020,Steel,150,75,Good,Medium,Later,6993314
+S4-AS-0229,Kirkos,Pressure regulator,2018,HDPE,200,98,Good,High,Later,2412558
+S4-AS-0230,Addis Ketema,Water main,2025,HDPE,400,79,Good,Low,Within 30 days,3899926
+S4-AS-0231,Kirkos,Valve,1996,Ductile iron,250,56,Monitor,Medium,Later,2146287
+S4-AS-0232,Kolfe Keranio,Reservoir,2010,Ductile iron,250,78,Good,Medium,Within 30 days,217054
+S4-AS-0233,Akaki Kality,Valve,2018,HDPE,100,83,Good,Medium,Later,3372143
+S4-AS-0234,Bole,Water main,1991,HDPE,300,20,Critical,Low,Overdue,3265674
+S4-AS-0235,Nifas Silk-Lafto,Pump station,2007,Ductile iron,100,64,Monitor,Low,Within 30 days,3054965
+S4-AS-0236,Nifas Silk-Lafto,Valve,2020,Concrete,500,93,Good,Medium,Within 30 days,1598779
+S4-AS-0237,Gullele,Water main,2000,Ductile iron,250,54,Monitor,Medium,Overdue,2013694
+S4-AS-0238,Gullele,Valve,2008,HDPE,250,59,Monitor,Low,Later,5979165
+S4-AS-0239,Kolfe Keranio,Pump station,1999,Ductile iron,500,88,Good,Medium,Overdue,3055216
+S4-AS-0240,Arada,Valve,2023,Ductile iron,200,100,Good,Medium,Within 30 days,464876
+S4-AS-0241,Akaki Kality,Water main,2004,Ductile iron,500,68,Monitor,Low,Later,3815208
+S4-AS-0242,Nifas Silk-Lafto,Water main,2007,Steel,500,79,Good,Low,Later,406003
+S4-AS-0243,Addis Ketema,Water main,2011,Steel,300,89,Good,Medium,Later,249975
+S4-AS-0244,Kirkos,Pump station,2019,HDPE,250,95,Good,Low,Later,3914072
+S4-AS-0245,Kolfe Keranio,Water main,2022,Ductile iron,100,73,Good,Low,Later,2196530
+S4-AS-0246,Nifas Silk-Lafto,Water main,2016,HDPE,100,62,Monitor,High,Later,4346207
+S4-AS-0247,Kirkos,Water main,2010,Steel,300,92,Good,Low,Later,3361276
+S4-AS-0248,Kolfe Keranio,Valve,2006,HDPE,500,69,Monitor,Medium,Within 30 days,2069898
+S4-AS-0249,Kolfe Keranio,Valve,2023,HDPE,400,100,Good,Medium,Within 30 days,1452657
+S4-AS-0250,Arada,Water main,1996,HDPE,500,62,Monitor,High,Later,1288379
+S4-AS-0251,Bole,Water main,2010,Ductile iron,100,100,Good,High,Later,6945180
+S4-AS-0252,Kirkos,Valve,2021,Ductile iron,200,100,Good,Low,Later,5166413
+S4-AS-0253,Bole,Water main,2009,HDPE,150,80,Good,High,Overdue,6066448
+S4-AS-0254,Addis Ketema,Valve,2004,Ductile iron,150,76,Good,Low,Within 30 days,6307385
+S4-AS-0255,Bole,Pump station,2016,Concrete,100,95,Good,Low,Overdue,3309823
+S4-AS-0256,Akaki Kality,Valve,2004,Ductile iron,100,53,Monitor,Medium,Later,2406972
+S4-AS-0257,Addis Ketema,Water main,2000,Ductile iron,250,66,Monitor,Low,Later,4241640
+S4-AS-0258,Nifas Silk-Lafto,Valve,2009,HDPE,250,69,Monitor,Low,Later,5809473
+S4-AS-0259,Kolfe Keranio,Valve,2018,HDPE,500,89,Good,High,Later,1339561
+S4-AS-0260,Nifas Silk-Lafto,Valve,1991,Ductile iron,100,74,Good,Medium,Later,7334031
+S4-AS-0261,Kirkos,Pressure regulator,2005,Steel,300,77,Good,Medium,Within 30 days,7058486
+S4-AS-0262,Nifas Silk-Lafto,Valve,1991,Ductile iron,100,58,Monitor,Medium,Later,1162822
+S4-AS-0263,Bole,Valve,2021,Ductile iron,250,100,Good,High,Overdue,4659660
+S4-AS-0264,Akaki Kality,Pressure regulator,2008,Ductile iron,150,81,Good,High,Later,4804695
+S4-AS-0265,Bole,Reservoir,2011,HDPE,250,81,Good,High,Later,2252809
+S4-AS-0266,Kirkos,Valve,1993,HDPE,150,65,Monitor,High,Later,1403793
+S4-AS-0267,Nifas Silk-Lafto,Valve,2015,HDPE,150,50,Monitor,Low,Within 30 days,3775245
+S4-AS-0268,Gullele,Valve,2017,HDPE,200,71,Good,Low,Later,544221
+S4-AS-0269,Kolfe Keranio,Pump station,1993,Ductile iron,250,23,Critical,Low,Overdue,4831004
+S4-AS-0270,Bole,Reservoir,2019,Ductile iron,400,78,Good,High,Overdue,3785077
+S4-AS-0271,Bole,Pump station,1991,HDPE,200,33,Critical,Medium,Later,2128829
+S4-AS-0272,Kolfe Keranio,Pressure regulator,2015,HDPE,250,100,Good,Medium,Later,2727581
+S4-AS-0273,Bole,Water main,2005,HDPE,250,70,Good,Medium,Within 30 days,2899488
+S4-AS-0274,Kolfe Keranio,Valve,2021,Ductile iron,400,93,Good,Medium,Later,3751092
+S4-AS-0275,Addis Ketema,Water main,2018,Steel,300,100,Good,Medium,Later,4165372
+S4-AS-0276,Arada,Valve,2011,Steel,200,79,Good,Medium,Within 30 days,6790403
+S4-AS-0277,Akaki Kality,Valve,2017,Ductile iron,300,72,Good,Medium,Later,1241710
+S4-AS-0278,Nifas Silk-Lafto,Reservoir,2012,Ductile iron,150,92,Good,Medium,Later,7064323
+S4-AS-0279,Kolfe Keranio,Valve,1992,HDPE,150,43,Critical,Low,Overdue,6533654
+S4-AS-0280,Kolfe Keranio,Valve,2000,Ductile iron,150,60,Monitor,Low,Later,260313
+S4-AS-0281,Kirkos,Valve,2007,Ductile iron,150,69,Monitor,High,Later,607990
+S4-AS-0282,Akaki Kality,Water main,2000,Ductile iron,200,60,Monitor,High,Overdue,7476809
+S4-AS-0283,Bole,Water main,2001,Ductile iron,500,36,Critical,High,Later,4070770
+S4-AS-0284,Kolfe Keranio,Water main,2021,HDPE,100,81,Good,Medium,Later,1906484
+S4-AS-0285,Gullele,Water main,2010,Concrete,300,66,Monitor,Medium,Overdue,1285839
+S4-AS-0286,Kolfe Keranio,Water main,2018,HDPE,150,82,Good,High,Later,4846589
+S4-AS-0287,Kolfe Keranio,Water main,2019,Steel,500,66,Monitor,Medium,Later,1008318
+S4-AS-0288,Kirkos,Pump station,2024,Ductile iron,100,100,Good,Low,Later,7232927
+S4-AS-0289,Kirkos,Water main,1988,HDPE,400,52,Monitor,Medium,Overdue,5273144
+S4-AS-0290,Nifas Silk-Lafto,Valve,2011,Ductile iron,150,64,Monitor,Medium,Later,1882317
+S4-AS-0291,Bole,Pump station,2006,HDPE,150,52,Monitor,Low,Later,788542
+S4-AS-0292,Addis Ketema,Valve,1998,HDPE,200,69,Monitor,Medium,Overdue,1587245
+S4-AS-0293,Kolfe Keranio,Water main,2009,Steel,500,99,Good,Medium,Later,1928801
+S4-AS-0294,Kirkos,Reservoir,1990,HDPE,250,41,Critical,Medium,Overdue,6085297
+S4-AS-0295,Nifas Silk-Lafto,Valve,2017,HDPE,250,88,Good,High,Overdue,7106205
+S4-AS-0296,Nifas Silk-Lafto,Pump station,1996,HDPE,100,57,Monitor,High,Later,1755286
+S4-AS-0297,Addis Ketema,Water main,2010,Concrete,200,93,Good,Medium,Later,4257283
+S4-AS-0298,Kolfe Keranio,Valve,2010,Ductile iron,100,78,Good,Medium,Overdue,4228686
+S4-AS-0299,Arada,Valve,1989,Steel,100,66,Monitor,Medium,Within 30 days,2524950
+S4-AS-0300,Kolfe Keranio,Water main,2024,HDPE,400,94,Good,High,Overdue,3901606
+S4-AS-0301,Nifas Silk-Lafto,Valve,1994,HDPE,200,45,Monitor,High,Later,3765729
+S4-AS-0302,Nifas Silk-Lafto,Water main,2007,HDPE,200,65,Monitor,Medium,Later,2894753
+S4-AS-0303,Kirkos,Pressure regulator,2005,Ductile iron,200,82,Good,Medium,Within 30 days,4248671
+S4-AS-0304,Kirkos,Pressure regulator,1989,Steel,150,37,Critical,Medium,Later,4447586
+S4-AS-0305,Addis Ketema,Valve,2006,HDPE,200,68,Monitor,Medium,Within 30 days,6639448
+S4-AS-0306,Nifas Silk-Lafto,Valve,2001,Ductile iron,200,52,Monitor,Low,Overdue,3463201
+S4-AS-0307,Gullele,Valve,2002,Ductile iron,250,52,Monitor,Low,Later,7156465
+S4-AS-0308,Addis Ketema,Water main,2000,Concrete,500,53,Monitor,Medium,Later,2515992
+S4-AS-0309,Gullele,Water main,2006,HDPE,100,59,Monitor,High,Within 30 days,1579803
+S4-AS-0310,Addis Ketema,Water main,1999,Ductile iron,400,58,Monitor,Low,Within 30 days,3389733
+S4-AS-0311,Nifas Silk-Lafto,Water main,2017,Ductile iron,500,69,Monitor,Medium,Later,2249068
+S4-AS-0312,Arada,Valve,2013,HDPE,500,58,Monitor,Low,Later,3355749
+S4-AS-0313,Gullele,Valve,1993,Concrete,250,49,Monitor,Medium,Overdue,5745262
+S4-AS-0314,Bole,Water main,1995,Ductile iron,150,70,Good,Low,Later,7060167
+S4-AS-0315,Bole,Water main,1995,Ductile iron,100,83,Good,Medium,Within 30 days,5414287
+S4-AS-0316,Akaki Kality,Reservoir,1997,Ductile iron,100,62,Monitor,Low,Within 30 days,5225064
+S4-AS-0317,Addis Ketema,Valve,2011,HDPE,500,82,Good,Low,Later,3454761
+S4-AS-0318,Kirkos,Pressure regulator,1997,Ductile iron,250,59,Monitor,Medium,Later,602409
+S4-AS-0319,Bole,Water main,2023,Concrete,250,100,Good,Medium,Within 30 days,1561179
+S4-AS-0320,Nifas Silk-Lafto,Valve,1988,Ductile iron,400,50,Monitor,Low,Overdue,4982818
+S4-AS-0321,Kolfe Keranio,Valve,1994,Steel,400,63,Monitor,High,Later,2559808
+S4-AS-0322,Nifas Silk-Lafto,Valve,2017,Ductile iron,250,97,Good,High,Later,7168664
+S4-AS-0323,Gullele,Pump station,2011,HDPE,150,62,Monitor,Medium,Within 30 days,1527194
+S4-AS-0324,Nifas Silk-Lafto,Water main,2004,Steel,100,77,Good,High,Later,5673575
+S4-AS-0325,Kolfe Keranio,Water main,2021,HDPE,250,99,Good,Medium,Later,995265
+S4-AS-0326,Addis Ketema,Reservoir,2008,Concrete,400,57,Monitor,High,Later,1675596
+S4-AS-0327,Nifas Silk-Lafto,Water main,2017,HDPE,500,100,Good,Low,Later,3274166
+S4-AS-0328,Gullele,Water main,1990,HDPE,150,28,Critical,Medium,Within 30 days,3949017
+S4-AS-0329,Nifas Silk-Lafto,Pressure regulator,2010,Steel,400,62,Monitor,Medium,Overdue,3224907
+S4-AS-0330,Bole,Pump station,2016,Concrete,100,92,Good,Medium,Later,7433633
+S4-AS-0331,Bole,Water main,1995,Ductile iron,250,46,Monitor,Medium,Later,5307916
+S4-AS-0332,Bole,Valve,2008,HDPE,200,81,Good,Medium,Later,1100151
+S4-AS-0333,Arada,Water main,1991,Ductile iron,250,68,Monitor,Medium,Within 30 days,364040
+S4-AS-0334,Gullele,Water main,2015,Ductile iron,200,91,Good,Medium,Within 30 days,5444857
+S4-AS-0335,Nifas Silk-Lafto,Valve,2008,HDPE,500,82,Good,High,Later,3160938
+S4-AS-0336,Arada,Pressure regulator,1995,Concrete,300,62,Monitor,Low,Later,5533120
+S4-AS-0337,Kolfe Keranio,Valve,2013,Concrete,100,88,Good,Medium,Overdue,6178742
+S4-AS-0338,Gullele,Water main,2017,Steel,200,87,Good,Low,Later,2283796
+S4-AS-0339,Bole,Valve,2018,Steel,150,89,Good,Medium,Overdue,4545510
+S4-AS-0340,Bole,Water main,2006,Ductile iron,100,77,Good,High,Overdue,7010341
+S4-AS-0341,Bole,Valve,2012,Ductile iron,200,73,Good,Low,Later,1110658
+S4-AS-0342,Kolfe Keranio,Reservoir,2001,Ductile iron,500,77,Good,Medium,Later,253802
+S4-AS-0343,Arada,Valve,2020,Steel,500,100,Good,Medium,Within 30 days,1841565
+S4-AS-0344,Nifas Silk-Lafto,Water main,2012,HDPE,200,74,Good,Low,Within 30 days,5727773
+S4-AS-0345,Kolfe Keranio,Valve,2005,HDPE,300,91,Good,Medium,Within 30 days,6444949
+S4-AS-0346,Akaki Kality,Valve,1993,Steel,150,54,Monitor,Medium,Within 30 days,6726051
+S4-AS-0347,Bole,Pump station,2009,HDPE,150,78,Good,Medium,Within 30 days,7439582
+S4-AS-0348,Kolfe Keranio,Reservoir,1993,HDPE,100,47,Monitor,High,Later,6609841
+S4-AS-0349,Kolfe Keranio,Water main,1999,Ductile iron,300,55,Monitor,High,Overdue,3635379
+S4-AS-0350,Nifas Silk-Lafto,Valve,2007,HDPE,400,75,Good,Low,Later,2624643
+S4-AS-0351,Addis Ketema,Pressure regulator,2016,Ductile iron,400,72,Good,Medium,Later,496902
+S4-AS-0352,Arada,Water main,1999,Steel,100,55,Monitor,Medium,Within 30 days,5287239
+S4-AS-0353,Akaki Kality,Valve,2016,HDPE,400,75,Good,Low,Within 30 days,3765470
+S4-AS-0354,Bole,Pump station,2009,Ductile iron,150,77,Good,Medium,Within 30 days,2505679
+S4-AS-0355,Gullele,Pressure regulator,2011,Ductile iron,200,66,Monitor,Medium,Later,369381
+S4-AS-0356,Akaki Kality,Pressure regulator,2004,Ductile iron,100,91,Good,Medium,Later,2028397
+S4-AS-0357,Akaki Kality,Pump station,2004,Ductile iron,250,72,Good,High,Within 30 days,1337712
+S4-AS-0358,Kolfe Keranio,Water main,2023,Concrete,400,99,Good,Medium,Later,3745106
+S4-AS-0359,Bole,Water main,1990,Concrete,400,42,Critical,High,Later,7084603
+S4-AS-0360,Kirkos,Pump station,2012,Steel,100,68,Monitor,Medium,Later,7220963
+S4-AS-0361,Arada,Water main,2002,Ductile iron,250,70,Good,Low,Later,1081960
+S4-AS-0362,Bole,Reservoir,2013,HDPE,500,50,Monitor,Low,Later,2524188
+S4-AS-0363,Kolfe Keranio,Water main,1997,Ductile iron,200,77,Good,High,Later,1071746
+S4-AS-0364,Kolfe Keranio,Water main,2019,Ductile iron,500,82,Good,Medium,Later,1292232
+S4-AS-0365,Bole,Pump station,2016,HDPE,400,82,Good,Medium,Later,5980188
+S4-AS-0366,Akaki Kality,Reservoir,1990,HDPE,400,69,Monitor,High,Later,5427591
+S4-AS-0367,Nifas Silk-Lafto,Valve,2016,HDPE,200,78,Good,High,Later,1771172
+S4-AS-0368,Bole,Pump station,1996,HDPE,100,74,Good,High,Overdue,6782802
+S4-AS-0369,Akaki Kality,Valve,2020,HDPE,200,76,Good,High,Within 30 days,3702359
+S4-AS-0370,Gullele,Water main,1999,HDPE,500,51,Monitor,Low,Later,6456202
+S4-AS-0371,Bole,Water main,1999,Ductile iron,250,71,Good,Medium,Within 30 days,4380558
+S4-AS-0372,Bole,Reservoir,2009,Ductile iron,150,100,Good,Medium,Overdue,5827421
+S4-AS-0373,Akaki Kality,Water main,2014,Concrete,100,90,Good,Low,Overdue,4796212
+S4-AS-0374,Gullele,Pressure regulator,1992,HDPE,500,56,Monitor,High,Later,4112604
+S4-AS-0375,Bole,Water main,2007,HDPE,500,81,Good,Medium,Later,3691359
+S4-AS-0376,Kolfe Keranio,Water main,2018,Concrete,500,71,Good,Low,Overdue,5509147
+S4-AS-0377,Arada,Valve,2008,HDPE,250,56,Monitor,Low,Later,2134413
+S4-AS-0378,Bole,Valve,2024,HDPE,300,100,Good,Low,Later,5281397
+S4-AS-0379,Akaki Kality,Water main,2003,HDPE,400,55,Monitor,High,Within 30 days,4355559
+S4-AS-0380,Gullele,Water main,2015,Ductile iron,200,67,Monitor,Low,Within 30 days,5474278
+S4-AS-0381,Bole,Reservoir,1993,Ductile iron,300,38,Critical,Medium,Later,4607682
+S4-AS-0382,Addis Ketema,Valve,1989,HDPE,400,52,Monitor,High,Later,5367053
+S4-AS-0383,Kolfe Keranio,Pressure regulator,1989,HDPE,400,66,Monitor,Low,Later,509292
+S4-AS-0384,Bole,Valve,1991,Ductile iron,300,40,Critical,Low,Later,7175621
+S4-AS-0385,Akaki Kality,Water main,2014,Steel,400,83,Good,Low,Later,4451414
+S4-AS-0386,Nifas Silk-Lafto,Valve,1993,Ductile iron,200,70,Good,Medium,Later,4067305
+S4-AS-0387,Nifas Silk-Lafto,Water main,2025,Ductile iron,100,73,Good,Medium,Later,2703970
+S4-AS-0388,Arada,Valve,2023,Ductile iron,150,78,Good,Medium,Later,3897289
+S4-AS-0389,Kolfe Keranio,Water main,2004,HDPE,300,50,Monitor,Medium,Within 30 days,6239794
+S4-AS-0390,Akaki Kality,Water main,2015,Ductile iron,150,79,Good,Medium,Later,833522
+S4-AS-0391,Nifas Silk-Lafto,Water main,1988,HDPE,400,36,Critical,High,Within 30 days,3511213
+S4-AS-0392,Bole,Pump station,1988,HDPE,250,44,Critical,Medium,Later,2713467
+S4-AS-0393,Bole,Water main,2021,Ductile iron,500,86,Good,High,Within 30 days,2109469
+S4-AS-0394,Gullele,Water main,2001,HDPE,300,39,Critical,Low,Later,2426360
+S4-AS-0395,Kolfe Keranio,Water main,2020,Ductile iron,150,100,Good,Low,Later,7157657
+S4-AS-0396,Bole,Water main,2014,HDPE,500,85,Good,High,Later,4396978
+S4-AS-0397,Kirkos,Water main,2023,HDPE,500,87,Good,High,Overdue,6865911
+S4-AS-0398,Arada,Pump station,2023,Ductile iron,300,82,Good,Medium,Within 30 days,730403
+S4-AS-0399,Kirkos,Valve,2001,Ductile iron,400,68,Monitor,Medium,Within 30 days,3393217
+S4-AS-0400,Akaki Kality,Water main,2016,HDPE,500,100,Good,High,Overdue,3031181
+S4-AS-0401,Gullele,Pressure regulator,2009,Steel,300,100,Good,Medium,Later,6757964
+S4-AS-0402,Nifas Silk-Lafto,Water main,1996,HDPE,500,75,Good,Medium,Later,7355730
+S4-AS-0403,Kolfe Keranio,Valve,1994,HDPE,250,62,Monitor,Medium,Later,5684647
+S4-AS-0404,Addis Ketema,Reservoir,2003,HDPE,300,69,Monitor,Medium,Later,1445881
+S4-AS-0405,Bole,Water main,1998,Ductile iron,400,64,Monitor,Medium,Later,6104946
+S4-AS-0406,Kirkos,Water main,2014,Ductile iron,400,100,Good,Medium,Later,6166961
+S4-AS-0407,Nifas Silk-Lafto,Water main,1991,HDPE,200,35,Critical,High,Within 30 days,6450324
+S4-AS-0408,Kolfe Keranio,Water main,1994,Ductile iron,300,54,Monitor,Medium,Later,5881163
+S4-AS-0409,Arada,Water main,2019,HDPE,200,84,Good,High,Within 30 days,5486693
+S4-AS-0410,Addis Ketema,Reservoir,2004,Ductile iron,250,67,Monitor,Medium,Within 30 days,3689874
+S4-AS-0411,Bole,Water main,2000,Ductile iron,150,60,Monitor,Low,Later,4860293
+S4-AS-0412,Addis Ketema,Valve,2010,Ductile iron,500,51,Monitor,Medium,Later,5357987
+S4-AS-0413,Gullele,Pump station,2023,HDPE,200,73,Good,Low,Overdue,5622910
+S4-AS-0414,Bole,Valve,1991,HDPE,100,44,Critical,Medium,Within 30 days,6612444
+S4-AS-0415,Nifas Silk-Lafto,Reservoir,2005,Ductile iron,150,74,Good,High,Overdue,3705600
+S4-AS-0416,Nifas Silk-Lafto,Water main,1993,Ductile iron,300,39,Critical,High,Later,3952779
+S4-AS-0417,Arada,Pump station,2001,Concrete,100,65,Monitor,Medium,Later,2852405
+S4-AS-0418,Akaki Kality,Water main,2022,Ductile iron,150,96,Good,High,Later,2743678
+S4-AS-0419,Gullele,Pressure regulator,2010,HDPE,400,42,Critical,High,Later,1325923
+S4-AS-0420,Bole,Water main,2010,HDPE,200,81,Good,Medium,Later,3746259
+S4-AS-0421,Bole,Water main,2009,HDPE,300,79,Good,Low,Later,2479477
+S4-AS-0422,Nifas Silk-Lafto,Pressure regulator,2017,Steel,400,100,Good,Low,Within 30 days,1087122
+S4-AS-0423,Gullele,Reservoir,1999,Concrete,500,52,Monitor,Low,Later,4825562
+S4-AS-0424,Gullele,Pressure regulator,2019,Ductile iron,500,78,Good,Medium,Later,611383
+S4-AS-0425,Akaki Kality,Valve,2018,HDPE,500,100,Good,Low,Within 30 days,4371418
+S4-AS-0426,Addis Ketema,Valve,1988,Ductile iron,200,18,Critical,Medium,Within 30 days,708872
+S4-AS-0427,Bole,Valve,1995,Ductile iron,500,32,Critical,Medium,Within 30 days,2740983
+S4-AS-0428,Arada,Water main,2011,Steel,400,70,Good,Low,Overdue,5125674
+S4-AS-0429,Addis Ketema,Water main,2021,Ductile iron,300,83,Good,Medium,Later,2689312
+S4-AS-0430,Akaki Kality,Water main,2010,Ductile iron,100,80,Good,Medium,Overdue,2712153
+S4-AS-0431,Kolfe Keranio,Valve,2016,Concrete,150,96,Good,High,Within 30 days,2518175
+S4-AS-0432,Kolfe Keranio,Water main,1991,Ductile iron,150,79,Good,Medium,Later,6801220
+S4-AS-0433,Bole,Valve,1994,Ductile iron,100,43,Critical,High,Later,1412721
+S4-AS-0434,Bole,Valve,2014,Ductile iron,250,93,Good,Medium,Later,2928431
+S4-AS-0435,Bole,Reservoir,1992,Ductile iron,400,15,Critical,Low,Within 30 days,6584355
+S4-AS-0436,Gullele,Water main,2002,HDPE,400,61,Monitor,Medium,Later,6151070
+S4-AS-0437,Akaki Kality,Water main,1997,HDPE,200,64,Monitor,Medium,Overdue,6409964
+S4-AS-0438,Nifas Silk-Lafto,Valve,2025,Ductile iron,100,100,Good,High,Overdue,2163912
+S4-AS-0439,Kirkos,Pump station,2022,Ductile iron,300,76,Good,Medium,Overdue,2118960
+S4-AS-0440,Kolfe Keranio,Pressure regulator,1992,Ductile iron,300,62,Monitor,Medium,Later,3446348
+S4-AS-0441,Akaki Kality,Water main,1997,Ductile iron,100,67,Monitor,High,Later,1211274
+S4-AS-0442,Kirkos,Water main,2010,HDPE,400,73,Good,Low,Within 30 days,1922812
+S4-AS-0443,Kirkos,Reservoir,1996,HDPE,500,77,Good,Low,Later,6698931
+S4-AS-0444,Bole,Water main,2019,Ductile iron,200,78,Good,Low,Overdue,2004890
+S4-AS-0445,Addis Ketema,Pressure regulator,2002,Steel,250,81,Good,High,Later,5548491
+S4-AS-0446,Kirkos,Water main,2012,Ductile iron,400,75,Good,Medium,Within 30 days,508845
+S4-AS-0447,Kolfe Keranio,Pump station,2017,Steel,200,100,Good,Low,Later,2895394
+S4-AS-0448,Bole,Pump station,2004,Ductile iron,200,71,Good,Medium,Later,2824279
+S4-AS-0449,Addis Ketema,Water main,2003,Steel,400,37,Critical,High,Within 30 days,3147272
+S4-AS-0450,Kirkos,Valve,1992,HDPE,400,27,Critical,High,Within 30 days,6628801
+S4-AS-0451,Arada,Water main,1995,HDPE,200,40,Critical,High,Later,2184914
+S4-AS-0452,Arada,Water main,1996,Ductile iron,150,59,Monitor,Low,Later,4717052
+S4-AS-0453,Gullele,Pressure regulator,2019,Ductile iron,200,74,Good,High,Later,1096804
+S4-AS-0454,Gullele,Reservoir,2016,Ductile iron,100,64,Monitor,Medium,Later,845539
+S4-AS-0455,Gullele,Pressure regulator,2013,Ductile iron,250,81,Good,High,Within 30 days,3999751
+S4-AS-0456,Nifas Silk-Lafto,Water main,2016,Ductile iron,200,71,Good,Medium,Later,3772351
+S4-AS-0457,Nifas Silk-Lafto,Water main,1990,HDPE,150,67,Monitor,Medium,Within 30 days,5466960
+S4-AS-0458,Kolfe Keranio,Reservoir,1998,Ductile iron,100,60,Monitor,Low,Overdue,5255504
+S4-AS-0459,Bole,Valve,2006,HDPE,500,72,Good,Low,Later,2967601
+S4-AS-0460,Bole,Pump station,1994,HDPE,500,31,Critical,Medium,Later,7276725
+S4-AS-0461,Kolfe Keranio,Valve,2000,Ductile iron,150,75,Good,Medium,Within 30 days,6102274
+S4-AS-0462,Akaki Kality,Water main,1997,Concrete,200,65,Monitor,Medium,Later,1485919
+S4-AS-0463,Akaki Kality,Valve,2016,Steel,250,79,Good,Low,Within 30 days,1074872
+S4-AS-0464,Addis Ketema,Water main,2006,Ductile iron,300,74,Good,Low,Overdue,1363422
+S4-AS-0465,Bole,Valve,1988,Concrete,150,35,Critical,Medium,Overdue,430381
+S4-AS-0466,Akaki Kality,Reservoir,2009,Concrete,200,66,Monitor,Low,Later,1539714
+S4-AS-0467,Bole,Water main,1996,HDPE,200,56,Monitor,Medium,Later,5199650
+S4-AS-0468,Bole,Pressure regulator,2009,HDPE,300,59,Monitor,Medium,Overdue,6540243
+S4-AS-0469,Bole,Valve,1997,HDPE,100,61,Monitor,Medium,Within 30 days,4736363
+S4-AS-0470,Kirkos,Valve,2002,HDPE,400,74,Good,High,Within 30 days,5969282
+S4-AS-0471,Kolfe Keranio,Valve,2011,Ductile iron,100,88,Good,Medium,Within 30 days,3394744
+S4-AS-0472,Nifas Silk-Lafto,Water main,2002,Ductile iron,500,56,Monitor,Low,Within 30 days,2241288
+S4-AS-0473,Bole,Valve,2002,HDPE,250,45,Monitor,Medium,Overdue,349503
+S4-AS-0474,Nifas Silk-Lafto,Water main,1988,Ductile iron,200,47,Monitor,High,Later,2839621
+S4-AS-0475,Bole,Water main,1989,Steel,250,46,Monitor,Low,Later,3659604
+S4-AS-0476,Nifas Silk-Lafto,Water main,2025,Steel,250,95,Good,Medium,Overdue,4336952
+S4-AS-0477,Kirkos,Pressure regulator,2006,Ductile iron,250,77,Good,Low,Overdue,1267467
+S4-AS-0478,Gullele,Valve,2023,Ductile iron,100,95,Good,Low,Later,2174205
+S4-AS-0479,Nifas Silk-Lafto,Pressure regulator,2000,Ductile iron,400,67,Monitor,Medium,Later,6089586
+S4-AS-0480,Gullele,Water main,2023,Ductile iron,100,78,Good,Medium,Overdue,6617142
