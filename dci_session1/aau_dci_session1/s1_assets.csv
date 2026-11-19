@@ -1,0 +1,361 @@
+asset_id,zone,asset_type,install_year,diameter_mm,condition_score,status,inspection_date
+AA-0001,Gullele,Pump,1998,450,1,Operational,2026-06-26
+AA-0002,Kirkos,Meter,2012,300,2,Operational,2026-06-03
+AA-0003,Arada,Pump,2008,75,3,Inspection Due,2026-01-30
+AA-0004,Bole,Pump,2019,300,3,Operational,2026-03-09
+AA-0005,Lideta,Meter,1996,300,1,Operational,2026-09-06
+AA-0006,Kirkos,Reservoir,2007,50,3,Operational,2026-06-11
+AA-0007,Lideta,Pipe,1997,200,1,Inspection Due,2026-01-29
+AA-0008,Bole,Pipe,2008,75,1,Operational,2026-09-03
+AA-0009,Bole,Pipe,2004,450,3,Inspection Due,2026-03-26
+AA-0010,Lideta,Pipe,2004,75,5,Inspection Due,2026-01-07
+AA-0011,Arada,Pipe,2012,200,5,Operational,2026-01-26
+AA-0012,Gullele,Pipe,1996,75,1,Operational,2026-03-09
+AA-0013,Gullele,Reservoir,2020,300,3,Operational,2026-02-20
+AA-0014,Gullele,Meter,2024,100,1,Operational,2026-06-15
+AA-0015,Lideta,Pump,2014,300,2,Operational,2026-05-09
+AA-0016,Kirkos,Pump,2003,75,1,Operational,2026-01-27
+AA-0017,Arada,Pump,2019,300,3,Operational,2026-05-04
+AA-0018,Yeka,Pipe,2008,200,4,Operational,2026-03-05
+AA-0019,Gullele,Pipe,2021,75,2,Operational,2026-04-18
+AA-0020,Bole,Reservoir,2021,150,4,Operational,2026-02-25
+AA-0021,Yeka,Pump,2014,450,2,Operational,2026-06-04
+AA-0022,Kirkos,Reservoir,2023,450,3,Under Repair,2026-01-24
+AA-0023,Kirkos,Pipe,2001,450,4,Under Repair,2026-10-27
+AA-0024,Lideta,Meter,2010,150,2,Operational,2026-10-23
+AA-0025,Yeka,Pump,1997,75,3,Operational,2026-01-27
+AA-0026,Lideta,Pipe,1998,100,1,Operational,2026-02-03
+AA-0027,Arada,Meter,2011,200,5,Operational,2026-07-05
+AA-0028,Kirkos,Reservoir,2003,200,5,Inspection Due,2026-05-24
+AA-0029,Yeka,Pipe,2020,300,5,Under Repair,2026-03-10
+AA-0030,Bole,Valve,2022,100,1,Operational,2026-05-18
+AA-0031,Kirkos,Pump,2019,75,4,Operational,2026-05-15
+AA-0032,Kirkos,Reservoir,1997,75,3,Operational,2026-04-10
+AA-0033,Bole,Pump,2007,450,1,Operational,2026-07-22
+AA-0034,Lideta,Meter,2000,75,3,Operational,2026-05-23
+AA-0035,Lideta,Pump,2009,200,5,Operational,2026-10-27
+AA-0036,Lideta,Pump,2007,300,4,Operational,2026-04-10
+AA-0037,Lideta,Meter,2013,450,4,Operational,2026-04-28
+AA-0038,Yeka,Pump,1998,100,4,Operational,2026-02-25
+AA-0039,Bole,Valve,2015,450,4,Under Repair,2026-01-23
+AA-0040,Yeka,Pipe,2014,150,1,Operational,2026-02-03
+AA-0041,Gullele,Pipe,2012,450,2,Inspection Due,2026-03-21
+AA-0042,Gullele,Pump,2012,100,5,Operational,2026-09-26
+AA-0043,Gullele,Pipe,2024,200,3,Operational,2026-03-18
+AA-0044,Bole,Reservoir,1999,300,5,Operational,2026-01-27
+AA-0045,Lideta,Meter,1997,300,4,Operational,2026-03-12
+AA-0046,Gullele,Valve,2008,200,3,Operational,2026-04-25
+AA-0047,Yeka,Pump,2019,50,5,Operational,2026-03-11
+AA-0048,Arada,Reservoir,2016,150,4,Inspection Due,2026-07-19
+AA-0049,Bole,Reservoir,2004,100,1,Operational,2026-08-03
+AA-0050,Kirkos,Valve,2004,450,1,Operational,2026-08-18
+AA-0051,Bole,Valve,2014,50,4,Under Repair,2026-05-13
+AA-0052,Lideta,Pipe,1999,50,2,Operational,2026-02-27
+AA-0053,Bole,Valve,2016,150,2,Operational,2026-05-07
+AA-0054,Arada,Pipe,2012,150,2,Inspection Due,2026-08-17
+AA-0055,Lideta,Valve,2003,450,5,Operational,2026-07-27
+AA-0056,Gullele,Valve,2006,100,2,Inspection Due,2026-06-11
+AA-0057,Arada,Pipe,2016,450,2,Operational,2026-05-10
+AA-0058,Arada,Meter,2011,450,1,Operational,2026-01-23
+AA-0059,Yeka,Pipe,2007,450,5,Operational,2026-08-12
+AA-0060,Lideta,Meter,2009,200,5,Operational,2026-09-16
+AA-0061,Gullele,Valve,2024,300,4,Inspection Due,2026-03-12
+AA-0062,Yeka,Valve,2012,450,1,Under Repair,2026-04-20
+AA-0063,Kirkos,Meter,2006,150,3,Operational,2026-03-03
+AA-0064,Gullele,Valve,2000,300,4,Operational,2026-04-30
+AA-0065,Lideta,Valve,2014,75,1,Operational,2026-02-21
+AA-0066,Arada,Meter,2009,75,5,Operational,2026-01-10
+AA-0067,Gullele,Meter,1996,50,1,Operational,2026-05-06
+AA-0068,Yeka,Valve,2002,75,3,Operational,2026-08-22
+AA-0069,Yeka,Pipe,2000,50,5,Inspection Due,2026-02-20
+AA-0070,Gullele,Meter,2015,150,2,Operational,2026-07-12
+AA-0071,Yeka,Pump,2022,150,4,Operational,2026-02-09
+AA-0072,Lideta,Pump,2006,100,1,Operational,2026-05-22
+AA-0073,Gullele,Pipe,2008,200,2,Operational,2026-01-22
+AA-0074,Bole,Meter,2008,100,5,Inspection Due,2026-08-19
+AA-0075,Kirkos,Pipe,2013,100,1,Operational,2026-09-13
+AA-0076,Gullele,Meter,2016,100,2,Operational,2026-06-04
+AA-0077,Kirkos,Pipe,2023,100,3,Operational,2026-01-05
+AA-0078,Gullele,Pipe,2012,75,4,Inspection Due,2026-03-11
+AA-0079,Gullele,Pump,2006,150,1,Inspection Due,2026-08-04
+AA-0080,Gullele,Pump,2005,200,3,Operational,2026-06-02
+AA-0081,Gullele,Pipe,2012,100,1,Operational,2026-09-30
+AA-0082,Gullele,Meter,2015,200,1,Operational,2026-05-24
+AA-0083,Arada,Pipe,2017,100,2,Operational,2026-10-21
+AA-0084,Kirkos,Pipe,2006,75,3,Operational,2026-05-01
+AA-0085,Yeka,Pipe,2007,150,4,Operational,2026-03-11
+AA-0086,Bole,Meter,2006,300,4,Operational,2026-08-22
+AA-0087,Arada,Valve,1997,150,2,Operational,2026-05-11
+AA-0088,Lideta,Reservoir,2004,200,5,Operational,2026-08-10
+AA-0089,Bole,Pipe,1997,50,5,Under Repair,2026-09-09
+AA-0090,Arada,Pump,2012,100,1,Operational,2026-09-17
+AA-0091,Yeka,Pipe,2022,300,4,Operational,2026-09-28
+AA-0092,Kirkos,Pipe,2010,150,4,Operational,2026-09-06
+AA-0093,Gullele,Pump,2015,450,3,Operational,2026-04-13
+AA-0094,Bole,Pump,2000,200,5,Inspection Due,2026-03-22
+AA-0095,Gullele,Pipe,2015,50,1,Operational,2026-04-24
+AA-0096,Bole,Pipe,2003,300,3,Operational,2026-09-13
+AA-0097,Bole,Reservoir,1999,150,4,Operational,2026-10-12
+AA-0098,Bole,Pipe,1999,150,5,Inspection Due,2026-02-19
+AA-0099,Bole,Pump,2016,200,2,Operational,2026-01-13
+AA-0100,Yeka,Pipe,2003,450,5,Under Repair,2026-08-08
+AA-0101,Gullele,Meter,2007,300,1,Operational,2026-08-25
+AA-0102,Bole,Meter,2008,100,5,Operational,2026-09-24
+AA-0103,Kirkos,Meter,2004,300,5,Under Repair,2026-10-12
+AA-0104,Kirkos,Pump,2011,75,2,Operational,2026-06-24
+AA-0105,Arada,Reservoir,2009,150,5,Operational,2026-10-08
+AA-0106,Lideta,Pipe,2008,75,4,Operational,2026-09-12
+AA-0107,Arada,Pump,2000,200,5,Operational,2026-10-09
+AA-0108,Yeka,Pipe,2022,300,5,Operational,2026-05-01
+AA-0109,Lideta,Pipe,1999,200,5,Operational,2026-04-15
+AA-0110,Gullele,Pump,2002,200,4,Operational,2026-05-01
+AA-0111,Gullele,Pipe,2011,450,2,Operational,2026-01-14
+AA-0112,Gullele,Valve,2011,150,2,Operational,2026-03-16
+AA-0113,Arada,Valve,2015,300,2,Operational,2026-05-25
+AA-0114,Bole,Pipe,2019,150,2,Inspection Due,2026-06-13
+AA-0115,Kirkos,Reservoir,2003,200,5,Under Repair,2026-01-15
+AA-0116,Bole,Pipe,1999,100,1,Operational,2026-08-03
+AA-0117,Lideta,Pipe,2006,300,5,Operational,2026-05-22
+AA-0118,Lideta,Meter,2018,50,1,Operational,2026-04-02
+AA-0119,Bole,Meter,2006,150,5,Operational,2026-10-08
+AA-0120,Kirkos,Meter,2019,300,4,Inspection Due,2026-04-08
+AA-0121,Kirkos,Meter,2020,100,5,Inspection Due,2026-06-27
+AA-0122,Gullele,Pipe,1996,50,4,Operational,2026-10-24
+AA-0123,Gullele,Valve,2012,50,5,Operational,2026-09-15
+AA-0124,Yeka,Pipe,1997,50,3,Inspection Due,2026-07-08
+AA-0125,Arada,Reservoir,2020,50,3,Operational,2026-01-21
+AA-0126,Bole,Reservoir,2024,200,3,Operational,2026-03-01
+AA-0127,Arada,Pump,2018,50,2,Operational,2026-01-09
+AA-0128,Bole,Valve,2021,75,2,Operational,2026-09-21
+AA-0129,Arada,Meter,2006,75,1,Operational,2026-05-30
+AA-0130,Bole,Pipe,2001,300,4,Inspection Due,2026-02-11
+AA-0131,Arada,Pump,2011,75,2,Under Repair,2026-01-14
+AA-0132,Lideta,Pump,2004,100,1,Operational,2026-04-04
+AA-0133,Lideta,Pump,2003,300,2,Operational,2026-10-11
+AA-0134,Yeka,Valve,2013,300,4,Inspection Due,2026-08-15
+AA-0135,Arada,Meter,2008,200,3,Under Repair,2026-06-22
+AA-0136,Bole,Pipe,2007,50,5,Operational,2026-03-10
+AA-0137,Kirkos,Pipe,2013,450,2,Operational,2026-07-30
+AA-0138,Arada,Pipe,2021,100,3,Under Repair,2026-09-11
+AA-0139,Lideta,Pump,2022,200,2,Operational,2026-10-13
+AA-0140,Gullele,Valve,2005,450,2,Operational,2026-07-16
+AA-0141,Gullele,Meter,2018,50,1,Operational,2026-09-28
+AA-0142,Gullele,Meter,2017,200,5,Under Repair,2026-01-21
+AA-0143,Yeka,Meter,2012,75,5,Operational,2026-05-09
+AA-0144,Kirkos,Meter,2007,75,5,Operational,2026-01-17
+AA-0145,Kirkos,Pipe,2000,150,4,Operational,2026-09-13
+AA-0146,Arada,Meter,2010,150,5,Operational,2026-05-21
+AA-0147,Bole,Pipe,2003,100,3,Operational,2026-04-02
+AA-0148,Arada,Valve,2022,200,5,Inspection Due,2026-06-24
+AA-0149,Kirkos,Reservoir,2021,300,3,Operational,2026-04-19
+AA-0150,Yeka,Meter,1996,50,2,Operational,2026-09-27
+AA-0151,Arada,Meter,2000,200,2,Operational,2026-10-15
+AA-0152,Arada,Pipe,2007,100,4,Under Repair,2026-03-07
+AA-0153,Yeka,Pipe,2002,50,4,Under Repair,2026-06-25
+AA-0154,Kirkos,Pump,2020,200,1,Operational,2026-07-14
+AA-0155,Arada,Pipe,2019,50,3,Operational,2026-06-29
+AA-0156,Kirkos,Pipe,1996,75,4,Operational,2026-08-31
+AA-0157,Arada,Pipe,2004,200,3,Operational,2026-08-07
+AA-0158,Bole,Pipe,2023,300,3,Operational,2026-06-09
+AA-0159,Yeka,Pipe,2017,450,4,Operational,2026-03-06
+AA-0160,Yeka,Pipe,2005,50,3,Operational,2026-01-18
+AA-0161,Bole,Meter,2011,50,3,Under Repair,2026-01-08
+AA-0162,Arada,Pipe,2020,450,1,Operational,2026-03-18
+AA-0163,Gullele,Pump,2001,150,5,Operational,2026-02-13
+AA-0164,Kirkos,Pipe,2000,50,4,Operational,2026-09-25
+AA-0165,Lideta,Reservoir,2009,50,3,Inspection Due,2026-08-05
+AA-0166,Lideta,Pipe,1998,300,4,Inspection Due,2026-10-02
+AA-0167,Kirkos,Pipe,2007,75,5,Operational,2026-04-02
+AA-0168,Yeka,Pipe,2004,100,4,Operational,2026-06-20
+AA-0169,Lideta,Meter,2009,300,5,Under Repair,2026-03-27
+AA-0170,Lideta,Pipe,2022,200,4,Operational,2026-04-18
+AA-0171,Lideta,Meter,2008,300,1,Operational,2026-06-08
+AA-0172,Gullele,Pump,2008,150,2,Inspection Due,2026-08-27
+AA-0173,Arada,Pipe,2011,300,1,Operational,2026-02-07
+AA-0174,Bole,Pipe,2019,450,2,Operational,2026-01-30
+AA-0175,Bole,Pump,2024,100,1,Operational,2026-03-20
+AA-0176,Bole,Valve,2002,300,2,Operational,2026-02-19
+AA-0177,Kirkos,Pipe,1999,300,1,Operational,2026-08-19
+AA-0178,Lideta,Pipe,2003,50,5,Operational,2026-04-07
+AA-0179,Gullele,Pipe,2017,50,4,Operational,2026-03-15
+AA-0180,Arada,Pipe,2006,100,5,Under Repair,2026-07-28
+AA-0181,Arada,Pump,2020,450,2,Operational,2026-08-11
+AA-0182,Bole,Pipe,2012,50,5,Under Repair,2026-06-12
+AA-0183,Yeka,Pipe,2023,50,2,Operational,2026-02-23
+AA-0184,Lideta,Valve,2002,75,3,Under Repair,2026-08-15
+AA-0185,Bole,Pipe,2017,50,2,Inspection Due,2026-02-09
+AA-0186,Kirkos,Meter,2018,300,2,Operational,2026-09-28
+AA-0187,Kirkos,Valve,2013,100,5,Operational,2026-05-14
+AA-0188,Kirkos,Pipe,2024,450,1,Operational,2026-07-25
+AA-0189,Gullele,Valve,2000,200,3,Under Repair,2026-01-05
+AA-0190,Bole,Reservoir,2001,300,4,Operational,2026-02-27
+AA-0191,Gullele,Meter,2016,200,1,Operational,2026-04-30
+AA-0192,Arada,Pump,2014,100,2,Under Repair,2026-01-10
+AA-0193,Kirkos,Pump,2010,200,5,Operational,2026-10-17
+AA-0194,Lideta,Valve,2023,300,2,Operational,2026-05-01
+AA-0195,Yeka,Pipe,2012,50,5,Inspection Due,2026-03-09
+AA-0196,Lideta,Pump,2010,200,4,Operational,2026-09-08
+AA-0197,Arada,Meter,1998,200,1,Operational,2026-08-25
+AA-0198,Lideta,Meter,2009,450,1,Operational,2026-04-10
+AA-0199,Bole,Valve,2004,300,2,Operational,2026-06-07
+AA-0200,Bole,Reservoir,2023,450,1,Operational,2026-06-01
+AA-0201,Bole,Pump,2006,50,5,Operational,2026-08-05
+AA-0202,Kirkos,Pipe,2003,450,2,Operational,2026-08-19
+AA-0203,Arada,Meter,2020,300,5,Under Repair,2026-10-09
+AA-0204,Kirkos,Reservoir,2024,100,5,Operational,2026-10-25
+AA-0205,Gullele,Meter,2011,150,1,Operational,2026-04-07
+AA-0206,Gullele,Reservoir,2017,450,2,Operational,2026-09-08
+AA-0207,Kirkos,Pipe,2001,150,5,Under Repair,2026-08-16
+AA-0208,Yeka,Meter,2006,50,4,Operational,2026-02-22
+AA-0209,Arada,Pipe,2023,450,5,Inspection Due,2026-08-01
+AA-0210,Lideta,Pipe,2024,300,4,Operational,2026-10-01
+AA-0211,Lideta,Reservoir,2003,300,2,Operational,2026-08-28
+AA-0212,Yeka,Pump,2003,75,4,Operational,2026-03-17
+AA-0213,Lideta,Valve,1996,300,5,Under Repair,2026-05-11
+AA-0214,Gullele,Meter,2020,100,2,Inspection Due,2026-01-02
+AA-0215,Yeka,Pump,2019,50,3,Operational,2026-04-22
+AA-0216,Lideta,Pipe,2020,300,5,Operational,2026-08-28
+AA-0217,Yeka,Meter,2008,50,2,Operational,2026-08-02
+AA-0218,Bole,Meter,2000,50,2,Operational,2026-05-29
+AA-0219,Bole,Pipe,2000,450,3,Operational,2026-10-16
+AA-0220,Kirkos,Pipe,1998,50,5,Operational,2026-08-13
+AA-0221,Arada,Meter,2024,200,3,Operational,2026-01-29
+AA-0222,Arada,Valve,2003,200,3,Operational,2026-07-28
+AA-0223,Gullele,Pipe,2000,150,3,Operational,2026-05-08
+AA-0224,Yeka,Valve,2023,50,4,Under Repair,2026-01-10
+AA-0225,Lideta,Pipe,2008,100,5,Operational,2026-10-04
+AA-0226,Lideta,Valve,2022,200,3,Operational,2026-10-23
+AA-0227,Arada,Pipe,2014,50,1,Operational,2026-05-21
+AA-0228,Kirkos,Pipe,2008,450,4,Inspection Due,2026-07-04
+AA-0229,Lideta,Pump,2003,100,2,Operational,2026-09-14
+AA-0230,Yeka,Valve,2020,150,5,Inspection Due,2026-07-14
+AA-0231,Lideta,Reservoir,2023,300,5,Operational,2026-07-05
+AA-0232,Kirkos,Meter,2005,50,4,Operational,2026-05-22
+AA-0233,Gullele,Valve,2014,150,1,Inspection Due,2026-08-18
+AA-0234,Bole,Pipe,1998,150,5,Operational,2026-06-03
+AA-0235,Kirkos,Valve,2010,150,1,Operational,2026-10-15
+AA-0236,Gullele,Pipe,1996,50,2,Operational,2026-07-01
+AA-0237,Gullele,Valve,2024,300,5,Operational,2026-03-01
+AA-0238,Arada,Valve,2022,300,4,Under Repair,2026-06-25
+AA-0239,Yeka,Pipe,2022,100,5,Inspection Due,2026-04-05
+AA-0240,Gullele,Pipe,2001,150,4,Operational,2026-04-19
+AA-0241,Lideta,Meter,2010,50,5,Operational,2026-09-24
+AA-0242,Gullele,Pump,2016,300,1,Under Repair,2026-09-27
+AA-0243,Gullele,Pipe,2003,100,3,Operational,2026-10-14
+AA-0244,Gullele,Pipe,2016,50,3,Operational,2026-05-14
+AA-0245,Yeka,Valve,2004,150,3,Operational,2026-04-26
+AA-0246,Gullele,Pipe,2003,200,3,Operational,2026-08-28
+AA-0247,Arada,Valve,2021,450,1,Operational,2026-02-14
+AA-0248,Lideta,Meter,2002,450,2,Inspection Due,2026-03-25
+AA-0249,Bole,Pipe,2011,300,2,Operational,2026-01-16
+AA-0250,Yeka,Meter,1997,100,4,Operational,2026-09-08
+AA-0251,Gullele,Pipe,2012,450,2,Operational,2026-01-20
+AA-0252,Yeka,Meter,2007,450,2,Under Repair,2026-06-12
+AA-0253,Lideta,Pump,2012,200,3,Inspection Due,2026-05-27
+AA-0254,Yeka,Valve,2009,100,4,Operational,2026-08-28
+AA-0255,Yeka,Pipe,2019,150,3,Operational,2026-07-17
+AA-0256,Bole,Valve,2018,100,5,Inspection Due,2026-08-20
+AA-0257,Lideta,Valve,2001,150,5,Operational,2026-06-14
+AA-0258,Kirkos,Reservoir,2013,150,2,Operational,2026-09-02
+AA-0259,Arada,Meter,1999,300,5,Under Repair,2026-09-15
+AA-0260,Lideta,Pipe,2021,75,2,Under Repair,2026-03-02
+AA-0261,Bole,Reservoir,2009,200,3,Operational,2026-02-11
+AA-0262,Kirkos,Valve,2006,75,3,Operational,2026-07-06
+AA-0263,Yeka,Pump,2003,75,2,Operational,2026-02-15
+AA-0264,Lideta,Pipe,2017,300,5,Operational,2026-08-28
+AA-0265,Bole,Pipe,2017,200,5,Operational,2026-02-17
+AA-0266,Yeka,Pipe,1999,50,4,Operational,2026-01-01
+AA-0267,Arada,Valve,1999,200,1,Operational,2026-03-27
+AA-0268,Bole,Pipe,2022,75,1,Operational,2026-04-08
+AA-0269,Arada,Reservoir,2020,50,5,Operational,2026-05-02
+AA-0270,Bole,Valve,2005,150,4,Under Repair,2026-02-05
+AA-0271,Yeka,Valve,2007,100,4,Under Repair,2026-04-21
+AA-0272,Lideta,Meter,2004,100,5,Under Repair,2026-07-09
+AA-0273,Kirkos,Pipe,2017,200,2,Operational,2026-09-28
+AA-0274,Lideta,Pump,2023,300,2,Operational,2026-04-07
+AA-0275,Bole,Valve,2005,75,5,Under Repair,2026-09-29
+AA-0276,Arada,Valve,2014,75,1,Operational,2026-03-22
+AA-0277,Yeka,Reservoir,2014,50,2,Operational,2026-09-09
+AA-0278,Lideta,Meter,2022,450,4,Operational,2026-01-12
+AA-0279,Arada,Pipe,2016,50,1,Operational,2026-03-23
+AA-0280,Kirkos,Meter,1999,50,1,Operational,2026-07-31
+AA-0281,Yeka,Pipe,2023,200,2,Inspection Due,2026-04-23
+AA-0282,Lideta,Pump,2021,50,4,Operational,2026-06-22
+AA-0283,Bole,Pipe,2024,150,1,Operational,2026-05-18
+AA-0284,Gullele,Reservoir,2007,300,1,Under Repair,2026-01-10
+AA-0285,Kirkos,Valve,2005,450,2,Under Repair,2026-06-11
+AA-0286,Gullele,Valve,2022,150,1,Operational,2026-05-02
+AA-0287,Lideta,Valve,2022,450,2,Operational,2026-07-27
+AA-0288,Bole,Meter,2017,450,3,Inspection Due,2026-03-17
+AA-0289,Yeka,Reservoir,2005,50,4,Operational,2026-03-03
+AA-0290,Bole,Pipe,2009,100,3,Operational,2026-08-14
+AA-0291,Bole,Valve,2005,300,1,Operational,2026-09-14
+AA-0292,Arada,Reservoir,2009,50,1,Operational,2026-03-18
+AA-0293,Arada,Meter,2017,150,5,Operational,2026-09-02
+AA-0294,Lideta,Pipe,2019,450,1,Operational,2026-10-18
+AA-0295,Gullele,Valve,2011,50,1,Operational,2026-05-15
+AA-0296,Lideta,Valve,2016,300,3,Operational,2026-09-18
+AA-0297,Arada,Reservoir,2009,100,2,Inspection Due,2026-05-07
+AA-0298,Yeka,Meter,2012,75,2,Operational,2026-06-26
+AA-0299,Yeka,Pipe,2001,75,5,Operational,2026-06-23
+AA-0300,Gullele,Pump,1997,450,5,Operational,2026-08-31
+AA-0301,Kirkos,Pipe,2015,50,5,Operational,2026-08-30
+AA-0302,Gullele,Pipe,2006,450,2,Under Repair,2026-01-08
+AA-0303,Arada,Pump,2003,200,2,Operational,2026-09-21
+AA-0304,Bole,Pump,2010,100,2,Operational,2026-01-02
+AA-0305,Kirkos,Pipe,2024,450,2,Operational,2026-04-23
+AA-0306,Yeka,Pump,2013,50,5,Operational,2026-04-02
+AA-0307,Arada,Reservoir,2021,450,1,Under Repair,2026-02-20
+AA-0308,Lideta,Valve,2009,75,1,Operational,2026-04-01
+AA-0309,Bole,Meter,2001,200,4,Operational,2026-05-11
+AA-0310,Bole,Pipe,2020,50,1,Operational,2026-08-29
+AA-0311,Bole,Pump,2005,75,5,Under Repair,2026-05-10
+AA-0312,Gullele,Pump,2001,200,3,Operational,2026-07-13
+AA-0313,Gullele,Valve,1998,100,1,Under Repair,2026-10-25
+AA-0314,Lideta,Valve,2009,450,4,Operational,2026-04-09
+AA-0315,Arada,Pump,2021,50,4,Under Repair,2026-04-21
+AA-0316,Bole,Valve,2021,150,4,Operational,2026-03-03
+AA-0317,Lideta,Meter,2000,50,4,Inspection Due,2026-09-09
+AA-0318,Arada,Valve,2006,150,3,Operational,2026-03-30
+AA-0319,Lideta,Valve,2015,300,5,Inspection Due,2026-07-17
+AA-0320,Kirkos,Pipe,2020,450,2,Operational,2026-10-20
+AA-0321,Gullele,Pipe,2015,200,3,Operational,2026-04-27
+AA-0322,Gullele,Pump,2006,200,1,Under Repair,2026-05-08
+AA-0323,Gullele,Meter,2010,200,4,Operational,2026-02-11
+AA-0324,Kirkos,Pipe,2003,200,1,Inspection Due,2026-08-17
+AA-0325,Bole,Meter,2016,50,5,Operational,2026-09-07
+AA-0326,Bole,Pipe,2003,150,3,Operational,2026-05-31
+AA-0327,Bole,Pump,2024,75,1,Operational,2026-08-19
+AA-0328,Yeka,Pipe,1999,450,5,Operational,2026-03-29
+AA-0329,Lideta,Meter,2023,150,1,Operational,2026-05-29
+AA-0330,Kirkos,Meter,1999,450,3,Inspection Due,2026-05-02
+AA-0331,Lideta,Pipe,2000,300,5,Operational,2026-09-26
+AA-0332,Arada,Pipe,2021,450,1,Operational,2026-01-12
+AA-0333,Bole,Meter,2001,50,2,Operational,2026-08-30
+AA-0334,Arada,Valve,2017,50,5,Operational,2026-07-25
+AA-0335,Arada,Valve,2009,300,4,Operational,2026-01-20
+AA-0336,Arada,Pipe,2022,50,3,Operational,2026-07-27
+AA-0337,Bole,Pipe,2022,100,4,Operational,2026-05-25
+AA-0338,Bole,Pipe,2013,150,3,Operational,2026-01-28
+AA-0339,Arada,Valve,1996,450,4,Operational,2026-08-07
+AA-0340,Lideta,Valve,2013,200,4,Inspection Due,2026-01-29
+AA-0341,Gullele,Valve,2013,75,4,Operational,2026-01-14
+AA-0342,Arada,Pump,2012,450,2,Operational,2026-03-21
+AA-0343,Kirkos,Pump,2007,150,3,Operational,2026-03-24
+AA-0344,Kirkos,Reservoir,2017,150,3,Operational,2026-09-10
+AA-0345,Arada,Pump,2003,200,2,Under Repair,2026-08-18
+AA-0346,Kirkos,Meter,2024,200,3,Operational,2026-08-15
+AA-0347,Lideta,Pump,1999,300,4,Operational,2026-02-12
+AA-0348,Kirkos,Pipe,2019,450,1,Operational,2026-02-12
+AA-0349,Arada,Meter,2010,450,1,Inspection Due,2026-02-09
+AA-0350,Lideta,Pump,2004,450,3,Operational,2026-07-16
+AA-0351,Yeka,Valve,2006,75,4,Operational,2026-02-21
+AA-0352,Gullele,Pump,2002,450,5,Operational,2026-07-06
+AA-0353,Bole,Reservoir,2009,200,2,Under Repair,2026-01-01
+AA-0354,Gullele,Pipe,2019,100,2,Operational,2026-10-12
+AA-0355,Bole,Pipe,2014,100,1,Operational,2026-08-19
+AA-0356,Arada,Valve,2008,150,2,Operational,2026-09-14
+AA-0357,Arada,Reservoir,2011,450,1,Operational,2026-08-21
+AA-0358,Kirkos,Pipe,1998,450,5,Operational,2026-02-23
+AA-0359,Yeka,Pipe,2008,50,4,Operational,2026-06-13
+AA-0360,Arada,Valve,2009,100,4,Operational,2026-08-11
