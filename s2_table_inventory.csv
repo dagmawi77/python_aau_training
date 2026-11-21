@@ -1,0 +1,12 @@
+table_name,row_count
+assets,48
+bills,360
+customers,120
+meter_readings,360
+meters,120
+payments,300
+pressure_logs,210
+service_requests,140
+technicians,18
+work_orders,84
+zones,6
